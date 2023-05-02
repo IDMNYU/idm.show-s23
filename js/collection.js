@@ -1,3819 +1,5213 @@
 let projectCollection = {
   projects: [
     {
-      Timestamp: "4/12/2022 15:41:30",
-      "Email Address": "Sia Chang",
-      "Full Name": "Sia Chang",
-      "Net ID": "xc2028",
+      Timestamp: "4/28/2023 14:24:47",
+      "Email Address": "asl8498@nyu.edu",
+      "Full Name": "Aakruti lunia",
+      "Name of Advisor": "Benedetta piantella",
+      "Net ID": "asl8498",
+      "Project title": "Sustainable Web Design",
       "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Personal NFT Hub",
       "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "Online NFT community for artists.",
-      "Discussion Groups": 1,
-      "Equipment List": "Full computers for single-use Figma mock-ups",
-      "What equipment can you provide?": "Macboob",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Standard screen sizes",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "I created this platform to help people especially artists who are interested in participating in the NFT community but don't necessarily have the background knowledge or resources to learn and connect with others. It contains free educational resources, as well as tools for discovering trending projects and artists, and managing NFT projects.",
-      "Main Image": "main.jpg",
+        "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.aakrutilunia.com/",
+      "Project link": "",
+      "Main Image": "",
       "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.siachang.com/",
-      "Project link":
-        "https://www.figma.com/proto/G8wr0gfATEzRdP4Wo5mcyu/Personal-NFT-Hub?node-id=107%3A4611&scaling=min-zoom&page-id=106%3A3762&starting-point-node-id=107%3A4611",
-      "Theme and keywords": "NFT, Artists, Online Community",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/19/2022 17:48:22",
-      "Email Address": "Joanna Molloy",
-      "Full Name": "Joanna Molloy",
-      "Net ID": "JM2679",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "Gameplay vs. Text:  Which is Best Way to Learn About Climate Change?",
-      "What kind of form is the work (website, game, vr, etc)": "Card Game",
-      "Short project description (one sentence - 500 characters)":
-        "By studying one group of participants who play a Climate-Change-themed card game, and studying a second group of participants who read an article I wrote containing the same Climate-change facts, I hope to determine whether one form of media is more effective than the other in learning about Climate Change.  I am studying the participants through observation, interviews, and compiling the data on surveys they have filled out.",
-      "Discussion Groups": 2,
-      "Equipment List":
-        'Ideally, I would like equipment which you recommend as the best way to show a video of some of the participants playing the game, which currently has the title "Climate Change Rearrange.',
-      "What equipment can you provide?":
-        "I can provide a laptop, or thumb drives, or perhaps a CD, as well as paper copies of the card game if visitors would like to play it at the table.",
-      "What equipment do you need to borrow?":
-        "I would like to borrow whatever equipment you feel is best to show the aforementioned video.",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "The size of a video screen.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager":
-        "I guess I have to have a table and folding chairs, if folks would like to play the game.",
-      "Profile photo":
-        "https://drive.google.com/open?id=11hx85rYzgN5o11td3-OKYI3wZkeHfWQR",
-      "Social links": "https://www.linkedin.com/in/joanna-molloy-3298a432/",
-      "Long Description of your work (4-6 sentences).":
-        "Gameplay as a method of education has long been studied; indeed, NYU even has a Games for Learning Department.  Gameplay has begun to be studied as it relates to students learning about the environment.  My thesis project compares the absorption and retention of facts related to Climate Change by studying participants who read to an article on the subject and comparing them to another group of participants who are exposed to the subject via playing cards, through images and captions.  The facts are exactly the same because I took care to do so as I wrote the article, as suggested by my thesis teacher Prof. Nathanson, and created the playing card game prototype, again, suggested by Prof. Nathanson, thereby creating a more standardized comparison of the two media.  The game prototype, which is currently called Climate Change Rearrange, has undergone several iterations as the cards were tested, and the players' critiques, as well as faculty and fellow student suggestions, were incorporated, particularly in the area play itself.  The game had to be FUN!",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)": "to come",
-      "Link to your personal portfolio": "http://joannamolloy.com",
-      "Project link": "http://joannamolloy.com",
-      "Theme and keywords":
-        "Climate Change, Games for Learning,  Environmental Education",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "A screen to display my website",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/16/2022 22:08:46",
-      "Email Address": "Jessica Guo",
-      "Full Name": "Jiangying Guo",
-      "Net ID": "jg6477",
+      Timestamp: "3/10/2023 21:35:27",
+      "Email Address": "ask9193@nyu.edu",
+      "Full Name": "Ainur Kalimoldayeva",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "ask9193",
+      "Project title": "Children's book",
       "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Could Isolation Be Beautiful and Meaningful?",
       "What kind of form is the work (website, game, vr, etc)":
-        "Art Installation",
+        "Printed hard copy book",
+      'If you selected "Other", please write your description below:':
+        "Printed hard copy book",
+      "Short project description (one sentence - 500 characters)":
+        'Step into the magical world of Kazakh culture with "The Steppe Tales" by Ainur Kalimoldayeva. This beautifully written speculative fiction book is a captivating coming-of-age tale that takes readers on a journey through the vast steppes of Kazakhstan. Through the eyes of a young boy and an old man, readers will be enchanted by the rich history and traditions of the Kazakh people.  As the main characters traverse through the Kazakh landscape, they encounter various evil creatures and allies, introducing young readers to Kazakh heroes and heroines, their nomadic lifestyle, values, and folklore. The book addresses social and cultural issues in an entertaining and informative way, fostering cultural understanding and appreciation.',
+      "Long Description of your work (4-6 sentences).":
+        'Step into the magical world of Kazakh culture with "The Steppe Tales" by Ainur Kalimoldayeva. This beautifully written speculative fiction book is a captivating coming-of-age tale that takes readers on a journey through the vast steppes of Kazakhstan. Through the eyes of a young boy and an old man, readers will be enchanted by the rich history and traditions of the Kazakh people.\n\nAs the main characters traverse through the Kazakh landscape, they encounter various evil creatures and allies, introducing young readers to Kazakh heroes and heroines, their nomadic lifestyle, values, and folklore. The book addresses social and cultural issues in an entertaining and informative way, fostering cultural understanding and appreciation.\n\n"The Steppe Tales" is not only a children\'s book, but also a powerful exploration of social and cultural issues. The book seamlessly weaves together elements of myths and speculative fiction, creating a unique and captivating world that will engage readers of all ages. With vivid descriptions and engaging stories, this book is a must-read for anyone who loves great storytelling and wants to explore the beauty of Kazakh culture and traditional Kazakh art forms.',
+      "Link to your personal portfolio": "www.ainuradil.com",
+      "Project link":
+        "https://wp.nyu.edu/tandonschoolofengineering-ainur/2023/03/11/childrens-book/",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "children's book, Kazakhs, Identity, Culture, folklore, myths, children's content",
+      Twitter: "",
+      Linkedin: "",
+      Instagram:
+        "https://instagram.com/ainuradil?igshid=YmMyMTA2M2Y=  https://instagram.com/by_ainuradil?igshid=YmMyMTA2M2Y=",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "hard copy of standard book",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "wall, where I can put all my collages and a hight table where I can put some hard copies of my book.",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/6/2023 1:55:01",
+      "Email Address": "ash9810@nyu.edu",
+      "Full Name": "Ajinkya Hukerikar",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "ash9810",
+      "Project title": "Lucky Armstrong (VR Film - Trailer)",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I'm investigating the syntax of storytelling and VR filmmaking by developing a trailer for a VR film script that I hope to turn into a short-length movie in the future. The trailer is a 3-minute sequence of 360-degree immersive experiences with a compelling story, dynamic visuals, and audioscape. It follows the narrative of an astronaut stranded on a dangerous exoplanet who, with only 7 percent oxygen, must find a way to return home. My work is part of a larger movement of filmmakers who are exploring how to tell stories in 360 VR. It is an exciting new approach to filmmaking that allows viewers to literally be immersed in a story while exploring the complexities of the characters. By using this new medium, I hope to give viewers a more intimate and immersive experience with storytelling.",
+      "Long Description of your work (4-6 sentences).":
+        "While VR appears to be the ideal medium for gaming, filmmakers are beginning to investigate it as a new medium for telling stories. However, the grammar of VR storytelling needs to be developed because the traditional grammar of filmmaking is not entirely applicable to VR. I'll be writing the script, creating the storyboards, and producing a story-reel for the virtual reality short. After that, I'll begin making 3D assets like character models using Blender, outsource 3D models for environments, and finally combine all the assets in Unreal Engine. For character movements and sound, I'll be using motion capture and spatial audio.\n\nStory Inspiration - \nI’ve made innumerable leaps of faith in my life. Be it missing my flight at the last-minute to propose to my wife or quitting engineering to further pursue filmmaking.The most outlandish leap of faith occurred while staying in a treehouse. It was one of those wild forest trips for a week, along with some friends. The only way up or down was a wooden ladder. Warning! Never go over-boozing when sitting on a tree; otherwise, your crazy friend will kick the ladder to the ground. Initially, we all took it lightly, but slowly, it dawned upon us that we had no way to get back to the ground. Thinking “this is not how we die”, we put our heads together, and fairy-tales came to our rescue. Remember rapunzel? We made a rope of clothes and shoelaces to descend. Taking a deep breath, we jumped. Miraculously, the laces held! We were alive and intact. This experience showed me that you can overcome even the most challenging situations by being persistent and determined. I felt compelled to convey this message through my next short film.",
+      "Link to your personal portfolio": "www.ajinkyahukerikar.com",
+      "Project link":
+        "https://ajinkyahukerikar.com/?portfolio-item=lucky-armstrong",
+      "Main Image":
+        "https://drive.google.com/open?id=1dWZ_-yo_EBbpFtkgxUcSFnOn5b9Zaq9b",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "virtual reality, filmmaking, short film, spatial audio, cinematic, animation, film design, 360 degree, storytelling, screenplay, direction, cinematography, sound design, 360 editing, cinematic tansitions, movie",
+      Twitter: "https://twitter.com/AjinkyaHuk",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/mr.hukerikar/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/channel/UCM1_3r-WaH6R_IWTMO7n41A",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Q75iCRoYFQ8L8Rkx4fVy3tVmijnwbzNj",
+      "Equipment List": "Oculus Quest 2",
+      "What equipment can you provide?":
+        "Poster design and other supplemental printouts",
+      "What equipment do you need to borrow?": "Oculus Quest 2",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 19:26:25",
+      "Email Address": "aba440@nyu.edu",
+      "Full Name": "Alejandra Baptista Aguilar",
+      "Name of Advisor": "Kazi",
+      "Net ID": "Aba440",
+      "Project title": "The Extraordinary World Beneath the Surface",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        'Underwater Magical Forest" will submerge the viewer into a 3D environment that toys with their imagination and invites them to rethink the symbiosis of marvelous creatures. #oceaniclife #fantasy #mystery',
+      "Long Description of your work (4-6 sentences).":
+        'Underwater Magical Forest" is an exploration of my art style through the creation of a 3D environment. It is made for those curious of mind, who are enchanted by the world of the extraordinary. This project encompasses a plethora of themes: oceanic life, fantasy, mystery, magic. The viewer will be submerged into an environment that toys with their imagination and invites them to rethink magic.',
+      "Link to your personal portfolio": "https://alejandrabaptista.io",
+      "Project link": "https://alejandrabaptista.io/beneath-the-surface",
+      "Main Image":
+        "https://drive.google.com/open?id=1_7gWEpV0teiOdDMwgehED4bsjajk1q_v",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "oceanic life, 3D modeling, 3D animation, abstract environment",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/alee.creates/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/user195488077",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1kYPOoMUQx3bKfQrfpA4kfIRNiUDn8TEn",
+      "Equipment List":
+        "I would like to have a TV and a speaker set for audio.",
+      "What equipment can you provide?": "I can bring a laptop",
+      "What equipment do you need to borrow?": "I need a tv and a speaker set.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A the phone booth works perfectly.",
+      "Additional notes for the Operations Manager": "no, thank you!",
+    },
+    {
+      Timestamp: "4/6/2023 15:29:28",
+      "Email Address": "ahd331@nyu.edu",
+      "Full Name": "Alexander Hu Duan",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "ahd331",
+      "Project title": "Spirit (A Visual Development Project)",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My visual development project is about an original story for an animated feature film. My project would include things such as character designs, prop and building turnarounds, color scripting, key story moments, and environment designs and paintings. My project would focus on telling a story about culture, identity, and self expression through images and designs.",
+      "Long Description of your work (4-6 sentences).":
+        "I made this project to tell a story about self discovery and finding satisfaction in just living life. I was inspired by movies like Soul, Puss in Boots 2, and books like Alice in Borderland. The way I'm telling this story is designing concept art for this original story as if it was going to be made into a movie. This work is for everyone, as I feel the content can be consumed and relevant to everyone of all ages and backgrounds.",
+      "Link to your personal portfolio": "https://alexduan.squarespace.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1rbdv63yaoEpxCAzVjystX4ScS6FBIgvW",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "character designs, vehicle designs, color scripting, key story moments, environment designs, illustrations",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/sketchstarkid/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "1.5', 3', 1",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=19aW-whGMygojGgHebVb-gYdgaW_RX92E",
+      "Equipment List": "table, wall",
+      "What equipment can you provide?": "laptops, tape",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager":
+        "For my display I'm thinking of having 8 - 10 poster boards that are about 1.5 by 3 feet hung up against a wall space.",
+    },
+    {
+      Timestamp: "4/7/2023 15:39:43",
+      "Email Address": "aty2005@nyu.edu",
+      "Full Name": "Alexander Yang",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "aty2005",
+      "Project title": "the great understanding.",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Video Installation",
+      'If you selected "Other", please write your description below:':
+        "A projection-mapped immersive video presentation",
+      "Short project description (one sentence - 500 characters)":
+        "Climate change, the biodiversity crisis are symptoms of something. We are missing something crucial about our world that solar panels can’t fix. If you watch, listen, learn closely, the answers reveal themselves to you.   This installation will attempt to immerse you in three episodes. Each exploring a certain style of being. Each moment leveraging light, sound, and peer-reviewed research.",
+      "Long Description of your work (4-6 sentences).":
+        "We systematically underestimate the natural world. We measure their intelligence based on ours, measure their lives against ours, where it is inappropriate. We ask if we are alone in the universe— even when we are surrounded by languages, civilizations, and love that we do not yet understand.",
+      "Link to your personal portfolio": "https://alexyang.us/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1qPftFkyw12yCNI84MPP8_tA3DxcBIbu3",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "immersive design, anthropocentrism, video art, experimental cinema, projection mapping, generative graphics, sound art, environmentalism, non-human consciousness",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/alextyang/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Adaptable to the space, preferably with a horizontal projection surface of at least 5' x 5'",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "2 Projectors + Power&HDMI Cords, Speaker System (Preferably powerful), Laptop+adapters",
+      "What equipment can you provide?": "1 of the projectors, laptop+adapters",
+      "What equipment do you need to borrow?":
+        "1 projector, and large speakers if possible",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The work would require lower light & is audio intensive",
+      "Additional notes for the Operations Manager":
+        "I could give a few one-off screenings of the work, in a space like the side ballroom, lecture hall, or conference room.\n\nI could not resubmit my images but here are my final images:\n(Main) https://drive.google.com/file/d/1vyydNwzMX-lRfrKmsJNTJvPKpPJM_rSd/view?usp=share_link \n(1) https://drive.google.com/file/d/1fpXR_Spn8frSeeq7ZJM3vSr0MykxB8X9/view?usp=share_link\n(2) https://drive.google.com/file/d/1eaE8Nnom23E3nIdi37GXxpX0gir2G4K6/view?usp=sharing",
+    },
+    {
+      Timestamp: "4/4/2023 22:03:22",
+      "Email Address": "adw462@nyu.edu",
+      "Full Name": "Alexis Williams",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "adw463",
+      "Project title": "Softwear by Lex",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Wearables",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "alexisdenisew.com",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1vW6YzzdquO95HxNvyWOb7f5Qx6qp8fQe",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1jp8Tmm4K5dLNPI7rDn5DbdPi4f-7CV9N",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://instagram.com/softwearbylex?igshid=YmMyMTA2M2Y=",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Monitor, laptop and installation materials.",
+      "What equipment can you provide?": "Laptop and installation materials.",
+      "What equipment do you need to borrow?": "Monitor",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 3:23:39",
+      "Email Address": "aaa1150@nyu.edu",
+      "Full Name": "Ama Achampong",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "aaa1150",
+      "Project title": "Travel with Ease",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Application (Mobile App, ideally), but worse case scenario website(Figma)",
+      'If you selected "Other", please write your description below:':
+        "My mobile app will be a redesign of the NYU Shuttle app or at least a better solutions to the methods students go about interacting with the NYU shuttle service. Ideally, it would be an app that can be accessed through an QR Code or Apple/Google Play store, but it  can also be seen and demonstrated through Figma.",
+      "Short project description (one sentence - 500 characters)":
+        "My decision to redesign the NYU shuttle app arose from a twofold inspiration. Firstly, the shared frustration among students with the existing service, notably in terms of tracking and staying up-to-date with shuttle times. Secondly, my aspiration to become a UX/UI designer, led me to see this project as an opportunity to refine my skills and delve into the field. Through my redesign, viewers will see a cleaner and more intuitive interface, designed to be easy to navigate. In a larger context, this project serves as an example of how design can solve practical issues faced by communities, such as students navigating public transportation systems. Ultimately, this redesign aims to benefit current and future NYU students, by providing them with a seamless travel experience.",
+      "Long Description of your work (4-6 sentences).":
+        "The reason behind my decision to redesign the NYU shuttle app was twofold. Firstly, there was mutual frustration among students regarding the NYU shuttle service, particularly in regards to tracking and being aware of shuttle times. Secondly, I desired to become a UX/UI designer, and I thought this project would be an excellent way to practice and hone the skills necessary to work in the field. Thus, this redesign is for current and future NYU students, in the hope that they can travel with ease.",
+      "Link to your personal portfolio":
+        "https://aatlove01.github.io/AmaPortfolio/",
+      "Project link":
+        "https://aatlove01.github.io/AmaPortfolio/travelwithease.html",
+      "Main Image":
+        "https://drive.google.com/open?id=1yeMLrMJuf4_Kv_0eXPj3B9N7sHnC77kV",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1vDbIQwojpqj3Nw3P94I_Nt7gwzO3-Ws5",
+      "Thematic Keywords": "User Experience, User Interface, Redesign",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1A0Wgiv-HkJWVPb9qVdOH9sOZPfdJ1Oet",
+      "Equipment List": "A laptop and charger",
+      "What equipment can you provide?": "Laptop and charger",
+      "What equipment do you need to borrow?":
+        "Laptop and charger, if applicable, to make more people be able to look at the work.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "3/2/2023 17:50:12",
+      "Email Address": "ac8576@nyu.edu",
+      "Full Name": "Aman Chopra",
+      "Name of Advisor": "Scott Fitzgerald",
+      "Net ID": "ac8576",
+      "Project title": "Ai & Stand-up Comedy",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Live Performance Test",
+      'If you selected "Other", please write your description below:':
+        "For purposes of the showcase I will be performing short test skits with audience members to show some elements of AI and comedy. Otherwise I will be presenting the possibilities of it if the space isn't available",
+      "Short project description (one sentence - 500 characters)":
+        "Comedy is a form of entertainment that most enjoy. It is here to stay for the long run. The mediums of comedy have evolved overtime. With the advent of AI a lot of questions have come into the world of creativity and this thesis is investigating where and how AI can find its space in the world of comedy",
+      "Long Description of your work (4-6 sentences).":
+        "This project came out of my desire to experiment with stand up comedy and to go on stage to perform. It was the next challenge in my endeavor to become the most authentic version of myself. From an engineering perspective, AI was coming into the picture and posing a threat and takeover to industries. I am curious to understand where it finds it place in the world of comedy and how AI can be used in a comedic sense since it doesn't have much testing conducted in a live performance setting. This project attempts to open the door to that conversation",
+      "Link to your personal portfolio":
+        "https://drive.google.com/drive/u/1/folders/1Z30G_44XhuMQIEDofRVx0I3kUunY7do5",
+      "Project link":
+        "Everything will be updated in the google drive folder up. Right now I have nothing to show",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Comedy, Artificial intelligence, AI, Live performance, Entertainment productions,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/A only the big tv probably",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "Projector, large television, microphone. Perhaps even the vertical system",
+      "What equipment can you provide?": "my computer",
+      "What equipment do you need to borrow?": "same as listed above",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "some lighting, I will be talking so I might disturb people around me since it will be a performance",
+      "Additional notes for the Operations Manager": "nothing",
+    },
+    {
+      Timestamp: "4/28/2023 13:56:32",
+      "Email Address": "ag8526@nyu.edu",
+      "Full Name": "Anastasia Green",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "ag8526",
+      "Project title": "Something’s Coming",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Something’s Coming is an interactive virtual reality art game, built for the Oculus Quest 2. It is meant to be a satirical commentary on toxic workplace culture, and explores the absurdity of having to go to work during “unprecedented times”. The player, is placed into a virtual 3D office environment, and has to complete simple office tasks and talk to NPCs, as a large timer ticks down in the background, counting down to a mysterious ending.",
+      "Long Description of your work (4-6 sentences).":
+        "I was inspired to create this project after having to apply for a new job, and realized what an absolute nightmare that is. There is sort of a dark and existentialist humor in realizing the fact that we still have to work while the world is ending outside, and will continue to have to do so until we are physically unable to. I built the project in Unity, and hope to convey some kind of message that we should all try our best to care about injustices in the world that do not affect us directly, because one day they will.",
+      "Link to your personal portfolio": "anastasiadgreen.com/",
+      "Project link": "https://www.anastasiadgreen.com/somethingscoming",
+      "Main Image":
+        "https://drive.google.com/open?id=1_Uw0oVULYcTLW4bZnP15n_FqYB_d_NP7",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1nUaojQ1nUx9Yd-OOL4WGgOwMQoU7FX1c",
+      "Thematic Keywords":
+        "Virtual Reality, Mixed Reality, Oculus Quest 2, Game Design, VR Design",
+      Twitter: "twitter.com/galaxysnapback",
+      Linkedin: "",
+      Instagram: "instagram.com/anadaren1/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/@anagreen3416",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "4ft x 4ft minimum of floor space to us an Oculus Quest 2",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1sJfralTFO9xk0dDWW6WLY1KYew5fqa4e",
+      "Equipment List": "Oculus Quest 2 Headset",
+      "What equipment can you provide?": "Mac Laptop",
+      "What equipment do you need to borrow?": "Oculus Quest 2 Headset",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I'm not sure if this counts, but I would need the Quest 2 a little bit before the showcase begins (about an hour at least) to load the .apk file onto it beforehand.",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "4/28/2023 11:23:34",
+      "Email Address": "aaw351@nyu.edu",
+      "Full Name": "Andrew Win",
+      "Name of Advisor": "Magdalena Fuentes",
+      "Net ID": "Aaw351",
+      "Project title": "Neela",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Audio Based VR game",
+      'If you selected "Other", please write your description below:':
+        "Audio Based VR game",
+      "Short project description (one sentence - 500 characters)":
+        'Neela is a VR game retelling the story of Little Red Riding Hood with elements of horror and suspense. Neela, while being a VR game, does not have any visuals, instead utilizing only spatial audio and haptic feedback to create an immersive, "virtual reality" experience. It aims to challenge the requirements of virtual reality and determine if a medium can still fulfill its intended use without its mandatory prerequisites.',
+      "Long Description of your work (4-6 sentences).":
+        "As a Game Designer, I've always liked to experiment with unusual game mechanics, and challenging the medium I create games in. For the thesis, I looked to VR and decided to create a game that did not have any visuals. Could VR still be immersive, when all players will see is darkness? Neela is for gamers who want to experience a unique game in VR.",
+      "Link to your personal portfolio": "https://www.accessednull.com/",
+      "Project link": "TBD",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "virtual-reality, spatial audio, narrative game",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/accessednull/",
+      "Link to any video content (Vimeo / YouTube)": "TBD",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "5ft x 5ft square for VR safe space",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "VR headset, controllers, VR Mask,",
+      "What equipment can you provide?": "VR Mask",
+      "What equipment do you need to borrow?": "VR Headset & controllers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Quiet place as my VR project is entirely audio based. Also a dark area is preferred.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 21:38:04",
+      "Email Address": "az1938@nyu.edu",
+      "Full Name": "Angela Zhang",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "az1938",
+      "Project title": "Gift of Time",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "UI/UX",
+      'If you selected "Other", please write your description below:': "UI/UX",
+      "Short project description (one sentence - 500 characters)":
+        "The project, in the form of a mobile app, aims to challenge conventional ideas about parenting by advocating for equal roles within families. Through using the app, users can get suggestions for activities suitable for their children's age, keep track of their children's growth, form a routine of spending time with their children, and access articles that offer parental advice.",
+      "Long Description of your work (4-6 sentences).":
+        "This project aims to address the observed imbalance in child-rearing responsibilities between mothers and fathers. Our goal is to motivate fathers to be more engaged in taking care of their children. To accomplish this, we provide users with tips on how they can interact with their children, a timeline that records their children’s growth, and articles that can adjust their original perspectives on parenting. Eventually, users will become less reliant on this application and develop a more holistic parenting style.",
+      "Link to your personal portfolio":
+        "https://az1938.wixsite.com/angelaportfolio",
+      "Project link": "https://az1938.wixsite.com/angelaportfolio/gift-of-time",
+      "Main Image":
+        "https://drive.google.com/open?id=1X7knKaf-uwOqqd1tlxcLjnI6G_mF6Ffm",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Child-rearing, UI/UX Design, Parental Guidance",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1tzxR8-CEVLtuxZcS3epCCSLcWBBOPSyI",
+      "Equipment List": "Laptops",
+      "What equipment can you provide?": "Laptops, iPads",
+      "What equipment do you need to borrow?": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "3/2/2023 23:36:27",
+      "Email Address": "ah5991@nyu.edu",
+      "Full Name": "Angelica Honrade",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "ah5991",
+      "Project title":
+        "Facilitating Conversation Amongst Intergenerational Filipino American Household",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Mobile App",
+      'If you selected "Other", please write your description below:':
+        "Mobile App",
+      "Short project description (one sentence - 500 characters)":
+        "Angelica Honrade is a graduate student here at IDM. Prior to IDM, she completed her undergraduate degree in Health and Human Sciences. Her thesis project was influenced by her experience of growing up as an Asian American and the friction with connecting with her immigrant parents. Through research, she found that many others in the community related to her experience of struggling to talk about conversations in mental health because of intergenerational cultural dissonance, feeling indebted to their parents, effects of colonial mentality, and saving face. This thesis project is a digital app that primarily focuses on being a stepping stone to facilitate conversations in intergenerational households. The secondary goal is the revitalization of culture through the sharing of language.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "update later",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/20/2023 23:26:34",
+      "Email Address": "apv282@nyu.edu",
+      "Full Name": "Anna Vandehey",
+      "Name of Advisor": "Nathanson",
+      "Net ID": "apv282",
+      "Project title": "Chakra’s Dolls",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)": "",
-      "Discussion Groups": 3,
-      "Equipment List":
-        "laptop, projector, speaker, scaffoldings/self constructed support & frame, fabric, arduino, sensors, wires, power supply",
-      "What equipment can you provide?":
-        "laptop, constructed support & frame, fabric, arduino, sensors, wires, power supply",
-      "What equipment do you need to borrow?":
-        "projectors (ideally need 2), speaker (need 1), scaffoldings (multiples), stool/small table to place a projector",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Length: 23 feet x Width: 5 feet x 8.5 feet",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "preferably low light (because there is projection) and relatively quiet space (for sound))",
-      "Additional notes for the Gallery Manager":
-        "This project will be first assembled at Navy Yard, if the IDM gallery space doesn't have enough space for full installation, please contact me directly and we can work around to find alternatives ways of presenting.",
-      "Profile photo": "",
-      "Social links": "",
       "Long Description of your work (4-6 sentences).":
-        "The installation is a metaphor to stimulate experience beyond the physical or what one could previously expect. Whether we choose to be isolated physically or not in everyday life, the psychological isolation experience could become a way to reconstruct what one’s originally experienced and perhaps trigger one’s imagination to expand and create something extraordinary.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://jessica-guo.com/",
+        "I decided that for my final project I wanted to combine two of my favorite mediums: Claymation and interactive narrative. I thought that clay can lend itself to an uncanny and creepy nature and wanted to explore that with some darker themes.",
+      "Link to your personal portfolio": "https://www.annavandehey.com",
       "Project link":
-        "https://jessica-guo.com/Could-Isolation-Be-Beautiful-and-Meaningful",
-      "Theme and keywords": "#isolation #art installation",
-    },
-    {
-      Timestamp: "4/17/2022 10:48:05",
-      "Email Address": "Katherine McVey",
-      "Full Name": "Katherine McVey",
-      "Net ID": "km5364",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "Digital literacy of the unassisted elderly: Apple devices",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Figma prototypes (and an audio-only YouTube video)",
-      "Short project description (one sentence - 500 characters)":
-        "This project examines the digital literacy of unassisted elderly and their use of Apple devices.",
-      "Discussion Groups": 2,
-      "Equipment List":
-        "(remote student) - 3 computer screens (2 for different figma prototypes, 1 for audio YouTube)",
-      "What equipment can you provide?": "I'm a remote student",
-      "What equipment do you need to borrow?": "Remote student",
+        "https://wp.nyu.edu/tandonschoolofengineering-annavseniorproj/",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "@anna.vandehey",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "YouTube audio might require a headset",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1IfHH83KnHbsoPxcwU1EqeKpRwte2mPSG",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Apple devices are used by the elderly to stay in touch with younger family. When features of friction, like small keyboards, hinder the elderly from communicating with their grandkids, it evokes an emotional response. I heard countless expressions of frustration and loneliness due to the inability of the elderly to easily communicate with younger family. My prototype aims to alleviate some of these issues.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://youtu.be/nom-O92rtmM",
-      "Link to your personal portfolio": "https://katherinemcveydesign.com/",
-      "Project link":
-        "There are multiple links: https://docs.google.com/document/d/1osYi4DgtxZfa8SaOfImCycnI7X1EHMySvf7zAcMNLQo/edit?usp=sharing",
-      "Theme and keywords":
-        "digital literacy, Apple devices, elderly users, UX design",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "Laptop and Headset",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light and quieter area would be appreciated, but not necessary",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/18/2022 19:08:45",
-      "Email Address": "Rani Qiaochu Kang",
-      "Full Name": "Rani Qiaochu Kang",
-      "Net ID": "qk2003",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "The Eight Tail Cat",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Comic Illustration",
-      "Short project description (one sentence - 500 characters)":
-        'A modern comic adaptation of a Chinese folktale called "The Eight Tail Cat".',
-      "Discussion Groups": 3,
-      "Equipment List":
-        "A tablet or laptop for interactive parts, but the comic itself can also be printed on paper and shown on a board.",
-      "What equipment can you provide?": "A tablet or laptop",
-      "What equipment do you need to borrow?":
-        "a board (big enough for 16 pieces of letter size paper), and paper for printing.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "An exhibition board that could fit at least 15-16 letter sized printings.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "nope",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "The motivation for this project came from the abuse of domestic animals/pets in China during COVID-19. I wanted to reinforce the idea that both humans and animals are earthlings and should respect each other - humans are in no way superior. I decided to do this in comic style because I wanted to explore comic art and style, as well as the interaction a comic book can have. This is for anyone who loves animals and illustration.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "http://kangqc.com",
-      "Project link":
-        "https://drive.google.com/drive/folders/1U9zOKG5_lM_odPOMLbZc8YwqbyBLYev7?usp=sharing",
-      "Theme and keywords":
-        "comic, illustration, animal, nature, chinese culture, folktale",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/18/2022 16:37:30",
-      "Email Address": "Kristian Zadlo",
-      "Full Name": "Kristian Zadlo",
-      "Net ID": "kfz207",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Augmenting Emotion",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Snapchat Filters",
-      "Short project description (one sentence - 500 characters)":
-        "While we might turn to facial expressions, gestures, emojis, and even GIFs to provide insight into our emotions, augmented reality presents an opportunity to introduce a new nonverbal cue in entertaining conversations using virtual elements driven by facial expressions.",
-      "Discussion Groups": 4,
-      "Equipment List":
-        "Perhaps a larger screen I could connect to (i.e. TV or monitor)",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "My work is digital",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Needs reasonable lighting. Project requires users to use their selfie camera so that they can see their faces.",
-      "Additional notes for the Gallery Manager":
-        "My project lives in Snapchat augmented reality filters. People would be using their phones to scan Snapchat (QR) codes that are ideally displayed on a large screen. Then users would be interacting with the selfie camera on their phone and must see their facial expressions.",
-      "Profile photo":
-        "https://drive.google.com/open?id=1vWwyEi-setBEt1EBb-j7Paaz9BGkAPFQ",
-      "Social links":
-        "https://www.linkedin.com/in/k-zadlo/\nhttps://www.instagram.com/krystian.za/",
-      "Long Description of your work (4-6 sentences).":
-        "A nonverbal cue in communication might be a gesture, facial expression, an emoji, or a GIF. While we use them in a variety of mediums, for perhaps the first time in history we can create a new nonverbal cue using augmented reality. I've been examining how augmented reality elements can provide additional emotional expression opportunities in peer-to-peer communication. I took inspiration from emojis, GIFs, and avatars to create Snapchat filters where a user's facial expressions control varying augmented elements, ultimately providing insight and clarification for the user's emotional state. My prototypes have earned 800k interactions in their first month, underscoring not only success but a common desire for entertaining and clarifying communication with peers.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "(2 links) https://www.youtube.com/watch?v=GC5AZ56BBn4 https://www.youtube.com/watch?v=Cz3_kvUQ3mk",
-      "Link to your personal portfolio": "https://kristianz.github.io/",
-      "Project link": "https://kristianz.github.io/thesis.html",
-      "Theme and keywords":
-        "augmented reality, emotion, communication, expressive, entertainment, emoji, GIF, avatar, Snapchat",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/19/2022 12:31:06",
-      "Email Address": "Dylan Reitz-Cruz",
-      "Full Name": "Dylan Reitz-Cruz",
-      "Net ID": "drc299",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Thresholds: Interactive Sculptures",
-      "What kind of form is the work (website, game, vr, etc)": "Sculptural",
-      "Short project description (one sentence - 500 characters)":
-        "Thresholds is a collection of natural objects with technology interventions allowing them to move, respond, and be interacted with. These pieces create a space for shared experiences with non human objects and beings.",
-      "Discussion Groups": 3,
-      "Equipment List": "N/A",
-      "What equipment can you provide?": "N/A",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "1' x 1' x1'",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "Hi",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Eve5eZ_OKbEkbNUXYoSET-1SoY2yvQ-1",
-      "Social links": "Instagram: @dylanreitz",
-      "Long Description of your work (4-6 sentences).":
-        "This series of interactive sculptures was created to find a commonality between people and objects. With a goal of piquing a viewers innate curiosity and creating a space to facilitate communication, empathy, and playfulness with the non-human. Using technology interventions such as embedded motors and sensors, a sense of agency is uncovered in animating natural objects such as a tumbleweed, and oyster shell. This body of work is for those of us that turned over rocks as a kid to see what might be living underneath, who might name and talk to their plants, or still appreciate a well placed set of googly eyes.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/dylanreitz",
-      "Link to your personal portfolio": "dylanreitz.com",
-      "Project link": "https://www.dylanreitz.com/portfolio/thresholds",
-      "Theme and keywords": "art, sculpture, physical computing, nature",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/19/2022 13:18:38",
-      "Email Address": "Sounak Ghosh",
-      "Full Name": "Sounak Ghosh",
-      "Net ID": "sg6621",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Inner Light",
-      "What kind of form is the work (website, game, vr, etc)": "VR experience",
-      "Short project description (one sentence - 500 characters)":
-        "Inner Light is an embodied VR meditation on Light that uses brain activity (EEG) in real-time to visualize a virtual body (avatar) exploring the relation between mind and body.",
-
-      "Equipment List":
-        "1 Display screen (with HDMI cable), 1 Laptop, 1 VR headset, 1 EEG headset, 1 headphones, 1 regular chair",
-      "What equipment can you provide?":
-        "1 Laptop, 1 VR headset, 1 EEG headset",
-      "What equipment do you need to borrow?":
-        "1 headphones, 1 regular chair, 1 Display screen (with HDMI cable)",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Need at least 5 x 5 feet for VR tracking space",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1MaCtobtjbYIj6XrhuCKypj5vv9aHCYQB",
-      "Social links": "@beingsounak (Twitter), @shnucks (Instagram)",
-      "Long Description of your work (4-6 sentences).":
-        "Inner Light is a hybrid art + science experiment that coalesces three topics - (1) embodied VR, (2) EEG neurofeedback, and (3) meditating on Light. It is an artistic project to explore the subject of meditation and self-awareness through embodied cognition and brain waves. This VR experience provides guided audio and visuals based on a player’s brain activity to induce a relaxed but focused mental state. It offers a unique visualization of the body-mind complex, asking questions about who we are in relation to our body and mind, and who we are beyond it. Inspired by the insights from my own meditation practice, I have tried to emulate the revelation and replicate it in a VR medium. Through this experience, I invite participants to embody their own mental frequencies and, at the climax, discover the feeling of ascending the body.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://youtu.be/VkRn5y9rGSw",
-      "Link to your personal portfolio": "https://www.sounak.space",
-      "Project link": "https://www.sounak.space/inner-light",
-      "Theme and keywords":
-        "virtual reality, meditating on light, neuroscience, embodied cognition",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 19:41:51",
-      "Email Address": "Xianghan Wang",
-      "Full Name": "Xianghan Wang",
-      "Net ID": "xw2264",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "The Rhythm of Qi",
-      "What kind of form is the work (website, game, vr, etc)": "VR Experience",
-      "Short project description (one sentence - 500 characters)":
-        "The Rhythm of Qi is a virtual reality Taichi experience. This experimental project will enable players to better understand and feel the movement, changes, and rhythms of Qi in Taichi through the virtual world by fusing high-tech technology with historical traditions and reintroducing people to the charm of Taichi.",
-      "Discussion Groups": 4,
-      "Equipment List":
-        "A projector to play the video demo, Oculus headsets, and Oculus to allow the audience to try my project, Laptop, Earphones",
-      "What equipment can you provide?": "Laptop, one Oculus Headset",
-      "What equipment do you need to borrow?":
-        "Projector, Earphones, and Oculus Headset",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "76″ x 80″",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Low light, quiet environment so the audience could really have the immersive experience",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Taichi, a traditional Chinese sport with a long history and a wealth of cultural meanings, has a glorious past and was formerly practiced by hundreds of millions of people throughout China. Due to the fact that taichi is a gentler and slower style of boxing than other fighting martial arts, it does not appeal to young people's desire for excitement, confrontation, and skill, and has become unpopular and even somewhat rejected among the young. However, because Taichi is based on the traditional Chinese medical concepts of Qi, Yin, and Yang, and the Five Elements, this sport not only addresses the subhealth problems associated with modern youth, such as stress and an irregular lifestyle but also allows for complete relaxation of the spirit, so it is a great pity that Taichi is so neglected by young people. Thus, I would like to create a virtual reality interactive Taichi game, reviving the ancient Taichi exercise on a modern platform. This project will be developing a method in the virtual world that allows players to experience Taichi, applying how high-tech techniques to a traditional civilization from the past so that players can immerse themselves in Taichi, learn it more easily, and feel the sport's rhythm and connotation more fully.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "http://xianghanwang.com",
-      "Project link":
-        "https://www.xianghanwang.com/home?category=Thesis%20Project",
-      "Theme and keywords":
-        "Virtual Reality, Interactive, Body Movement Tracking, Taichi, Pressure Release, Health Preserving",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/19/2022 23:00:08",
-      "Email Address": "Eishaank Gakhar",
-      "Full Name": "Eishaank Gakhar",
-      "Net ID": "eg2466",
-      "What year are you?": "Final Year Grad (Thesis Project)",
+      Timestamp: "3/22/2023 19:17:56",
+      "Email Address": "al7504@nyu.edu",
+      "Full Name": "Anran Lin",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "al7504",
       "Project title":
-        "The Silent Motor Revolution:  Electric Vehicle Alerting System",
-      "What kind of form is the work (website, game, vr, etc)": "Audio Clip",
+        "Challenges and opportunities for second-hand clothing stores and tailors in the context of fast fashion: second-hand clothing redesign platforms",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Website+background fabric(need a touch screen)",
+      'If you selected "Other", please write your description below:':
+        "The project include a website and a background fabric(approximately 5 ft*5ft)",
       "Short project description (one sentence - 500 characters)":
-        "Developing external sounds for Electric vehicles to warn pedestrians",
-      "Discussion Groups": 5,
-      "Equipment List": "Laptop and Headphone",
-      "What equipment can you provide?": "Laptop",
+        "As the fast fashion industry continues to grow rapidly, second-hand clothing stores are struggling to keep up with the surplus of fast fashion clothing. Through consulting with owners and employees of these stores, I found that new strategies were needed to extend the life of clothing and reduce waste. This research project proposes a solution: a website platform that allows consumers to use discarded second-hand clothing to create unique designs and give new life to old garments. By raising awareness of the value of craftsmanship and promoting the slow fashion movement, this project aims to counter the negative effects of fast fashion while also supporting the operation of second-hand clothing stores.",
+      "Long Description of your work (4-6 sentences).":
+        'This project focuses on small-scale and chain second-hand stores, and is designed for environmentally-conscious consumers, fashion enthusiasts, and treasure-hunting influencers. This project aims to provide a platform where consumers can transform or redesign second-hand clothing by using discarded clothes as fabric to fill in design drawings, with the goal of reducing the surplus of fast fashion clothing in second-hand stores and alleviating the challenges faced by tailors affected by the second-hand market and fast fashion.\n\nFurthermore, the project seeks to increase awareness of the value of craftsmanship and the environmental impact of clothing waste by placing the platform in second-hand stores and encouraging more individuals to participate in extending the lifespan of clothing to counter the "fast, low-priced, and disposable" culture of fast fashion, and embracing the slow fashion movement.',
+      "Link to your personal portfolio": "https://ashleylin35.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1b1-Q2EpKDh4k2n2nAIE8RHq3W0_15pFM",
+      "Supplementary Images": "",
+      "Thematic Keywords": "UI/UX design, participatory design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/anraaan_cute/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "7 feet*6feet * 6feet",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1BoSUAzFsdn6epD6kE21Mi6rruX5EYIM7",
+      "Equipment List":
+        "a tablet, a tablet holder, a sewing machine, a clothes basket",
+      "What equipment can you provide?": "none of the above",
       "What equipment do you need to borrow?":
-        "Headphone (preferably noise canceling)",
+        "a tablet, a tablet holder, a sewing machine",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "No need",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/25/2023 13:22:26",
+      "Email Address": "ac8588@nyu.edu",
+      "Full Name": "Ao Chen",
+      "Name of Advisor": "Benedetta",
+      "Net ID": "ac8588",
+      "Project title": "Melon Nutrition App",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "User experience design, App",
+      'If you selected "Other", please write your description below:':
+        "User experience design, App",
+      "Short project description (one sentence - 500 characters)":
+        "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://chen-ao.com/nutrition",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "User Experience design, nutrition",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No special considerations needed",
-      "Additional notes for the Gallery Manager": "No",
-      "Profile photo": "",
-      "Social links": "https://www.linkedin.com/in/eishaank-gakhar/",
-      "Long Description of your work (4-6 sentences).":
-        "Electric vehicles (EV) pose an immediate threat to the safety of pedestrians. The absence of a traditional internal combustion engine in an electric vehicles causes them to produce no sound when travelling at speed lower than 18.6 mph (30 km/h). Pedestrians often rely on these traditional engine sounds to warn themselves of any incoming vehicle. To solve this problem, my thesis proposes different external warning sounds for EVs to alert pedestrians including users with visual and auditory disabilities.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "-",
-      "Link to your personal portfolio": "https://eishaank.studio/",
-      "Project link": "https://eishaank.studio/ev-sound-design/",
-      "Theme and keywords": "Electric Vehicle, Sound Design, Alerting System",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/19/2022 23:32:38",
-      "Email Address": "Fiona Feng",
-      "Full Name": "Fiona Feng",
-      "Net ID": "gf2165",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "How might art help anti-vaxxers think about vaccination hesitancy?",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Animated video",
-      "Short project description (one sentence - 500 characters)":
-        "How might art help anti-vaxxers think about vaccination hesitancy?",
-      "Discussion Groups": "2 (or 3)",
-      "Equipment List":
-        "HDMI to USB adaptor connect Macbook 2014 to any screen you provide",
-      "What equipment can you provide?": "Laptop, earphone, charger",
-      "What equipment do you need to borrow?":
-        "Adaptor to connect my laptop to any monitor/TV you provide",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Standard Video dimensions",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1QmsK_fZY83SJrNVZjALCPPh0A7xj0HTf",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "Profile photo":
-        "https://drive.google.com/open?id=1m-cX-EVXv19ZIyqeQzTcy0wctwcygwWo",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "This project is inspired by anti-vaccination protests that have been seen over the news since the COVID-19 vaccines were first announced. Studies have shown that the main reason people are hesitant to take vaccines is due to their lack of trust in either institutions, government, or medical authorities. People trust their lives to medical professionals in case of any medical emergency, but why is that not the case with the COVID-19 vaccine? The information people consume plays a significant part of what they believe in. This project explores the hesitancy related to vaccines and how the information people receive is enough to induce vaccine doubts towards the COVID-19 vaccine. A prototype was developed with the purpose of trying to make anti-vaxxers think about the issue of vaccination hesitancy and its impact.",
-      "Main Image": "main.jpg",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 14:20:36",
+      "Email Address": "ap7371@nyu.edu",
+      "Full Name": "Arthi Puri",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "ap7371",
+      "Project title": "UX in U.S Immigration",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Mobile App",
+      'If you selected "Other", please write your description below:':
+        "I will be displaying Figma files and a mobile application",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.arthipuri.com/",
+      "Project link": "",
+      "Main Image": "",
       "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.fionaguxuefeng.com/",
-      "Project link": "https://www.fionaguxuefeng.com/vaccination-hesitancy",
-      "Theme and keywords":
-        "Vaccination Hesitancy, Anti-vaxxers, Misinformation",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 0:22:54",
-      "Email Address": "Nijia Cui",
-      "Full Name": "Nia (Nijia) Cui",
-      "Net ID": "nc2647",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "How might we create a better remote onboarding experience for junior employees?",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UX/UI (mobile and desktop)",
-      "Short project description (one sentence - 500 characters)":
-        "An internal mobile application and a dashboard that support new hires at various points in the onboarding process within an organization",
-      "Discussion Groups": 1,
-      "Equipment List":
-        "laptop, monitor or iPad, headsets, table, chair, power outlet",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?":
-        "iPad or monitor, headsets, table, chair, power outlet",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "standard Mac size",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1-mxtuqQ3uZ-yFytHhHbdUWS2bn1imPbg",
-      "Social links": "www.linkedin.com/in/nijiacui",
-      "Long Description of your work (4-6 sentences).":
-        "My thesis project aims to explore how might we create a better remote onboarding experience for junior employees. The solution is to create an internal mobile application and desktop that support new hires at various points in an onboarding process within an organization. The stakeholders are companies that don’t have the administrative resources to develop an established onboarding program. \n\nThe thesis project derived from the question “how to facilitate employees' creative innovation during the COVID-19 pandemic.” The project uses the Research for Art & Or Design approach to investigate the nature of creative innovation of large technology companies and understand its relationship with workplace culture, environment, artifacts, and other factors. \n\nI leveraged persona-based scenario mapping to illustrate how the product helps the user. Jill Chan, 26 years old, single, based in mountain view, California, will serve as my primary user. She is organized, empathetic, curious, hardworking, passionate, and punctual. She has a Bachelor's degree in Human-Centered Design & Engineering and recently received an offer from a Fortune 500 software company as a product designer. She's excited to begin her first full-time job in a couple of months but nervous because she doesn't know what to expect, especially in a remote work environment amidst the pandemic.\n\nThe feature sets were designed to include 30% core features, 20% quality of life, and 50% future updates. While the mobile application and desktop are both designed for a better onboarding process, they serve different roles for the user. The mobile application greets the user, sends updates for immediate actions, and keeps track of the user's progress. At the same time, the website is a place to set definitive goals and find more detailed content. The features designed as the quality of life are playful elements such as a reward system to encourage more active use of the product. The following updates will include a suggestion board to request new extensions and role-based classes.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "http://www.nijiacui.com",
-      "Project link": "http://www.nijiacui.com",
-      "Theme and keywords":
-        "product design, ux, ui, ux research, human-centered design, technology, work",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
+        "Height: 0.16–0.61 inch (0.41–1.56 cm) Width: 11.97 inches (30.41 cm) Depth: Depth: 8.36 inches (21.24 cm)",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Laptop, iPhone",
+      "What equipment can you provide?": "Laptop, iPhone",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "no",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/20/2022 0:42:12",
-      "Email Address": "Cory Zhao",
-      "Full Name": "Cory Yaozhi Zhao",
-      "Net ID": "yz3141",
+      Timestamp: "3/22/2023 22:09:31",
+      "Email Address": "aaa9864@nyu.edu",
+      "Full Name": "Arwa Alsaati",
+      "Name of Advisor": "Luke Dubois",
+      "Net ID": "aaa9864",
+      "Project title": "VR Interactive Music Video",
       "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "Navigating the Maze:  Addressing New York City’s Subway Wayfinding Experience",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Board game and zine",
-      "Short project description (one sentence - 500 characters)":
-        "Navigating the Maze is a project that explores the wayfinding experience in busy New York City subway stations through analyses and observations of information systems, media surfaces, and commuter behavior.",
-      "Discussion Groups": 5,
-      "Equipment List":
-        "A tabletop brochure holder(or any stand that can fit a 8.5*5.5 inch brochure), a table with at least 4 chairs, laptop, and prototypes",
-      "What equipment can you provide?":
-        "I will be bringing my laptop and prototypes for display(brochure and game board)",
-      "What equipment do you need to borrow?":
-        "I will need to borrow a tabletop brochure holder(or any stand that can fit a 8.5*5.5 inch brochure) and a table with at least 4 chairs",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "the brochure will be 8.5*5.5 inches and the game board will be no larger than 12*12 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "nope",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "The New York City subway system is notorious for its frequent delays and service changes. So how can we make riding the subway easier for everyone without tearing everything down? Navigating the Maze is a project that explores the commuting experience and addresses the wayfinding problems in busy New York City subway stations through analyses and observations of information systems, media surfaces, and commuter behavior. The study is based on two stations – 14th St-Union Sq and Jay St-MetroTech, as they serve as major transit hubs in lower Manhattan and Downtown Brooklyn. Research methods such as observations, behavioral mapping, and interviews were used to discover the experience navigating through these stations.\nThis project illustrates the ways in which both stations could benefit from having a more contextualized information system and better placements of informational infrastructures. Passengers would be able to make more informed wayfinding decisions and be less likely to be confused, frustrated, or overwhelmed throughout their journey.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://coryzhao.com/",
-      "Project link": "https://coryzhao.com/work/thesisproject",
-      "Theme and keywords":
-        "Wayfinding Design, Subway, Public Transportation, Infrastructure, User Experience",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 10:31:10",
-      "Email Address": "Ben Crystal",
-      "Full Name": "Ben Crystal",
-      "Net ID": "bc3099",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "VR Vocal Performance Space",
       "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "My vocal performance space allows artists to themselves freely by controlling audio effects through their actions to give an engaging performance in virtual reality.",
-      "Discussion Groups": "4 (or 3)",
+        "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://arwaalsaati.com/",
+      "Project link": "https://arwaalsaati.com/Thesis-Project",
+      "Main Image":
+        "https://drive.google.com/open?id=1YAPmLb_uKbOPtQylmCCxPPW7eDrGA4py",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "interactive music video, interaction design, audio visual experience",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/arwa.alsaati/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "6.5 x 10 x 10",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1KLsf8-LyM3RNrc0Vxdui16wV64l5DdV0",
       "Equipment List":
-        "I need a windows desktop with Unity and Ableton Live Suite installed, as well as the plugin Waves Vocal Bender and potentially Waves Tune Real Time, which I believe Elton has already purchased",
+        "TV monitor, VR Headset Oculus Quest 2 with Link Cable, Headphones, PC Running Unreal Engine 5, Space for Two Snare Drums / E-Drum Kit, Audio Interface Motu, HDMI cables, Sanitizing Station for VR Headset",
       "What equipment can you provide?":
-        "I can supply all of the files, and I will try to bring my own headset and microphones.",
+        "VR Headset Oculus Quest 2 with Link Cable, Two Snare Drums / E-Drum Kit, Audio Interface Motu",
       "What equipment do you need to borrow?":
-        "I need a computer with Ableton Live Suite and Unity installed.  It would potentially be beneficial if there were a microphone and mic stand available as well.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It would take up a standard amount of space for a person to dance in place, so say 6-8 feet in every direction!",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "The work is audio intensive-- it does not require complete silence but the more quiet the surroundings the better.",
-      "Additional notes for the Gallery Manager": "Not to my knowledge",
-      "Profile photo":
-        "https://drive.google.com/open?id=1TGvRZ4skIzmIbLUml1vsILRNGlAM00iY",
-      "Social links": "https://www.instagram.com/bencrystalofficial/",
-      "Long Description of your work (4-6 sentences).":
-        "The final prototype of this thesis is an immersive vocal performance tool that allows vocalists to express aspects of self through a variety of audio effects controlled by their body language.  It addresses the question, “how can we control an audio performance in a way that is meaningful and easily understood by both performer and audience?”  By linking Ableton Live with Unity via Max4Live and Wekinator, artists can navigate the soundscape in ways never thought possible.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "www.bencrystal.me",
-      "Project link": "https://youtu.be/hquJ52XpiNU",
-      "Theme and keywords":
-        "music, music technology, vocal performance, virtual reality, interaction design",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
+        "TV monitor, Headphones, PC Running Unreal Engine 5, Space for Two Snare Drums / E-Drum Kit, HDMI cable, Sanitizing Wipes for VR Headset Use",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "it's audio intensive, requires some level of low volume",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/20/2022 10:51:19",
-      "Email Address": "Cameron Womack",
-      "Full Name": "Cameron Womack",
-      "Net ID": "cew426",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title":
-        "Artifacts for Abolition: Creating Space To Imagine A World Without Police",
+      Timestamp: "4/8/2023 5:34:18",
+      "Email Address": "ab8549@nyu.edu",
+      "Full Name": "Ashli Byfield",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "ab8549",
+      "Project title": "See You In Henna",
+      "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)":
-        "digital art + ar",
-      "Short project description (one sentence - 500 characters)":
-        "This project takes the form of a digital collage that utilizes augmented reality which aims to inspire critical conversations about police and police abolition. The elements of this collage are inspired by the research I’ve conducted on abolition, sentiments I’ve collected during a series of co-imagining workshops, and content found in Black art and media.",
-      "Discussion Groups": "3 (or 4)",
-      "Equipment List": "poster boards, laptop",
-      "What equipment can you provide?": "laptop, poster boards",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "2 average sized poster boards, not sure of exact size",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "need a small amount of space for viewers to be able to engage with the ar components of the art",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
       "Long Description of your work (4-6 sentences).":
-        "The goal of my thesis project is to create spaces and artifacts that will allow people to engage meaningfully with the concept of police abolition. This work was inspired by my experiences as a Black woman who has lived through years of unending, highly publicized police violence in my community. Police violence has impacted Black and POC communities for centuries, and often feels like an evil that can never be escaped. With my thesis work, I aim to create entryways into the conversation of police abolition, and encourage people to actively imagine what a future without police might be like. By creating a collage with augmented reality components that is inspired by conversations about abolition with community members, I aim to immerse my audience in an abolitionist future, and inspire critical conversations about what police abolition could mean for society.",
-      "Main Image": "main.jpg",
+        "See You In Henna is an audiovisual presentation of a fantasy world born completely from my imagination. Playing with themes of Heaven and Hell, along with influences from Greek, Roman, and Norse mythology, this project showcases a story with rich and complex worldbuilding. Displayed in a video format, See You In Henna will take you through the foundations of this world, combining illustrative pictures with narration and sound for a storytelling experience that taps into several senses… transporting you from this world to the next.",
+      "Link to your personal portfolio": "https://ashlibyfield.my.canva.site/",
+      "Project link": "n/a",
+      "Main Image":
+        "https://drive.google.com/open?id=1JYZaz-zm9PkZ_AIu5ac_CXtk1Hz31ujx",
       "Supplementary Images": "",
+      "Thematic Keywords":
+        "worldbuilding, storytelling, sensory, immersive, fantasy",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.cameronwomack.com/",
-      "Project link": "https://vimeo.com/701282299",
-      "Theme and keywords":
-        "social justice, police abolition, digital art, augmented reality",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 11:14:11",
-      "Email Address": "Tina Solo",
-      "Full Name": "Tina Solo",
-      "Net ID": "bp1075",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Visualizing New York City English",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters)":
-        "Visualizing New York City English seeks to understand, capture, and celebrate the sounds and stories that shape the New York accent.",
-      "Discussion Groups": "5 (maybe 3)",
-      "Equipment List":
-        "Ideally a 20+ inch screen with a USB port, and enough room on a table to fit it along with a couple of headphones and a mouse.",
-      "What equipment can you provide?":
-        "I can bring a USB splitter, headphones, and mouse.",
-      "What equipment do you need to borrow?":
-        "I would need a screen (TV, desktop, or laptop). The iMacs on the floor would be the best since that's the same model I used when working on the project, but some other monitor or laptop would work too — at least 14in if possible. I have a laptop I can bring to connect via HDMI if there's just a spare monitor (the screen is cracked so it wouldn't be a great display). Since my work is highly visual, I really want to present it in the best light possible.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "1920x1080p videos",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Work is audio intensive, but people can take turns listening and watching",
-      "Additional notes for the Gallery Manager":
-        "I would love to have an idea of when the equipment list will be finalized, so that I have time to plan a backup if I can't get what I requested. Please share the info on Slack or by email if possible, thank you!",
-      "Profile photo":
-        "https://drive.google.com/open?id=18FDAc5BZNaUTuscJXfgO1wufFy8f-meE",
-      "Social links": "@btinasolo on Twitter, Instagram, LinkedIn",
-      "Long Description of your work (4-6 sentences).":
-        "Visualizing New York City English uses motion typography and audio collages to investigate and celebrate the rich sociolinguistics of New York City. The first part (Sounds) highlights key phonological markers to create a basic understanding of the NYCE sound system, while the second part (Stories) explores the narratives told about and through the dialect, weaving together city and people in mirrors and contrasts. The project centers New Yorkers' voices to not only appreciate their nuance and diversity, but also to recognize them as a site of meaning — asserting that a deeper understanding of NYCE can unlock more intricate and interesting histories of New York City, and expand viewers' empathy towards the local community in the process.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "YouTube videos are embedded on project page",
-      "Link to your personal portfolio": "https://tinasolo.com",
-      "Project link": "https://tinasolo.com/nyce",
-      "Theme and keywords":
-        "sociolinguistics, motion design, typography, new york city, new york accent, media studies",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 11:17:32",
-      "Email Address": "Dazhen Yang",
-      "Full Name": "Dazhen Yang",
-      "Net ID": "dy2046",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Whochat_Negative Effects of Social Media",
-      "What kind of form is the work (website, game, vr, etc)": "game",
-      "Short project description (one sentence - 500 characters)":
-        "The project is to make a video game which could show the negative feelings among young people aging 18-25 on social media platforms. In the game, the player could talk to different characters who symbols varies negative effects, make their own choices and solve problems to learn to deal with bad feelings exaggerated by social media.",
-      "Discussion Groups": 4,
-      "Equipment List": "Windows PC, mouse, keyboard",
-      "What equipment can you provide?":
-        "Since I am in China, I'm afraid that I could not provide materials on the Thesis Exhibition.",
-      "What equipment do you need to borrow?": "No.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Electronic",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No special considerations.",
-      "Additional notes for the Gallery Manager": "No, thank you.",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Many young people who age from 18 to 25 suffer from negative feelings, like social comparison and fear of missing out, and social media exaggerated these feelings. Plus, video game is an interactive form that players could gain experiences and make decisions which reflect stories in the real life. So I made this project and hope that players could enjoy this game, think about their feelings on social media platforms and deal with negative ones better in their real life.",
-      "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1NukAb3Di7ixQI0pvV0-qxainUciaPWwF",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "candice-lt.github.io",
-      "Project link": "candice-lt.github.io",
-      "Theme and keywords": "social media, game",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 12:19:51",
-      "Email Address": "Euakarn Liengtiraphan",
-      "Full Name": "Som Liengtiraphan",
-      "Net ID": "el3429",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Oranges for Good Luck",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Zine and cards",
-      "Short project description (one sentence - 500 characters)":
-        "An exploration of how my family's history and my experience celebrating Chinese New Year shaped my understanding of the festival and how young adult Chinese diasporic members might reimagine their future celebrations.",
-      "Discussion Groups": 2,
-      "Equipment List":
-        "Book stands, extension card for my laptop, a table, a chair, table shelves to display my zine",
-      "What equipment can you provide?": "Laptop, table cloth, crate",
-      "What equipment do you need to borrow?":
-        "Book stands, extension card for my laptop, a table, a chair, table shelves to display my zine",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "5''x8'' max for zine. 2.75''x4.75'' for cards. There will be many copies",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=14oRrQhoaZK-0ZyhLlOL80uj6Ch2c3vnO",
-      "Social links":
-        "https://www.instagram.com/somclumsy/\nhttps://www.linkedin.com/in/somlieng/\nhttps://twitter.com/somlieng",
-      "Long Description of your work (4-6 sentences).":
-        "This project was made for me and others young adult Chinese diasporic members like me who wants to celebrate Chinese New Year, but might not know how to do so. The result of my research is  a party service design that can welcome people — regardless of their identity or level of familiarity — into Chinese New Year celebrations and rituals. I encourage people to explore how their own personal identities have uniquely shaped their cultural celebrations, educate my audience about Chinese New Year rituals, and hope to inspire my audience to imagine how we might engage with both new and familiar rituals. To accompany this party service design there will be an illustrated autoethnographic zine, a ritual & customs card set, and a cultural reflection guestbook.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://helloimsom.com/",
-      "Project link":
-        "https://www.helloimsom.com/illustration/oranges-for-good-luck",
-      "Theme and keywords":
-        "Chinese, culture, rituals, autoethnography, festival, Chinese New Year, zine, card, handmade, risograph, risoprint, design, service design, party",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 13:16:28",
-      "Email Address": "Sage Jung",
-      "Full Name": "Sage Jung",
-      "Net ID": "cj2111",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Scruffy The Robot Dog",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Physical Artifact",
-      "Short project description (one sentence - 500 characters)":
-        "A small toy made for interactions to encourage the reflection on failed communication and compassion.",
-      "Discussion Groups": 6,
-      "Equipment List":
-        "1 table, 1 chair, 1 laptop, installation materials (TBD)",
-      "What equipment can you provide?":
-        "1 laptop, installation materials (TBD)",
-      "What equipment do you need to borrow?": "1 table, 1 chair",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "4.5 X 3 X 9 (inches)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "I prefer to have an environment with enough lighting. Also, a space quiet enough to hear the sound of the toy makes.",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Scruffy the robot dog was started with the thought of creating something to encourage people to reflect on how they communicate, especially so-called failed interactions. How we recognize/reflect how we communicate? How can be make the interaction better? While interacting with Scruffy, people will have a chance to contemplate on the way they interact and what it means to have a toy with emotional expressions. Scruffy is powered by Arduino.",
-      "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=12JrxUHvOsyS53W81kYAsDuwLPL9B6-yy",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://scj.onl/",
-      "Project link": "https://scj.onl/Thesis",
-      "Theme and keywords": "Interaction, Physical Computing, Robot Toy",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 14:47:24",
-      "Email Address": "Richael Sun",
-      "Full Name": "Richael Sun",
-      "Net ID": "rs6082",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title":
-        "The Application of Multi-Sensory Environment to Mattress Store Design",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Experimental art installation",
-      "Short project description (one sentence - 500 characters)":
-        "This project aims to find a better practice of multi-sensory environment, specifically lighting system design in mattress retail stores.",
-      "Discussion Groups": 5,
-      "Equipment List":
-        "Greenhouse hoops rods for grow tunnel, bed sheet, curtains, adjustable LED strips, laptop, electrical outlet/power supply",
-      "What equipment can you provide?":
-        "Greenhouse hoops rods for grow tunnel, bed sheet, curtains, adjustable LED strips, laptop",
-      "What equipment do you need to borrow?":
-        "electrical outlets or other power supply",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "30''H*70''W*30''D (width and depth are adjustable; diagonal length is about 75'')",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "More quiet and isolated space. A separate room is preferred.",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Given the benefits and limitations of multi-sensory environment as well as the impacts of sensory inputs on customers' purchasing decisions and shopping behaviors, this project aims to find a better practice of multi-sensory environment, specifically lighting system design in mattress stores. The final installation is created to reflect how customizable lighting affects customers’ perceptions of comfort level of the mattress through an experimental experience. The findings from the research and the interior design proposal will give insights for any other individuals and groups who would like to involve multi-sensory environment in retail space design to provide better customer experience, such as furniture stores, clothes stores, hotel rooms, etc.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://richaelsun.me",
-      "Project link": "https://richaelsun.me/thesis",
-      "Theme and keywords":
-        "multi-sensory; mattress; lighting; retail store design; customer experience",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 15:49:50",
-      "Email Address": "Nikole Fu",
-      "Full Name": "HEYUE FU",
-      "Net ID": "hf2183",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Feline Fashion In Future",
-      "What kind of form is the work (website, game, vr, etc)": "AR Filter",
-      "Short project description (one sentence - 500 characters)":
-        "This project is about an experimental AR filter project for cat fashion. My thesis project is about start a cat lifestyle brand, and start with cat clothes for special cat breeds(Devon Rex, Sphynx, Cornish Rex Cats).",
-      "Discussion Groups": 4,
-      "Equipment List":
-        "Projector, computer/laptop, and a poster with filter innstruction or QR code on it.",
-      "What equipment can you provide?":
-        "Only the project itself. A short film and a AR filter test instruction poster.",
-      "What equipment do you need to borrow?":
-        "A laptop or computer, a projector or TV, and a sound box or wireless bluetooth speaker.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "TV screen size or projector screen size.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Low light, and the work have soundtracks. Expecting viewer to try the AR filter on their own equipments(smartphones/iPads).",
-      "Additional notes for the Gallery Manager":
-        "Please let me know if there's any issues via email. I'm currently in China :(",
-      "Profile photo": "",
-      "Social links": "https://www.instagram.com/heyuefu/",
-      "Long Description of your work (4-6 sentences).":
-        "The inspiration for the cat lifestyle brand came to me while shopping for cat clothes for my cat in New York City. In Petco and other pet supply stores, I see a lot of dog products but very few cat supplies. Furthermore, cat garments for Sphynx, Devon Rex, and Cornish Rex cats come in restricted patterns, and fitting flaws are more common in the western market. So I began thinking of developing a cat lifestyle brand, starting with cat breed-specific clothes. So I began to consider creating a cat lifestyle brand, starting with clothing for specific cat breeds. I have a background in fashion design, so it's easier for me to begin with something I'm acquainted with. According to my research, Sphynx, Devon Rex, and Cornish Rex cats only have one layer of fur or no fur at all; hence they must wear clothing when the temperature drops below 68 degrees Fahrenheit. This brand aims to create compelling designs from the perspective of cats while maintaining human aesthetics.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio":
-        "https://heyue-fu-portfolio.squarespace.com",
-      "Project link": "https://www.instagram.com/elsewear_cat/",
-      "Theme and keywords": "Cat Fashion, AR",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 16:05:11",
-      "Email Address": "Stacey Yao",
-      "Full Name": "jing yao (Stacey)",
-      "Net ID": "jy3451",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Carely",
-      "What kind of form is the work (website, game, vr, etc)": "website",
-      "Short project description (one sentence - 500 characters)":
-        "Carely is a website that helps young women improve their positive body image through community sharing and interaction.",
-      "Discussion Groups": "1 (or 6)",
-      "Equipment List": "Use my own laptop",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "23.4×15.6×21.45-28.47 Inches (I only need a space for a 13-inch computer and some small cards )",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Maybe just quiet?",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Carely is a brand that helps young women promote a positive body image, offering care to this group through social media and community sharing interactions, including Instagram social media account and website. The project aims to provide a shared space for young women to reduce negative perceptions of their body image and encourage them to increase self-love.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "staceyyao.com",
-      "Project link": "staceyyao.com",
-      "Theme and keywords": "bodypositivity, UIUX, Web Design, community,",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 17:52:09",
-      "Email Address": "Kevin Zhang",
-      "Full Name": "Kevin Zhang",
-      "Net ID": "zz2796",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Therapy",
-      "What kind of form is the work (website, game, vr, etc)": "Film",
-      "Short project description (one sentence - 500 characters)":
-        "It shows how technology can help with psychological problems.",
-      "Discussion Groups": "6 (or )3",
-      "Equipment List": "Computer, screen, headphone",
-      "What equipment can you provide?": "Computer",
-      "What equipment do you need to borrow?": "Screen, headphone",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Enough space for a desk",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1j5ZwPXfO71EDf95vl1iRhaqF6-X2Hoka",
-      "Social links": "https://www.instagram.com/greatkevinzhang/",
-      "Long Description of your work (4-6 sentences).":
-        "The project imagines how psychotherapy sessions could be done through personal devices. With the help of AI, mental health issues can be treated with a more personalized and efficient way. This project is an example of how artists may look at technology development, and consider technology in their works.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/682636815",
-      "Link to your personal portfolio":
-        "https://zz2796.wixsite.com/kevinzhang",
-      "Project link": "https://zz2796.wixsite.com/kevinzhang/therapy",
-      "Theme and keywords": "film, psychology, emotional",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 16:40:24",
-      "Email Address": "Prakriti Joshi",
-      "Full Name": "Prakriti Joshi",
-      "Net ID": "pj845",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "ConferenceX",
-      "What kind of form is the work (website, game, vr, etc)": "vr",
-      "Short project description (one sentence - 500 characters)":
-        "My thesis reimagines what virtual conferences will look like because of the sudden shift from in person conferences to virtual conferences.",
-      "Discussion Groups": "1 (or 4 or 5)",
-      "Equipment List": "my laptop",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "laptop screen",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "This project is focused on college students' experience on academic virtual conferences. The goal of the project is to understand how VR can improve virtual conferences for students. The four main topics I researched are on conferences/events, impact on academic conferences due to COVID-19,  way finding for virtual environments, and virtual reality interactions. Based on my secondary and primary research, my prototype has developed into two parts: first, the VR onboarding experience and environment of a 3D conference and, the second, the user interface for the VR conference.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://prakritijoshi.com/",
-      "Project link": "https://prakritijoshi.com/thesis",
-      "Theme and keywords": "vr, conference",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 17:06:49",
-      "Email Address": "Sophie Lowen",
-      "Full Name": "Sophie Lowen",
-      "Net ID": "sl6259",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "2Score",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UX design project - mobile app",
-      "Short project description (one sentence - 500 characters)":
-        "This project aims to make learning an instrument as an adult easier; the app motivates a user to track musical playing progress and allows them to internally reflect on their practice and see their habits build and change over time.",
-      "Discussion Groups": "2 (or 1)",
-      "Equipment List": "Table, chair",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "Table, chair",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "It is often thought that if you don’t learn a musical instrument when you are younger you have missed your opportunity. This is not true. The obstacles when you are older are just different. One of the greatest obstacles is having the motivation to be consistent with practicing since adult lives are so busy. This app, 2Score, is designed to assist 35 to 65 year olds with building good practice habits. The app takes advantage of the psychology behind a person’s desire to maintain a streak in order to build a habit.  The app tracks musical playing progress, allows the user to internally reflect on their practice through reflection entries and thus, users can see their progress over long periods of time.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/701396394",
-      "Link to your personal portfolio": "https://www.sophielowen.com",
-      "Project link": "https://www.sophielowen.com/2Score",
-      "Theme and keywords":
-        "Ux design, edtech, music, music technology, motivation",
-      "Full name of Guest (first, last)": "Alana Beyer",
-      "Guest's personal cellphone number": "650-714-5052",
-      "Guest's personal email address": "Alana.m.beyer@gmail.com",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 17:45:24",
-      "Email Address": "Linnette Martinez",
-      "Full Name": "Linnette Martinez",
-      "Net ID": "lm4432",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title":
-        "Levan-Techa: Elevating the Cosplay Craft through Technology - Exploration of Transformation & Community through the Art of Cosplay",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Physical Installation Prototypes (cosplay props) and Digital tutorials",
-      "Short project description (one sentence - 500 characters)":
-        "Contributing to a diverse community and filling in a lack of technical knowledge that could assist cosplayers at various levels in elevating their personal artistic expression through cosplay.  A series of easy-to-follow tutorials of physical computing tailored towards beginners and artist that are then applied to the craft of cosplay.",
-      "Discussion Groups": 2,
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=19RZXbQ7QiYLOE4RsMoFaOMFFFDdmZQ1Q",
       "Equipment List":
-        "laptop, SEAT, table space, wheelchair space, small display stands, power cord",
-      "What equipment can you provide?":
-        "wheelchair, laptop, paper gauntlet prototype, cardboard gauntlet prototype",
-      "What equipment do you need to borrow?":
-        "small cones as gauntlet stands (display stands)",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Total: 4ft x 4ft table space: cardboard prototype: 2.5ft height, 1.75ft length, 1.66ft width \t\t\tPaper prototype: 1.5ft height, 1ft length, 1ft width  \t\t\tSpace for laptop: 13in height, 1ft length, 1ft width \t\t\tSample breadboard electronics: 6in length, 6 in width",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "wheelchair access; more open room to show mobile design",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=12gz2cMe3yTWuxkrcdnt7woxnfQnGnI9e",
-      "Social links": "https://www.instagram.com/shadowlinn/",
-      "Long Description of your work (4-6 sentences).":
-        "The concept of interim conquest expressed through attempting something new and embracing one’s journey. I wanted to take my technical knowledge, break it down and make engineering concepts more approachable to artist and creators that would assist in elevating their craft. I achieved this concept by creating a series of easy-to-follow tutorials of physical computing tailored towards beginners and artist that are then applied to the craft of cosplay. I present how I personally applied the electronics taught within the tutorials on my own cosplay prop I have built for thesis: gauntlets based on the character Vi from Arcane. The electronics bring these gauntlets more to life, allowing them to be more convincing to be realistic. \nContributing to a diverse community and filling in a lack of technical knowledge that could assist cosplayers at various levels in elevating their personal artistic expression through cosplay.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "http://linnettemartinez.com/",
-      "Project link": "https://linnettemartinez.com/index.php/levan-techa/",
-      "Theme and keywords":
-        "Cosplay, physical computing, combine art & engineering, wearable technology, tutorials, interim conquest, learning",
-      "Full name of Guest (first, last)": "Maria Rodriguez",
-      "Guest's personal cellphone number": "407-272-6606",
-      "Guest's personal email address": "mrodriguez0592@yahoo.com",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
+        "One screen (if it has a usb port that would be perfect) and headphone set",
+      "What equipment can you provide?": "n/a",
+      "What equipment do you need to borrow?": "Headset",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/20/2022 18:23:25",
-      "Email Address": "Jon Phan",
-      "Full Name": "Jon Phan",
-      "Net ID": "Jp6073",
-      "Project title": "Accelerando!",
+      Timestamp: "5/1/2023 0:44:48",
+      "Email Address": "ach8444@nyu.edu",
+      "Full Name": "Athena Hosek",
+      "Name of Advisor": "Luke DuBois",
+      "Net ID": "ach8444",
+      "Project title":
+        "Magic Melodyland: A VR Playground for Music Education and Composition",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "This is a short and challenging VR rhythm shooter game on the Oculus Quest that doesn't make you motion sick or bored.",
-      "Discussion Groups": 4,
-      "Equipment List":
-        "TV to cast the players perspective hooked up to a laptop or chrome cast. Maybe extra headsets if multiple people want to play at the same time. Small amount of space to stand in.",
-      "What equipment can you provide?":
-        "I've got a laptop, Chromecast, HDMI cable, and headset",
-      "What equipment do you need to borrow?":
-        "Wouldn't mind borrowing a big TV, laptop, and headset so I don't have to bring my personal one.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "The size of a headset... Maybe a 3'x3' square to stand in?",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Not too low light, that might mess with tracking",
-      "Additional notes for the Gallery Manager": "Don't think so",
-      "Profile photo":
-        "https://drive.google.com/open?id=1rbzAbPEUnKedT0lESXgkMxRo4Fw-_xzM",
-      "Social links": "https://www.linkedin.com/in/jonphan",
+        "Magic Melodyland is a VR space in which people of all musical backgrounds can enjoy learning about and composing music. This project is a response to research in the areas of tangible learning, cognition in VR, music education, VR in education, and musical applications of XR technologies.",
       "Long Description of your work (4-6 sentences).":
-        "My thesis is a challenging and replayable VR game that gets you into the flow state quickly through immersion and rhythm. \nI designed a project that would enable me to utlilze my strengths in 3D art as well as explore Unreal Engine development and game design. \nIn this game I designed it to use VR in meaningful interactions  which means that it's an experience you can't get on a tradtitional 2D screen videogame. \nVirtual reality is a very effective platform to quickly immerse someone  but I had to design in ways to solve issues around VR such as motion sickness, discomfort, and more! \nDifficult games can be a way to teach people to enjoy overcoming challenges, I believe that people can learn to enjoy this feeling and in turn, have this mentality to overcome and approach everyday things in their life with this attitude.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
+        "Musical self-expression is a powerful creative practice: it brings about mental clarity and allows one to process complex emotions; it sparks feelings of joy and accomplishment; and it inspires imagination, transporting the mind to new realms. While playing or singing others' works in new ways that make them one's own is very rewarding, there are times when our thoughts or feelings take on new musical shapes and colors on their own, bringing about new musical phrases; while singing or playing those melodies is an accessible form of expression, notating them for future reference is quite challenging for the untrained and/or hobbyist musician. Through educating users about the building blocks of music and providing playful spaces to engage in music creation, this project seeks to allow people of all musical skill and knowledge levels to freely express their musical creativity, thereby making the creative practice that is music composition more accessible.",
+      "Link to your personal portfolio": "http://www.athenahosek.com/",
+      "Project link": "http://www.athenahosek.com/projects/magic-melodyland",
+      "Main Image":
+        "https://drive.google.com/open?id=1QpBPytTqzLPYzJjhdjXZgy6HDCxns0vp",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1IVKt26xcuSEY82Qgt0-MFs-N5dTypv9g",
+      "Thematic Keywords":
+        "virtual reality, extended reality, music, education, composition, game",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)":
-        "https://youtu.be/K6sp96r9vCM",
-      "Link to your personal portfolio": "Jonphan.artstation.com",
-      "Project link": "https://phanman71.github.io/idm/thesis_pp.html",
-      "Theme and keywords": "VR, Game, Rhythm, Shooter",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 18:35:12",
-      "Email Address": "Lauren Busser",
-      "Full Name": "Lauren Busser",
-      "Net ID": "lmb9975",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-      "Project title": "Knitting Grimoire",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Physical Book, Digital Publication, Possible Foam Core installation with artifacts",
-      "Short project description (one sentence - 500 characters)":
-        "This project explores the intersections of knitting, witchcraft, and computation in an attempt to create an accessible way for knitters to access the world of physical computing and wearable electronics.",
-      "Discussion Groups": 2,
-      "Equipment List": "Table, Chair, Book Stand, Magazine Holder",
-      "What equipment can you provide?": "Paperweights",
-      "What equipment do you need to borrow?": "See equipment list.",
+        "https://youtu.be/XzwXUDaU5mo",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        '8.5 by 11" and 5 by 7',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Not that I can think of.",
-      "Additional notes for the Gallery Manager":
-        "My mother is likely coming with to the showcase, if she does she may be on campus early.",
-      "Profile photo":
-        "https://drive.google.com/open?id=1NHB56631XktLF1V2k0Ods_LAW4KfjFfG",
-      "Social links":
-        "https://www.instagram.com/madamedefarge/\nhttps://twitter.com/LaurenBusser",
-      "Long Description of your work (4-6 sentences).":
-        "After creating a knit hat with LED sequins in creative coding, I was interesting in exploring how we might make engineering concepts more accessible to people who felt that they didn't have a knack for science. I was researching knitting and witchcraft, since that was another common theme in my work, and found the two realms had similar histories with how they were depicted and how industrialization and capitalism affected them. The Knitting Grimoire is a first generation attempt at cataloging that relationship with some notes on creating spinning experiments and drafts of knitting patterns that are designed to further engage the knitting community in some basic circuit building concepts.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.laurenbusser.design/",
-      "Project link": "https://www.laurenbusser.design/the-knitting-grimoire",
-      "Theme and keywords":
-        "textile arts, STEAM Education, community and knowledge sharing",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 18:41:20",
-      "Email Address": "Christian Hadjigeorgiou",
-      "Full Name": "Christian Hadjigeorgiou",
-      "Net ID": "ch1992",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Kando",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Immersive VR Experience",
-      "Short project description (one sentence - 500 characters)":
-        "An immersive experience in which players explore 2 different worlds to find memories of a lost loved one.",
-      "Discussion Groups": 4,
+        "I will need a VR play area of at least 3 ft x 3 ft (width and depth).",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1q2930ybDpPLz56Ft_RxVtFEPIToFsC4H",
       "Equipment List":
-        "3 VR-ready laptops, 3 Oculus Quests with Link Cables, 5 pairs of headphones, 1 headphone splitter, 1 TV or projector, if projector, then an empty wall to project, 1 power strip, 1 table.",
+        "Meta Quest 2 VR headset and link cable, VR-ready laptop, a desk/table and a chair, AA batteries (in case the controllers run out of power in the middle of the showcase)",
       "What equipment can you provide?":
-        "I will be providing 1 VR-Ready laptop and 1 Oculus Quest with Link cable, so I will only need 2 more of each. I will also be providing 2 pairs of headphones.",
+        "I can provide the laptop and the link cable, as well as the spare batteries for the VR controllers.",
       "What equipment do you need to borrow?":
-        "2 VR-ready laptops, 2 Oculus Quests with Link Cables, 3 pairs of headphones, 1 headphone splitter, 1 TV or projector, if projector, then an empty wall to project, 1 power strip, 1 table.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "80 square ft of space, or enough so that 2-3 people can play VR (stationary) as well as others to watch a projection",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Audio is very important for this thesis, so if I cannot borrow 3 pairs of headphones, then I will need a quieter place.There will be If I cannot get a TV, then a projection would only work well under low lighting conditions.",
-      "Additional notes for the Gallery Manager":
-        "Is getting a TV possible? Thanks for all your help :)",
-      "Profile photo":
-        "https://drive.google.com/open?id=1o6lp_sG7BPO8mYIWHl4mN9ck2AC3kPCF",
-      "Social links": "https://www.instagram.com/chrishadjiblah/",
-      "Long Description of your work (4-6 sentences).":
-        'People sometimes experience the sentiment of “being moved”, also known as "kandoh" in Japanese, when viewing art, listening to music, or playing a video game.  My goal is to create a VR experience where people can experience kandoh through 3 particular sentiments and ideas which we don’t have direct translations for in English: "saudade", "fernweh", and "mono no aware". After the loss of my grandmother in December 2021, I felt closer to these ideas than ever. Featuring audio clips of my family members, this project serves to describe who my grandmother was, in a fully immersive experience. Not only will players find memories of my grandmother as they peacefully explore the VR environments, but my hope is for them to think back with empathy, nostalgia, and appreciation about their own lives and loved ones of the past, present, and future.',
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://www.youtube.com/channel/UC7pVDERz1C8ttTrKoAhZcDQ",
-      "Link to your personal portfolio": "https://www.christianhadji.com/",
-      "Project link": "www.christianhadji.com/creative/kando",
-      "Theme and keywords":
-        "VR, memory, exploration, peaceful, immersive, nostalgia",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
+        "I will need to borrow a Meta Quest 2 VR headset. I will also need to be provided with a desk/table and a chair (nothing fancy -- the ones we have already on the third floor would work great!).",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "This work is audio focused, so a more quiet space would be ideal.",
+      "Additional notes for the Operations Manager":
+        "I will need to be near an outlet so that I can plug in my laptop (which can also act as the source of power for the VR headset). \n\nI also wanted to mention that I chatted with another student working on a VR project, and while we can't assume how all of the other students creating VR works feel, we both thought it could be nice to have a room dedicated to VR projects!",
     },
     {
-      Timestamp: "4/20/2022 18:57:59",
-      "Email Address": "Ariel Li",
-      "Full Name": "Ariel Li",
-      "Net ID": "zl1784",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Born to Heal",
-      "What kind of form is the work (website, game, vr, etc)":
-        "video / short film",
-      "Short project description (one sentence - 500 characters)":
-        "My thesis project is a mixed reality film portraying my own healing journey living with depression, both the struggle and the hope to be free from suffering with love, compassion, kindness, and forgiveness trying different modalities including meditation, yoga, and psilocybin mushrooms. I integrated live footage shot with digital clips made in UE using volumetric capture. The film uses visual depictions of body movement and poetic imagery that represents various emotions.",
-      "Discussion Groups": "6 (or 3)",
-      "Equipment List":
-        "two chairs, a table, one projector, headphones, ideally a speaker (but I heard I cannot use it?), outlet to charge my computer, a white wall",
-      "What equipment can you provide?": "my laptop, one pair of earphones",
-      "What equipment do you need to borrow?":
-        "a pair of headphones, a projector and its HDMI cable",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "depends on how big the projector screen can be that's at idm, but ideally I need 6.5 feet x 6.5 feet x 6.5 feet cube space, ideally it's an enclosed and dark space that won't be disturbed by others",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "ideally no light (dark space) since i want to use the projector, the work is audio sensitive, I need a quiet space for my audience to experience the work.",
-      "Additional notes for the Gallery Manager":
-        "no thank you - just to conclude that I'd like to have a dark private space with a projector and its HDMI cable to project to a white wall.",
-      "Profile photo":
-        "https://drive.google.com/open?id=1-NbeT3v5AisCzDrsPI0ClGlsmX0CqJA_",
-      "Social links": "https://www.instagram.com/d_bestariel",
-      "Long Description of your work (4-6 sentences).":
-        "As a person who suffers from depression due to childhood separation trauma and other factors, I was looking for ways to alleviate my pain inside. Consistently practicing mindfulness-based meditation and yoga allows me to connect my mind with my body and become more self-aware. I’m also cautiously curious about the psilocybin mushrooms’ potential to heal depression on a deeper level. \n\nI believe that everything we want and need is either already inside us or can be achieved by practice; yoga and meditation are my ways to walk the life path, and the psilocybin mushroom is a very promising tool to illuminate the right pathway we walk towards. \n\nHealing is a life-long journey and Art making is a healing journey within itself. If you’re suffering from pain, I encourage you to look inward. I want you to know that you are not alone and you have the power to heal yourself. \n\nMay you be free from suffering. May you have joy and happiness.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "trailer of the film - https://youtu.be/CWCGKC-OYs8; project explanation - https://youtu.be/d8GQNF3lc-E",
-      "Link to your personal portfolio": "http://arielzli.art",
-      "Project link":
-        "https://drive.google.com/drive/folders/1Y6NR4uH-JlHorOtMpZnnYPRok7VGml9s?usp=sharing",
-      "Theme and keywords":
-        "healing, depression, yoga, mindfulness, meditation, awareness, psilocybin mushrooms, psychedelics, kindness, self-love, inner child",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 19:21:23",
-      "Email Address": "Alexis Ellis",
-      "Full Name": "Alexis-Rose Ellis",
-      "Net ID": "tae8896",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Flipspace",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Online Learning Platform (Web App)",
-      "Short project description (one sentence - 500 characters)":
-        "A redesign of the online learning platform to make online education more accessible to college students with ADHD by supporting flipped classrooms and active learning techniques.",
-      "Discussion Groups": "1 (or 2 or 5)",
-      "Equipment List": "Computer",
-      "What equipment can you provide?": "N/A",
-      "What equipment do you need to borrow?": "Laptop or iMac",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "This is a video, dimensions dependent on display hardware. The ideal monitor dimensions are 2560×1600",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1wv3aCgGo7v5jT--sygI8srlhuvrcJ07q",
-      "Social links":
-        "https://www.linkedin.com/in/alexis-rose-ellis-297443105/",
-      "Long Description of your work (4-6 sentences).":
-        "Learning online provides a different set of challenges than in-person learning. For students with cognitive disabilities like ADHD, these challenges become barriers to their education.\n\nFlipspace is a new online learning platform that aims to make online education more accessible to college students with ADHD and provide students with better learning experiences. The online learning platform was designed to support strategies like flipped classrooms and active learning techniques to allow more interaction in the classroom and engage students. Flipspace provides tools that help take the stress of organizational structure off the students and get them back to focusing on what’s important, learning.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.alexis-ellis.com/",
-      "Project link": "https://www.alexis-ellis.com/flipspace",
-      "Theme and keywords":
-        "Online Education, College Students, ADHD, Flipped Classrooms",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 19:38:57",
-      "Email Address": "Lilly Lin",
-      "Full Name": "Lilly Lin",
-      "Net ID": "ll4466",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "ABC",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters)":
-        "ABC is an ongoing exploration of bicultural identity through typography framed through my own experiences and kinetic typography experiments.",
-      "Discussion Groups": "5 (or 3)",
-      "Equipment List": "a chair, a monitor, table space, a power outlet",
-      "What equipment can you provide?":
-        "i can bring my laptop but the screen is kinda small and also dirty lol",
-      "What equipment do you need to borrow?":
-        "a chair, a monitor, table space, a power outlet",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "my work is digital so the dimensions will be whatever monitor screen i'm able to display it on - if my laptop, that would be a 13 inch macbook pro",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo":
-        "https://drive.google.com/open?id=1riDRqhWUEyBtyhVspwqnktS8bLZFKq2z",
-      "Social links": "https://www.linkedin.com/in/lilly-lin-536b53197/",
-      "Long Description of your work (4-6 sentences).":
-        "“ABC” is a visual essay that documents a reflection of my own journey with navigating my cultural identity as a Chinese-American, from a rigid, black and white conception of Chinese vs American identity to a more fluid and dynamic conception of both. The essay documents a brief history of Chinese typography in America alongside a series of kinetic typography experiments. Stereotypes, even seemingly small and harmless ones like those built through typographic elements, build an inaccurate view of the ethnic group they are meant to represent. Although increasingly violent and more prominent in these recent years, racism towards Asian people based on these stereotypic and shallow representations is not new! Typography is just one way that history has shown this. “ABC” tries to show how typographic representation can be bilingual and increasingly diversified, and encourages the viewer to think about the connotations of “ethnic” type.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.lillyylin.com/",
-      "Project link": "https://lillylin998.github.io/abc/",
-      "Theme and keywords": "identity, typography, p5.js",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 19:48:01",
-      "Email Address": "Stella Widjaya",
-      "Full Name": "Stella Widjaya",
-      "Net ID": "sw4832",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Breaking Mental Health Stigma through Mind Sauna",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Installation/Product/Performance",
-      "Short project description (one sentence - 500 characters)":
-        "Mind Sauna is designed to bring light on the occurring phenomena relating to mental health stigma among the Asian community. Conversing about emotional issues is seen as taboo, a shame that lets down the entire community, thus why Asians are the least among other populations to seek professional help. It is a portable headgear that can provide a momentary safe space for the mind to be vulnerable, as a step prior to psychotherapy for those who still find the concept foreign and intimidating.",
-      "Discussion Groups": 6,
-      "Equipment List": "A small dark room (can use one of the phone booths)",
-      "What equipment can you provide?":
-        "Headset, Laptop, Yoga mat, Eye covering",
-      "What equipment do you need to borrow?":
-        "Just a room to display the installation as the experience needs to be in a dark room",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        'W 18" x D 18" x H 12" (the product/installation itself); W 18" x D 72" x H 18" (for the experience when a single user is laying down)',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Dark room that allows one person to lay down comfortably, and rather quiet",
-      "Additional notes for the Gallery Manager": "No, just the small room",
-      "Profile photo":
-        "https://drive.google.com/open?id=1-MbWoaLSnSQ0WHKTa8hatGWYMvEUymjQ",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "Being brought up in a quintessential traditional Asian family, we typically do not converse about our emotional issues as it is considered taboo, weakness, and shame that let down the entire community. This cultural pressure silences us and eventually develops into a generational trauma, which is the reason why according to many scientific studies, Asians are the least among other populations to seek help when it comes to mental health. In addressing this matter, I believe it is necessary to configure a step prior to professional psychotherapy as for some of us, the concept is rather foreign and intimidating. In light of breaking this mental health stigma, Mind Sauna is designed in the form of a portable headgear aiming to provide a momentary safe space for the mind to be vulnerable. This 10-minutes long curated meditative experience consists of an interior illuminated skylight with hues subtly changing sequentially, along with an integrated earpiece playing a compilation of other people’s stories on their mental health journeys that allows users to connect emotionally and realize that they are not alone with their problems. The whole experience is hoped to become a source of encouragement where one can find a sense of belonging in the midst of their beautiful mess and be more open-minded towards the practice of psychotherapy in the future.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "http://stellawidjaya.com",
-      "Project link": "https://www.stellawidjaya.com/mind-sauna",
-      "Theme and keywords":
-        "Mental Health Stigma, Vulnerability, Psychotherapy, Sound Mediation, Sharing, Performance, Installation",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 19:54:43",
-      "Email Address": "Mengmeng Chen",
-      "Full Name": "Mengmeng Chen",
-      "Net ID": "mc8192",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Petbook",
-      "What kind of form is the work (website, game, vr, etc)": "App",
-      "Short project description (one sentence - 500 characters)":
-        "Petbook is an app that help purebreed pet parents care their pets easier and better.",
-      "Discussion Groups": "1 (or 6)",
-      "Equipment List": "my personal laptop, tablet, phone",
-      "What equipment can you provide?": "my personal laptop",
-      "What equipment do you need to borrow?": "no",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It is digital. I just need a space for me and my laptop",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "no",
-      "Profile photo":
-        "https://drive.google.com/open?id=1knU7A_qpwGg-VnhopBGd_qKPg44Y9q3r",
-      "Social links": "https://www.linkedin.com/in/mengmeng-chen-323884164/",
-      "Long Description of your work (4-6 sentences).":
-        "The idea of this thesis was born after an unexpected and unfortunate turn of events. My new adopted 6-month old British shorthair cat was supposed to undergo a trivial spay surgery. My ultimate goal of my thesis lies in synthesizing suggestions for product design that would provide a complex solution for purebred pets’ health issues. \nPetbook makes daily care and after surgery care easier by providing a place to record and monitor you routine, tasks every time. Vet curated Resouces are Here for pet parents learn more about their health. The community page allow pet parents to communicate with other pet parents.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "chenmengmeng.com",
-      "Project link":
-        "https://www.figma.com/proto/Ec1TpQc6tEw5A2BimdNeAD/Petbook_phototype?node-id=4%3A4231&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A4231&show-proto-sidebar=1",
-      "Theme and keywords":
-        "UX design, App design, mobile, pet health care, purebreed pet health,",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 22:27:27",
-      "Email Address": "chingshuan hsiao",
-      "Full Name": "Chingshuan Hsiao",
-      "Net ID": "csh444",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Neverisland",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Mixed Reality Experience",
-      "Short project description (one sentence - 500 characters)":
-        "Neverisland is a healing/entertaining interactive experience that raises an adult's happiness based on the Mixed Reality immersive environment by integrating the natural environment and nostalgia components.",
-      "Discussion Groups": "6 (or 4)",
-      "Equipment List":
-        "Projector to play the demo video, Magicleap Glasses, Laptop, Table or white Pedestal( around height 3ft+3.3in, length&width over 1ft+12in)",
-      "What equipment can you provide?": "Magicleap Glasses",
-      "What equipment do you need to borrow?":
-        "Projector, Table or white Pedestal, Laptop",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "I need a corner space. Width, depth: 11ft+5.7in  Height: 6ft+6.7in",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Enough light source(need to scan surrounding meshes inside glasses), enough empty corner space",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links":
-        "Instagram: https://www.instagram.com/lilin40933/    \nLinkedIn: https://www.linkedin.com/in/chingshuan-hsiao",
-      "Long Description of your work (4-6 sentences).":
-        "Neverisland is a healing/entertaining interactive experience that raises an adult's happiness based on the Mixed Reality immersive environment by integrating the natural environment and nostalgia components. \nThe motivation for my thesis is my personal experience with mental stress caused by Covid-19 and a more broad aspect related to the global mental severe health issue among adults. In recent years, the impact of chronic stress on mental disorders has become the subject of many studies.  Emotional pressure has become a high-frequency word used in modern society. It is an unavoidable psychological state that everyone is facing. In particular, the global pandemic has exacerbated people's psychological pressure in the past two years. The outbreak of COVID-19 has seriously affected many aspects of people's daily life. Coronavirus not only attacks our bodies but also affects people's mental health in many ways. Therefore, I desire to make an entertaining interactive experience to help more people like me who are under stress to relieve themselves by combining nature and nostalgia aspects.\n           This world is set on floating islands with a low poly style. Experiencers can choose to land on any island to experience different interactive stages. For each island’s experience content, I include these nostalgia factors that can evoke nostalgic memories in most people globally and the natural environment and let players interact with and have many kinds of experiences.\n          This project is developed in Unreal with Magicleap Glasses using Mixed Reality technology. Users can experience and interact with Neverisland in their familiar physical space instead of a completely virtual environment. By comprehensively blending both physical and digital realities, MR is able to build new levels of engagement and immersiveness.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/701475508",
-      "Link to your personal portfolio": "chingshuanhsiao.com",
-      "Project link": "lily-neverisland.com",
-      "Theme and keywords":
-        "Mixed Reality, Happiness, Immersive Experience, Interactive experience, Relieve Stress, Entertaining, Nostalgia, Magicleap",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 19:59:51",
-      "Email Address": "Leigh Fisher",
-      "Full Name": "Leigh Fisher",
-      "Net ID": "lf1700",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "The Wildwood of Thought",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Web-based interactive literature",
-      "Short project description (one sentence - 500 characters)":
-        "The Wildwood of Thought is a web-based work of interactive literature that explores the importance of practicing self-introspection to discover what you truly want out of life. It is a creative non-fiction novella exploring the author's life and her long work history, going all the way back to illegally working as a child cleaning boats and how growing up in extreme poverty impacted all her future decisions.",
-      "Discussion Groups": 3,
-      "Equipment List":
-        "I would love to get a large monitor or TV screen or computer monitor so that users can go through the experience comfortably.",
-      "What equipment can you provide?":
-        "My laptop to connect to the larger screen and peripherals.",
-      "What equipment do you need to borrow?":
-        "A large monitor or TV screen, mouse, keyboard",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It's a web-based work, but I'd love to display it on a big screen so that people can read the text and kinetic typography easily.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Not really.",
-      "Additional notes for the Gallery Manager":
-        "Thank you for coordinating! :) I know this is a ton of work and just wanted to say that you're awesome for making this show happen.",
-      "Profile photo":
-        "https://drive.google.com/open?id=1gvTkKQgTgEbZ0W_7w2mIusxY3hHUc-K9",
-      "Social links":
-        "Medium: https://medium.com/@sleeplessauthor\nLinkedIn: https://www.linkedin.com/in/leigh-fisher-765041b4/\nTwitter: https://twitter.com/sleeplessauthor\nFacebook: https://www.facebook.com/SleeplessAuthoress",
-      "Long Description of your work (4-6 sentences).":
-        "The Wildwood of Thought exists because I misguidedly believed that since I spent so much time in my head, I knew myself perfectly, and I understood everything I wanted out of life. But over the years of working and narrowly avoiding living out of my car as I established my career, I realized that there was so much more to discover and unpack within myself. \n\nThis is an interactive non-fiction novella meant to push the boundaries of the types of stories we tell in multiform literature. It's for anyone who is struggling to escape toxic situations and establish their lives, their careers, and their future hopes.\n\nMechanically, it is an interactive non-fiction novella that harnesses kinetic typography and simple visual elements to enhance the message. It plays on traditional tactics of interactive fiction like decision-making by presenting difficult real-life situations where choice is only an illusion.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg 2.jpg, 3.jpg, 4.jpg, 5.gif",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio":
-        "https://www.instagram.com/sleeplessauthoress/",
-      "Project link":
-        "https://drive.google.com/drive/folders/1DGXhpMXhlZq9b9uVnefODmdHbXwegvDb?usp=sharing",
-      "Theme and keywords":
-        "Interactive literature, writing, typography, kinetic typography, motion graphics, non-fiction, autobiographical, novella",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-    {
-      Timestamp: "4/20/2022 20:31:41",
-      "Email Address": "Ran Luo",
-      "Full Name": "Ran Luo",
-      "Net ID": "rl3634",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
-      "Project title": "Neither a Cyborg, Nor a Goddess",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Wearable installation + VR",
-      "Short project description (one sentence - 500 characters)":
-        "With wearable technology and VR, this project is a refashioned device that seeks to destabilize systemic patriarchal control over the female body, and to regenerate power and autonomy on a more fluid panorama of non-binary realities.",
-      "Discussion Groups": "3 (or 4)",
-      "Equipment List": "Installation materials, Monitor, Stand",
-      "What equipment can you provide?": "Installation materials, Laptop",
-      "What equipment do you need to borrow?": "Monitor, Stand",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "30 x 20 x 20",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Low light and an individual stand where I could put my device on would be perfect",
-      "Additional notes for the Gallery Manager": "",
-      "Profile photo": "",
-      "Social links": "",
-      "Long Description of your work (4-6 sentences).":
-        "What does it mean, nowadays, to claim to be a cyborg? Taking Donna Haraway’s cyberfeminist theories as a point of departure, I seek to interrogate the cyborg myth at our current technoscience-power nexus not on a rather/than premise, but to deconstruct this epistemological dichotomy from a more Marxist-socialist perspective with respect to vernacular stories told by Women of Color, more specifically, Chinese women. Here, I offer some preliminary and speculative thoughts on how I intend to better articulate my own construct of a cyborg identity by analyzing the dynamics between politics of gender, body, and other identity markers entangled in the combined fields of social constructivism, technology, and aesthetic practices in fashion design. In an effort to re-appropriate aesthetic norms with wearable technology and virtual reality, this thesis project is a refashioned head-mounted device to help destabilize systemic patriarchal control over the female body and to regenerate power and autonomy on a more fluid panorama of non-binary realities.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "www.ranlaurenluo.com",
-      "Project link": "www.ranlaurenluo.com",
-      "Theme and keywords": "Cyberfeminism, Wearable, VR, Fashion, HMD",
-      "Full name of Guest (first, last)": "",
-      "Guest's personal cellphone number": "",
-      "Guest's personal email address": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-    },
-    {
-      Timestamp: "4/20/2022 21:33:53",
-      "Email Address": "Victoria Anderson",
-      "Full Name": "Victoria Anderson",
-      "Net ID": "va29",
-      "What year are you?": "Final Year Grad (Thesis Project)",
-
+      Timestamp: "3/13/2023 23:07:05",
+      "Email Address": "ab10302@nyu.edu",
+      "Full Name": "Auset Brown",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "AB10302",
       "Project title":
-        "Crafting & Labor: An investigation of the e-commerce giant, Etsy",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
+        "Tech and Our Aging World: A Study of The Older Generation’s Relationship with Computer Technology and How to Bridge the Gap of Knowledge",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "This project is an investigation of the e-commerce giant, Etsy.",
-      "Discussion Groups": "5 (or 1)",
-      "Equipment List": "Just a bit of space on a table",
-      "What equipment can you provide?":
-        "I can provide a laptop and headphones",
-      "What equipment do you need to borrow?": "Just a table!",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "Profile photo": "",
-      "Social links": "",
+        "This project is titled “ Tech and Our Aging World: A Study of The Older Generation’s Relationship with Computer Technology and How to Bridge the Gap of Knowledge.” It seeks to identify the challenges experienced with computer technology by individuals between the ages of 60 - 71 yrs that hold no background in a the tech field The final outcome of this project will be to present a tech-based art installation that will create awareness and influence more inclusivity in future technology. In this installation, you will be able to immerse yourself in the experiences of multiple individuals through visual and interactive stimulations. These experiences will be of those directly impacted by the rapid advancement of technology in order to create a sense of urgency that shifts the focus back to designing tech that serves the needs of all.",
       "Long Description of your work (4-6 sentences).":
-        "Crafting and selling handmade goods sits in contrast to contemporary manufacturing at scale. In the past it was also thought to be an alternative to capitalist modes of production. Etsy makes a public commitment to support small scale handmade sellers but does their marketing and branding match their current practices? In this project, I have created a series of speculative design interventions that explore the ways in which Etsy could support small scale handmade sellers.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
+        "My project installation was created to increase awareness of the challenges that older adults encounter while using computer technology. This work allows visitors to use their sense of touch, sight, and hearing to immerse themselves into the stories and experiences of the individuals impacted by the rapid changes of technology. The idea for this project was inspired by my grandmother after she shared stories with me about her hands became the way they are. I thought her story was powerful and impactful. It motivated me to build upon this inspiration as well as include her as the main image of the work.",
+      "Link to your personal portfolio": "https://www.quitefranklyetc.com/",
+      "Project link": "https://www.quitefranklyetc.com/thesis",
+      "Main Image":
+        "https://drive.google.com/open?id=1FcdsVOo0ZADyMGnpSRofe_d4RVNPW_Mg",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1Avuy6DDEo2HYjobrSHtp8DxnGTnaKo3s",
+      "Thematic Keywords":
+        "Inclusivity, Older Adults, Accessibility, Exploratory research,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-      "Link to your personal portfolio": "https://www.victorianderson.com/",
-      "Project link": "https://www.victorianderson.com/thesis",
-      "Theme and keywords":
-        "labor, supply chains, service design, speculative design",
-
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-    },
-
-    /* ----- SENIOR ----- */
-
-    {
-      Timestamp: "4/11/2022 11:27:55",
-      "Email Address": "ss11763@nyu.edu",
-      "Full Name": "Steffanie Schron",
-      "Net ID": "ss11763",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Food for the Soul",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UI/UX app prototype",
-      "Short project description (one sentence - 500 characters )":
-        "Combination of the Tasty App and Spotify to learn new recipes while discovering new music",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "The measurements of my photos will likely be 36 x 24",
+      "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
-        "Maybe a monitor? Not sure how UI/UX projects are displayed",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "None? It's an iPhone app prototype",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://steffanieschron.cargo.site/",
-      "Project link":
-        "https://www.figma.com/proto/3LVCNgHyPJJqwIigRHIBL0/Senior-Project---Food-for-the-Soul?node-id=41%3A163&scaling=scale-down&page-id=0%3A1&starting-point-node-id=41%3A365&show-proto-sidebar=1",
-      "Long Description of your work (4-6 sentences).":
-        "When I moved into my apartment, all it had was a mini fridge, a microwave, and a hot plate. I cook a lot since I can't fit much in my fridge at a time, and I listen to music while I do everything, especially the customized playlists on spotify, such as discover weekly & release radar. I use the tasty app and spotify a lot, and I really like both, so I thought, why not combine two things that I love & use all the time? When I was doing research for my project, I noticed that people love listening to music, especially while doing other things, but are hesitant to try cooking. I then thought that maybe combining something that people are hesitant to try with something they love might encourage them to try something new.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "food, cooking, music, spotify, tasty",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Ikpi9jbLECzaQTGBjpKkBYO3K_8212A-",
-      "Social links": "Instagram: @steffi_aaaaa and @_b_rollin",
-      "Link to any video content (Vimeo / YouTube)": "",
+        "Satin or cotton cloth to use as the background for where the photos are being hung up.",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        'I\'d like to have my installation presented in an area with low light with specific "spot lights" at the top of each row of photos to highlight intensity.',
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/11/2022 16:20:15",
-      "Email Address": "omb255@nyu.edu",
-      "Full Name": "Olivia Bloom",
-      "Net ID": "omb255",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Swatched",
+      Timestamp: "4/30/2023 23:45:41",
+      "Email Address": "bm3215@nyu.edu",
+      "Full Name": "Bhavya Mulukuri",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "bm3215",
+      "Project title": "What you don’t see Does hurt her",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)":
-        "Figma Website Prototype",
-      "Short project description (one sentence - 500 characters )":
-        "An exploratory website for new designers to learn about the craft traditions behind 18th century textiles in France, England, and Italy.",
-      "Equipment List": "n/a, just need my own laptop",
-      "What equipment can you provide?": "my own laptop",
-      "What equipment do you need to borrow?": "n/a",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        'Laptop screen (approx 10-16" by 10")',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "nope",
-      "Additional notes for the Gallery Manager": "n/a",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.oliviamichellebloom.com/",
-      "Project link":
-        "https://www.figma.com/proto/sdYReIHxeHb0QXEWxLLcQS/Swatched?page-id=335%3A1669&node-id=335%3A1736&scaling=contain&starting-point-node-id=335%3A1736",
+        "AR art gallery",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        '“What you don\'t see does hurt her” is an Augmented Reality Art gallery that shines a light on the unseen struggles and roulette of emotions experienced by someone living life with a chronic illness.\nInvisible or chronic illnesses are generally chronic conditions with debilitating pain and fatigue symptoms that can’t be easily recognized just by looking at someone. Which is what makes these individuals prone to invalidation by the people in their lives.\n\nWhile the idea of a "normal" life is a subjective construct to begin with, to a person suffering from a chronic disease to be "normal" is far from reality. \n\nThis interactive installation uses the medium, augmented reality, as a metaphor. An attempt to highlight the fact, ‘how an individual with an invisible illness may come across is in fact usually not their reality.’\nEach piece of art appears “normal” until it is scanned by the viewer. By scanning each piece the viewer will get to listen to an audio narration and view animations in Augmented reality. The layers reveal complex emotions and struggles an individual with a chronic illness goes through to fit in and how it affects them.\n\nAs someone who has been struggling with chronic illnesses from the age of 14, this gallery is partly a step in self acceptance and expression. For years, I have never been open about my struggles and have been invalidated time and again. This project is a way for me to own my narrative and speak up. But more so, my attempt to reach out to at least one other person and make them feel less alone. To convey the difficulties and chaos an individual with a chronic illness might experience to someone who doesn\'t know. So maybe, they\'d be moved to be kinder and more understanding if they were to come across someone suffering from one. So maybe, they’d choose the right words and forms of support to help someone in need.',
       "Long Description of your work (4-6 sentences).":
-        "The topic for this project came from my interests in fashion history, interior design, and material culture, and I wanted to find a way to celebrate craft traditions and inform people about the art and labor that went into producing textiles before the Industrial Revolution. To do that, I decided to apply the technical, digital skills I’ve learned at IDM and create a visually-focused, exploratory website concept that bridged the gap between an information database and a museum exhibition.  By laying out all of the swatches on a single page, I want visitors to feel excited and encouraged to begin clicking, learning, and enjoying the stimulation that materials and patterns can bring to the senses, even in a digital format. To encourage that immersive feeling, I designed the site itself to emulate a swatch book, which tailors and dressmakers would bring to clients throughout the 15th-18th centuries so that they could order garments and furniture in their desired fabrics. This project brings together what I love about physical items and workmanship with what I’ve learned at NYU regarding formal design and creating online experiences.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
-      "Theme and keywords":
-        "textile, history, craft, database, research, website, exploratory, France, Italy, England, 18th century",
-      "Profile photo":
-        "https://drive.google.com/open?id=1AYyCLQHtOhX2Y-QikPuEF3Nfzxnk0aCG",
-      "Social links": "https://www.instagram.com/__swatched__/",
+        "This interactive installation uses the medium, augmented reality, as a metaphor. An attempt to highlight the fact, ‘how an individual with an invisible illness may come across is in fact usually not their reality.’\nEach piece of art appears “normal” until it is scanned by the viewer. By scanning each piece the viewer will get to listen to an audio narration and view animations in Augmented reality. The layers reveal complex emotions and struggles an individual with a chronic illness goes through to fit in and how it affects them.\n\n\nAs someone who has been struggling with chronic illnesses from the age of 14, this gallery is partly a step in self acceptance and expression. For years, I have never been open about my struggles and have been invalidated time and again. This project is a way for me to own my narrative and speak up. But more so, my attempt to reach out to at least one other person and make them feel less alone. To convey the difficulties and chaos an individual with a chronic illness might experience to someone who doesn't know. So maybe, they'd be moved to be kinder and more understanding if they were to come across someone suffering from one. So maybe, they’d choose the right words and forms of support to help someone in need.",
+      "Link to your personal portfolio":
+        "https://bhavyamulukuri.wixsite.com/website",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1T_sIEU6WPxVEyPGjG9zrZbHCwFChMgCf",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1fGdAWH5J3iAPBT1Cdrd74nULvaopotPC",
+      "Thematic Keywords": "Augmented Reality, Chronic Illness, Disability",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "NA",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1GOc7LhXnyTNNqPsNL_HE8jax_BHuVVho",
+      "Equipment List": "iPads, headsets",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "iPads, headsets",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "NA",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/12/2022 23:23:28",
-      "Email Address": "nk2638@nyu.edu",
-      "Full Name": "Nandita Kohli",
-      "Net ID": "nk2638",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Grief Garden",
-      "What kind of form is the work (website, game, vr, etc)":
-        "VR Installation",
-      "Short project description (one sentence - 500 characters )":
-        "With the Covid-19 pandemic entering its third consecutive year, millions have lost loved ones. Many have been unable to create proper burials and attend proper funerals for all whom we have lost. Amongst economic hardships, a deadly disease, and the anxiety of the next day in isolation, many have been unable to take time to process the depths of their losses and properly grieve. I want to be able to provide a space for this with my project.",
+      Timestamp: "4/28/2023 18:22:23",
+      "Email Address": "bcp3627@nyu.edu",
+      "Full Name": "Branden Potter",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "bcp3627",
+      "Project title": "Patient Hero: The ER in VR",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I’m creating a virtual reality (VR) application that will help people who have avoided seeking medical attention, who want to develop a better bond with their healthcare providers, and for those looking to learn about the process of going to the Emergency Department. I will incorporate elements of gamified learning and virtual reality exposure therapy (VRET).",
+      "Long Description of your work (4-6 sentences).":
+        "This was created in in Unity using multiple programs such as Blender, Daz3D, Visual Studio, Unity Asset Store, and used many different plugins. The application was coded in C# and the VR was designed and coded with the XR Interaction Toolkit 2.0. A medical doctor and medical researcher helped me figure out how to make the application more realistic and helpful for patients. My hope is that this can be used at many different hospitals.",
+      "Link to your personal portfolio":
+        "https://brandenpotter.myportfolio.com",
+      "Project link": "https://patienthero.info",
+      "Main Image":
+        "https://drive.google.com/open?id=1kyWHadw4uyCN1zNJAzRWoK6c8IivJ9g4",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1MC_YkTq3P9kYalIio4C1W-ievQLdyda3",
+      "Thematic Keywords":
+        "virtual reality,vr,oculus quest 2,meta,unity,hospital,patients,nurse,games,learning",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1I7geV1xfv0R4_8D4EAHPzP3Q_RzqeP8n",
       "Equipment List":
-        "VR Oculus headset, space for installation of flowers and plants",
-      "What equipment can you provide?": "Laptop, physical plants and bottles",
-      "What equipment do you need to borrow?":
-        "Oculus VR headset, space to set up",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Small space for people to move around in VR, tables for flowers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "low, relaxing lighting",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.nanditakohli.com/",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-codeofmusic/",
-      "Long Description of your work (4-6 sentences).":
-        "In my project I am exploring new ways to deal with grief and create space for transforming what we have lost into something memorable and beautiful. I want my piece to feel hopeful and make people understand that with all that is lost, there is still hope, positivity, growth, and rebirth. A conversation I am trying to have with my project is -- how can we honor those who have passed in this deadly disease? How can we take time in our lives to properly process our grief and the lessons that come with it while still remaining hopeful? How have we as a capitalistic society normalized grief and perhaps under prioritized processing the traumas that come with it?",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "grief, mental health, VR, installation, sustainability, flowers",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
+        "Table, chairs, long extension chord, circuit, surge protector outlet, any type of monitor with hdmi to display video.",
+      "What equipment can you provide?": "laptop, headset",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/14/2022 14:22:55",
-      "Email Address": "jt2988@nyu.edu",
-      "Full Name": "Jason Tsao",
-      "Net ID": "jt2988",
+      Timestamp: "2/27/2023 13:07:35",
+      "Email Address": "bed294@nyu.edu",
+      "Full Name": "Bridget Daugherty",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "bed294",
+      "Project title": "Dingo Defeats Depression",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "Plumeria Cookware",
       "What kind of form is the work (website, game, vr, etc)":
-        "Website/brochure/flyers mockup",
-      "Short project description (one sentence - 500 characters )":
-        "A comprehensive mix of visual elements for my self-start cookware brand Plumeria.",
-      "Equipment List": "Big screen/projector",
-      "What equipment can you provide?": "laptop and printed material",
-      "What equipment do you need to borrow?": "non",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "20 by 20 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Non",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://jason-tsao.squarespace.com",
-      "Project link": "non",
+        "educational module",
+      'If you selected "Other", please write your description below:':
+        "Online educational module",
+      "Short project description (one sentence - 500 characters)":
+        "The goal of my project is to understand how supplemental web-based intervention for children with clinical depression can result in a better understanding of cognitive behavioral therapy as compared to traditional therapy. I focused specifically on an interactive, story-based web module to teach children and adolescents about depression and healthy coping mechanisms. It is important to note that this technology is meant to be part of a built-out treatment plan from a registered psychiatrist.",
       "Long Description of your work (4-6 sentences).":
-        "As passionate home cook myself. I want to start a cookware brand that inspires home cooks to become more creative and raise the awareness of living healthily through their unique experiences of living with my products.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Cookware, design, sustainability",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/15/2022 21:52:17",
-      "Email Address": "rs6460@nyu.edu",
-      "Full Name": "Ruiqi Song",
-      "Net ID": "rs6460",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Qilin's Fantasy",
-      "What kind of form is the work (website, game, vr, etc)": "3D models",
-      "Short project description (one sentence - 500 characters )":
-        'A collection of figures representing "me" in different games and movies.',
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
+        "The goal of my project is to understand how supplemental web-based intervention for children with clinical depression can result in a better understanding of cognitive behavioral therapy as compared to traditional therapy. I focused specifically on an interactive, story-based web module to teach children and adolescents about depression and healthy coping mechanisms. It is important to note that this technology is meant to be part of a built-out treatment plan from a registered psychiatrist.",
       "Link to your personal portfolio":
-        "https://wp.nyu.edu/tandonschoolofengineering-senior_project/",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-senior_project/",
-      "Long Description of your work (4-6 sentences).":
-        "My project is a collection of 6 models that present my personal virtual avatar in the context of popular video games and movies. I began playing video games when I was four years old. Among those games I especially enjoyed playing MMORPGs because I can design and cultivate my own characters in the game. With my educational experience I dreamt of being a game developer. When I deepened my knowledge into 3D design, I specified that goal into avatar design for games. With the dream of being inside a game and applying my 3D skills I decided to make this project.",
-      "Main Image": "main.jpg",
+        "https://bridgetdaugherty.myportfolio.com/",
+      "Project link": "",
+      "Main Image": "",
       "Supplementary Images": "",
-      "Theme and keywords": "3D models & figures & games",
-      "Profile photo": "",
-      "Social links": "",
+      "Thematic Keywords":
+        "educational technology, psychology, online education, interaction design, mental health",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1A2i-_KFLV-b9f2m8Xh8s4r4ZLS8_QPh3",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/16/2022 21:54:52",
-      "Email Address": "ryl262@nyu.edu",
-      "Full Name": "Raymond Lin",
-      "Net ID": "ryl262",
+      Timestamp: "3/1/2023 14:13:51",
+      "Email Address": "cmc1292@nyu.edu",
+      "Full Name": "Caroline Cheung",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "cmc1292",
+      "Project title": "UX Project (Name TBD)",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "Bare Bones",
-      "What kind of form is the work (website, game, vr, etc)": "Music Video",
-      "Short project description (one sentence - 500 characters )":
-        "A music video that's pretty bare bones!",
-      "Equipment List": "Laptop, headset/headphones",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "Headphones",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "The size of my laptop I guess, 15 inches by 1 foot",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "With headphones, noisy atmosphere shouldn't be too much of an issue",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio":
-        "https://ryl262.wixsite.com/senior-project-proce",
-      "Project link": "https://ryl262.wixsite.com/senior-project-proce",
-      "Long Description of your work (4-6 sentences).":
-        "For this project, I am exploring the boundaries of my creativity, from the realm of tangibility and solid objects to the corner where nothing can be perceived by the eyes of man. I wish to provide a wonderful time for those who may stumble upon my creation on happenstance, a truly unique experience. This is my passion, this is my creative love, and this what I envisioned as my senior project. I can't say what inspired, nor can I say why, all I can say is that I followed the idea within my head that seemingly sprung from nowhere and now this is how far I have come.",
-      "Main Image": "main.jpg",
+        "https://carolinecheung.myportfolio.com/",
+      "Project link": "",
+      "Main Image": "",
       "Supplementary Images": "",
-      "Theme and keywords": "Music Video, 3D, Animation",
-      "Profile photo": "",
-      "Social links": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/17/2022 1:19:10",
-      "Email Address": "mw3981@nyu.edu",
-      "Full Name": "Michelle Wong",
-      "Net ID": "mw3981",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Dive into Filter Culture",
-      "What kind of form is the work (website, game, vr, etc)": "website",
-      "Short project description (one sentence - 500 characters )":
-        "A website exploring the effects of filters on female teenagers and young adults.",
-      "Equipment List": "laptop",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "13 X 12 X 1",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "none",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://michellewong.me",
-      "Project link": "https://ornate-haupia-880cdc.netlify.app",
-      "Long Description of your work (4-6 sentences).":
-        "I was interested in this topic because I use beauty filters a lot on social media and have noticed myself experiencing facial dysmorphia. I wanted to create a website to explore the effects of beauty filters on its users using studies done from researchers as well as my own survey. This website is for teenage girls and young women. The goal of this website is to start a conversation about beauty filters as they become the norm on social media platforms.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "beauty-filters, filters, website",
-      "Profile photo": "",
-      "Social links": "LinkedIn: https://www.linkedin.com/in/michellewong0/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/17/2022 17:41:52",
-      "Email Address": "hl3352@nyu.edu",
-      "Full Name": "Hui Li",
-      "Net ID": "hl3352",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Quexing",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Figma Prototype",
-      "Short project description (one sentence - 500 characters )":
-        "We are creating a sex educational website for Asian women called 确性 Quexing. Quexing focuses on facts about birth control and some common misunderstandings about contraception. In Asia, adolescents generally lack comprehensive and correct reproductive health knowledge because teachers and parents are embarrassed to talk about sex on a daily basis which can be resolved by our platform in creating a safe and open space for people to have comfortable conversations about sex.",
-      "Equipment List": "none",
-      "What equipment can you provide?": "laptops",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "none",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "none",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://victoriali.cargo.site/",
-      "Project link":
-        "https://www.figma.com/file/FeeKIfjPitNos50cO4zbtk/Wireframe-alpha?node-id=0%3A1",
-      "Long Description of your work (4-6 sentences).":
-        "We are creating a sex educational website for Asian women called 确性 Quexing. Quexing focuses on facts about birth control and some common misunderstandings about contraception. In Asia, adolescents generally lack comprehensive and correct reproductive health knowledge because teachers and parents are embarrassed to talk about sex on a daily basis which can be resolved by our platform in creating a safe and open space for people to have comfortable conversations about sex.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "sex education, contraception, UI/UX",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/17/2022 17:41:53",
-      "Email Address": "tz1168@nyu.edu",
-      "Full Name": "Tao Zheng",
-      "Net ID": "tz1168",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Quexing",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Website Prototype",
-      "Short project description (one sentence - 500 characters )":
-        "We are creating a sex educational website for Asian women called 确性 Quexing. Quexing focuses on facts about birth control and some common misunderstandings about contraception. In Asia, adolescents generally lack comprehensive and correct reproductive health knowledge because teachers and parents are embarrassed to talk about sex on a daily basis which our platform can resolve by creating a safe and open space for people to have comfortable conversations about sex.",
-      "Equipment List": "N/A",
-      "What equipment can you provide?": "Laptops",
-      "What equipment do you need to borrow?": "N/A",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://jennyzwithinzebra.com/",
-      "Project link":
-        "https://www.figma.com/file/FeeKIfjPitNos50cO4zbtk/Wireframe-alpha?node-id=0%3A1",
-      "Long Description of your work (4-6 sentences).":
-        "We are creating a sex educational website for Asian women called 确性 Quexing. Quexing focuses on facts about birth control and some common misunderstandings about contraception. In Asia, adolescents generally lack comprehensive and correct reproductive health knowledge because teachers and parents are embarrassed to talk about sex on a daily basis which our platform can resolve by creating a safe and open space for people to have comfortable conversations about sex.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "sex education, contraception, UI/UX",
-      "Profile photo": "",
-      "Social links": "https://www.linkedin.com/in/taojennyzheng/",
-      "Link to any video content (Vimeo / YouTube)": "",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/18/2022 3:59:28",
-      "Email Address": "tk2355@nyu.edu",
-      "Full Name": "Taline Kalo",
-      "Net ID": "tk2355",
+      Timestamp: "4/7/2023 16:54:13",
+      "Email Address": "cah743@nyu.edu",
+      "Full Name": "Cayden Horne",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "cah743",
+      "Project title": "CJ Tracking",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "Non-Fungible Thoughts",
       "What kind of form is the work (website, game, vr, etc)":
-        "Website displaying work",
-      "Short project description (one sentence - 500 characters )":
-        'A hypothetical "NFT" character collection that depicts the different reactions/responses of the growing NFT space. Both reflective and humorous, it explores conversations around NFTs through five character personas who are in conversation with themselves and the audience.',
-      "Equipment List":
-        "Laptop or larger desktop and potentially a larger screen (tv)",
-      "What equipment can you provide?": "laptop",
+        "Research: In-Person Presentation",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I am producing stickers that could track your items when scanned- I would be presenting most likely a presentation and hopefully providing samle stickers",
+      "Long Description of your work (4-6 sentences).":
+        "I will be pitching a product with hopefully research, and branding. I will also hopefully be providing stickers as the product",
+      "Link to your personal portfolio": "NA",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=11Ek43lrEn087GbdOtonnAD0vCyyXrcNK",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Marketing, product development, branding, stickers, tracking",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "NA",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1JmpeTlqeqLxCtYGzBXf0APeNCwJVvo9H",
+      "Equipment List": "Monitor - cable- table",
+      "What equipment can you provide?": "Computer- sticker",
       "What equipment do you need to borrow?":
-        "Potentially a larger desktop computer (otherwise I can use my own laptop)",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A (its a website)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://talinekalo.com/",
-      "Project link": "https://nonfungiblethoughts.myportfolio.com/collection",
-      "Long Description of your work (4-6 sentences).":
-        "As a digital artist, I've been hearing a lot about the metaverse and particularly NFTs. Although I feel drawn to enter the space, there are many things that keep me hesitant; primarily the difficulty of keeping up with a world that's rapidly growing and constantly shifting, with different conversations/controversies surrounding it. Both fascinated and skeptical, I want to explore the various reactions to NFTs, mainly based on my personal experience and observations but also informed by a deep dive into numerous sources discussing the topic. Imitating a popular NFT trend, I’ve created a (hypothetical) character collection with five distinct characters that each represent a specific (generalized) reaction. Through comical dialogue, I want to encourage the audience to pause and reflect seriously about a potentially revolutionary innovation.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Theme and keywords": "NFT, response, reflection, conversation, humor",
-      "Profile photo":
-        "https://drive.google.com/open?id=1IaNEeFY2JYroEXTAbMtXXVmy27ByIv51",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
+        "Monitor, cable between Mac and monitor",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "NA",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/18/2022 6:01:11",
-      "Email Address": "jpc584@nyu.edu",
-      "Full Name": "Joel Cabrera",
-      "Net ID": "JPC584",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Nueva Yol",
-      "What kind of form is the work (website, game, vr, etc)": "Website/Game",
-      "Short project description (one sentence - 500 characters )":
-        "This is an audio book/ interactive story where you determine your own journey and your own story. Each player will have a unique experience with this game.",
-      "Equipment List": "headphones or speakers",
-      "What equipment can you provide?": "my laptops and the website",
-      "What equipment do you need to borrow?": "headphones or a speaker",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It's on my 12 inch by 10 inche laptop so yeah",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "My work is audio intensive, so I will need quiet if it's going to be loud in the room then I am going to need headphones or a laptop, in the midterm demo I had to ask my user testers if they had their own headphones.",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://signature2022.github.io/Portfolio.html",
-      "Project link": "https://signature2022.github.io/NuevaYol",
-      "Long Description of your work (4-6 sentences).":
-        "I created this project because I wanted to really create something for Uptown New York, have something that I can really relate to and a ton of New Yorkers can relate to. Something that represents the uptown culture and community. I made this story because I felt like not many people know much about that side of New York,  so I wanted to kickstart that representation. My target audience is the youth within New York but as well as Latin Americans. It is a simple, click to play choose your journey audio story telling game.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
-      "Theme and keywords":
-        "New York, Nueva Yol, Dominican , Puertorican, Colombian, Love, Culture, Community, Story",
-      "Profile photo":
-        "https://drive.google.com/open?id=1SAj_rKJGhzIvmqwfZpJnlHjTzDOZM9ls",
-      "Social links": "Instagram: @ desde.cora",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
-    },
-    {
-      Timestamp: "4/18/2022 13:51:07",
-      "Email Address": "yj1347@nyu.edu",
-      "Full Name": "Yanxin Jiang",
-      "Net ID": "yj1347",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Float-it Notes",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Chrome Extension",
-      "Short project description (one sentence - 500 characters )":
-        "A chrome extension that transforms the new tab page into a relaxing and cozy waterscape that helps chrome users looking for a playful planner to stay on track of their tasks in a stress free way.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Non-physical, all on a screen display (laptop/desktop), web responsive",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://yanxinnn.github.io",
-      "Project link": "None",
-      "Long Description of your work (4-6 sentences).":
-        "Staying on track with classes, work, meetings, assignments, and deadlines is hard. It's stressful enough when life seems to have it out for you and throws all the lemons it's got at you. But on top of that, you have to deal with schoolwork, work-work, life-work, all the things you need to work on, but for some reason, it's just not working out. I decided to tackle this great woe of our generation by building a chrome extension that helps users stay afloat in the hecticity of their everyday by providing them with a sanctuary in their New Tab page where they can stay organized, motivated, and sane, with light-hearted aesthetics, daily inspirational quotes, and built-in task management tools. I was inspired by existing extensions such as Momentum to transform the standard New Tab page into something that is visually pleasing and useful. This project is for those who needs a planner and appreciates a bit of playfulness throughout their daily chrome browsing experiences!",
-      "Main Image": "main.jpg",
+      Timestamp: "2/27/2023 11:09:23",
+      "Email Address": "cl3984@nyu.edu",
+      "Full Name": "Chaeeun Lee",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "cl3984",
+      "Project title": "CiRCLE.N",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "application",
+      'If you selected "Other", please write your description below:':
+        "application",
+      "Short project description (one sentence - 500 characters)":
+        "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://chebcheb.co/",
+      "Project link": "",
+      "Main Image": "",
       "Supplementary Images": "",
-      "Theme and keywords":
-        "Chrome Extension Planner, Keep Calm and Plan, Stress Free Planning",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Xpv-X-gV8CZ5qYhlqNhRHqZQxpNwHQLm",
-      "Social links": "",
+      "Thematic Keywords":
+        "NFT, Online Community, UI design, UX Design, Online Education, in-person or virtual event planning, graphic design, app design, interaction design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 14:07:59",
-      "Email Address": "adb610@nyu.edu",
-      "Full Name": "Alessia Alessandra Ling de Borbon",
-      "Net ID": "adb610",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Heard + Seen",
-      "What kind of form is the work (website, game, vr, etc)": "Short film",
-      "Short project description (one sentence - 500 characters )":
-        "Heard + Seen is a documentary that explores the depictions and representations of Asian artists and cultures in the performing arts — specifically ballet and the opera. This short film aims to uplift the voices of artists of Asian descent and give insight on how to make the work environment a better place for these artists.",
-      "Equipment List": "Laptop.",
-      "What equipment can you provide?": "I can provide my own laptop.",
-      "What equipment do you need to borrow?":
-        "A projector/monitor if available, but not necessary",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://adb610.wixsite.com/portfolio",
-      "Project link": "https://wp.nyu.edu/sp/",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 23:13:03",
+      "Email Address": "cl6434@nyu.edu",
+      "Full Name": "Chenwei Li",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "cl6434",
+      "Project title": "Ultimate Productive Timer",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Application and Film",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "In this project, people will see a video or a demo desktop application that shapes like a toilet Tomogotchi which will generate ironic poops on the screen when audiences are using working softwares. My aim is to explore the feasibility of enhancing individuals' perception of work and leisure time on their computer screens, in order to prevent the complete control of capitalism over their time. The desktop Tomogotchi platform is a medium that highlights the overlooked aspects of capitalist time and promotes anti-capitalist methods of time utilization. By using this satirical Tamagotchi, I intend to emphasize the significance of relaxation time, and how it can potentially foster creativity in individuals.",
       "Long Description of your work (4-6 sentences).":
-        "Heard + Seen is a documentary featuring Asian voices in the performing arts. Yellowface is still being used in popular performances such as Madama Butterfly and The Nutcracker, yet Asian voices are being silenced in the industry. Watch Final Bow for Yellowface Co-Founder Phil Chan, Brigham Young University dance professor Kori Wakamatsu, and concert pianist and conductor Lynn Kao discuss their experiences as AAPI artists. Rather than “canceling” the industry, Heard + Seen aims to put into context the AAPI misrepresentation and discrimination in the opera and ballet with a mission statement that comes from a place of genuine love for the art form — a call-to-action that uplifts the voices of these artists to make the stage a more inspiring and inclusive place for all opera-goers and bunheads.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Theme and keywords": "AAPI, dance, opera, activism, orientalism",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Fns_yySeNRyn22QDZ7JikqBPxo5LY1W8",
-      "Social links": "",
+        'While the clock has traditionally been used to coordinate and manage time in the capitalist context, new digital technologies and management techniques have made time management more discreet. Artists and scientists have explored the expression of time in different mediums, but there is a lack of art pieces that directly comment on the time use of normal people under the capitalist frame. Through practice-based research and autoethnography, this project aims to imagine an absurd way to lower the impact of capitalism on the use of time and change people\'s concept of "time management" in a way that is not productivity-driven. The focus is on turning "idle" and "useless" time into perception and stressing the beauty of flexibility and "doing nothing" by obstructing time use under capitalist surveillance.',
+      "Link to your personal portfolio": "https://lcw.zone/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1Zn-NYJ3aT7yAH1ClMImguGHPrnhGkSbb",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1wVTcjJT0Kd680JKP2tl_3RXy1PaOK0-0",
+      "Thematic Keywords":
+        "software development, time management, interaction design, anti-capitalism",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)":
-        "https://youtu.be/_5MFKdEhqdU",
-    },
-    {
-      Timestamp: "4/18/2022 14:19:02",
-      "Email Address": "jw5636@nyu.edu",
-      "Full Name": "Jingxiao Wu",
-      "Net ID": "jw5636",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "The Cloud",
-      "What kind of form is the work (website, game, vr, etc)": "Short video",
-      "Short project description (one sentence - 500 characters )":
-        'A short video about emotional effect on a person when she/he is addicted to social media. The video includes real shooting scenes and rotoscoping animation. My project is about recreating one of an experience I had with social media. "Since when did social media take over my world?" I have been too addicted to the social media world, and I have different feelings when I receive different comments and feedbacks. et.',
-      "Equipment List": "Any device to play the video",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "N/A",
+        "https://vimeo.com/822144284?share=copy",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A (just a small table that can place one computer)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1BxPWH7bn1jF4vhX6MPa2LanHd5nF1R1m",
+      "Equipment List": "One laptop or one PC",
+      "What equipment can you provide?": "One laptop or one PC",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.jingxiaoportfolio.com/",
-      "Project link": "https://wp.nyu.edu/tandonschoolofengineering-ny/",
-      "Long Description of your work (4-6 sentences).":
-        "I realize that I have always cared too much about what people say on internet. I love to post photos on social media platform, and I am too sensitive toward those positive/negative comments under my post. Reproducing this experience and making a video about social media are in top of my head when I think of something I can focus for senior project. I want to express what I think and tell audience (teenagers who have same problem like me) what will happen when you care too much about other’s opinion vs what will happen when you stop finding yourselves in social media. The true happiness comes from you true passion. There are plenty researches about the impact of social media on teenagers as well as people in other ages. Lots of interviews show that social media effects on mental health in different aspect. The challenge for me is to figure out a best way to metaphorize the details of my experience in the video.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "Self-awareness, True Happiness, Stream of consciousness, Social Media",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/18/2022 14:20:43",
-      "Email Address": "tmn295@nyu.edu",
-      "Full Name": "Thao Nguyen",
-      "Net ID": "tmn295",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Goodreads Improved",
+      Timestamp: "4/7/2023 23:19:35",
+      "Email Address": "cyt2015@nyu.edu",
+      "Full Name": "Chereen Tam",
+      "Name of Advisor": "Mark Skwarek",
+      "Net ID": "cyt2015",
+      "Project title": "Relocation : Illuminating Memories",
+      "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)":
-        "website, application prototype",
-      "Short project description (one sentence - 500 characters )":
-        "A UX/UI redesign and rebranding of Goodreads, a reading social media platform.",
-      "Equipment List": "N/A",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "N/A",
+        "Interactive Installation",
+      'If you selected "Other", please write your description below:':
+        "This project is an interactive installation that consists of a physical sculpture, physical computing, and a digital screen display.",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).":
+        "This interactive sculpture installation explores the impact of phone usage on personal memories. The artist's personal objects, that depict essential memories, are sculpted into a black painted ice cream cone silhouette, which is representative of a personal marker and a symbol of relocation tattooed on their body. Using their phones as flashlights, the audience can interact with the sculpture and illuminate photocells. The monitor beside renders a colored 3D representation corresponding to the location of the light. This juxtaposition demonstrates the dichotomy between the benefits of digital documentation and the effects of a screen-mediated lifestyle in digitally driven individuals.",
+      "Link to your personal portfolio": "https://www.chereeny.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1588GK9rJGuKfFjOPHc9ah0_p-XDO6tB0",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "3D Modeling, Technology, Art, Sculpture, Arduino, Interaction Design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "it's a Figma prototype",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://thaomn55.wixsite.com/thao-minh",
-      "Project link":
-        "https://www.figma.com/proto/61cSqgbGyYGk8WNRe9ftfM/GR-Batch-A?page-id=293%3A2&node-id=545%3A1715&viewport=241%2C48%2C0.25&scaling=scale-down&starting-point-node-id=545%3A1715",
-      "Long Description of your work (4-6 sentences).":
-        "Goodreads is the biggest reading social media platform, yet it has a notably archaic UX/UI interface and system. This project aims to redesign the overall look and layout of the platform, both on desktop and mobile. It's also a rebranding to modernize the visual identity and allow the platform to evolve and maintain its high user base. Through this redesign, I hope to make the platform more accessible and approachable to existing and new users, breathing new life into the brand.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "rebrand, ux/ui, reading, streamline",
-      "Profile photo":
-        "https://drive.google.com/open?id=1827ISlTSEcTxYjRNd0TvJ5r1UK3NR577",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 14:22:20",
-      "Email Address": "lh2660@nyu.edu",
-      "Full Name": "Leslie Huynh",
-      "Net ID": "lh2660",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Cosmic Cloud Co",
-      "What kind of form is the work (website, game, vr, etc)":
-        "website and physical products",
-      "Short project description (one sentence - 500 characters )":
-        "My senior project revolves around my brand, Cosmic Cloud Co. I established this brand in 2019 as a way to sell subtle kpop inspired merchandise since I realized that a lot of merchandise created for kpop fans are targeted towards a younger audience, or is just too flashy. I also want to build the brand for Cosmic Cloud Co. by establishing a brand guideline as well as creating a website to go along with it.",
-      "Equipment List": "aptop (14 inch MacBook Pro) and iPad Pro",
-      "What equipment can you provide?":
-        "laptop (14 inch MacBook Pro) and iPad Pro",
+        "H : 2.5ft , W : 5 ft , D : 2 ft",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "A computer that can run Unreal, a large screen, table space.",
+      "What equipment can you provide?": "",
       "What equipment do you need to borrow?":
-        "just at least 3 feet of table space in order to display all my work",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "3 feet by 2 feet",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager":
-        "i have a figm wireframe that i will be showing on my laptop and a deck on my iPad. i just have other physical elements that i need room to display on the table. the physical elements aren't equipment per se so i didn't put it in that section. my project is creating a brand for my online store so i have products that i have created, as well as packaging i would like to design.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://lesliexhuynh.github.io/LesFolioUpdate/",
-      "Project link":
-        "https://www.figma.com/proto/AbVB1zGcr0ymufkR7RjCiz/COSMIC-CLOUD-CO-(final)?page-id=0%3A1&node-id=1%3A4&viewport=241%2C48%2C0.09&scaling=scale-down-width&starting-point-node-id=1%3A4&hide-ui=1",
-      "Long Description of your work (4-6 sentences).":
-        "This project consists of four parts: a website prototype through Figma, a set of brand guidelines, merchandise design, and packaging design. All these parts work together in order to create an identity for my brand, Cosmic Cloud Co. I started this brand as a passion project, creating merchandise for fellow kpop fans, especially those a fan of my favorite group, BTS. For the past three years, I have been focused more on the merchandise than my brand identity, and I was constantly changing up my packaging and themes. I wanted to work on this project to solidify a brand identity for Cosmic Cloud Co and hopefully grow in the future.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "ecommerce, kpop, brand identity",
-      "Profile photo": "",
-      "Social links": "https://www.linkedin.com/in/lesliexhuynh/",
-      "Link to any video content (Vimeo / YouTube)": "",
+        "A computer that can run Unreal, a large screen, table space.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "A low light area without much fluctuation in light levels.",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/18/2022 14:27:52",
+      Timestamp: "5/1/2023 9:46:33",
+      "Email Address": "css9729@nyu.edu",
+      "Full Name": "Christopher Strawley",
+      "Name of Advisor": "Magdalena Fuentes",
+      "Net ID": "css9729",
+      "Project title": "The Veil",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "A multi-user virtual reality piece that seeks to quantify the embodiment and perception of substance abuse and addiction.",
+      "Long Description of your work (4-6 sentences).":
+        "This piece is inspired by personal experiences.  Having the opportunity to play with large scale VR pieces and play with people's perceptions has led me to develop a piece that can take a difficult situation and show how it might be viewed and perceived from different parties in the situation.",
+      "Link to your personal portfolio":
+        "https://creativejuicedotbar.wordpress.com/",
+      "Project link": "https://creativejuicedotbar.wordpress.com/the-veil/",
+      "Main Image":
+        "https://drive.google.com/open?id=1v3C8aRGo4-oept6Vib5MAfn6zLW5ztqZ",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Virtual Reality, Substance Abuse, Addiction, Love, Empathy",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/seestrawrun/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/seestrawrun/theveil",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "6x6x8 (just enough room for someone to move their arms around sitting in VR)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1svijr_vdwhyibvgjV4KgnS-BA98QVq0b",
+      "Equipment List": "A large computer monitor or television",
+      "What equipment can you provide?":
+        "I will bring my own computer and VR headset",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager":
+        "Derek Chan and I would like to be set up next to each other for emotional support :D",
+    },
+    {
+      Timestamp: "4/30/2023 22:55:32",
+      "Email Address": "yx2849@nyu.edu",
+      "Full Name": "Cleo Xiao",
+      "Name of Advisor": "Luke DuBois",
+      "Net ID": "yx2849",
+      "Project title":
+        "Quantifying Immersion And Presence Level With Eye-Tracking For VR Games",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "For over 30 years of discussion and research, an apparent lack of cohesion exists regarding the fundamental definitions and measurement of immersion and presence in VR. Nevertheless, objective measurement in a non-invasive way that stresses physical response could provide a more accurate understanding compared to subjective measurements like questionnaires. Recent research shows that rich information collected by eye activity can better identify these states in the non-VR setting. With embedded eye-tracking systems, recent HMDs like HTC Vive Pro Eye make it possible to collect continuous and precise physiological data in VR. This study demonstrates that gaze response data can provide new perspectives in classifying immersion and presence levels in VR.",
+      "Long Description of your work (4-6 sentences).":
+        "This pilot study is a starting point for investigating the relationship between gaze response data and immersion and presence states in VR games. By analyzing a limited data set, this research project has provided preliminary evidence that gaze response could be a viable metric for quantifying these constructs. In future work, more data sets will be collected and more gaze features will be included to deliver more accurate classification models for real-time analysis. The results of my research will benefit the VR industry by providing a standardized method to measure immersion and presence in VR games. Furthermore, my thesis project will also provide valuable insights for game developers to create more engaging and immersive VR FPS games.",
+      "Link to your personal portfolio": "https://www.cleoxiao.com/",
+      "Project link": "https://www.cleoxiao.com/project/thesis",
+      "Main Image":
+        "https://drive.google.com/open?id=1FIa6_9_6avsMCUNIZXWH6X--wHUPfjv5",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Virtual Reality, Eye Tracking, Immersion, Presence, Physiological data, FPS games",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/cleo.xiao/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/MPDDQ5Be2tk",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Standard Poster 24x36 inches",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1RvRSJpOhUM_tnzk_XkO3Ukd1vHHU9EX_",
+      "Equipment List": "Displays",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/7/2023 14:58:31",
+      "Email Address": "cph319@nyu.edu",
+      "Full Name": "Connor Hester",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "cph319",
+      "Project title": "Chiaroscuro",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I'm an artist, an animator, and a writer, but my one true love is motion design. I believe in the power of motion graphics to engage an audience and take them on an emotional journey. I articulate my artistic vision using a vast array of tools, including the Adobe suite, 3D design programs, numerous coding languages, and physical computing. In my work, I gravitate toward queer, macabre, and satirical themes, and I draw inspiration from the surrealist and dadaist art movements. My work tends to retrospectively address personal emotional experiences and articulate them in more broadly applicable, surrealist contexts.",
+      "Long Description of your work (4-6 sentences).":
+        "I view this project as a culmination of who I am as a creative and human being up to this point in my life. I retrospectively revisited poignant moments in my life and articulated these vignettes through varied and evolving mediums. The evolving complexity of the medium reflects the increased complexity of the life moments it represents, creating a reflexive dynamic between form and content. These vignettes are presented with minimal narration, music, and human components and incorporate elements of surrealism, insinuating that these stories occur in a memory space. The project is entitled “impermanent”, which is representative of the fleeting nature of these life moments and is also a word I take solace in and have embraced as a philosophy.",
+      "Link to your personal portfolio": "https://connorhester.webflow.io",
+      "Project link": "https://connorhester.webflow.io/work/seniorproject",
+      "Main Image":
+        "https://drive.google.com/open?id=1Z3XWQCu_e-rRPXaODqDHn5A4V5JW7OFS",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "graphic design, motion design, animation, rotoscope, collaging, puppet animation, claymation, stopmotion, 3D modeling, 3D animation, cinematography, VFX, LGBT experience, addiction,  mental illness, memoir, surrealism",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/user135849891",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "6 ft tall x 5 ft wide x 4 ft deep",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=11_bzhg5b2KY3POn6A1Te7yRKAFL3V-C4",
+      "Equipment List": "Laptop, Speakers, Monitor (for playing video)",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "Monitor + Speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "If possible, I would like lower lighting",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/3/2023 4:20:38",
+      "Email Address": "mc7112@nyu.edu",
+      "Full Name": "Crystal Chen",
+      "Name of Advisor": "Aya Natalia Karpinska；Benedetta Piantella",
+      "Net ID": "mc7112",
+      "Project title": "Fortune Filling",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "In China, fresh cooked meals have served as a medium of emotional communication and a lens through which true culture can be found. Yet, since Covid period, an inevitable trend of consuming 3R food(ready to cook, ready to eat, and ready to heat) which requires a small amount of time and energy to prepare has emerged. As a foodie, I always believe that fresh meals have a strong power as a medium. For my thesis project, I am creating an interactive narrative that allows readers to explore the Chinese food culture through stories associated with handmade fresh dumplings and frozen ones, because I want to find out how industrialized semi-ready meals affect the power of food as a medium for transmitting culture and love; in order to remind people of the significance of having fresh-cooked meals.",
+      "Long Description of your work (4-6 sentences).":
+        "The ultimate goal of my project is to demonstrate how food can be used to tell stories and change people's mood, but letting audiences merely read content is not the best way to stir up concern. On the other hand, interactive narratives help audiences keep focusing and wondering. The final project will be a Twine game for people who have had a dumpling before.",
+      "Link to your personal portfolio":
+        "https://mc7112.wixsite.com/minyichenportfolio",
+      "Project link": "https://dumplingchallenge-crystal.netlify.app/",
+      "Main Image":
+        "https://drive.google.com/open?id=1Z1dCQ05bRF-BKLaP7a6wEd9WOYBkmfBt",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "food culture; interactive narrative; storytelling; participatory research and design speculative design; critical design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/crystamyal/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Depends on the monitor",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1XfW4dvODdPTHIJzlYOf36sm98FwRikRj",
+      "Equipment List":
+        "A monitor that has audio is preferred so that audience can view on a bigger screen. A mouse to click is also nice.",
+      "What equipment can you provide?": "A laptop; a mouse",
+      "What equipment do you need to borrow?": "A monitor that has audio",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/3/2023 11:26:24",
+      "Email Address": "ca2182@nyu.edu",
+      "Full Name": "Cy An",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "ca2182",
+      "Project title": "Private vs. Public",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "photography",
+      'If you selected "Other", please write your description below:':
+        "I'm creating a photo book.",
+      "Short project description (one sentence - 500 characters)":
+        "With inspiration from Edward Hopper’s exploration of the private vs. public, my objective is to create a photograph book through this theme. I will be responsible for producing, styling, photographing, editing, writing, and manufacturing the contents of the book as well as the production of the book as well. The book will highlight portraits, products, and fashion over roughly 50 pages.",
+      "Long Description of your work (4-6 sentences).":
+        "Edward Hopper, one of the most influential New York painters in American history, methodically explored the theme of the private vs. public throughout his works. Most notably through his depiction of windows throughout his work, Hopper was inspired and drawn to the vulnerability of private moments that are guarded by windows from the chaos and metropolis on the other side. His persistent use of windows as a symbol to highlight the ironic fragility and strength that enable the separation of the private and public inspired me to explore this theme further and apply it in a more contemporary context. With an inherent passion for glamorous aesthetics and narrative storylines from inspirations like Alex Prager and Nadia Lee Cohen, my work utilizes vibrantly muted color palettes inspired by the aesthetics of Francis Bacon. Furthermore, my work evokes a sense of supernatural reality which hints to works of Gregory Crewdson. These inspirations aggregate to form my own style of what I call portraying glamourized dystopia.\n\tFor this project, my aim is to create a photograph book with images that explore the theme of the private vs. public. With an emphasis on fashion aesthetics, the book will aggregate 15-20 shoots under this theme. The book will highlight portraits, products, fashion, and culture.",
+      "Link to your personal portfolio": "instagram.com/cyentific",
+      "Project link": "n/aa",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Glamour, Profundity, and Juxtaposition",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "instagram.com/cyentific",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "8.5*11",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "- digital camera - strobes",
+      "What equipment can you provide?": "-laptop - editing",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/14/2023 22:10:21",
+      "Email Address": "dq357@nyu.edu",
+      "Full Name": "Danni Qu",
+      "Name of Advisor": "Dan Taeyoung & Lillian Warner",
+      "Net ID": "dq357",
+      "Project title": "Ghostly",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This is a VR experimental game aimed at sparking thoughts around social etiquette in the metaverse. The player is asked to navigate through several scenes where chosen interactions help to situate and immerse the player into the environment. A key game trigger will ultimately put the environment in a devastating state, after which the player is able to enter the final scene. Since the final scene is only accessible by doing an unethical action, the player is asked to reflect their actions through in-game text popups afterwards. This moment of reflection creates an educational opportunity for the player to think about the social etiquette that people should aim to uphold in virtual spaces.",
+      "Long Description of your work (4-6 sentences).":
+        "This Unity based VR project is meant to be experienced in under ten minutes, a time frame suitable for even beginner VR users. I decided to make this project after seeing the exploding rise of the metaverse due to COVID. In the VR metaverse, we are able to experience a higher level of avatar embodiment, which prompts the question of what kind of social etiquette should be upheld in these spaces. By navigating the experimental game, players will be asked to reflect on their actions in virtual worlds, a space where people can easily act differently from their normal selves under an anonymous guise. This is a study in new rules of VR social etiquette.",
+      "Link to your personal portfolio": "https://www.danniqu.com/",
+      "Project link": "https://www.danniqu.com/ghostly",
+      "Main Image":
+        "https://drive.google.com/open?id=1sMGOQt7fgEuHxo0JXnu8UV-EO-_lySp9",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=13kMZfbqrt7M72OljJ15gb4cqxvAohTn0",
+      "Thematic Keywords":
+        "VR, Social Responsibility, Social Etiquette, Game Design, User Experience, Educational, Metaverse, Avatars and Identity, Unity",
+      Twitter: "https://twitter.com/danni_qu",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/danni.qu/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "It's in VR, N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1URW-rKliu704-sCZWQdMmXS4sN9TigVR",
+      "Equipment List":
+        "Meta Quest 2 VR headset, table, chair, Macbook, decorations",
+      "What equipment can you provide?": "Macbook, decorations",
+      "What equipment do you need to borrow?":
+        "1 Meta Quest 2 VR headset, table, chair (for seated VR experience)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 1:43:39",
+      "Email Address": "dc3498@nyu.edu",
+      "Full Name": "Derek Chan",
+      "Name of Advisor": "Scott Fitzgerald",
+      "Net ID": "dc3498",
+      "Project title":
+        "An Exploration of Synthetic Data and its Use-Cases in 3D Cinema",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Pipeline Demo, Tool Creation",
+      'If you selected "Other", please write your description below:':
+        "This thesis researches how one can incorporate generative deep learning models within the 3d filmmaking pipeline",
+      "Short project description (one sentence - 500 characters)":
+        "The way we make films in vp (virtual production) is based heavily on the way films are made in traditional Hollywood:  pre-production -> production -> post-production  Why do we do it this way and What are some other ways that we can leverage the real time potentials of virtual production to make the films we want to make?  Having spent the entirety of my time in IDM within the vp track I believe that with the iterative powers of real time vp and the generative potentials of deep learning networks we can collapse these old traditional hollywood workflows into a if not more dynamic at least a creatively streamlined and different filmmaking experience.",
+      "Long Description of your work (4-6 sentences).":
+        "This thesis explores the ways we can slot in deep learning neural networks into our 3d filmmaking pipeline. Beginning as an experiment in using the unreal engine as a source of synthetic data generation, this thesis has now morphed into a tool where one is able to generate multiple variations of a cinematic with the press of a button.",
+      "Link to your personal portfolio":
+        "https://ne0nv0id.notion.site/Derek-s-Portfolio-e393f25e543b4028bd35061a7f934e15",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1ZxICd4q-wXHWAh5PL3kzzLLS3VyafzHB",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1PtERG7kqDyE0O7cbyDLbPBKhtF8s1Ewn",
+      "Thematic Keywords":
+        "machine learning, AI, 3d cinema, filmmaking, synthetic data",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/elkkkk_____/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/channel/UCTlOJ0h6aZrYVpjRgEPxZtQ",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "I would like to have 2 external displays of some kind, whether it be 2 monitors or 1 monitor and 1 tv whatever works out will be fine",
+      "What equipment can you provide?":
+        "I can provide my own laptop that'll run my demo",
+      "What equipment do you need to borrow?":
+        "Monitors and TVs that's about it",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I just need a table",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/1/2023 23:23:17",
+      "Email Address": "dt2290@nyu.edu",
+      "Full Name": "Diana Tosca",
+      "Name of Advisor": "Alex Nathanson",
+      "Net ID": "dt2290",
+      "Project title": "Memorias of Queer Cubanidad",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This artwork is an installation exploring the ties between memory, healing, community, Queerness, and Cubanidad. As a Queer Cuban-American, this installation is a reflection of my memories of living at the intersection of these identities. Audience members can interact with different objects of personal and cultural significance housed in a living room setting. Using an app, the audience is able to view media and audio files associated with the objects.",
+      "Long Description of your work (4-6 sentences).":
+        "This artwork is an installation exploring the ties between memory, healing, community, Queerness, and Cubanidad. As a Queer Cuban-American, this installation is a reflection of my memories of living at the intersection of these identities. Audience members are invited to interact with different objects of personal and cultural significance to me. The objects are housed in a living room setting to inspire a feeling of home and togetherness. Using an app I created, the audience is able to view media and audio files associated with the objects. Inspired by fellow Cuban artists and scholars, the work is especially for other Queer Latines and to be in community together through our shares experiences",
+      "Link to your personal portfolio": "https://dianatosca.com/",
+      "Project link": "https://dianatosca.com/thesis",
+      "Main Image":
+        "https://drive.google.com/open?id=1LP4MVWlq8feWlLq3VZE2Mb3tUcoPzI1E",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Installation, Queer art, Latinidad, Cubanidad",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "10 feet by 5 - 10 feet",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Wy7XtNzvSjlcaKqlaNCNcxkK_kvU5Dk0",
+      "Equipment List":
+        "Furniture (a couch, two or three tables, three or four chairs), camera",
+      "What equipment can you provide?":
+        "objects for the installations, N95s, picture frames, some headphones, a phone for app",
+      "What equipment do you need to borrow?":
+        "One camera for recording/documentation",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The work is audio intensive, headphones will be provided, ideally not too noisy. Good wi-fi in the area is essential.",
+      "Additional notes for the Operations Manager":
+        "I'd like my installation to be a space where masks can be provided/are encouraged to be worn, as it is meant to represent a community space.",
+    },
+    {
+      Timestamp: "4/30/2023 19:01:49",
+      "Email Address": "dap544@nyu.edu",
+      "Full Name": "Dylan Pangilinan",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "dap544",
+      "Project title": "GameGrow",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "A combination of two things I am most passionate about: design and game development. I designed an application that connects game developers with each other and fosters community-based learning.",
+      "Long Description of your work (4-6 sentences).":
+        "I designed a web app to assist game developers in improving their games through user testing and community feedback. With features such as live playtesting, screen recording, and community-driven tutorials, GameGrow aims to create a collaborative platform where game developers can enhance their skills and create better games. Using various testing techniques such as A/B testing, developers can receive valuable feedback from users and make data-driven decisions for their game development process. With a user-friendly interface and a focus on community engagement, GameGrow is a powerful tool for game developers of all levels.",
+      "Link to your personal portfolio": "https://dylpang.webflow.io/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1c5x7K6_NGbP3O97LGWc4iEi-AiCRN_1L",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Laptop",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/28/2023 14:24:02",
+      "Email Address": "emt9947@nyu.edu",
+      "Full Name": "Eden Mili",
+      "Name of Advisor": "Scott Fitzgerald",
+      "Net ID": "emt9947",
+      "Project title": "Pray to the Algorithim",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Will ideally need one of the rooms on level 2. I have a large mural painted on fabric and a projection mapping light/sound show that goes on top of it. The larger context is  about the content creation vs art and whether or not we've lost the balance.",
+      "Long Description of your work (4-6 sentences).": "-",
+      "Link to your personal portfolio": "https://www.edenmili.art",
+      "Project link": "https://www.edenmili.art",
+      "Main Image":
+        "https://drive.google.com/open?id=1ynSa35U_LQp3lKQtbu2f_PqswkcyVZf-",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Content creation, social media algorithms, projection mapping",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/edenmili/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "18x9 feet",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "mad mapper hire, speakers, hooks",
+      "What equipment can you provide?": "Laptop, 18ft painting",
+      "What equipment do you need to borrow?":
+        "High lumen projector, mad mapper hire",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Low light and absolute/relative quiet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/7/2023 15:40:16",
+      "Email Address": "eu392@nyu.edu",
+      "Full Name": "eftalya",
+      "Name of Advisor": "kazi",
+      "Net ID": "eu392",
+      "Project title": "SELF-TAPES: THE SHEDDINGS Vol. 1",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This series of tapes are my way of using experimental short documentaries to work through inner battles and problems that arose in my time at NYU. I hope by at least posing the questions I have in my head I can relieve me and the relating audience of the burdens of them.",
+      "Long Description of your work (4-6 sentences).":
+        "I made these reflexive short documentaries to manifest some of the internal battles I have into an art project that can guide me through the self-perpetuating questions that both immigrants, Middle Eastern diaspora and almost every 20-something- year-olds faces in a transitional period in their life.",
+      "Link to your personal portfolio": "www.eftalyababa.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "projector and screen",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 10:32:09",
+      "Email Address": "emm797@nyu.edu",
+      "Full Name": "Elizabeth Mendoza",
+      "Name of Advisor": "Nick Katsivelos",
+      "Net ID": "emm797",
+      "Project title": "Multi-media concept art portflio",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Concept art portfolio",
+      'If you selected "Other", please write your description below:':
+        "My project is a concept art portfolio consisting of both digital and physical pieces that explore the fields of character design and storytelling.",
+      "Short project description (one sentence - 500 characters)":
+        "For my senior project, I wanted to create a multi-media concept art portfolio. Essentially, I wanted to explore the development of character design through different mediums to analyze the ways the same concept can take shape through various artistic styles. Through this, I want to explore not only how character design lends itself to storytelling, but also how it differs when applied to traditional versus digital forms of media in both a 2D and 3D space.",
+      "Long Description of your work (4-6 sentences).":
+        'This project gaveme the opportunity to explore my passions in a way that would be able to combine a lot of the various skills and technologies I\'ve worked with over the years to push my artistic boundaries in order to create a concept art portfolio or "zine". I love storytelling, and depending on the medium you use to deliver a narrative, the experience and what the audience takes from it will change and continue to develop as you create newer and newer forms. So I wanted to explore that more and create various pieces/designs in different styles/mediums in order to see how it impacts my development process. You can see and experience different pieces through AR, print, and sculpture forms to piece together snapshots in my characters lives.',
+      "Link to your personal portfolio": "",
+      "Project link":
+        "https://wp.nyu.edu/tandonschoolofengineering-elizabethmendozaseniorproject/",
+      "Main Image":
+        "https://drive.google.com/open?id=1TOiUpv3j7xd1HdC5dgN3c08Rz7Kt6YsC",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1PxB0IaUCye0OmSnm5-dag6nEAaLAMMBv",
+      "Thematic Keywords":
+        "Concept art, Design, illustration, zine, character design, multi-media",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1pNViDe0MRwplnw93pJXjLuQHAZ31TK20",
+      "Equipment List": "Laptop, frames, table",
+      "What equipment can you provide?": "Laptop, frames",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "4/6/2023 23:15:15",
+      "Email Address": "ekt9561@nyu.edu",
+      "Full Name": "Emmeline Tantry",
+      "Name of Advisor": "Alex Nathanson",
+      "Net ID": "ekt9561",
+      "Project title": "Homecooked",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "UX Research: App Design",
+      'If you selected "Other", please write your description below:':
+        "UX Research: App Design",
+      "Short project description (one sentence - 500 characters)":
+        "Homecooked is an app that aims to streamline all aspects of cooking at home, making it easier and more convenient to be able to prioritize your own health and budget.",
+      "Long Description of your work (4-6 sentences).":
+        "Homecooked is a cooking help app that aims to help people regain control of their own health while also assisting them in balancing both their budget and nutrition. The app includes features that make it easier to get grocery runs and cooking done faster. These features include a recipe search that can be customized based on any food restrictions or specific ingredients that one has at home. This feature then segways into a meal planning calendar and a grocery shopping section to assist the user at every step of the cooking process, from obtaining the raw ingredients to cooking the dish.",
+      "Link to your personal portfolio": "https://emmelinetantry.com/",
+      "Project link":
+        "https://wp.nyu.edu/tandonschoolofengineering-emmeline_tantry_sp/",
+      "Main Image":
+        "https://drive.google.com/open?id=12v9SH3pT3HN7Ixd8VIpxk3Ts0GQUOc2g",
+      "Supplementary Images": "",
+      "Thematic Keywords": "ux research, interaction design, ux/ui design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/5/2023 11:42:46",
+      "Email Address": "ewj224@nyu.edu",
+      "Full Name": "Enoch Jo",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "ewj224",
+      "Project title": "In Faith",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://enochjo0623.wixsite.com/my-site-2",
+      "Project link":
+        "https://drive.google.com/file/d/180ZG0MG51gxeA0fGpkOgEDrRDOmQBiRU/view?usp=share_link",
+      "Main Image":
+        "https://drive.google.com/open?id=1eCXyQsHnDhZlQStETgsBESDUkFbg-4hE",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "video production, editing, dance, expression, introspection",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://drive.google.com/file/d/180ZG0MG51gxeA0fGpkOgEDrRDOmQBiRU/view?usp=share_link",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Ee81zzcvP0Ab2salhNPnKZrkBrhje9dx",
+      "Equipment List": "Screen/speakers - either projection or physical",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "Screen and speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I would prefer the space to be relatively quiet for my piece in a darker space if possible",
+      "Additional notes for the Operations Manager": "NA",
+    },
+    {
+      Timestamp: "4/28/2023 13:16:00",
       "Email Address": "ed1895@nyu.edu",
       "Full Name": "Eric Ding",
+      "Name of Advisor": "Todd Bryant",
       "Net ID": "ed1895",
+      "Project title": "Labyrinth",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Labyrinth is a short film about hurry sickness that fully represents my hurried journey through thesis. Rushing to create a film, realizing I lacked artistic intention, and slowing down. I retraced my steps in creating this project to find the meaning that had always been there, finishing the short film with a new perspective. The creative process and the short film itself represent the self-discovery of my artistic voice and in a world of art and technology, and finding my place where they come together.",
+      "Long Description of your work (4-6 sentences).":
+        "Labyrinth is a short film about hurry sickness that fully represents my hurried journey through the thesis. Rushing to create a film, realized I lacked artistic intention and slowed down. I retraced my steps in creating this project to find the meaning that had always been there, finishing the short film with a new perspective. The creation of this short film represents the self-discovery of my artistic voice in a world of art and technology and finding my place where they come together, as well as an exploration of the effect new technology has on the creative process and creative hurry sickness.",
+      "Link to your personal portfolio": "https://ericding.art",
+      "Project link": "https://www.youtube.com/watch?v=VCZn__jbgg0",
+      "Main Image":
+        "https://drive.google.com/open?id=1oOuHHsdbOobxC2bgJEMZRL_DaioVQqKN",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "short film, virtual production, unreal engine, motion capture, real-time filmmaking, video editing, sound design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/eumkoe/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1s69eBwtfNEv719WdNkpD3IuG9ybdQbPu",
+      "Equipment List": "",
+      "What equipment can you provide?": "my short film on a harddrive",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/24/2023 13:48:11",
+      "Email Address": "en2219@nyu.edu",
+      "Full Name": "Erika Noma",
+      "Name of Advisor": "Luke Dubois",
+      "Net ID": "en2219",
+      "Project title": "Inclusive Design for All",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "card deck",
+      'If you selected "Other", please write your description below:':
+        "Card deck",
+      "Short project description (one sentence - 500 characters)":
+        "This card deck is a practical tool to promote empathy in inclusive design, to explore ways that designers and creatives can practice empathy-building by thinking about how their design can meet the needs of people with disabilities.",
+      "Long Description of your work (4-6 sentences).":
+        "Inclusive Design for All is for people who want to deepen their knowledge on inclusive design. Card deck makes it easier for people to learn and practice inclusive design and build empathy. It also has a website where people can download card deck, play, and get to know how to play. The inspiration of this game is from my experience in learning inclusive design and how all the information was text-based. The project is intended to provide an easier way to actually get to designing while learning about inclusive design.",
+      "Link to your personal portfolio": "https://erikanoma.com/",
+      "Project link": "https://erikanoma.com/project/thesis",
+      "Main Image":
+        "https://drive.google.com/open?id=12RibTKgJHOa53tF-_RPRfwI0iP7qigOI",
+      "Supplementary Images": "",
+      "Thematic Keywords": "inclusive design, accessibility, card deck",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        '39.37"D x 23.62"W x 29.52"H',
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1w7hQX4Sy9QoAVJmBnVQIiHKc0VYRqA8g",
+      "Equipment List": "Posters, card deck, laptop",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "desk and wall (if not any)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 12:41:29",
+      "Email Address": "cf2259@nyu.edu",
+      "Full Name": "Eva Feng",
+      "Name of Advisor": "Nick",
+      "Net ID": "cf2259",
+      "Project title": "Undecided",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "GEN",
-      "What kind of form is the work (website, game, vr, etc)": "Video(s)",
-      "Short project description (one sentence - 500 characters )":
-        "An anthology of short videos virtually produced in Unreal Engine 5",
-      "Equipment List": "A video player of some sort",
+      "What kind of form is the work (website, game, vr, etc)":
+        "performance & installation",
+      'If you selected "Other", please write your description below:':
+        "performance & installation",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "evafeng.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "physical computing, AI, collective minds, fabrication, music, performance,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/caiyi_eva_feng/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "18* 15 feet",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1DKcNyAs-zfvonHygcCsVLq4hqOQhdQIW",
+      "Equipment List": "socket outlet, DMX",
       "What equipment can you provide?":
-        "I can provide my laptop to play the video if I am present",
-      "What equipment do you need to borrow?": "Headphones for listening",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Uhhh 1080p, my laptop is roughly 15x11 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "The overall project is the video, with visuals and audio, so nothing too crazy.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://ed1895.wixsite.com/eric-ding-portfolio",
-      "Project link":
-        "Process blod: https://ericdingseniorproject.wordpress.com/",
-      "Long Description of your work (4-6 sentences).":
-        "Inspired by the endless new possibilities of virtual production, I wanted to take all the skills I've learned at IDM and just try to apply it in my journey of understanding the pipeline of virtual production. Of course, there are many different ways I could tackle and learn this, so I focused on just creating a bunch of mini-video projects to try and create as much and learn as much as I can. I will be utilizing the newly released Unreal Engine 5 and just learning about how to use it to create video content and pair it with my existing video production skills (video editing, sound design, etc.)",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Virtual, Production, Film, Content, Storytelling",
-      "Profile photo": "",
-      "Social links": "https://www.linkedin.com/in/eric-ding-eric/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 14:30:44",
-      "Email Address": "dj1257@nyu.edu",
-      "Full Name": "Danna Jaime",
-      "Net ID": "DJ1257",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Ciclo",
-      "What kind of form is the work (website, game, vr, etc)": "App",
-      "Short project description (one sentence - 500 characters )":
-        "An app created for women where they can shop for menstrual and feminine products much easier. This also includes a period tracker and community feature to also help them with any issues they may have.",
-      "Equipment List": "computer, phone, Ipad",
-      "What equipment can you provide?": "A computer or Ipad",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Its a prototype app so dimensions for showing it doesn't matter much.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://dannajaime.com",
-      "Project link": "https://dannajaime.myportfolio.com/documentation",
-      "Long Description of your work (4-6 sentences).":
-        "I made this because finding menstrual products is hard enough and there is nothing out there that is catered to women specifically in making the journey easier. I was inspired by my own personal struggle when shopping since it was never easy to find the products I need without stressing out. The app can be personalized to what the user wants by taking a quiz to get to know them better, being able to filter different products and finding resources that will answer questions when no one else is around.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Women, app, mentrual, personalized, UX/UI",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 14:39:39",
-      "Email Address": "ldk287@nyu.edu",
-      "Full Name": "Luke Koppenheffer",
-      "Net ID": "LDK287",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Run-It",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters )":
-        "A procedural running playlist generator that allows users to create playlists that suit their desired running cadence and speed.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Digital Website, N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "No",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://lukekoppenheffer.netlify.app/home",
-      "Project link": "https://run-it.netlify.app/",
-      "Long Description of your work (4-6 sentences).":
-        "As of this year, I’ve been starting to run a couple of times a week with my friend, and I really wanted to focus on getting a consistent pace going for longer runs. I often struggle with either going too fast at the start and tiring out or going too slow and not pushing myself hard enough, leaving a lot of energy at the end of my run. Something else I struggle with is having good, high-energy playlists that match the cadence I’m trying to run at. I often have a good playlist that I can run for a week with, but then I get tired of it and focus less on the music and more on how tired I am. It’s hard to create unique playlists each week, especially one that matches the tempo and energy I need.\n\nSo, I had the idea to automate it using the Spotify API, and that’s where this senior project came from. I looked into the API and they had all the data I needed - BPM, genre, and energy level of the song.",
-      "Main Image": "main.jpg",
-
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Theme and keywords":
-        "Running, Spotify, Playlist Generator, Music, Website, UI/UX design",
-      "Profile photo":
-        "https://drive.google.com/open?id=1efIca4AWDLDiXPBTHcvvwZJS6SAadYmA",
-      "Social links": "https://www.linkedin.com/in/luke-koppenheffer/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 14:54:43",
-      "Email Address": "laj336@nyu.edu",
-      "Full Name": "Landon Anthony Malik Johnson",
-      "Net ID": "laj336",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Creature Sound Design",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters )":
-        "Pseudo nature documentary showcasing concept art and sounds for three fictional creatures",
-      "Equipment List": "a screen with a good speaker system is all I need",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?":
-        "everything in the equipment list",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "just the aspect ratio of a regular video",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "audio is the most important part",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://www.linkedin.com/in/ljohnson21/",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-landonseniorproject/",
-      "Long Description of your work (4-6 sentences).":
-        "I hope to showcase my range as well as capture the mysticism of sound design, especially for living but imaginary characters.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Theme and keywords": "Sound Design, Sound Engineering, Character Design",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 15:28:33",
-      "Email Address": "cs5464@nyu.edu",
-      "Full Name": "Charitssa Stone",
-      "Net ID": "cs5464",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "BlackPrint",
-      "What kind of form is the work (website, game, vr, etc)": "Posters",
-      "Short project description (one sentence - 500 characters )":
-        "BlackPrint Magazine is a print publication dedicated to highlighting trends and aspects of popular culture started by Black Americans by going into the deep rich history behind the trends while also showcasing current black people dominating those trends to provide a space where Black Americans can feel represented.",
-      "Equipment List": "N/A",
-      "What equipment can you provide?": "N/A",
-      "What equipment do you need to borrow?":
-        "Something to hang my 3 poster, anything really. It would be cool to hang my posters from the ceiling using fishing wire if that's possible.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "24 x 36 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "My posters are double sided, so if possible it would be cool to hang my posters from the ceiling using fishing wire or something to be able to showcase both sides.",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://charitssastone.com/",
-      "Project link": "https://charitssastone.com/BlackPrint",
-      "Long Description of your work (4-6 sentences).":
-        "My business is BlackPrint Magazine, a print publication centered around highlighting aspects of Black culture in and out of the mainstream. We see an overwhelming amount of Black culture being co-opted through mainstream media and popular culture, to the point where non-black people have no idea that they are partaking in and appropriating Black culture. We also see things that have been pioneered and invented by Black people being labeled as “white” and we see Black people completely erased from that subculture’s history. This project takes on those things and re-centers black people to showcase the roots and history behind the trends and subcultures while also showcasing Black people who currently dominate those areas that don't get spoken about enough.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "popular culture, black culture, music, fashion, art",
-      "Profile photo": "",
-      "Social links":
-        "https://www.instagram.com/stone.ai/\nwww.linkedin.com/in/charitssa-stone",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 15:29:01",
-      "Email Address": "vms343@nyu.edu",
-      "Full Name": "Vida Saffari",
-      "Net ID": "vms343",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Readabl: Making News Accessible to All",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Mobile Prototype",
-      "Short project description (one sentence - 500 characters )":
-        "An aggregated news mobile experience for users with visual and cognitive disabilities to read the news and other articles related to their specific interests",
-      "Equipment List": "NA",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "NA",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Laptop screen dimensions",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "NA",
-      "Additional notes for the Gallery Manager": "Nope!",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://www.vidamelody.com/",
-      "Project link":
-        "https://www.figma.com/proto/VXLbqWKLn0Nzl9I6YdEQIM/Readabl_AccessibleAppLow-Fi_Wireframes?page-id=132%3A1090&node-id=138%3A1555&viewport=241%2C48%2C0.14&scaling=scale-down&starting-point-node-id=138%3A1555",
-      "Long Description of your work (4-6 sentences).":
-        "The idea for this project came from my intersecting interests in UX design, designing for accessibility, and reading. After taking the Disability Studies course this semester, I was able to connect and build relationships with the disabled community. Through these connections, I was able to gain insights into some of the challenges the community faces in interacting with technology. Their enthusiasm to learn was often hindered by the lack of accessible design. I decided to create a mobile app experience that allows users with various disabilities to easily read the news and articles related to their interests. For my project, I applied the user research, visual design, and prototyping skills that I have learned at IDM to build a mobile app prototype. I went through all stages of the design process from conducting user research to designing low fidelity prototypes to running user testing sessions and finally building the high fidelity prototype in Figma. \n\nMy goal for building this app was to help users with various disabilities feel able and included in the community. I hope that they can easily navigate through various articles related to their interests and passions to make learning an enjoyable process! \n\nThis project brings together my passions for designing for social good and creating inclusive experiences. I believe that accessibility is the foundation for design and I hope that this project takes us one step closer to a more inclusive digital world.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Theme and keywords":
-        "accessibility, UX design, news, articles, reading, learning",
-      "Profile photo":
-        "https://drive.google.com/open?id=1qzQYfYePd3ZqHnzgG7od_0oINH49xcVb",
-      "Social links": "https://www.linkedin.com/in/vida-saffari/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 16:40:42",
-      "Email Address": "zz2232@nyu.edu",
-      "Full Name": "Zhang Zhicheng",
-      "Net ID": "zz2232",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Ellie",
-      "What kind of form is the work (website, game, vr, etc)": "film",
-      "Short project description (one sentence - 500 characters )":
-        "A short film about a perspective of a vegetative patient's dream world",
-      "Equipment List": "No need of any equipment from school",
-      "What equipment can you provide?":
-        "film Cameras, digital camera, red gemeni camera, tripod, skypannel, medium format camera",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://butterfly-helix-ctd6.squarespace.com/films",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-maxzhangseniorproject/",
-      "Long Description of your work (4-6 sentences).":
-        "A man, under his vegetative state, drowned so deep into a dream, he buried all his reality under a fantasy story.I was inspired to the creation of the story by a news story I came upon once, about a vegetative patient who woke up claiming that he had a life during his coma, a beautiful family, a breathtaking love story. This immediately grabbed my attention, the most beautiful dreams often represent the most suffocating loneliness. The patient doesn't really have such a beautiful family in his reality, the dream exists only in his own fantasy. \nFantasy hides within reality, and reality hides within fantasy. Ellie delivers a dream wihtin a dream, a reality within a reality and a story within a story.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Theme and keywords": "film, dream",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 16:49:32",
-      "Email Address": "mw3991@nyu.edu",
-      "Full Name": "Melia Walker",
-      "Net ID": "mw3991",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "PetAble",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UX/UI for an app concept",
-      "Short project description (one sentence - 500 characters )":
-        "PetAble is an app that aims to make training your own service animal straightforward and fun. Which training program the dog will follow is based on their owner’s type of disability and the needs associated with that (ex: mobility service dog training for an owner who has Multiple Sclerosis).My project aims to compile and deliver the resources users need to confidently train their companion via mobile application.",
-      "Equipment List": "Internet",
-      "What equipment can you provide?": "Laptop, Ipad",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Laptop sized, roughly 13-inch",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://meliawalker.weebly.com/",
-      "Project link":
-        "https://www.figma.com/file/145uCIuJAbUIT01ElAYgW3/Senior-Project?node-id=0%3A1",
-      "Long Description of your work (4-6 sentences).":
-        "My project aims to compile and deliver the resources users need to confidently train their companion via mobile application. In creating this, I hope to break the barrier of entry for families and individuals that would greatly benefit from a service animal’s support, but cannot afford the price tag of a pre-trained companion.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "UX/UI, Accessibility",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 20:36:34",
-      "Email Address": "ma4950@nyu.edu",
-      "Full Name": "Maria Arias",
-      "Net ID": "ma4950",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Tam Lin",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Website (Webtoon comic)",
-      "Short project description (one sentence - 500 characters )":
-        "A modern adaptation of the story of Tam Lin in which a knightly woman grasps with her masculinity as she is enthralled by an enchanted man captured by the fairies.",
-      "Equipment List": "Laptop iPad, and physical comics",
-      "What equipment can you provide?": "Laptops, iPad",
-      "What equipment do you need to borrow?":
-        "If you can print out maybe 3 physical copies of the comic that'd be great but it's not a requirement",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "The size of an iPad and laptop! Not too big.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None!",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://ma4950.myportfolio.com/",
-      "Project link":
-        "https://www.webtoons.com/en/challenge/tam-lin/list?title_no=756244",
-      "Long Description of your work (4-6 sentences).":
-        "I made this because I was always interested in making a comic and expanding my art horizons, but I never found a good excuse until now. My friend actually recommended the poem to read, because she and I both really liked old stories of fairies. It's a Webtoon, so you can just read it by scrolling. It's for fans of comics and indie stories!!",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Theme and keywords": "romance, fantasy, webtoon",
-      "Profile photo":
-        "https://drive.google.com/open?id=1YGsy9QOWTiqo2R-L6eyQ50fgvzybrhQY",
-      "Social links": "https://www.instagram.com/mariheart02/ - Instagram",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 22:46:24",
-      "Email Address": "be648@nyu.edu",
-      "Full Name": "Bracha Eisenstat",
-      "Net ID": "be648",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "mitzvah girl",
-      "What kind of form is the work (website, game, vr, etc)": "podcast",
-      "Short project description (one sentence - 500 characters )":
-        "Podcast exploring coming of age as an orthodox jewish womenox jewish women.",
-      "Equipment List": "laptop",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "headset",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "just laptop",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "audio intensive",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "http://brachaeisenstat.com",
-      "Project link": "https://be6481.wixsite.com/my-site-1",
-      "Long Description of your work (4-6 sentences).":
-        "Mitzvah Girl” is an interview podcast exploring the experience of coming of age as an Orthodox Jewish woman. Together, the interviewee and I will design a new bat mitzvah for their current self built on what it personally means for them to be an Orthodox Jewish woman. We will humorously dive into their 12 year old’s bat \nmitzvah and highlight all things meaningful, shallow, material and awkward. In comparing their 12 year old bat mitzvah to the bat mitzvah they would design for their current self, we will discuss how the Jewish community they grew up in shaped their values, sensibilities, and religiosity. Interviewees will come away with a mood board for their current self’s bat mitzvah.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "coming of age, religion",
-      "Profile photo": "",
-      "Social links": "mitzvh",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/18/2022 23:32:30",
-      "Email Address": "jx989@nyu.edu",
-      "Full Name": "Lillian Xu",
-      "Net ID": "jx989",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Portfolio Pieces",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Videos of 3D Models",
-      "Short project description (one sentence - 500 characters )":
-        "Two separate 3D Artwork pieces made for my portfolio with Autodesk Maya. The first piece is a 3D Model Sword, and the second piece is a cyberpunk scene.",
-      "Equipment List": "a screen to play the video + sound",
-      "What equipment can you provide?": "laptops",
-      "What equipment do you need to borrow?":
-        "something that can play video+sound at the same time. If my laptop screen is too small I would need something else to play the video. Probably a larger screen for displaying purpose.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It's a video so maybe 4k? 1080p also works.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Just a screen that plays video and sound will do",
-      "Additional notes for the Gallery Manager":
-        "Need a place to charge my laptop",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://moyanlee.com/",
-      "Project link":
-        "The first link is https://moyanlee.com/sword/ and the second link is https://moyanlee.com/cyberpunk/",
-      "Long Description of your work (4-6 sentences).":
-        "The first piece - sword - is a remake of the very first 3D model I have ever made; with more knowledge of Maya I was able to add material, texture, and create a better render. The second piece - cyberpunk street - is the first original scene I created from sketch. With knowledge of modeling, lighting and rendering I was able to create a whole completed scene on my own. My inspiration of the scene is from the New York City, where there can be really fancy buildings (like the ones on the Fifth Ave), and several steps away can be the dilapidated streets. In a futuristic dystopia, everything could happen - people develop fast with new technologies but the neglected places also exist.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
-      "Theme and keywords":
-        "3d, prop, scene, cyberpunk, modeling, dystopia, futuristic",
-      "Profile photo":
-        "https://drive.google.com/open?id=1zK7J1tk9J6jpvfyZbkaDOr0fQobtbLK-",
-      "Social links":
-        "Instagram: instagram.com/moyan_lee/    Linkedin: linkedin.com/in/jqxu/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 14:13:05",
-      "Email Address": "oa773@nyu.edu",
-      "Full Name": "Olajide Adeleke",
-      "Net ID": "oa773",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Aura",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Motion Graphic Animation",
-      "Short project description (one sentence - 500 characters )":
-        "Aura is an experimental piece of work that is presenting a new world view on people and their relation to personal objects of theirs, focusing on the energy that can be manifested through them. This project incorporates sound recorded interviews, photography, and motion graphics.",
-      "Equipment List": "High Definition Projector and Speaker",
-      "What equipment can you provide?": "Speaker and physical documentation",
-      "What equipment do you need to borrow?":
-        "High Definition Projector and Speaker",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "The work is audio intensive.",
-      "Additional notes for the Gallery Manager":
-        "The Gallery Manager should know that I need the visuals to be displayed in a prime viewing location. It could be the massive monitor in the open studio near the Print Lab, but I would like to see how it could look with one of the projectors on the glass walls in IDM for comparison.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://www.itsjideade.com/",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-jidesrproject22/",
-      "Long Description of your work (4-6 sentences).":
-        "Aura is a project where soon-to-be graduate Olajide (Jide) Adeleke, is taking\nsteps to bring to reality the aura surrounding people everywhere. When thinking of\nenergy, we think of it as something intangible, but how we feel or think directs how we\ncarry ourselves, leading others to experience us as we are. That could mean how we\ndress, talk, or simply move. Jide is trying to bring attention to aura, by making it more real. A new dimension is to be exposed.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "energy, history, aura, art, multimedia, interview",
-      "Profile photo":
-        "https://drive.google.com/open?id=1TXeiyVnoPznYX0MZMs7NomV9zn17BIue",
-      "Social links":
-        "https://www.instagram.com/itsjideade/?hl=en \nhttps://mobile.twitter.com/itsjideade/\nhttps://www.tiktok.com/@ohlajide",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 16:14:50",
-      "Email Address": "srr465@nyu.edu",
-      "Full Name": "Sophia Reck",
-      "Net ID": "srr465",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Rytm Språkspel",
-      "What kind of form is the work (website, game, vr, etc)": "computer game",
-      "Short project description (one sentence - 500 characters )":
-        "Rytm Språkspel is a computer game designed to help beginner Swedish language learners with their pronunciation. Inspired by my own personal struggle learning Swedish's three unique vowels (å, ä, ö), the game uses a custom machine learning model to recognize correct pronunciation as well as a combination of musical rhythm and linguistic cadence to create a fun and engaging practice medium.",
-      "Equipment List":
-        "laptop (with built in mic), headphones, a realtively quiet space (for speech recognition)",
-      "What equipment can you provide?": "laptop, headphones",
-      "What equipment do you need to borrow?": "N/a",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "just the size of my laptop (11.6 x 7.8 x 0.6-inches)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "i don't need absolute quiet, but limited background noise would be helpful for the speech recognition aspect.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://sophiareck.com/",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-sophiereck_sp/",
-      "Long Description of your work (4-6 sentences).":
-        "Rytm Språkspel is a computer game designed to help beginner Swedish language learners with their pronunciation. Inspired by my own personal struggle learning Swedish's three unique vowels (å, ä, ö) as well as my passion for interactive education, the game combines musical rhythm and linguistic cadence to create a fun and engaging practice medium. With the help of fellow language learners from the American Swedish Institute, I gathered myriad sound bite recordings of each vowel– These recordings were later used to train my custom machine-learning model that evaluates the player’s pronunciation as successful or otherwise. I believe that this project has the potential to expand to include both more of the Swedish language as well as any other language people are interested in practicing, and I hope that it inspires people to keep learning past traditional classroom settings.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "game design, educational design, machine learning, linguistics, sound design",
-      "Profile photo":
-        "https://drive.google.com/open?id=1heJaa7XygTjIwGFizup1gK-hDbyqRhX_",
-      "Social links": "insta: tomcat_sophie",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 18:07:00",
-      "Email Address": "fc1499@nyu.edu",
-      "Full Name": "Frederic Chen",
-      "Net ID": "fc1499",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Time Heals",
-      "What kind of form is the work (website, game, vr, etc)": "animated film",
-      "Short project description (one sentence - 500 characters )":
-        "a timeline of a boy coming to terms with himself and his parents learning to accept him.",
-      "Equipment List": "Digital Screen/TV",
-      "What equipment can you provide?": "laptop, charger",
-      "What equipment do you need to borrow?":
-        "headsets, installation materials",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "1920 x 1080 pixels",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "not too loud as there is music",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://www.fredericchen.com",
-      "Project link":
-        "https://drive.google.com/drive/folders/1IzGdiThzpOzmwwrgMhuMX3fyio5et2tZ",
-      "Long Description of your work (4-6 sentences).":
-        "I made this because I had always wanted to visually tell my coming out story, as it was difficult for me to express the emotions I experienced to others who are not queer. Additionally, there are few animated coming out stories specifically with Asian-Americans as being queer is still taboo in Asian culture and many others. I wanted to be able to tell a story that is both personal and universal, for people to understand us and feel representation.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "queer, emotional, personal, animated",
-      "Profile photo":
-        "https://drive.google.com/open?id=1zNoXnh1UC5tjXsHSfwoQKc9Rce3TW3et",
-      "Social links": "http://www.instagram.com/fredericchenyt",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 18:42:05",
-      "Email Address": "mfz226@nyu.edu",
-      "Full Name": "Michael Zachor",
-      "Net ID": "mfz226",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Qtracks",
-      "What kind of form is the work (website, game, vr, etc)": "website",
-      "Short project description (one sentence - 500 characters )":
-        "Qtracks is a website that gives people a low-effort way to rate, tag, journal or otherwise keep track of music that they've listened to on Spotify.",
-      "Equipment List": "just my laptop",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "n/a",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://michaelzachor.com",
-      "Project link": "http://qtracks.netlify.app",
-      "Long Description of your work (4-6 sentences).":
-        "One of my hobbies is extensively keeping track of the music I listen to, but the websites I use are overwhelming and require a lot of work from users, like having to search for each album individually and parsing through lots of versions of the same album. Spotify itself only really lets you save albums and songs and make playlists, so it's hard to keep a definitive list of all the music you like, and even harder to categorize it. I wanted to make a website that makes it easier for people to keep track of their music, where all they have to do is rate/tag/journal an album and its tracks, and move on to the next one. When you sign up and log in, you're asked to sign into your Spotify, and then Qtracks pulls up music that you've listened to and lets you start rating and tagging. Then you can look at all your music and eventually you'll be able to filter your music so you can more easily find what you're looking for. It's a personal website where you get to explore your relationship with the music you love.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Theme and keywords":
-        "website, music, personal, database, rating, tagging, journal",
-      "Profile photo":
-        "https://drive.google.com/open?id=1df7s2WQGHroRaTKAyvr4uTLryxab6G4u",
-      "Social links": "http://linkedin.com/in/michael-zachor",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 20:01:43",
-      "Email Address": "jf3713@nyu.edu",
-      "Full Name": "Tripp Fuentes",
-      "Net ID": "jf3713",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Sweet Montana",
-      "What kind of form is the work (website, game, vr, etc)": "Film",
-      "Short project description (one sentence - 500 characters )":
-        "After his breakup, a boy creates a misogynistic false narrative in his head to learn who he is and how to grow.",
-      "Equipment List": "Canon T6",
-      "What equipment can you provide?": "Laptop + Monitor",
-      "What equipment do you need to borrow?": "Speakers potentially?",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "16 x 9",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "trippfuentes.com",
-      "Project link": "https://trifue.dreamhosters.com/",
-      "Long Description of your work (4-6 sentences).":
-        "I've always wanted to make a film - a culmination of all the film classes I took during my time at IDM. I've always wanted to be ambitious in this nature - to make a film that can prove that I am truly an artistic filmmaker. I was inspired predominantly by the movies Taxi Driver, 500 Days of Summer, and American Psycho, mainly due to how insane these characters are (aside from Tom, who's just a bit misunderstood). This film in my opinion is for all audiences, though arguably moreso men than women, as it delves into the toxic mindsets men may have when they don't know how to express their emotions.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Film, romance, drama, thriller",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 22:52:14",
-      "Email Address": "jr5704@nyu.edu",
-      "Full Name": "Alan Ren",
-      "Net ID": "jr5704",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Plasma",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Website & Figma prototype",
-      "Short project description (one sentence - 500 characters )":
-        "Online gallery for generative arts",
-      "Equipment List": "A laptop and a 24 inches+ monitor.",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "Monitor",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No, there are not. It should be simple as a environment for normal web browsing.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://alan.ooo",
-      "Project link": "https://plasma.alan.ooo/",
-      "Long Description of your work (4-6 sentences).":
-        "Plasma is an online gallery of p5.js generative arts for creators to not only showcase their art pieces but also present their algorithms. Nowadays, with the rising of digital assets, more and more generative artists would like to have a platform to share their creativity with the world. In the future, Plasma can also implement blockchain to allow creators and collectors to own the art pieces as NFTs(Non-fungible tokens).",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
-      "Theme and keywords": "Web Application, p5.js, generative arts",
-      "Profile photo":
-        "https://drive.google.com/open?id=1VkZdV5A7noKFm6jWKWf-lwZXTmP21RFs",
-      "Social links": "https://y.at/balloon.fishcake.laptop.ocean",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/19/2022 23:40:38",
-      "Email Address": "csc611@nyu.edu",
-      "Full Name": "Caroline Cho",
-      "Net ID": "csc611",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "ReDesigning MTA eTix",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Figma prototype for mobile application, Research PDF",
-      "Short project description (one sentence - 500 characters )":
-        "This project is about redesigning the MTA eTix application to better fit customer needs, create a more sustainable approach to the MTA ticket system, and make a more aesthetically pleasing, accessible, user friendly interface.",
-      "Equipment List": "My laptop (+ my laptop charger)",
-      "What equipment can you provide?": "My laptop (+ my laptop charger)",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Online",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://carocreates.dev/",
-      "Project link": "https://csc611.wixsite.com/idmsp",
-      "Long Description of your work (4-6 sentences).":
-        "This project is about redesigning the MTA eTix application to better fit customer needs, create a more sustainable approach to the MTA ticket system, and make a more aesthetically pleasing, accessible, user friendly interface. I want the people of NYC to have a simple, easy, non-stressful way to find, purchase, and us tickets (without having to stop to use their card to refill a paper Metrocard or without having to purchase a physical LIRR ticket). With the new MTA eTix, users can simply install the app, turn on their location service, choose an origin and destination, and allow the app to map a route based on efficiency. Users handle all purchases through the app! They don’t have to worry about waiting in lines, losing their cards (or wasting paper), or handling their credit cards in public, potentially unsafe places.",
-      "Main Image": "main.jpg",
-
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
-      "Theme and keywords":
-        "UX design, Figma, User experience research, graphic design, accessibility, NYC, transportation",
-      "Profile photo":
-        "https://drive.google.com/open?id=1z390wIFED0Q9kgf9ZHt-eST4mGB-khWq",
-      "Social links": "linkedin.com/in/carolinescho",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
-    },
-    {
-      Timestamp: "4/19/2022 23:48:18",
-      "Email Address": "ksm492@nyu.edu",
-      "Full Name": "Kiana Menguita",
-      "Net ID": "ksm492",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Icebreakers",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters )":
-        "“Icebreakers” explores shared experiences among Gen Zers prompted by a series of random (borderline-invasive) personal questions.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A (Laptop)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Video has audio, so not sure if it's best to be played out loud or through headphones.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://kmenguita.myportfolio.com/",
-      "Project link": "https://kmenguita.myportfolio.com/icebreakers",
-      "Long Description of your work (4-6 sentences).":
-        "For my senior project, I wanted to create a motion graphics video that explores and documents experiences shared among Gen Zers. To do so, I could think of no better way than to ask my friends a series of random (borderline-invasive) personal questions - also known as “Icebreakers.” After asking each person the same five questions, I chose the best answers and animated visuals to go along with their responses. By watching, I hope that others are able to laugh along, and most of all, find a little bit of themselves in the stories that are shared.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "motiongraphics, genz, sharingstories",
-      "Profile photo": "",
-      "Social links": "https://www.instagram.com/kiiimenguita/",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/user132597403",
-    },
-    {
-      Timestamp: "4/20/2022 0:12:28",
-      "Email Address": "mao502@nyu.edu",
-      "Full Name": "Mariam Oke",
-      "Net ID": "mao502",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Serenity",
-      "What kind of form is the work (website, game, vr, etc)": "Short Film",
-      "Short project description (one sentence - 500 characters )":
-        "Serenity is an experimental short film exploring the contrast between the quiet and loud parts of the city. Through this film, I hope to shed light on the fact that NYC is more than just a noisy city with a lot of crowds; it’s possible to find moments of peace and stillness here.",
-      "Equipment List":
-        "large TV screen, monitor, or laptop screen. Headphones",
-      "What equipment can you provide?": "Laptop (Macbook Pro), headphones",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "1920 x 1080p (screen based not physical)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "I don't have a preference for the lighting situation for the film.The work does have audio and relies on the viewer being able to hear the audio, so it would be preferable if the space was relatively quiet",
-      "Additional notes for the Gallery Manager":
-        "I uploaded a new main image for my project that has the film title on the image, I put the new main image in the supplementary images category. The form won't let me change the main image I put previously. If possible I'd like to switch it out for the new main image that's in the supplementary image category, thanks.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.mariamoke.com/",
-      "Project link": "https://wp.nyu.edu/mariamoke_seniorproject/final-film/",
-      "Long Description of your work (4-6 sentences).":
-        "Serenity is an experimental short film exploring the contrast between quiet and loud parts of the city. This is a concept I'm exploring because growing up in the suburbs I’ve always gravitated towards quiet areas of nature in the city, so I want to bring that perspective of how I view the city to this short film. I hope to make the city more appealing for people who may not like how fast-paced it is or how loud it can get. This project sheds light on the fact that NYC is more than just a city with a lot of crowds, and it’s possible to find moments of peace and stillness here.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Theme and keywords": "New York City, chaotic vs. peaceful, contrast",
-      "Profile photo": "",
-      "Social links":
-        "https://www.instagram.com/ok.mariam/\nhttps://www.linkedin.com/in/mariamoke/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 1:29:04",
-      "Email Address": "nv851@nyu.edu",
-      "Full Name": "Neha Vasudevan",
-      "Net ID": "nv851",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "While You Were Dreamin'",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Card game/ Graphics",
-      "Short project description (one sentence - 500 characters )":
-        "A wacky party game where players weave together wild dreams.",
-      "Equipment List":
-        "Laptop? I don't need much besides the physical game and the slides that I will show to explain the game.",
-      "What equipment can you provide?": "Laptop, physical game",
-      "What equipment do you need to borrow?":
-        "I don't think I require anything",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "I am not sure yet but for now, handheld cards? As well as an instruction manual perhaps?",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "NOpe",
-      "Additional notes for the Gallery Manager":
-        "Would it be alright if I made a few tweaks to this later?",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://nvasudevan2019.wixsite.com/design",
-      "Project link": "N/A",
-      "Long Description of your work (4-6 sentences).":
-        "My project is an exploration of dreams as an outlet/ path of freedom. During the suffocating, uncertain periods of quarantine, dreams were a safe place for me to remember that the hard times were going to pass. They were also places where I realized I had certain hopes, desires, and fears. I am striving to build something new where people can be wacky, improvise and connect with others by crafting dreams. I am striving to build a project where people feel free to share their dreams and parts of their psyche.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Dreams, surreal, party game, wacky",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 2:37:20",
-      "Email Address": "ghk264@nyu.edu",
-      "Full Name": "Gloria Kim",
-      "Net ID": "ghk264",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Submerge",
-      "What kind of form is the work (website, game, vr, etc)":
-        "installation/art piece",
-      "Short project description (one sentence - 500 characters )":
-        "An immersive, interdisciplinary installation; study on classical music",
-      "Equipment List": "Glass panel, projectors, speakers, laptop, webcam",
-      "What equipment can you provide?": "Glass panel, projectors, laptop",
-      "What equipment do you need to borrow?": "speakers, webcam",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "( 16 in x 20 in ) * 2",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
+        "laptop, installation materials, speaker",
+      "What equipment do you need to borrow?": "DMX",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "low light, audio intensive",
-      "Additional notes for the Gallery Manager":
-        "glass panel will be standing upright",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://ghk264.wixsite.com/gloriakim-portfolio",
-      "Project link":
-        "https://wp.nyu.edu/tandonschoolofengineering-gloriak_seniorproject/",
-      "Long Description of your work (4-6 sentences).":
-        "Submerge is an interdisciplinary, audio-visual art piece that widens the arts community, specifically classical music. Projected through a glass panel, the audience can experience classical music delivered in non-traditional format such as with the sensors, lighting cues, and surround sound. I hope to bring more people into the music community featuring a modern remix of famous works and harmonic breakdowns. The user can interact with the installation by walking around it.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "interdisciplinary, immersive, classical music, modern",
-      "Profile photo":
-        "https://drive.google.com/open?id=125YzUujpJdhFA__-tPvaWrJ2P1VUCn8g",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/20/2022 9:22:00",
-      "Email Address": "ddm364@nyu.edu",
-      "Full Name": "Dominique McBride",
-      "Net ID": "ddm364",
+      Timestamp: "5/1/2023 1:25:35",
+      "Email Address": "fqm202@nyu.edu",
+      "Full Name": "Frank Mieles",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "fqm202",
+      "Project title": "Heart of the City",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "Mother May I?",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters )":
-        "Mother May I? is a short documentary that explores the taboos of addiction by engaging the audience with interviews, A-Roll, and B-Roll. The project tackles themes like substance abuse, self-reflection, and isolation.",
-      "Equipment List": "A large monitor to screen the film.",
-      "What equipment can you provide?": "Headphones, Laptop",
-      "What equipment do you need to borrow?": "A large monitor.",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "New York City is an island with millions of stories flowing through the streets. Each day there are millions of New Yorkers who engage in sharing culture, activism, and experiences with each other. Many New Yorkers live in their own bubble, minding their business and not looking for trouble. However, despite this, they are all part of a large connected community. Through novels, films, video games, we have seen many adaptations of capturing the essence of New York City. The MTA provides a serviceable public transportation system that provides a way for it’s riders to get to work and throughout the 5 boroughs. Manhattan, Brooklyn, Queens, The Bronx, and Staten Island are some of the largest and most interconnected cities in the entire world. This film plans on capturing the world that is New York City and who are its residents.",
+      "Long Description of your work (4-6 sentences).":
+        "Through scenery, multiculturalism, and community, an economy of culture rises through the rubble of New York’s daily struggles. This is intended for a general audience, but I’m looking to focus more towards the 16+ audience group with some adult themes/imagery\n(Smoking, explicit language). I was inspired by old films about New York and my own personal experiences.",
+      "Link to your personal portfolio":
+        "https://www.linkedin.com/in/frankmieles/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Sociology, Multiculturalism, Video Production, Film making",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "1920x1080",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Projector / Display at 1080p resolution",
+      "What equipment can you provide?": "Laptop, Cables, adapters.",
+      "What equipment do you need to borrow?":
+        "I would need a connection between the display and my laptop, or my video file can be displayed directly from the display itself.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/28/2023 4:27:54",
+      "Email Address": "hb2480@nyu.edu",
+      "Full Name": "Hima Bijulal",
+      "Name of Advisor": "Luke DuBois",
+      "Net ID": "hb2480",
+      "Project title": "Audio-Visuality of the overwhelming future",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://himabijulal.net/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Low Light and quiet.",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://dominiqueip.wixsite.com/my-site-1",
-      "Project link": "I don't have a project link at this time.",
-      "Long Description of your work (4-6 sentences).":
-        "Mother May I?  will explore the confines of my childhood and the impact my mother’s addiction had on me. There will be a conversational portion with my mother and me highlighting how we have both healed and the steps we’ve both taken to become healthier people. Mother May I? is for those who feel invisible.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
-      "Theme and keywords":
-        "Mother, Daughter, Addiction, Home, Conversation, Enlightmentent",
-      "Profile photo":
-        "https://drive.google.com/open?id=185Ad3auajfZCR-dWjIh2X-E0WNBffw7k",
-      "Social links": "https://www.instagram.com/freedom.thirteen/",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "Dark Room, Some kind of noise cancelling(ideally a sound proofed dark room), Speakers, Microphone, Laptop",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?":
+        "Dark Room, Some kind of noise cancelling environment, Speakers, Microphone",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The installation will require darkness and no external sounds (or a way to drown out environmental sounds) as the project is purely audio and no visuals at all.)",
+      "Additional notes for the Operations Manager": "None",
     },
     {
-      Timestamp: "4/20/2022 11:28:20",
-      "Email Address": "ss11976@nyu.edu",
-      "Full Name": "Sam Sengupta",
-      "Net ID": "ss11976",
+      Timestamp: "4/30/2023 21:33:01",
+      "Email Address": "hs3898@nyu.edu",
+      "Full Name": "Huaze Shao",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "hs3898",
+      "Project title": "Gift of Time",
       "What year are you?": "Senior (Senior Project)",
-      "Project title": "The Blue Side",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters )":
-        "A website that shows the importance of preserving and retelling stories with artificial intelligence, creating a general archive for future reference.",
-      "Equipment List": "Laptop/desktop, headset",
-      "What equipment can you provide?": "Laptop, headset",
-      "What equipment do you need to borrow?": "Nothing comes to mind",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "11.97'' x 8.36'' (MacBook size)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "It requires a headset so users can focus on both sound and visuals.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://wp.nyu.edu/samsportfolio/",
-      "Project link": "https://wp.nyu.edu/samsportfolio/the-blue-side/",
+      "What kind of form is the work (website, game, vr, etc)": "UI/UX",
+      'If you selected "Other", please write your description below:': "UI/UX",
+      "Short project description (one sentence - 500 characters)":
+        "The project, in the form of a mobile app, aims to challenge conventional ideas about parenting by advocating for equal roles within families. Through using the app, users can get suggestions for activities suitable for their children's age, keep track of their children's growth, form a routine of spending time with their children, and access articles that offer parental advice.",
       "Long Description of your work (4-6 sentences).":
-        "My project is called The Blue Side and it is a website based on characters and their interactivity with the users. It includes themes of evolving technology, untold stories and the rising dependency that people have on technology. I will be designing a live interface of a building with several tenants that the user can interact with using chat bots with premeditated responses. I want to make this project to highlight the importance of storytelling and how important it is to preserve the stories that are passed down the family tree and across the tree to acquaintances. It will be a live design website made with HTML, CSS and JavaScript hosted on a public server, and it will have a homepage with a building and individual buttons with different characters that users can click on. Each character prompts the user to have a conversation with them so that they can relay their individual stories. Once the user exits the building, they can read and add their own anonymous story to the story board, which will be like a Pinterest board style archive of their personal narratives.",
-      "Main Image": "main.jpg",
+        "This project aims to address the observed imbalance in child-rearing responsibilities between mothers and fathers. Our goal is to motivate fathers to be more engaged in taking care of their children. To accomplish this, we provide users with tips on how they can interact with their children, a timeline that records their children’s growth, and articles that can adjust their original perspectives on parenting. Eventually, users will become less reliant on this application and develop a more holistic parenting style.",
+      "Link to your personal portfolio":
+        "https://huazeshao.wixsite.com/website",
+      "Project link": "https://huazeshao.wixsite.com/website/gift-of-time",
+      "Main Image":
+        "https://drive.google.com/open?id=1NvzHYM3ft5Vi3hKmXiphwJCmhuf1Vif9",
+      "Supplementary Images": "",
+      "Thematic Keywords": "child-rearing, UI/UX design, parental guidance",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1d2KtmEK1AbbzqPob_AgGROgBshtBFv9x",
+      "Equipment List": "laptops, iPad",
+      "What equipment can you provide?": "laptops, iPad",
+      "What equipment do you need to borrow?": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "3/2/2023 19:33:32",
+      "Email Address": "zw3030@nyu.edu",
+      "Full Name": "Hugo Wu",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "zw3030",
+      "Project title": "Desert Rose Project",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Incorporating 3D motion digital art and media archeology, my thesis project is a visual film that depicts how desert roses changed in the history from changing geographic, technological and agricultural conditions, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D art on the theme of future nature and botanical art.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.behance.net/hugowuuuu",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Art Direction; 3D Motion Graphics, CGI, Visual Film",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/hugowuuuu/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.behance.net/hugowuuuu",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "projector screen or a tv screen for video playing,",
+      "What equipment can you provide?": "personal laptop, a disk",
+      "What equipment do you need to borrow?":
+        "projector screen or a tv screen for video playing",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/28/2023 19:10:46",
+      "Email Address": "yl6447@nyu.edu",
+      "Full Name": "Irene Lao",
+      "Name of Advisor": "DeAngela",
+      "Net ID": "yl6447",
+      "Project title": "Lian - New Fanmade Support Hero for Overwatch 2",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My project is about creating an ideal support character for the game Overwatch 2. The final diverables will include illustrations, posters, and 3D models. Viewers will see and read detailed descriptions of this new character. I want the community to look at my project and think “this would be great if the character is a real support hero in the game.",
+      "Long Description of your work (4-6 sentences).":
+        "I am doing this project because of my passion for video games. Overwatch was a game that I truly enjoyed, but Overwatch 2 feels it's lacking something. As a support player, I would like to see more support characters with unique abilities being designed in the game. For my project, I plan to design a support character that will have elements such as ominics, futuristic, and perhaps a little bit of Chinese background. The target audience will be the players in this Overwatch community, specifically the support players.",
+      "Link to your personal portfolio": "https://www.ireneeysl.com/",
+      "Project link": "https://www.ireneeysl.com/blog-1",
+      "Main Image":
+        "https://drive.google.com/open?id=11c53xbppcnFrJCeuAOP421QNt_oxhozn",
       "Supplementary Images":
-        "https://drive.google.com/open?id=1caRUwDzxGFxYPSPaokrZtQfctHvMRtHv",
-      "Theme and keywords":
-        "Untold stories, evolving technology, storytelling and the rising dependency that people have on technology",
-      "Profile photo":
-        "https://drive.google.com/open?id=1CEAsxVcRvxOB7ywefFNg7bhpBHCYY5ev",
-      "Social links":
-        "LinkedIn: https://www.linkedin.com/in/shambhavi-sengupta-1049b0180/",
+        "https://drive.google.com/open?id=1inOwQ73FKjfajk9XW_ZJcgYcc4kLSZyC",
+      "Thematic Keywords": "character design, game design, graphic design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 11:35:35",
-      "Email Address": "ta1447@nyu.edu",
-      "Full Name": "Tasmia Anika",
-      "Net ID": "ta1447",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Aisha's Favorite",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Physical book & a social media page",
-      "Short project description (one sentence - 500 characters )":
-        "Aisha's Favorite is a children's storybook featuring Bengali cuisines. In the story, a 6th graders has to choose her favorite food to bring to her school. This will also have a instagram page dedicated to promoting the book.",
-      "Equipment List": "table, laptop",
-      "What equipment can you provide?": "Book, laptop",
-      "What equipment do you need to borrow?": "NA",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "8.5 x 11",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "NA",
-      "Additional notes for the Gallery Manager": "NA",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "NA",
-      "Project link": "https://www.instagram.com/aishas_favorite/",
-      "Long Description of your work (4-6 sentences).":
-        "While I was researching I realized that children's literature currently in the market lacked diversity. I wanted to create something that represented who I was and for people who looked like me. Ultimately, I wanted to spread my culture through a book about Bengali food. It is an adorable story that's filled with colorful pictures of delicious food, and a few words in Bengali. This was an exploration into learning about the positive aspects of writing from different cultures that are not represented enough in the current genres of works by children. It is designed for children who are in elementary school, but fun enough for all ages.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Cultural, Food, Bengali",
-      "Profile photo":
-        "https://drive.google.com/open?id=16WiTtPRUB9lLtftcAamS09KXJHvPglcB",
-      "Social links": "https://www.linkedin.com/in/tasmiaanika/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 14:03:59",
-      "Email Address": "kra312@nyu.edu",
-      "Full Name": "Kyle Anderson",
-      "Net ID": "kra312",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "MONDO",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Video Game (2D)",
-      "Short project description (one sentence - 500 characters )":
-        "A 2D arcade game where you avoid stepping on cars.",
-      "Equipment List":
-        "Laptop, game controller, CRT TV, HDMI Cord, HDMI to Composite Adapter",
-      "What equipment can you provide?":
-        "Laptop, game controller, CRT TV, HDMI Cord, HDMI to Composite Adapter",
-      "What equipment do you need to borrow?": "Three power outlets",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "2ftx3ftx3ft",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "I will need three outlets for my computer, TV, and HDMI to Composite Adapter",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://kylerobertanderson.com/",
-      "Project link": "http://kylerobertanderson.com/mondo/",
-      "Long Description of your work (4-6 sentences).":
-        "MONDO is a game about a monster who doesn't want to be destructive. Growing up, they've always had expectations to be big and destroy cities, but that's just not them. It's a game for people who are figuring out who or what they want to be.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Video Game, 2D, Arcade, Growing Up",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Arb0SVUvAJvphKD0p0vVZUruf_Fvxiuf",
-      "Social links": "https://www.linkedin.com/in/kyleanders0n/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 15:41:31",
-      "Email Address": "yw3763@nyu.edu",
-      "Full Name": "Yining Wang",
-      "Net ID": "yw3763",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Into the Abyys",
-      "What kind of form is the work (website, game, vr, etc)": "Photobook",
-      "Short project description (one sentence - 500 characters )":
-        "Our project would show different urban cities’ angles and express different feelings through individual experiences. There will be two chapters in this photo book.  The first part of it would be considered as showing the consistency of Urban cities with the phenomenon of loneliness, the second part would evoke more on the sense of isolation and how people experience and feel in a more abstract way.",
-      "Equipment List": "table to display",
-      "What equipment can you provide?": "laptop",
-      "What equipment do you need to borrow?": "n/",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "140， 240 mm",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://itsbeccawang.squarespace.com",
-      "Project link": "intotheabyss.squarespace.com",
-      "Long Description of your work (4-6 sentences).":
-        "Our project would show different urban cities’ angles and express different feelings through individual experiences. There will be two chapters in this photo book.  The first part of it would be considered as showing the consistency of Urban cities with the phenomenon of loneliness, the second part would evoke more on the sense of isolation and how people experience and feel in a more abstract way.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "photo book, isolation, emptiness",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 15:53:46",
-      "Email Address": "zyl233@nyu.edu",
-      "Full Name": "Zheng Yu Lin",
-      "Net ID": "zyl233",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Creature Study",
-      "What kind of form is the work (website, game, vr, etc)": "3D Model",
-      "Short project description (one sentence - 500 characters )":
-        "A project dedicated to study the mythical creature, dragons. Create and design a functioning 3D model based on the study.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?":
-        "I don't think I will need to borrow any equipment from the department.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "a 15in laptop.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "There will be no special considerations for installing my work.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://www.2zhenglin.com/",
-      "Project link": "http://www.2zhenglin.com/",
-      "Long Description of your work (4-6 sentences).":
-        "The idea behind this project is to explore and work with organic surface modeling. Which is something that I have been working and learning to improve on. I think the project of studying a mythical creature will allow me the chance to see what I should improve on in terms of organic modeling.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "3D Modeling",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 16:42:22",
-      "Email Address": "lcc469@nyu.edu",
-      "Full Name": "Leon Caleb Christian",
-      "Net ID": "lcc469",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title":
-        "A Museum of You: Frameworks for Conscious Social Media Use",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Website & Physical Zein",
-      "Short project description (one sentence - 500 characters )":
-        "An interactive website/ Instagram page that teaches users ways to use social media more critically",
-      "Equipment List": "Tv/ Monitor/ screen",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?":
-        "HDMI chord, USB-C to HDMI adapter,",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "n/a",
-      "Project link": "https://www.instagram.com/amuseumofu/",
-      "Long Description of your work (4-6 sentences).":
-        "Social media should be seen as a new iteration of the “commons” an open communal space where people can interact with one another. My project focus on how Users themselves can interact with social media in ways that are more therapeutic and less exploitative. In a 2019 interview with Oprah, writer Toni Morrison said “Everybody Needs A Place That Is Theirs” social media offers users the ability to curate their very own safe spaces, but due to the nature of social media algorithms this curation has to be done critically and intentionally by users themselves. Our content needs to be therapeutic in order to combat the daily oppressive forces that we face in society, social media can be a washer machine for our individual and collective psyches but we have to make it that way. Your social media is a museum of you, what exhibition are you curating and what exhibitions are you attending?",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "social media, community, healing, futurism",
-      "Profile photo":
-        "https://drive.google.com/open?id=1nZNcZ4Nz0h6Hmgmcq1wE7WBmtUGm93uo",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 16:42:23",
-      "Email Address": "zs1282@nyu.edu",
-      "Full Name": "Claudia Shao",
-      "Net ID": "zs1282",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Ride",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Interactive prototype of a mobile application on Figma",
-      "Short project description (one sentence - 500 characters )":
-        "Ride is a ride-hailing mobile app that compares available accessible transportation methods for users with mobility issues.",
-      "Equipment List": "2 MacBook laptops & chargers, headphone",
-      "What equipment can you provide?": "1 MacBook laptop & charger",
-      "What equipment do you need to borrow?":
-        "1 MacBook laptop & charger, headphones for MacBook",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        '13" MacBook',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1DG_QCL3prqAYaEBSebmhqjS9GlnbY8yK",
+      "Equipment List": "Laptop, electric socket so I can plug my computer in",
+      "What equipment can you provide?": "laptop, printed posters",
+      "What equipment do you need to borrow?": "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
         "n/a",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://claudiashao.wixsite.com/design",
-      "Project link":
-        "https://www.figma.com/proto/ZK3qN8BTpFEqPWb0riH2PU/accessible-transportation-app-final-wireframe?node-id=112%3A1136&scaling=scale-down&page-id=0%3A1&starting-point-node-id=112%3A1136",
-      "Long Description of your work (4-6 sentences).":
-        "Out of the 25.5 million Americans age 5 and older with travel-limiting disabilities, 70% are forced to reduce daily travels because of the lack of accommodation for their conditions. The lack of equity in transportation is negatively affecting the lives of \npeople with mobility issues. For my senior project, I designed Ride, a ride-hailing mobile app that compares available accessible transportation methods for wheelchair users. By scheduling a ride, the app will display the costs and estimated wait times of all possible travel methods while also suggesting the most accessible drop-off location to ensure customers feel safe and comfortable before and after the ride. Interact with my Figma prototype to get a glimpse this experience.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg",
-      "Theme and keywords":
-        "transportation, user experience, accessibility, interactive prototype",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Swz2GngYMSo6jjoSX0MT32EiHHWl4jUa",
-      "Social links": "https://www.linkedin.com/in/claudiashao/",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://youtu.be/axzItVrvBOY",
+      "Additional notes for the Operations Manager": "",
     },
     {
-      Timestamp: "4/20/2022 16:45:31",
-      "Email Address": "zw1756@nyu.edu",
-      "Full Name": "Hawk Wei",
-      "Net ID": "zw1756",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Into The Abyss",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Photo book with website",
-      "Short project description (one sentence - 500 characters )":
-        "Our project is a photo book than can show different urban cities’ angles and express different feelings through individual experiences. A part of it would be considered as showing the phenomenon of loneliness in big cities, evoking the sense of isolation that millions experience daily.",
-      "Equipment List": "A place to show photobook and A screen for website",
-      "What equipment can you provide?": "laptop and photobook",
-      "What equipment do you need to borrow?": "laptop",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "book size",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "none",
-      "Additional notes for the Gallery Manager": "none",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "hawk-wei.webflow.io",
-      "Project link": "intotheabyss.squarespace.com",
-      "Long Description of your work (4-6 sentences).":
-        "Our project is a photobook and website that can show different urban cities’ angles and express different feelings through individual experiences. A part of it would be considered to show the phenomenon of loneliness in big cities, evoking the sense of isolation that millions experience daily.The reason we are making this photo book is because memories through four years are in every corner of this town, and we would like to keep it by this book.  People who experience a strong sense of loneliness that comes in and does not disappear regardless of the social situation would be our best audience.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Lonliness, isolation, urban city",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 17:03:21",
-      "Email Address": "drc413@nyu.edu",
-      "Full Name": "Denis Raul Ciocan",
-      "Net ID": "drc413@",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Inverse Hunter",
-      "What kind of form is the work (website, game, vr, etc)": "Game (on PC)",
-      "Short project description (one sentence - 500 characters )":
-        "Game about fighting monsters and inverting screen colors to become stronger",
-      "Equipment List": "My Laptop",
-      "What equipment can you provide?": "My Laptop",
-      "What equipment do you need to borrow?": "none",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "17 inch diagonal laptop",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no.",
-      "Additional notes for the Gallery Manager": "no.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://drc413.myportfolio.com/",
-      "Project link": "https://denisciocanthesis.wordpress.com/",
-      "Long Description of your work (4-6 sentences).":
-        "I've always wanted to make my own game outside of the constraints imposed in previous game-making classes, and I though this class would be the perfect opportunity to do so. It was inspired by old RPGs that I've played, and the color inversion ability is inspired by Jojo's Bizarre Adventure, in which the color palette of the world changes in tense situations. You play the game with the arrow keys, Z, the spacebar, shift, and control, and the goal is to defeat all the inverted enemies invading this location.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Game, Inversion, Top Down RPG",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 17:25:13",
-      "Email Address": "adm612@nyu.edu",
-      "Full Name": "Amanuel Mebrahtu",
-      "Net ID": "adm612",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "An Act of Banality",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters )":
-        "An examination of the documentary 'the act of killing' through the lens of Hanah Arendt's \"Eichmann in Jerusalem",
-      "Equipment List":
-        "Since I am remote, I would like to play my video on the tv screens.",
-      "What equipment can you provide?": "The video file",
-      "What equipment do you need to borrow?": "A Tv screen/monitor",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "1920x1080 (1080p)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Audio intensive (there is a voice recording & music) but absolute quiet is not necessary",
-      "Additional notes for the Gallery Manager":
-        "Since I will be remote, my professor said that I would be able to play my video on the tv screens, in the program. Is this possible?",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://adm612.myportfolio.com/",
-      "Project link": "https://adm612.myportfolio.com/senior-project",
-      "Long Description of your work (4-6 sentences).":
-        "The reason I want to do this project is because the topic allows me to discuss what is happening in my own country without directly talking about it. I think the video essay is the ideal format for my project. An essay of a film on its own doesn’t quite capture the visual element that is integral to any film. The video essay format also allows me to be more versatile in the way that I could present the subject matter.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Video Essay, Nature of Evil, Documentary",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/21/2022 18:19:43",
-      "Email Address": "dg3184@nyu.edu",
-      "Full Name": "David Gray",
-      "Net ID": "Dg3184",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "The Journal Project",
-      "What kind of form is the work (website, game, vr, etc)": "Video",
-      "Short project description (one sentence - 500 characters )":
-        "A short documentary about why people journal and  the untold personal stories that are in peoples journals.",
-      "Equipment List": "My own laptop",
-      "What equipment can you provide?": "Nothing",
-      "What equipment do you need to borrow?": "Nothing",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It is a hd 1080p video",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://wp.nyu.edu/tandonschoolofengineering-gray/",
-      "Project link": "https://youtu.be/dxnyP_Eckk0",
-      "Long Description of your work (4-6 sentences).":
-        "A documentary about why people journal what it does for people to journal daily and the type of stories that go unshared.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Documentary, Short Film, Journaling",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 17:54:19",
-      "Email Address": "ml7075@nyu.edu",
-      "Full Name": "Leila LI",
-      "Net ID": "ml7075",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Shower Power",
-      "What kind of form is the work (website, game, vr, etc)": "App",
-      "Short project description (one sentence - 500 characters )":
-        "Shower Power is an app that encourages its users to take shorter showers and save water.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?":
-        "None (I will be out of the country during the showcase. It is excused, and my professor has been notified)",
-      "What equipment do you need to borrow?": "A Laptop",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Phone sized (an app)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "none",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.leilali.com",
-      "Project link":
-        "https://www.figma.com/proto/DqysVzlVrPBZAQsEVcaLP3/Shower-Power?node-id=71%3A1133&scaling=scale-down&page-id=0%3A1",
-      "Long Description of your work (4-6 sentences).":
-        "As a society, we normalize and romanticize taking excessively long showers. But did you know that standard shower heads use 2.5 gallons of water per minute? Water scarcity is a huge problem, and it is not talked about enough. Shower Power is a shower timer app that encourages users to save water by taking shorter showers. Users are encouraged to import their music playlist into Shower Power. And before a shower, users can set their desired shower length, and music will stop at the end of the timer as a reminder and making the shower a little less enjoyable.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Enviroment, Shower, Water",
-      "Profile photo": "",
-      "Social links": "https://www.linkedin.com/in/leilamuwenli/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:07:53",
-      "Email Address": "sac843@nyu.edu",
-      "Full Name": "Semaab Chaudhry",
-      "Net ID": "sac843",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "MuseKick",
-      "What kind of form is the work (website, game, vr, etc)":
-        "figma prototype of an app",
-      "Short project description (one sentence - 500 characters )":
-        "MuseKick is a social platform that connects music lovers, allowing people to share music, discuss their passion, make friends, and find their muse.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        '12", 8.4", 0.6',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "I don't think so.",
-      "Additional notes for the Gallery Manager": "No.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://semaabc23.github.io/portfoliosite/index.html",
-      "Project link":
-        "https://www.figma.com/proto/UQv380pLpaeg0C08n2aoLD/Zap-Version-2-(Copy)-(Copy)?node-id=108%3A31&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A2&show-proto-sidebar=1",
-      "Long Description of your work (4-6 sentences).":
-        "My motivation for embarking on this project was that there isn’t a central place for people to meet and interact with other fans in the same fanbase. Music is a powerful means through which people connect and are able to experience emotions together. It's difficult to find a community outside of just attending concerts where people can continue to converse and share music with one another. This app is meant to help people discover music, connect with others who share their tastes, and build a community to share their experience of music with.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "music, social, social media, community, connect, passion, share, experience",
-      "Profile photo":
-        "https://drive.google.com/open?id=1Hoy2m1i5fNfsRuPyDdtGdyjcR40lPizT",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:20:33",
-      "Email Address": "ss12037@nyu.edu",
-      "Full Name": "Sahana Sripadanna",
-      "Net ID": "ss12037",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Table Talk",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UX Project - App",
-      "Short project description (one sentence - 500 characters )":
-        "Table Talk is a mobile app UX Project focused on promoting discussion on mental health within Asian American families, in order to destigmatize mental health and provide better access to resources.",
-      "Equipment List": "Monitor, keyboard, mouse",
-      "What equipment can you provide?": "laptop, mouse",
-      "What equipment do you need to borrow?": "None (will use own equipment)",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "laptop screen (13 inches)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "No",
-      "Additional notes for the Gallery Manager": "n/a",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "http://sahanasripadanna.com",
-      "Project link":
-        "https://www.figma.com/proto/vDTvqRRNmre4SjIhlJQmhF/Table-Talk-Final?node-id=1%3A288&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A307",
-      "Long Description of your work (4-6 sentences).":
-        "Table Talk is an app intended to help initiate dialogue around mental health, to help destigmatize mental health within Asian American communities. The destigmatization of mental health and better access to treatment is a rising platform in the US overall, but Asian American communities are not benefiting from it as much as they could, due to pervasive stigmas surrounding mental health within these communities. While more resources are available now, due to cultural differences and language barriers, much can get lost in translation.\n\nImproving individual mental health can often involve support from the whole family. While this experience is not intended to replace therapy or professional help, it is geared toward helping individuals learn, discuss, connect, and reflect on their mental health with their families over time. Inspired by the success of popular discussion card games like “We’re Not Really Strangers,” Table Talk utilizes a series of prompts that recontextualize mental health concepts into questions and ideas that help broach the cultural barrier or generation gap that many Asian American families struggle with. Table Talk incorporates a variety of different strategies to help start the conversation on mental health in a gentle and inclusive way.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Theme and keywords": "AAPI, mental health, discussion",
-      "Profile photo":
-        "https://drive.google.com/open?id=1ApCJ1oyOinM1Xo7ZIzwlI8oMcPHfJ_8b",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:29:07",
-      "Email Address": "nz816@nyu.edu",
-      "Full Name": "Nicole Zhao",
-      "Net ID": "nz816",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "The Price of Crypto",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Physical installation",
-      "Short project description (one sentence - 500 characters )":
-        "This installation seeks to show the environmental cost of an expanded use of cryptocurrency by printing receipts for common items if they were to be purchased using cryptocurrency along with an estimation of the energy used for that transaction.",
-      "Equipment List":
-        "Table, power strip (will need to plug in one device), white masking/painters tape",
-      "What equipment can you provide?": "Laptop, other installation materials",
-      "What equipment do you need to borrow?": "Table, power strip",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "12in x 8in x 10in",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "N/A",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://nicolemzhao.com",
-      "Project link": "https://nicolemzhao.com/senior-project",
-      "Long Description of your work (4-6 sentences).":
-        "This interactive installation gives a glimpse into a world where cryptocurrency is used for the purchase of common goods and its environmental consequences. When the user presses the button, a receipt is printed for the transaction while also including information about the energy consumed. The experience aims to provoke the audience to consciously think about the dangers of expanding the use of cryptocurrency without acknowledging the environmental costs. The installation is powered by a thermal printer and Arduino.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "cryptocurrency, sustainability, environmental awareness",
-      "Profile photo":
-        "https://drive.google.com/open?id=1YiMWlW76xwnX-lLJA-D_lL2GEN492JAO",
-      "Social links": "https://www.linkedin.com/in/nicolemzhao/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:37:34",
-      "Email Address": "js9767@nyu.edu",
-      "Full Name": "Junwei Shi",
-      "Net ID": "js9767",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "孤虑患者 Anxiety patient",
-      "What kind of form is the work (website, game, vr, etc)":
-        "fine art installation",
-      "Short project description (one sentence - 500 characters )":
-        "I superimposed twenty portraits to express the different emotions of each moment, using my own portrait as the base plate, and adding my own mosaic art or hand-painting on the base plate to show my anxiety about myself Psychological redemption.",
-      "Equipment List":
-        "strings to hang my work, projector, printed film(my work), speaker or headsets with recording device(laptop)",
-      "What equipment can you provide?": "laptops, printed film(my work)",
-      "What equipment do you need to borrow?": "speaker, headsets",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "width: 24 inches, height: 36 inches depth: 15 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "main light: ceiling forward(strong light), auxiliary light: both sides 45 degree(low light); room with projector on the ceiling, my work needs to be hanged from the ceiling and the last piece needs to be on a white wall",
-      "Additional notes for the Gallery Manager":
-        "If possible, I would like the way of my project name display to be customised by me.",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://js9767.myportfolio.com",
-      "Project link": "N/A",
-      "Long Description of your work (4-6 sentences).":
-        "Inspiration: This project is inspired by a dutch artist Berndnaut Smilde’s project Clouds and Chris Luka's work. Its ephemeral interpretation made me think of using transparent paper to interpret everyone's fleeting expressions.\nMain: I superimposed twenty portraits to express the different emotions of each moment, using my own portrait as the base plate, and adding my own mosaic art or hand-painting on the base plate to show my anxiety about myself Psychological redemption.\nPeople's anxiety will change due to time, place and surrounding environment including surrounding people, so I choose to present this work in this way. This is an installation art that looks different from every angle, and aims to show that everyone can get their own different opinions when looking at this work from different angles.\nOutcome: The combination of projection and print is used to show the perfect visual effect, and the superposition of transparent paper is used to show people's different instant expressions.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "anxiety, installation",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:51:33",
-      "Email Address": "ho629@nyu.edu",
-      "Full Name": "Rachel Oh",
-      "Net ID": "ho629",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Ticket Place",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Figma prototype (app)",
-      "Short project description (one sentence - 500 characters )":
-        "Ticket Place is a secondary ticketing app that makes it easier to buy and sell tickets at the last minute.",
-      "Equipment List": "Laptop, charger",
-      "What equipment can you provide?": "Laptop, charger, mouse",
-      "What equipment do you need to borrow?":
-        "I can provide my own enquipment",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Width: 13 inches, Depth: 9 inches, Height (when laptop is closed): 0.61 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://www.rachelcgart.com/",
-      "Project link":
-        "https://www.figma.com/file/qQD8eBenVpDNiwnewZgASk/Ticket-Place-App?node-id=0%3A1",
-      "Long Description of your work (4-6 sentences).":
-        "For my project, I wanted to focus on the UX/UI of secondary markets (specifically the ticket resale market). Often times when people have a change of plans and have to sell their tickets, they go to Facebook Marketplace or rely on word of mouth. I wanted to make this process easier for them by creating one platform that allows them to connect, buy, sell, and verify their tickets.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Intuitive, GameChanger, Innovative",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 18:57:23",
-      "Email Address": "cl4506@nyu.edu",
-      "Full Name": "Congxin Li",
-      "Net ID": "cl4506@",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Not Just Salad",
-      "What kind of form is the work (website, game, vr, etc)": "Graphics",
-      "Short project description (one sentence - 500 characters )":
-        "A branding design for a healthy food restaurant called Not Just Salad",
-      "Equipment List": "Adobe Creative Suite",
-      "What equipment can you provide?": "Laptop, Poster",
-      "What equipment do you need to borrow?": "Boards",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Not sure",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://www.lucyliportfolio.com/",
-      "Project link": "I don't have one",
-      "Long Description of your work (4-6 sentences).":
-        "This project is a brand design for a healthy food restaurant based in Shanghai. The main concept of the restaurant is that eating healthy should be fun and enjoyable. I want to convey this purpose through my design. Its target audience is millenials who are looking for quick, delicious healthy food options.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Theme and keywords": "Happy, Delicious",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 19:13:32",
-      "Email Address": "se1260@nyu.edu",
-      "Full Name": "Shipon Eunus",
-      "Net ID": "se1260",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Geist 2086 // The Post-Life Experience",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Website + Installation",
-      "Short project description (one sentence - 500 characters )":
-        "Geist 2086 // The Post-Life Experience is a digital archive of personal creative expression.",
-      "Equipment List":
-        "Giant Monitor(like the ones in the open lab spaces), possibly speakers, regular monitors if giant ones aren't available",
-      "What equipment can you provide?": "laptop, camera tripod",
-      "What equipment do you need to borrow?":
-        "laptops, monitor (pref giant monitor, want to use it as to display artwork so students can take pictures in front of it)",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "table dimensions",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "low light, audio experience, space to be able to take pictures in front of monitor",
-      "Additional notes for the Gallery Manager":
-        "really would prefer giant monitor to execute project vision to highest ability",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "shiponeunus.com",
-      "Project link": "https://geist2086-designedbyshipon.studio",
-      "Long Description of your work (4-6 sentences).":
-        "Fueled by the lack of being able to buy things that he couldn’t find or describe, Shipon approaches his work with the do-it-yourself mentality. Inspired by musician visual identities and runway shows, Shipon’s aspiration of creating his own visual identity manifests in Geist 2086. Geist 2086 is Shipon’s aesthetic voice that visualizes ideas with the perspective of telling his story to his descendants centuries from now. Geist 2086 // The Post-Life Experience is a digital archive of symbolic and abstract work representing Shipon’s reactions to his experiences and bringing his future memories to life.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg",
-      "Theme and keywords":
-        "Nature vs Artificial? , StreetwearAsArtMovement, DIY",
-      "Profile photo":
-        "https://drive.google.com/open?id=1DuaaNsHZGiDmbC0OgQdNp4DjGtNWhOLD",
-      "Social links": "https://www.instagram.com/lindoraycharles/",
-      "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/shiponeunus",
-    },
-    {
-      Timestamp: "4/20/2022 19:24:42",
-      "Email Address": "sb6709@nyu.edu",
-      "Full Name": "Simon Bayona",
-      "Net ID": "sb6709",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "AI Playlist Art",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters )":
-        "Custom, AI generated playlist art for Spotify Playlists",
-      "Equipment List":
-        "A laptop, an extra screen, a speaker, and a place to set those things up",
-      "What equipment can you provide?":
-        "Laptop, (I could provide a speaker, but it would not be ideal)",
-      "What equipment do you need to borrow?": "A screen and a speaker",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "I'm not sure, enough space for the screen, my laptop, and the speaker",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "While not necessary, the work is audio focused. So putting me next to an audio intensive work would not be ideal.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "http://simbayona.com",
-      "Project link": "https://simbayona.github.io/aiplaylistart/",
-      "Long Description of your work (4-6 sentences).":
-        "This project exists to improve upon Spotify's current system for quickly making cover art for a user generated playlist. The website will generate a custom piece of art based on the songs in the playlist that is more visually interesting than the norm.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Music, AI Generation, Spotfy API",
-      "Profile photo":
-        "https://drive.google.com/open?id=1QJ2olTEWl8P1peNixBx7t-c5jh9QQCET",
-      "Social links": "@simbayona",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/21/2022 18:16:59",
-      "Email Address": "bnw257@nyu.edu",
-      "Full Name": "Brandon Win",
-      "Net ID": "bnw257",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "FurnishStore",
-      "What kind of form is the work (website, game, vr, etc)":
-        "User Interface/Mobile App",
-      "Short project description (one sentence - 500 characters )":
-        "FurnishStore is a mobile app where users can purchase furniture delivered from local vendors and add furniture to stylized collections and aesthetics.",
-      "Equipment List": "Laptop, mouse, external monitor, HDMI cable",
-      "What equipment can you provide?": "Laptop and mouse",
-      "What equipment do you need to borrow?":
-        "External monitor and HDMI cord to display project",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Digital screen, no dimensions applicable",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "Low-light preferably",
-      "Additional notes for the Gallery Manager": "None",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "https://brnwin.github.io/",
-      "Project link": "https://brnwin.github.io/projects/furnishstore.html",
-      "Long Description of your work (4-6 sentences).":
-        "FurnishStore is a mobile app design that sets out to provide means for apartment owners and homeowners to order and aesthetically select local furniture and have it delivered straight to their door. The target audience for FurnishStore is mainly composed of new apartment owners and homeowners within the 20-30 year old range. I set out on this mission to create FurnishStore coming from the mindset of a to-be apartment owner. In my search for an apartment, I realized that finding furniture while still retaining a certain style is an issue for apartment owners. There aren't many choices available—either you go to Ikea or you don't—and this situation limits people's personal choice in creating their own aesthetic for their living spaces. FurnishStore is the alternative choice for people who aim to be able to find local furniture while still building out their own aesthetics and styles for their place.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
-      "Theme and keywords": "UX design, Figma, mobile, wireframing",
-      "Profile photo":
-        "https://drive.google.com/open?id=1RSIM771EACm12gZMSdmDqVae3vbjggeK",
-      "Social links": "https://www.linkedin.com/in/brnwin/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 19:35:11",
-      "Email Address": "hw1954@nyu.edu",
-      "Full Name": "Aron Wang",
-      "Net ID": "hw1954",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Mind Spaces",
-      "What kind of form is the work (website, game, vr, etc)": "website",
-      "Short project description (one sentence - 500 characters )":
-        "A mobile application that serves as a game-ified toolkit for managing daily life when dealing with symptoms of ADHD.",
-      "Equipment List": "Laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "N/A",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "11.97 x 8.36 x 0.63 inches",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "N/A",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio": "http://aronywang.com/",
-      "Project link": "https://www.aronywang.com/mind-spaces",
-      "Long Description of your work (4-6 sentences).":
-        "As someone who has downloaded countless productivity, scheduling, and habit tracking applications, experimented with planners, calendars, sticky notes, only to end up abandoning all of these tools a day later, I know the struggle of trying to manage a life when dealing with ADHD symptoms. Taking in data from others I know with ADHD, I wanted to make an app that could help with planning, prioritizing, and establishing good working habits that was also compelling enough to maintain our interest. I combined game aspects with this mobile toolkit, transforming it into a space adventure with rewards systems and unlockable alien creatures to not only make managing daily life easier, but also fun and exciting to do. This app is made for myself, my loved ones, others who struggle with symptoms of ADHD, and anyone else who could benefit from this toolkit.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "app, ADHD, productivity, lifestyle, mental health, habits",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 19:38:32",
-      "Email Address": "rjc552@nyu.edu",
-      "Full Name": "Ruby Cardozo",
-      "Net ID": "rjc552",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Ruby's Portfolio",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters )":
-        "An portfolio website designed to reflect my style. The theme is New York City. It is my first time designing a fun website and attempting to build it, so it was also a great design exercise and learning experience!",
-      "Equipment List":
-        "maybe a large screen computer, but I could also use my laptop",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?":
-        "A computer with a larger display than a laptop, if available.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Computer screen size. It's a website, yo.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "nope",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://ruby-cardozo.webflow.io",
-      "Project link": "https://ruby-cardozo.webflow.io",
-      "Long Description of your work (4-6 sentences).":
-        "We learn from experience. As a graduating senior, I wanted to challenge myself to make something using several of the skills I had acquired during my time at IDM, while also creating something that I would personally use. This project is a web design for my own portfolio. It may seem simple, but I wanted to solve a problem that I actually had, which is that I did not have a personal website to present my work. While this is only the first version of this website, I learned a lot from my experience designing and creating it. I hope to continue to iterate upon it, even after graduation!",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "Web design, illustration, portfolio, New york City, Graphic Design",
-      "Profile photo":
-        "https://drive.google.com/open?id=1OtOdvD5TjYKp9tkUqXaTlRDdYyizRYhQ",
-      "Social links": "Instagram: @notrubysart",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 19:44:29",
-      "Email Address": "aaj427@nyu.edu",
-      "Full Name": "Aaisha Al Jabri",
-      "Net ID": "aaj427",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Windows Into a Hybrid Identity",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Video and 3D installation and Projection",
-      "Short project description (one sentence - 500 characters )":
-        "A video and 3D installation and projection about people's experiences of leaving home and adapting into their new environments.",
-      "Equipment List": "2 wood panels, 2 projectors, 2 laptops and speaker",
-      "What equipment can you provide?":
-        "2 wood panels, 2 projectors and one laptop",
-      "What equipment do you need to borrow?": "one laptop and speaker",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "2*2 for each wood panel",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "low light and audio intensive",
-      "Additional notes for the Gallery Manager":
-        "I think the ideal place for my project is in a dark space",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "aaishaaljabrisportfolio.godaddysites.com",
-      "Project link":
-        "https://aaishaaljabrisportfolio.godaddysites.com/senior-project",
-      "Long Description of your work (4-6 sentences).":
-        "My project aims to highlight the internal conflict that people face when they leave home in an attempt to find another place where they can be their true selves and express themselves freely. I want to explore the different parts of people’s identities that form as a result of leaving home and moving away from their families. The themes that I would like to explore with this project are related to identity, self-discovery, leaving home, culture and family. \nThe project will take form in two walls with four windows. A total of four different videos will be played at the same time and projected on the windows. One of the windows will contain interviews I filmed with five international students including myself. Next to the interviews I wanted to show pictures that show images and videos of the interviewee’s family and home. The second wall will show a 3D model of an object that has a resemblance to interviewees’ memories of their childhood, the place they grew up in as well as objects that represent their current lives. Next to this window will be another window showing videos of them or their families interacting with this object.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "identity, self-discovery, leaving home, culture and family",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 19:58:02",
-      "Email Address": "jc8706@nyu.edu",
-      "Full Name": "Jasmine Coley",
-      "Net ID": "jc8706",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "The World I See",
-      "What kind of form is the work (website, game, vr, etc)": "3D Animation",
-      "Short project description (one sentence - 500 characters )":
-        "This animation is about a boy that travels through portals into different worlds and sees ordinary objects transform in ways he doesn't expect.",
-      "Equipment List": "Computer w/ Sound",
-      "What equipment can you provide?": "can provide computer",
-      "What equipment do you need to borrow?": "headphones",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Computer or projector format (size may vary and is adjustable)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "It has audio but doesnt need to be silent.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://jasminecoley.myportfolio.com/work",
-      "Project link": "https://vimeo.com/701460876",
-      "Long Description of your work (4-6 sentences).":
-        "This a 3D Animation created using MAYA software.Its a narrative animation about a boy who travels through portals to different worlds and sees ordinary objects transform in ways he does not expect. I was inspired by my talks tutoring 3rd graders and asking them about their favorite things.  I created this animation to appeal to kids under 12 to inspire a sense of curiosity and wonder and yet an underlying message of caution.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "3D Animation, Curiosity, Adventure, Kids",
-      "Profile photo": "",
-      "Social links":
-        "@its_jasssy  https://www.linkedin.com/in/jasmine-coley-a80881166",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 20:16:34",
-      "Email Address": "ns4185@nyu.edu",
-      "Full Name": "Nathan Shek",
-      "Net ID": "ns4185",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title":
-        "Challenging the Daily UI Challenge: An autoethnographic look at how the Daily UI Challenge turned into a study of differences between UI and UX design",
-      "What kind of form is the work (website, game, vr, etc)": "Website",
-      "Short project description (one sentence - 500 characters )":
-        "This project started off as simply the 100 Day Daily UI Challenge, but through a deep dive into what I wanted to get out of this project, it turned into a study in how UI and UX are two connected, yet completely different things.",
-      "Equipment List": "Laptop and monitor",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?":
-        "Any type of screen or monitor to connect to my computer - my project will run the best if I can show videos along with my work simultaneously.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "Just my 13.3 inch Macbook and possibly whatever monitor can be provided",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "My work does have some audio, so while I don't need it to be absolutely quiet, I do need the audience to be able to hear the audio.",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio": "https://nathanshek.myportfolio.com/",
-      "Project link":
-        "https://challengingthedailyuichallenge.myportfolio.com/home",
-      "Long Description of your work (4-6 sentences).":
-        "Initially, my project started off as the 100 Day Daily UI Challenge, with the initial intention of building my UI Portfolio. My project had a major pivot when I started realizing that I was feeling unfulfilled with the project as it stood - I felt as though the challenge wasn't challenging me enough, and especially as someone that was taught UX fundamentals, I began seeing the UI challenge through a UX lens, noticing many things that the UI challenge lacked. From there, my intention was simply to create my own UX challenge based on the Daily UI challenge, but I quickly realized that UX is far more complex than UI in terms of how iteration happens and the thought that goes into each design decision. Through my entire project process, I was able to study my own thoughts and behavior to understand how exactly UI and UX are distinct - and why my initial idea of creating the \"Daily UX Challenge\" wouldn't have worked out.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "UI Design, UX Design",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/20/2022 21:33:07",
-      "Email Address": "ht1106@nyu.edu",
-      "Full Name": "Hosanna Tandi",
-      "Net ID": "ht1106",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Queendom",
-      "What kind of form is the work (website, game, vr, etc)": "Printed zine",
-      "Short project description (one sentence - 500 characters )":
-        "A zine about the experience of growing up as a South Asian woman in America.",
-      "Equipment List": "Table and book display stand",
-      "What equipment can you provide?":
-        "I can only provide the copies of magazine.",
-      "What equipment do you need to borrow?":
-        "I need to borrow a table and book display stand.",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "my work is 8.5 by 11 inches! it is a zine.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "no special considerations",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "No",
-      "Link to your personal portfolio":
-        "https://sanaadesigning.myportfolio.com/",
-      "Project link": "https://sanaadesigning.myportfolio.com/graphic-design",
-      "Long Description of your work (4-6 sentences).":
-        "I rarely see the experience of South Asian women represented in mainstream conversations. I decided to tackle this lack of representation by creating a zine centered on the experience of growing up as a South Asian woman in America. This zine is for South Asian women to be able to pick up and realize that we are all in this struggle together. I hope that they find comfort and validation in what they feel and what they go through. The main component of this zine are the interviews with 3 South Asian women whom give amazing insight into our struggles and joys.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords": "Desi, women, struggles, joys, beauty, celebration",
-      "Profile photo":
-        "https://drive.google.com/open?id=1wS1_WwMJjAfIC5ZsObOUP5JEKMa_SF1D",
-      "Social links": "https://www.instagram.com/247equals_heaven__/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/21/2022 23:58:53",
-      "Email Address": "jeh609@nyu.edu",
-      "Full Name": "Julia Haskins",
-      "Net ID": "jeh609",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Bacteria inspired bottle",
-      "What kind of form is the work (website, game, vr, etc)": "Physical item",
-      "Short project description (one sentence - 500 characters )":
-        "For this project I wanted to focus on the issue of trash at National Parks and campsites that has spiked during the pandemic. I designed a biodegradeable bioceramic bottle to serve as an alternative to single use items such as glass and plastic bottles that people usually throw away or that becomes litter in outdoor areas. This bottle would be dispensed in solar powered vending machines at parks and campsites, and could be returned to the machine for a credit towards another purchase.",
-      "Equipment List":
-        "An outlet to plug in a computer or electronics for a live demo",
-      "What equipment can you provide?": "Laptop",
-      "What equipment do you need to borrow?": "None",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "2ft x 3ft x 3ft",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "None",
-      "Additional notes for the Gallery Manager":
-        "My project may be an eggshell allergy risk",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://juliahaskins.github.io/Portfolio_site/",
-      "Project link": "https://juliahaskins.github.io/Portfolio_site/",
-      "Long Description of your work (4-6 sentences).":
-        "For my senior project I wanted to create a product for people who visit National Parks and campsites and are looking for a sustainable alternative for single use. I have been working on a biodegradable ceramic bottle fabricated with the help of the bacteria S. pasteurii. This bottle would be dispensed in solar powered vending machines at parks and campsites, and could be returned to the machine for a credit towards another purchase. The bottles could be ground up and remolded or sterilized and refilled inside of the machine. If the bottles ended up being left at the campsite or trail as litter, they would break down into calcium particles. Further steps would be to investigate how the bottles could be seed bombs that are activated by fire and improve the area that they are left in.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "Sustainability, biomaterials, recycling, nature, self assembly, biomimicry",
-      "Profile photo": "",
-      "Social links": "https://www.instagram.com/huliahaskins/",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "4/25/2022 15:43:55",
-      "Email Address": "mb6837@nyu.edu",
-      "Full Name": "Marcello Bevilacqua",
-      "Net ID": "mb6837",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "Eyes On Fire",
-      "What kind of form is the work (website, game, vr, etc)":
-        "Video and Accompanying Installation",
-      "Short project description (one sentence - 500 characters )":
-        "An immersive installation made to accompany a short queer horror film about love and murder.",
-      "Equipment List":
-        "Dark area, possibly a projector, curtains, laptop, flyers",
-      "What equipment can you provide?": "laptop, flyers",
-      "What equipment do you need to borrow?":
-        "Dark area, possibly a projector, curtains",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "depends on the area for the projection",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "low light",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "Yes",
-      "Link to your personal portfolio":
-        "https://marcellobevilacqua.cargo.site/",
-      "Project link":
-        "https://drive.google.com/drive/folders/1Atd5E3duJIdtItcWAvRS16Asxyv1pro7?usp=sharing",
-      "Long Description of your work (4-6 sentences).":
-        "What happens when a people-pleaser gets pushed to the edge and trampled on? Dante, a seemingly innocent and meek hopeless romantic, falls for a guy, Johnny, who is a player. After months of romance, distance, and misunderstandings, Dante finally gets told it’s the end of their fling. In a haze of heartbreak, Dante assumes a new identity to live out his new dark fantasies and sets out on a maniacal revenge scheme to get the closure he needs. Find out how it all ends at the immersive installation made to exhibit the film to its fullest potential.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "",
-      "Theme and keywords":
-        "Queer, Horror, Romance, Camp, Comedy, Cult Classic, Installation",
-      "Profile photo": "",
-      "Social links": "",
-      "Link to any video content (Vimeo / YouTube)": "",
-    },
-    {
-      Timestamp: "late addition",
+      Timestamp: "2/28/2023 22:26:46",
       "Email Address": "xz2228@nyu.edu",
       "Full Name": "Jack Zhang",
+      "Name of Advisor": "Deangela Duff",
       "Net ID": "xz2228",
-      "What year are you?": "Senior (Senior Project)",
-      "Project title": "MAG",
-      "What kind of form is the work (website, game, vr, etc)":
-        "UX Design/Prototype",
-      "Short project description (one sentence - 500 characters )":
-        "A lively personal assistant that stimulate productivity by sharing progress of friends and coworkers",
-      "Equipment List": "A monitor(any size), my PC",
-      "What equipment can you provide?": "A PC",
-      "What equipment do you need to borrow?": "A monitor of any size",
-      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "The dimension of the prototype is 1920*1080, the dimension of the device that prototype embeds is 414*736.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....":
-        "",
-      "Additional notes for the Gallery Manager": "",
-      "You have the ability to bring one non-NYU affiliated person to the showcase, do you wish to do so?":
-        "",
-      "Link to your personal portfolio": "www.xjackzhang.com",
-      "Project link": "http://xjackzhang.com/2022/04/27/ux-design-mag/",
+      "Project title": "To The King: Redesigning Memory Game",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My project is a game study and redesign project titled “To The King.” It aims to understand whether randomness leads to frustration in traditional memory card games, and redesign game mechanics and objectives to create competitive gameplays and enhanced memory training. Considering the changing gaming landscape and its effect on perception of visual information, the redesign includes a tabletop and a mobile game. Under the rules of the new game, players can change the position of flipped cards in a sequence deck, intervening the opponent’s memorization. The goal of this project is to provide players with more control of their victory and defeat to create an enjoyable game experience.",
       "Long Description of your work (4-6 sentences).":
-        "Mag is a UX project that includes clean designs of a planner and a progress sharing platform. The designer sees the problem that work management apps don’t usually encourage users to do their plans, and he aims to stimulate users by designing a progress sharing group. Mag allows users to share the progress of the work in a personal plan and check those from other users in a work group, and rank up based on their work time and efficiency. In addition, users can switch to the Play mode to find other players in their favorite online games.",
-      "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg",
-      "Theme and keywords":
-        "Casual, clean, connect, track, communicate, stimulate",
-      "Profile photo": "",
-      "Social links":
-        "Linkedin: https://www.linkedin.com/in/jack-xu-zhang-776950146/",
+        "My project is a game study and redesign project titled “To The King.” It aims to understand whether randomness leads to frustration in traditional memory card games, and redesign game mechanics and objectives to create competitive gameplays and enhanced memory training. Considering the changing gaming landscape and its effect on perception of visual information, the redesign includes a tabletop and a mobile game. Under the rules of the new game, players can change the position of flipped cards in a sequence deck, intervening the opponent’s memorization. The goal of this project is to provide players with more control of their victory and defeat to create an enjoyable game experience.",
+      "Link to your personal portfolio": "https://xjackzhang.com",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=12RP_Mvvm36DWxAfeiVZ7yJxy6PR4HnCY",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "game study, video game design, tabletop design, player research",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Two small tables",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 14:09:27",
+      "Email Address": "js11255@nyu.edu",
+      "Full Name": "Jackie Sabillon Pinto",
+      "Name of Advisor": "Scott Fitzgerald",
+      "Net ID": "js11255",
+      "Project title": "Congrats! You're Pregnant",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "https://docs.google.com/document/d/1XU7jcegn3GU40W5C_aQBcbtctCGOClQB3te_n1DyyP0/edit?usp=sharing",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.jackiensabillon.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "abortion rights, installation, womanhood, projection mapping, experience design, online education",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/jackie.dsgn/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "24x48x31 in",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1bSsrxJmzFAGuy6Y6EAecmOVpgXLHWopa",
+      "Equipment List":
+        "projector, projector stand or mount, 24x48 table, smaller table or surface, speakers, laptop, arduino, webcam, paper, paper boxes",
+      "What equipment can you provide?":
+        "laptop, arduino, webcam, paper, paper boxes",
+      "What equipment do you need to borrow?":
+        "projector, projector stand or mount, 24x48 table, smaller table or surface (can maybe provide myself), speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The work needs low light and a relative quiet space. I also need mounting for my projector",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 20:27:09",
+      "Email Address": "cl6089@nyu.edu",
+      "Full Name": "James Lee",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "cl6089",
+      "Project title": "Phiz",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "see below",
+      'If you selected "Other", please write your description below:':
+        "Phiz is a mocap toolkit including websites, standalone apps and game engine plugins.",
+      "Short project description (one sentence - 500 characters)":
+        "Phiz is an open-source tool that gives you the power to do facial motion capture right in your browser, using the webcam on any mobile device or computer. You can then send the blendshape data, either locally or remotely, to another browser or popular game engines; you even have the option to broadcast the blendshape data through OSC protocol using Phiz's cross-platform app.",
+      "Long Description of your work (4-6 sentences).":
+        "- Facial Motion Capture... in Your Browser\n\nPhiz's motion capture system was built using Mocap4face and Google mediapipe's machine learning model. No iPhone LiDAR or RGBD camera needed! The underlying ML code is not fixed and will be updated whenever there is a better model.\n\n- Streaming Data: Unreal and Unity Support\n\nPhiz includes custom plugins that fire up WebSocket servers within Unreal Engine and Unity, which are used to receive live data from your browser. The plugins also include convenient presets that you can easily use with popular 3D avatars, such as Metahumans and ReadyPlayerMe characters.\n\n- Streaming Data: Browser to Browser & Browser to OSC App\n\nPhiz uses WebRTC (the protocol used in video calling) to send data from one browser to another or from a browser to the app. However, no image or video is sent at all. WebRTC also allows for peer-to-peer secure connection and low latency.\n\n- ARKit Support\n\nPhiz uses the same blendshapes as ARKit. Check out the Blendshapes page for more information about the blendshape names and orders.",
+      "Link to your personal portfolio": "https://jameslee.ninja/",
+      "Project link": "https://phizmocap.dev",
+      "Main Image":
+        "https://drive.google.com/open?id=1T5Qf6rnYb3hyIlPutZmDZyNQuvVU9N05",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "unity, unreal, mocap, virtual production, webrtc, websocket, avatar, metahuman, face-tracking",
+      Twitter: "no",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/spooky_corgi_art/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/ljc-_8bkLc8",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "5 feet, 5 feet, 2 feet (after the March showcase you told me to ask for 2 tables)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=17XoSdUNLci_Kg62bVNRDoIyiZvwhvk3s",
+      "Equipment List":
+        "pc with a good GPU, 2 monitors, an extra laptop, webcam, speakers",
+      "What equipment can you provide?": "an extra laptop, webcam, speakers",
+      "What equipment do you need to borrow?":
+        "pc with a good GPU and 2 monitors",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "a clear background for webcam to capture people's face easily",
+      "Additional notes for the Operations Manager": "Thank you!",
+    },
+    {
+      Timestamp: "2/27/2023 11:16:18",
+      "Email Address": "jcw586@nyu.edu",
+      "Full Name": "James Watson",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "jcw586",
+      "Project title": "Euphemia",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://readymag.com/u1391225122/jw-portfolio/?fbclid=PAAaYZaHNZM1gnIJDHyj6EIXMvGmQ2LgZxSQA5kxYpCnUKYohfnqWcbvGetZM",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Projector (Maybe)",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?":
+        "Speaker (Maybe) , Projector (Maybe)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "3/16/2023 12:58:32",
+      "Email Address": "jar10038@nyu.edu",
+      "Full Name": "Janelle Roswell",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "jar10038",
+      "Project title": "tech after tech",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "tech after tech showcases the innovative ideas and projects that emerge from the cross-pollination of the fields of tech, art + design, it exists in 2 parts: conversations — in-depth chats with a diverse range of thought leaders, creators, and designers who are pushing the boundaries of what’s possible in their respective industries. And explorations: Valuable information, resources, & references helping users to navigate the rapidly changing world of emerging tech, art, & design. Each podcast guest will have their own episode section on the platform, where their work(s), favourite quotes, books, photos, and/or references for further discourse, will be displayed visually.",
+      "Long Description of your work (4-6 sentences).":
+        "tech after tech showcases the innovative ideas and projects that emerge from the cross-pollination of the fields of tech, art + design, it exists in 2 parts: conversations — in-depth chats with a diverse range of thought leaders, creators, and designers who are pushing the boundaries of what’s possible in their respective industries. And explorations: Valuable information, resources, & references helping users to navigate the rapidly changing world of emerging tech, art, & design. Each podcast guest will have their own episode section on the platform, where their work(s), favourite quotes, books, photos, and/or references for further discourse, will be displayed visually.",
+      "Link to your personal portfolio": "janelleroz.com",
+      "Project link": "techafter.tech",
+      "Main Image":
+        "https://drive.google.com/open?id=1JknUCRweOzq9mY9iYnsx9svmlGrT9Zzw",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "technology, art, design, culture, memory, collective culture, emerging technologies",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "instagram.com/janelleroz",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "n/a",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "laptop",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "n/a",
+    },
+    {
+      Timestamp: "2/27/2023 14:53:24",
+      "Email Address": "jer630@nyu.edu",
+      "Full Name": "Jason Rios",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "jer630",
+      "Project title": "Identity Intervention",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "N/A",
+      "Short project description (one sentence - 500 characters)":
+        "A man suffering through Dissociative Identity Disorder becomes trapped in his own dream, forcing him to confront his insecurities and long-term traumas alongside the people he despises the most, other versions of himself. / This film will be my first time creating a long-form narrative. Although I’ve worked on a few skits and other shorts over time, I have always desired to create an engaging and meaningful story over the course of a longer time-frame. In the showcase, my project will feature the first sequence of the film, along with a trailer to promote viewing the full short film.",
+      "Long Description of your work (4-6 sentences).":
+        "In the showcase, my project will feature the first few minutes of my short-film, along with a trailer to promote viewing the full film when it's completed. My primary goal with this project is to successfully create an engaging piece that can make audiences laugh and become invested in the story I want to tell. Through video creation in the past, I have found success in making short-form videos, but I have always had a desire to create something grander. I've wanted to build off of the concept for this video for a while, and feel like this story will be the perfect way to demonstrate the skills I have gained through my studies at NYU.",
+      "Link to your personal portfolio": "https://www.jasonrios.net/",
+      "Project link":
+        "https://www.jasonrios.net/videos/v/identity-intervention",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "video, pre-production, post-production, motion capture, entertainment, short-film,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/jasonri0s/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.jasonrios.net/videos/v/identity-intervention",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "A screen to view the video and an audio system for sound. I don't think I need anything special.",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "2/27/2023 16:45:25",
+      "Email Address": "jk7593@nyu.edu",
+      "Full Name": "jayden kim",
+      "Name of Advisor": "mark skwarek",
+      "Net ID": "jk7593",
+      "Project title": "Inclusive indoor navigation in AR",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "AR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.jdenkim.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?":
+        "qrcode from a flyer allow people to access my projects",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/9/2023 21:19:19",
+      "Email Address": "jw5636@nyu.edu",
+      "Full Name": "Jingxiao Wu",
+      "Name of Advisor": "Scott Fitzgerald (Thesis Advisor)",
+      "Net ID": "jw5636",
+      "Project title": "Divine of Green",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My work is a documentary photography series and video that explores the interaction between human and nature in New York City. Through four themes of photography, I highlight the interdependence between nature and architecture, vitality of overlooked weeds, and impact of human waste, particular during COVID-19 pandemic. The video serves as a transition, emphasizing the conflict between human and nature. My work aims to raise awareness of the importance of environmental conservation and provoke reflection on our relationship with nature.",
+      "Long Description of your work (4-6 sentences).":
+        "My project is a documentary photography series and a supplementary video exploring the relationship between human activity and the natural environment in New York City. Inspired by my own observations and research on the topic, I aim to draw attention to the impact of human waste and garbage on the city's flora and fauna, as well as the interdependence between nature and architecture. Through the use of portraiture and landscape photography, I highlight the diversity and beauty of New York City's ecosystems, while also bringing attention to the overlooked weeds and grass that persist despite human impact. The installation, which includes four parts of photography and one video, aims to provide an immersive experience for viewers, inviting them to contemplate their own relationship with the natural world. This project is for anyone who is interested in the intersection of art, nature, and photography, and seeks to encourage reflection and action towards a more sustainable future.",
+      "Link to your personal portfolio": "https://www.jingxiaoportfolio.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Nature, Environment, Urban Ecology, Human Waste, Photography, Documentary, Art Installation, Video, Immersive Experience",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A not decided yet",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1v5g-UliTPWrrfxEMg8SvZGFy-EuIlKAg",
+      "Equipment List":
+        "Printed photographs (in various sizes, depending on the display) Frames or mounts for the photographs Labels or captions for each photograph Artificial turf or grass carpet to create a small lawn area Artificial plants, vines, weeds, and garbage (if necessary)  A video screen or projection system for the supplementary video A computer or media player to play the video Audio equipment -  Headphones",
+      "What equipment can you provide?":
+        "Printed photographs (in various sizes, depending on the display) Frames or mounts for the photographs Labels or captions for each photograph Artificial turf or grass carpet to create a small lawn area ,A computer or media player to play the video Audio equipment -  Headphones",
+      "What equipment do you need to borrow?":
+        "A video screen or projection system for the supplementary video ( if possible)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I need at least 2 walls ( it would be best if I could be assigned to the corner of the room because there will be 2 walls at least I think?), and one table for the exhibition",
+      "Additional notes for the Operations Manager": "Thank you!",
+    },
+    {
+      Timestamp: "5/1/2023 1:51:01",
+      "Email Address": "jy3917@nyu.edu",
+      "Full Name": "Jiyun Yao",
+      "Name of Advisor": "Scott Fitzgerald",
+      "Net ID": "jy3917",
+      "Project title": "Gamify Rehabilitation System",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Gamify Rehabilitation System",
+      'If you selected "Other", please write your description below:':
+        "With this system, users can map their own exercise movements in real life to corresponding digital game actions using just a webcam, making rehabilitation more accessible and engaging.",
+      "Short project description (one sentence - 500 characters)":
+        "My thesis aims to address at-home physical rehabilitation challenges by proposing a gamified rehabilitation system that can keep patients engaged and motivated throughout their rehabilitation journey. This system allows patients to rehab with their own favorite digital games, such as Animal Crossing or Pokemon, on either a Nintendo Switch or Laptop with a simple setup at home. The end result is a personalized and enjoyable rehabilitation experience that helps patients stay on track and achieve their physical goals. So, if you're looking for a way to make rehabilitation more enjoyable and effective, consider the customized gamified rehabilitation system.",
+      "Long Description of your work (4-6 sentences).":
+        "Physical rehabilitation at home can often be challenging due to a lack of supervision and motivation. Patients always get homework from the therapists after the visit but find it hard to finish the exercise routine at the desired frequency. My thesis aims to address this issue by proposing a gamified rehabilitation system that can keep patients engaged and motivated throughout their rehabilitation journey. Previous research and development on the gamified rehab system often required complicated setups or special devices in the clinic and patients have no choice over what game they can play. This system allows patients to rehab with their own favorite digital games, such as Animal Crossing or Pokemon, on either a Nintendo Switch or Laptop with a simple setup at home. It uses a machine learning algorithm to let each patient input their unique physical rehabilitation movement, and assigns it to a digital action such as a keypress or console press to play their chosen game. The end result is a personalized and enjoyable rehabilitation experience that helps patients stay on track and achieve their physical goals. So, if you're looking for a way to make rehabilitation more enjoyable and effective, consider the customized gamified rehabilitation system.",
+      "Link to your personal portfolio": "https://www.dawnyao.com/",
+      "Project link": "https://youtu.be/eutpsRcm8EQ",
+      "Main Image":
+        "https://drive.google.com/open?id=15qzr0Am1ADKB917jfEsBcU0Yue1sRKjX",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Computer Vision, Gamification, Augmentative Reality, Customized Game Console",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/eutpsRcm8EQ",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Depends on the movement, maximum 6 ft probably",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=17_Yi73uVRtNpJSZyGgIzQp2MXq2E5B5l",
+      "Equipment List":
+        "Table, TV, laptop, switch, webcam, recording camera, tripod, power source",
+      "What equipment can you provide?": "laptop, switch, webcam, camera",
+      "What equipment do you need to borrow?": "Table, TV, tripod",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 21:25:54",
+      "Email Address": "jh6768@nyu.edu",
+      "Full Name": "Joan Huang",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "jh6768",
+      "Project title": "Day by Day",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).":
+        "Day by Day is a rotoscope animation that captures the nuances of my life as a 21-year-old college student living in New York City. Rather than portraying a glamorized version of city living, the project aims to shed light on the realities that are often concealed by social media and movies. Through my own struggles with phone addiction, a prevalent issue among people my age, the animation invites viewers to consider the importance of being present in our daily lives.",
+      "Link to your personal portfolio": "https://www.joanhuang.art/",
+      "Project link": "https://youtu.be/tuNfzHXZUw0",
+      "Main Image":
+        "https://drive.google.com/open?id=1-zlkQmUn7w4YvwSFHWtfaiQ-UYnXRUUP",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Rotoscope Animation",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 11:12:35",
+      "Email Address": "jc9296@nyu.edu",
+      "Full Name": "Jordan Chan",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "jc9296",
+      "Project title": "AR for Real Estate",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Mobile App",
+      'If you selected "Other", please write your description below:':
+        "Mobile App",
+      "Short project description (one sentence - 500 characters)":
+        "My project aligns with my UX tract and is a mobile application that incorporates AR technologies to help aid real estate viewing and marketing. As someone who is about to graduate and is looking for housing soon, I've noticed a disparity between how properties are presented on apps versus how they are like in reality. With AR, users will be able to view accurate depictions of properties at the comfort of their own homes.",
+      "Long Description of your work (4-6 sentences).":
+        "My project aligns with my UX tract and is a mobile application that incorporates AR technologies to help aid real estate viewing and marketing. As someone who is about to graduate and is looking for housing soon, I've noticed a disparity between how properties are presented on apps versus how they are like in reality. With AR, users will be able to view accurate depictions of properties at the comfort of their own homes.",
+      "Link to your personal portfolio":
+        "https://jordanchanhy.wixsite.com/jordanchan",
+      "Project link":
+        "https://www.figma.com/file/QKHnt2fIZ3SkCl7wfR5FLT/NYU-Senior-Project?node-id=36%3A160&t=5HlraSl0CHNnGlw4-0",
+      "Main Image":
+        "https://drive.google.com/open?id=1bKBv1qd2eIgCUOv4BHCt8FEHY9xJ1Cbd",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1biVVSYbqNKvn6HKBd5XehKTXH8-2McSk",
+      "Thematic Keywords": "App, UX, Real Estate, AR, interaction design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/jordanchanhy/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1kKLYJCRXlpS_EdJfqPFLYUyOS7y9ida3",
+      "Equipment List": "Table",
+      "What equipment can you provide?": "Phone, Laptop",
+      "What equipment do you need to borrow?": "Table",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Some flat surface, a foot of space for AR prototype to work",
+      "Additional notes for the Operations Manager": "None",
+    },
+    {
+      Timestamp: "4/28/2023 12:14:11",
+      "Email Address": "jyk562@nyu.edu",
+      "Full Name": "Julia Kim",
+      "Name of Advisor": "Eric Maeillo",
+      "Net ID": "jyk562",
+      "Project title": "Weee Delivery App Redesign",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://juliak.im",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1uO0DQb_dWUEfOPX_PUdSWSq4cMPEYmN-",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1wkaVc_WJ5EvamYZP5yXTN6Y5hLS3Ypm3",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "large poster (36'' x 48\")",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "laptop, iPhone",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "no",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 9:53:58",
+      "Email Address": "cj1516@nyu.edu",
+      "Full Name": "Kai Jin",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "cj1516",
+      "Project title": "Rooey's Voxels",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Game Assets",
+      'If you selected "Other", please write your description below:':
+        "I am making 3d asset packs for game environments using voxel art.",
+      "Short project description (one sentence - 500 characters)":
+        "I love video games and was lucky to venture into game art & design this past year. My interest in game art kept growing, so I decided to create my own assets that I could use for future game dev projects. I'm always determined to learn something new, so Rooey’s Voxels is my first dive into making asset packs and using the voxel medium. I hope to soon develop this project further into a game!",
+      "Long Description of your work (4-6 sentences).":
+        "Rooey’s Voxels is a collection of asset packs for games that are built with voxels, or, 3D pixels.  Each pack is built with an environment concept and sample level in mind. My intention for this project was to learn the voxel medium to create games with, while also experimenting with concept art, environments, and level design.",
+      "Link to your personal portfolio": "https://jinkai.carrd.co",
+      "Project link": "https://rooeysvoxels.carrd.co",
+      "Main Image":
+        "https://drive.google.com/open?id=1GrFKry8eVDCDvGI0NnKFvImpDvuMusTo",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "game art, asset pack, 3D, voxel, environment, concept, worldbuilding, interaction design, level design, game design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1j0dSf1xjtdT6tjiQbgvzLVtqY45tTiNz",
+      "Equipment List": "",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "None",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 0:50:47",
+      "Email Address": "kmh746@nyu.edu",
+      "Full Name": "Kaitlyn Heard",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "kmh746",
+      "Project title": "If AI Could Feel",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "With the rise of ChatGPT and generative AI taking over I wanted to create some commentary around the ethical development of AI. How practical should AI be and how closely should it represent humans? Viewers will walk by a room and be able to see two chatbots having a conversation. They will also be able to see visual interface that will represent the emotions of the chatbot at that time in the conversation.",
+      "Long Description of your work (4-6 sentences).":
+        "I got the idea to make this installation when we began making bots in my class \"Chatbots for Art's Sake\" through the IMA program. We were not only learning how to create bots but we were also discussing the ethics behind creating bots and imagining what our world will look like in the future the more we involve AI in our everyday lives. I read some articles about how many people, specifically men, are abusing bots and not using them for what they're intended for (basically using them for their submissiveness). My project is supposed to provide a voice for chatbots and allow them to be autonomous beings, not subservient to humans. The conversations are derived from research conducted by me where I studied the sentence structure and conversation flow of different emotionally driven responses to prompts I created as well as input from ChatGPT on the pain points it and other bots potentially experience in their everyday interactions with humans. The bots were created using RiveScript, p5.js, and p5.Speech.",
+      "Link to your personal portfolio": "https://www.kaitlynheard.me/",
+      "Project link":
+        "https://seasoned-jumpsuit-ea0.notion.site/Kaitlyn-s-Senior-Project-597d380bdc0f47c6a9c13b1d55cd4fe9",
+      "Main Image":
+        "https://drive.google.com/open?id=14p3JhsnZlDMHxEZesFlhs6eN2QouEPkB",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "chatbot, ethics, AI, conversation design, voice user interface design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "1 wall",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1GXl-eKJ-yeOgBzde1RDv6ANxLRTNlK-D",
+      "Equipment List":
+        "monitor, projector, hdmi cord, 2 headphones, splitter for headphones, black backdrop to block out light",
+      "What equipment can you provide?": "my own laptop",
+      "What equipment do you need to borrow?": "everything else",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 1:57:31",
+      "Email Address": "kal659@nyu.edu",
+      "Full Name": "Katrina Lee",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "kal659",
+      "Project title": "Web Accessibility",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).":
+        "Because today's society is heavily influenced by tech, I wanted to take a deep dive into accessibility and assistive technology. More importantly, I’ve learned more about web accessibility and want to apply those skills to NYU Marron’s Family Based Justice Center website. I want to ensure that all of the website’s potential users, including people with disabilities, have a decent user experience and are able to easily access the information.",
+      "Link to your personal portfolio": "https://www.katrinamber.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=179Q9PncaMEV395p7Gp8exBXQxHYqBtrH",
+      "Supplementary Images": "",
+      "Thematic Keywords": "web accessibility, web design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 8:53:52",
+      "Email Address": "km4901@nyu.edu",
+      "Full Name": "Katrina Morgan",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "km4901",
+      "Project title": "Angle On",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Audio Podcast",
+      'If you selected "Other", please write your description below:':
+        "Audio Podcast",
+      "Short project description (one sentence - 500 characters)":
+        "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://www.linkedin.com/in/katrina-morgan",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1BYH8giB9b4QGRuTpbK40bi4cE4Yj2lGk",
+      "Supplementary Images": "",
+      "Thematic Keywords": "audio, audio production",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Screen to display short film on, adaptor for computer",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 20:40:22",
+      "Email Address": "kc4667@nyu.edu",
+      "Full Name": "Ker Chen",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "kc4667",
+      "Project title": "HUNTING",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Ker Chen, an artist and creative technologist, blends moving images, sound, and emerging technologies to explore themes of myth, identity, and modern values. Their project Hunting is an immersive art piece that combines AI technology, digital media, and physical space to tell the story of a hunter's journey of self-discovery. Ker's interest in cultural identity and modern technology drives the creation of a modern myth that speaks to the complexities of self-discovery, dreams, and desire in a rapidly changing world. Hunting offers a fully immersive and interactive experience that invites the audience to explore and contemplate these themes.",
+      "Long Description of your work (4-6 sentences).":
+        "Hunting is a 10 minutes immersive film, that explores themes of self-identity, desire, and spirituality through the metaphor of hunting (Pray/Prey). Growing up in a small town in southwest China and a multi-religious family, as the first-generation college student in my family and the first person leaving the family, I felt the weight of cultural and familial expectations as I navigated my own path. Through my journey of hunting, I seek to understand and embrace my own desires while also grappling with guilt and questions of group identity. Hunting weaves elements of traditional myths creating a narrative that reflects my own experiences. Hunting is a deeply personal project that invites viewers to reflect on their own journeys of self-discovery and the complex interplay between identity, desire, and spirituality.",
+      "Link to your personal portfolio": "https://www.kerchen.com/",
+      "Project link": "https://www.kerchen.com/hunting",
+      "Main Image":
+        "https://drive.google.com/open?id=198C3FSBqii-neP2s0H9Pe1wcyS5tN19Z",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1jXdXPipYTVRkoFMFoDsXpNY4NH5sFqrh",
+      "Thematic Keywords":
+        "immersive installation, projection mapping, future ancient, AI art, immersive film, experiential design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/hereiskerker/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/815061522/57f3fdf4cf?share=copy",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "9feet*15feet*15feet",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1XxvfoBSkKmQMF3HG1wvIGoxMY1L7EI9P",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "2 pairs of stereo speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "need dark&quiet space and this work is a projection mapping and will have sound.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 23:35:07",
+      "Email Address": "kk4121@nyu.edu",
+      "Full Name": "Khin Khin",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "kk4121",
+      "Project title": "Lamka's Closet",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "https://docs.google.com/document/d/1heuf3KVr4qjm0ry02cWRardTiQkxOHngQ-DqjYFO-VU/edit?usp=sharing",
+      "Long Description of your work (4-6 sentences).": "N/A",
+      "Link to your personal portfolio": "N/A",
+      "Project link":
+        "https://www.figma.com/proto/5cBJHZmUymAMIwdC21wecI/Lamka's-Closet-Website?page-id=324%3A609&node-id=427-221&viewport=439%2C1117%2C0.03&scaling=min-zoom&starting-point-node-id=427%3A221&show-proto-sidebar=1",
+      "Main Image":
+        "https://drive.google.com/open?id=139LPBSbZ108G21XmeBRo8DxXTnX6yF15",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1j1SQED9HBafAhBqHfWiGWSepGRM-81y-",
+      "Thematic Keywords":
+        "Web Design, UX/UI Design, Brand Design, Brand Identity",
+      Twitter: "N/A",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/khinsquared.designs/",
+      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1fGQ9d0qHsra_xqosONSUEseErfKbQ7s6",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 10:00:03",
+      "Email Address": "kcl428@nyu.edu",
+      "Full Name": "Kimberly C Lopez",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "kcl428",
+      "Project title": "Pirate Island Motion Simulator (PIMS) Ride",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Ride Experience",
+      'If you selected "Other", please write your description below:':
+        "This is going to be a motion simulator ride, which will consist of 3D graphics and animation connected to a moving chair.",
+      "Short project description (one sentence - 500 characters)":
+        "I want to create a fun experience for people to enjoy. This project will immerse viewers into a Pirate Island themed adventure where they will face danger and excitement. Coming from a background in theme park attractions, this type of work is something very near and dear to my heart. I want to be able to work in that world of entertainment, by using the 3D production skills I've learned at IDM.",
+      "Long Description of your work (4-6 sentences).":
+        "I made this because I wanted to, and because it's something that makes me feel endlessly excited. This idea was inspired by The Simpsons Ride at Universal Studios, which I used to work at. The way it works is that there will be 3D animated visuals, created in Unreal Engine, and an animated camera that will move through this environment, which will be what viewers/riders will see. The visuals for this project will be projected onto a screen in front of them. Through the combination of these visuals, audio, 4D effects, and actual motion simulation, viewers/riders will have an experience that will feel like they are actually there.",
+      "Link to your personal portfolio":
+        "https://kimberlyclopez.myportfolio.com/",
+      "Project link":
+        "https://www.notion.so/Kimberly-Lopez-Senior-Project-a0bf4857cd6c4e7aa91fa02021f52145",
+      "Main Image":
+        "https://drive.google.com/open?id=1bMBDAALvK063jPZXDcZFU4lF3YIW1Gx6",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Entertainment, 3D",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "As big as possible (wall size ideally)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1kl3FrTGfPWDojJo-kqmXMM0O7xRPnu1h",
+      "Equipment List":
+        "Projector, Blackout curtains, a chair, a large wall or large blank canvas, speakers, a table",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?":
+        "Projector, Blackout curtains, a chair, a large wall or large blank canvas, speakers, a table",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Low light, This project is going to be loud",
+      "Additional notes for the Operations Manager":
+        "This project is intended to be an immersive experience",
+    },
+    {
+      Timestamp: "4/7/2023 12:27:47",
+      "Email Address": "kjk430@nyu.edu",
+      "Full Name": "Kristin Kweon",
+      "Name of Advisor": "Kazi Rahman / Carla Gannis (Senior project)",
+      "Net ID": "kjk430",
+      "Project title": "MIRO",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "MIRO is a critical design project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
+      "Long Description of your work (4-6 sentences).":
+        "MIRO is a project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
+      "Link to your personal portfolio": "kweon.me/visual",
+      "Project link": "kweon.me/miro",
+      "Main Image":
+        "https://drive.google.com/open?id=1Gwxtgtm70ldXrET4R4okxEWlZ5PVkqfA",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "critical design, love, artificial intelligence, AI art, generative stolen art, dystopia",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "24x36 large poster",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "Posters",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "BLACK BACKGROUND/WALL would be nice but not necessary",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/22/2023 12:18:36",
+      "Email Address": "hy2218@nyu.edu",
+      "Full Name": "Kristine Yang",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "hy2218",
+      "Project title": "The Paradox of Choice: A Telltale of Modern Dating",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Zine",
+      'If you selected "Other", please write your description below:': "Zine",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.kristinehyang.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "participatory research and design, graphic design, community owned design & infrastructure",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "A4 size",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "A table and a rack to display the zine",
+      "What equipment can you provide?": "ipad",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 10:36:38",
+      "Email Address": "lm4523@nyu.edu",
+      "Full Name": "Lameesa Mallic",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "lm4523",
+      "Project title": "Mizan",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "MIZAN explores the infusion of spiritual sustainability and takkafur (reflection) as seeds that may generate a more symbiotic future for the planet and its people.   This research has taken the form of a multi-sensory installation, composed of objects created to cultivate the experience of being present and reflecting on the present in order to walk into the future. As a result, reflection has been used as an invisible guiding principle and a physical design tool.  MIZAN invites viewers to use this installation as a space of contemplation and reflection to enable them to see beyond the known and the visible.",
+      "Long Description of your work (4-6 sentences).":
+        "A space for rest and contemplation; a garden for play and discussion.",
+      "Link to your personal portfolio": "N/A",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1bt3zG-FnvlRD6t3nMWPvzD-TBubnkKnC",
+      "Supplementary Images": "",
+      "Thematic Keywords": "installation, garden",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "135in x 135in (ideally), will be divided into 4 sections within these dimensions",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "1-2 pedestals, speaker",
+      "What equipment can you provide?": "projector (if compatible)",
+      "What equipment do you need to borrow?":
+        "installation materials (to hang light items from the ceiling)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "would highly prefer absolute quiet (or a separate room), with sunlight (if sunlight is not possible, please let me know so I can consider lighting in my installation)",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/2/2023 11:39:05",
+      "Email Address": "lbf287@nyu.edu",
+      "Full Name": "Lara Ferreri",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "Lbf287",
+      "Project title": "N/a (can we make a title name at a later date)",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Digital/ print Magazine",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://instagram.com/laraferreri.art?igshid=YmMyMTA2M2Y=",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://instagram.com/laraferreri.mag?igshid=YmMyMTA2M2Y=",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 14:35:58",
+      "Email Address": "lam9182@nyu.edu",
+      "Full Name": "Lauren Mitchell",
+      "Name of Advisor": "Amy Hurst",
+      "Net ID": "lam9182",
+      "Project title":
+        "Designing an Inclusive Makerspace for High School Girls",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "both a website & a quilt.",
+      'If you selected "Other", please write your description below:':
+        "both a website & a quilt but really just need a table to display  the quilt and  I can use my website for the website",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "n/a",
+      "Project link": "n/a",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "5ft by 5ft ish",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Ideally just a few tables joined together so I can lay it flat.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 14:15:36",
+      "Email Address": "lt1800@nyu.edu",
+      "Full Name": "Liam Tsang",
+      "Name of Advisor": "Nick Katsivelos",
+      "Net ID": "Lt1800",
+      "Project title": "Glyph",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:':
+        "Will need a small desk space for a couple of objects (coins)",
+      "Short project description (one sentence - 500 characters)":
+        "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://liamtsang.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "0, 2ft, 6in",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "A regular sized desk",
+      "What equipment can you provide?": "Posters",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Nothing special, just a desk and adequate lighting",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 21:09:10",
+      "Email Address": "kc3895@nyu.edu",
+      "Full Name": "Ma Keziah Clarissa Cruz",
+      "Name of Advisor": "Benedetta Piantella",
+      "Net ID": "kc3895",
+      "Project title": "Please Be Nice To Me",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Exhibition",
+      'If you selected "Other", please write your description below:':
+        "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "n/a",
+      "Project link": "none yet",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "not sure yet",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "wall",
+      "What equipment can you provide?":
+        "3d planes, banners, tens of letters, tens of envelopes & cards, pens",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "quiet, low light",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 8:45:18",
+      "Email Address": "mt3115@nyu.edu",
+      "Full Name": "Maria Tomilenko",
+      "Name of Advisor": "Benedetta Piantella",
+      "Net ID": "mt3115",
+      "Project title": "UmakeUa",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Interactive Systems Map",
+      'If you selected "Other", please write your description below:':
+        "Interactive Systems Map",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).":
+        "The research on the state of assistive technology in Ukraine was driven by the current events and a desire to intervene in the space as a Ukrainian designer. After an extensive investigation a solution was developed in the face of a map of all the actors that are involved in advancing assistive technology and introducing novel technologies to the field. Such a design will allow for an investigation of industry links and a proposal of future avenues for innovation.",
+      "Link to your personal portfolio": "https://www.m-art-om.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1q-CZkEGO5s0hstNma5OWtldPQz-uPst1",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Systems Design, Project Management",
+      Twitter: "NA",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/m.art.om/?hl=en",
+      "Link to any video content (Vimeo / YouTube)": "NA",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "NA",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1-8cZNvinLixFb160ti07Q53re-BiIk8h",
+      "Equipment List": "smart board (If possible to book a room that has one)",
+      "What equipment can you provide?": "laptop, projector",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light could provide better visibility, but not critical.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 9:39:46",
+      "Email Address": "mao502@nyu.edu",
+      "Full Name": "Mariam Oke",
+      "Name of Advisor": "Scott Fitzgerald, Tega Brain",
+      "Net ID": "mao502",
+      "Project title": "Contemplator",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        'Contemplator" is an experimental short film depicting my experience in art museums and galleries around NYC. Visiting art institutions around the city has always been my favorite pastime. During my visits, I create connections between myself and the artwork on display, allowing me to understand the art on a personal level. In these spaces, you’ll hear visitors have extensive conversations about the artist’s message behind their work. Shifting the focus to the self rather than solely focusing on the artist expands the interpretations visitors can make about art pieces on display. However, there is limited research in museum visitor studies about visitors who view museum objects through a personal lens. This gap inspired me to create "Contemplator.',
+      "Long Description of your work (4-6 sentences).":
+        "Contemplator\" is an experimental short film about my experience visiting art museums and galleries in NYC. There are currently five identities of museum visitors: explorers, experience seekers, facilitators, professionals/hobbyists, and rechargers. However, I do not strongly align with any of those identities, so I prosed a 6th identity; the contemplator. Contemplators visit art museums to form connections between themselves and art. They make meaning of the work through these connections and link their attraction to art pieces back to aspects of themselves (e.g., personality, identity, interests). The film's goal is to shed light on this new identity. I also hope to encourage viewers to engage with art museums on a personal level, especially those who have difficulty understanding or analyzing artwork.",
+      "Link to your personal portfolio": "https://www.mariamoke.com/",
+      "Project link":
+        "https://www.youtube.com/playlist?list=PLWKoD-J3B6rhO17jo0IHdDiE47HGU-wuD",
+      "Main Image":
+        "https://drive.google.com/open?id=107PChmCuw6BpV5zQRDRzFhqTvF8ANDai",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1OFRBPyf4b49ndogoLDmidZdwsqN09o4v",
+      "Thematic Keywords":
+        "art museums, auto-ethnography, experimental film, video production",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/ok.mariam/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/playlist?list=PLWKoD-J3B6rhO17jo0IHdDiE47HGU-wuD",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Large Screen, speakers",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The project is a film so low light is preferable. At some points in the film the piece has different audio coming from the left and right speakers. A room with surround sound and/or multiple speakers so that viewers can feel the full effect would be ideal.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/15/2023 20:40:45",
+      "Email Address": "mk7288@nyu.edu",
+      "Full Name": "Matt Kane",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "mk7288",
+      "Project title":
+        "Still working on it, but for now Ubuntu: Understanding our Emotional Intelligence through AI",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Projection mapping a real-time particle sculpture, my work is an installation. I need a dark room and min floor requirements 36'x36'.",
+      'If you selected "Other", please write your description below:':
+        "Physical art using AI and projection mapping. my work is an installation. I need a dark room and min floor requirements 36'x36'.",
+      "Short project description (one sentence - 500 characters)":
+        "https://docs.google.com/document/d/1L9r1uy1nxoqGjMoYwVaCPECrSpm9fgHsFzskrRdzNk8/edit?usp=sharing",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "mkane.design",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1yD-oWkBWKUGoQdvIeEHWesWBejE-lrbI",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1a7Mfl67-Gjwray-jqaxJqVH370r6Jvgw",
+      "Thematic Keywords":
+        "projection mapping, AI, artificial intelligence, Unreal Engine, motion design, abstract art, emotions, human, what does it mean to be human",
+      Twitter: "https://twitter.com/metta_1014",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1X-5eSEi0eUBbx6tqenoD1zQ6kqrfkEMx",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/28/2023 11:06:23",
+      "Email Address": "mbb487@nyu.edu",
+      "Full Name": "Matthew Bloom",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "mbb487",
+      "Project title": "Gameplay Fusion (Title Pending)",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "My project aims to combine two styles of gameplay (turn-based RPG and top-down shooter) into one cohesive experience. I believe that the modern definition of genres in gaming has become too restrictive; I want to see if it’s possible for a game to cater to two types of players at once. The players will be free to choose whichever mode of gameplay they are most comfortable with. By the end of the experience, the player should be reasonably comfortable with both styles of play.",
+      "Long Description of your work (4-6 sentences).":
+        "My target audience for this project is people who may like or be experienced with either turn-based gameplay or top-down shooters (or both), but who may wish to engage with the other form of gameplay somewhat, as well as people who don’t want to be locked out of experiencing a game’s story firsthand because they are inexperienced with a certain style of play. By allowing the player to proceed through the game in whichever manner they are most comfortable with, it enables the game to be enjoyed by a greater quantity of people. However, ideally, the game will have a few encounters that are required to be done one way or the other; by the end, the player should be reasonably comfortable in both gameplay styles.",
+      "Link to your personal portfolio":
+        "https://matthewbloomportfolio.wordpress.com",
+      "Project link":
+        "https://gx.games/games/p0zzbe/matthewbloomseniorproject/tracks/dc1ffbcb-7c5b-446e-9922-0094b33754b1",
+      "Main Image":
+        "https://drive.google.com/open?id=14g555vbxh1uhEMEauEcCadCa90T0-5Zx",
+      "Supplementary Images": "",
+      "Thematic Keywords": "game design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "A computer with which to run the game (though I can bring my own––if one is provided, it must have OperaGX installed)",
+      "What equipment can you provide?": "Laptop, headset",
+      "What equipment do you need to borrow?": "None necessary",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/22/2023 10:03:03",
+      "Email Address": "msb7652@nyu.edu",
+      "Full Name": "Meera Bhandare",
+      "Name of Advisor": "Magdelana Fuentes",
+      "Net ID": "msb7652",
+      "Project title":
+        "Improving auditory experiences for people with low vision",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "In person digital prototype",
+      'If you selected "Other", please write your description below:':
+        "It is going to be on a laptop and I will be presenting how the prototype works",
+      "Short project description (one sentence - 500 characters)":
+        "Visual impairment can encompass many things from having difficulty reading or the inability to focus on objects to complete loss of vision. Due to this, many people can have trouble doing everyday tasks or activities they enjoy doing. This could encompass personal interests like listening to music, playing video games or watching movies. Their consumption of media can be affected by this impairment giving them a different experience and impact. In this project, I will be working to discover what parts of a movie scene can be manipulated to enhance the experience for people with low vision. I will be taking a regular movie scene, one with optical flow and one with motion semantics and compare these versions together.",
+      "Long Description of your work (4-6 sentences).":
+        "We made this as a collaborative research project for people with low vision or blindness. This is to be able to understand and give people and improved experience when watching movies or tv shows.",
+      "Link to your personal portfolio": "https://www.mbhandare.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "low vision, media, movies, semantics, optiacal flow, object recognition, p5.js, machine learning, python, coding",
+      Twitter: "https://twitter.com/BhandareMeera",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=12eYFcNvR2fKT0EBNF1VkVI3Hp7sFsoNO",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 9:28:36",
+      "Email Address": "mhy256@nyu.edu",
+      "Full Name": "Michelle Hyunjie Yong",
+      "Name of Advisor": "Mark Skwarek",
+      "Net ID": "mhy256",
+      "Project title": "Ghosts",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        'Ghosts" is an interactive art installation on AAPI misrepresentation and erasure in Western media.',
+      "Long Description of your work (4-6 sentences).":
+        'Ghosts" is an interactive art installation on AAPI misrepresentation and erasure in Western media. Participants sit in a dark room and view 50 racist clips in a 21 minute montage projected over my family photos. The deliberate marriage of video and physical elements depicts the pervasive yet intimate touch of AAPI racism.',
+      "Link to your personal portfolio": "https://www.michelleyong.design/work",
+      "Project link": "https://www.michelleyong.design/thesis",
+      "Main Image":
+        "https://drive.google.com/open?id=1PdfA3_MNy5SxBbKCW6b35iKyt1jymfQ4",
+      "Supplementary Images": "",
+      "Thematic Keywords": "AAPI, art installation, montage",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "Full Montage: https://www.youtube.com/watch?v=CvN87-qppiY",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "tbd",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1nTFmMDg4dBMRMBmfyGUQ5XoDYHMZqs_Z",
+      "Equipment List": "projector and couch",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "room with lighting control ideal",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/6/2023 12:13:02",
+      "Email Address": "mmr653@nyu.edu",
+      "Full Name": "Mikayla Mayumi Rogers",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "mmr653",
+      "Project title": "You Are Invited to Breakup",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:':
+        "The website will be displayed on my laptop, accompanies by a physical installation of tech devices as well as some envelopes of letters.",
+      "Short project description (one sentence - 500 characters)":
+        "My project touches on my personal experience living between analog and digital technologies, growing up in the early 2000s. To make my experience interactive and to present an open invitation for others to comment, relate, and react, I am referring to Smart Design’s design research tool, The Breakup Letter. They created this tool to understand the emotional connection between people and their products, services, and experiences.   Today, we live in a booming digital age where the replacement cycle length of consumer smartphones is falling to 2 years. By 2030, the number of smart devices collecting, analyzing, and sharing data should hit 50 billion.   In other words, we live in a constant breakup and makeup world. In my project, I warmly invite users to write a breakup letter to a correspondent of their choice.",
+      "Long Description of your work (4-6 sentences).":
+        "My project touches on my personal experience living between analog and digital technologies, growing up in the early 2000s. To make my experience interactive and to present an open invitation for others to comment, relate, and react, I am referring to Smart Design’s design research tool, The Breakup Letter. They created this tool to understand the emotional connection between people and their products, services, and experiences. \n\nToday, we live in a booming digital age where the replacement cycle length of consumer smartphones is falling to 2 years. By 2030, the number of smart devices collecting, analyzing, and sharing data should hit 50 billion. \n\nIn other words, we live in a constant breakup and makeup world. In my project, I warmly invite users to write a breakup letter to a correspondent of their choice.",
+      "Link to your personal portfolio": "http://www.mikaylamayumi.me/",
+      "Project link":
+        "http://www.mikaylamayumi.me/html/you-are-invited-to-breakup.html",
+      "Main Image":
+        "https://drive.google.com/open?id=1oWVf6uhriP_ua-SM1QtAfaYKkxlvdQ9H",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "analog to digital, tech sociology, digital culture, personal archive, web development, participatory design, old tech",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/mikaylamayumi/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "40 inches wide x 18 inches deep",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1_mxDPvQE92RQy2eqIivj3nw1jBZ0eQI1",
+      "Equipment List":
+        "primary laptop, my old tech devices, acrylic stands to display each device, dark lighting",
+      "What equipment can you provide?":
+        "primary laptop, my old tech devices, acrylic stands to display each device",
+      "What equipment do you need to borrow?": "dark lighting",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light, audio intensive",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/3/2023 20:46:18",
+      "Email Address": "mj1662@nyu.edu",
+      "Full Name": "Mingjing Jiang",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "mj1662",
+      "Project title": "Growing Together",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "A Service Design Approach to Promoting Sustainable, Organic Food and Community Engagement for Chinese American Seniors in NYC",
+      "Long Description of your work (4-6 sentences).":
+        'This project for Chinese American seniors to have more organic food from sustainable sources in their daily lives. Our project has four parts: home gardening, workshops about organic and sustainable produce, building a local community for sharing home-grown vegetables and fruits, and a shopping buddy program. By teaching seniors about gardening, giving workshops on organic and sustainable produce, making a strong community, and helping them shop with a buddy, we want to make the lives of Chinese American seniors healthier and more eco-friendly. "Growing Together" aims to connect people and make the community care more about sustainable living.',
+      "Link to your personal portfolio": "https://www.mingjingdesign.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Sustainability, grocery shopping, Chinese American, Elderly, Systemic Design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "screen",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "screen",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "nothing",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/10/2023 14:59:43",
+      "Email Address": "mj2360@nyu.edu",
+      "Full Name": "Morgan James",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "mj2360",
+      "Project title": "Residual",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Book",
+      'If you selected "Other", please write your description below:':
+        "My project is a short Zine.",
+      "Short project description (one sentence - 500 characters)":
+        "This book is an exploration of the nonsensical through the non-linear story of a young girl who gets lost in the landscape of her psyche during a psychotic break.",
+      "Long Description of your work (4-6 sentences).":
+        "This is book is a keyhole into the mind of someone post-psychosis. It is simultaneously a poetry book, comic book, and photo book. It is meant to explore the concepts of residue, sanity/insanity, as well as various styles of graphic design. Not only is this book an exploration of various graphic styles, it actively “resists design perfection” and exemplifies what it can look like to “stay with the mess.” This book is meant to be a living example of the idea that pragmatism and poetics are inseparable. This book is printed using a Risograph printer and some of the pages are programmed for print using P5.riso.",
+      "Link to your personal portfolio":
+        "https://msjames909.wixsite.com/portfolio",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1vjZ8_nmC-QnUdpt8UcebbdJ2gOwGOlq9",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Zine, Book Design, Graphic Design, Poetry, Comic Art, p5.riso",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/ashapeaday/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "5.5 by 8.5 inches",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "table and chair and book holder",
+      "What equipment can you provide?": "the book holder",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 0:04:43",
+      "Email Address": "nk2992@nyu.edu",
+      "Full Name": "Nam E Kwon",
+      "Name of Advisor": "Benedetta Piantella",
+      "Net ID": "nk2992",
+      "Project title": "Rideshare Services for Kids",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Parents always strive to balance their work and their children's schedules, and the most challenging aspect of this is often their children's transportation needs. Unforeseen changes in schedules or reduced school bus services due to COVID-19 have made transportation issues even more serious. While many services have emerged to address this problem, a practical solution has yet to be found due to the lack of on-demand services. This research focuses on on-demand ride-sharing services for children that can help solve the practical problems faced by parents.",
+      "Long Description of your work (4-6 sentences).":
+        "Parents always strive to balance their work and their children's schedules, and the most challenging aspect of this is often their children's transportation needs. Unforeseen changes in schedules or reduced school bus services due to COVID-19 have made transportation issues even more serious. While many services have emerged to address this problem, a practical solution has yet to be found due to the lack of on-demand services. This research focuses on on-demand ride-sharing services for children that can help solve the practical problems faced by parents.",
+      "Link to your personal portfolio": "-",
+      "Project link":
+        "https://docs.google.com/presentation/d/167V1l2bqjoHULrk2sw7kkFAjCeNUj4oYsbVrLdyXfwg/edit?usp=sharing",
+      "Main Image":
+        "https://drive.google.com/open?id=1ShoQ5NpHqCGMyE2dBZXXPHP3EMWnBOod",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1i_JbYePFmnWcbs3mNLdHB9J_OvrjBa6B",
+      "Thematic Keywords": "web design, graphic design, user experience",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1_l6bsL1TSBx_2Ht22iLc9IKkgwjIbVU0",
+      "Equipment List": "Monitor",
+      "What equipment can you provide?": "Monitor",
+      "What equipment do you need to borrow?": "Monitor : iMac",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 0:00:58",
+      "Email Address": "kc3498@nyu.edu",
+      "Full Name": "Nancy Chan",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "kc3498",
+      "Project title": "Cross-generational Communication in Community Garden",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Design intervention: a piece of laser-cut wooden board",
+      'If you selected "Other", please write your description below:':
+        "The project will be a laser Engraved Wood Cutting Boards in the size of 12'x12'",
+      "Short project description (one sentence - 500 characters)":
+        "Nancy’s thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.knchan.me/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=12o8Hlbh1QZ0TERXnC3glbZhbRLsYmEaV",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Community Design, Human-centered Design, Green Space, Sustainability, Accessibility,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "12' x 12' wooden board + a printed activity guide (letter size)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1oNh3TtjLuBRG9CiLgsnztq76FV7GUe5Q",
+      "Equipment List": "a table for display  (with light)",
+      "What equipment can you provide?": "ipad/laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "plenty of light",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/9/2023 23:02:29",
+      "Email Address": "nb3009@nyu.edu",
+      "Full Name": "Natalya Brill",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "nb3009",
+      "Project title": "Making Data Human",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:':
+        "Zine dispaly",
+      "Short project description (one sentence - 500 characters)":
+        "This project is dedicated to investigating and changing the conversation on flooding in urban landscapes through environmental sensing and open data. My project intends to educate, inform about and emotionally connect people to areas affected by local urban flooding. The flood sensors, designed and implemented by the FloodNet team, track flooding patterns in frequently flooded areas in NYC. The data collected provides researchers with information to understand risk, flooding damage, and hopefully find solutions. However, my goal is to make the data process human by providing context and make information analysis more personal, as well as contribute to building climate resilience. This project explores the topic of open data, providing context, and how we might depict stories with and through data to the untrained eye.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://natalyabrill.com",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=178HaLKeQK2gqoa5GmCz3zY4tsbR4P-ri",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "flooding, data viz, open data, resilience, participatory research and design, RISO, physical, visual, data context",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "zine book display",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=12SFh3RmMtjqPphJIKspz05Cp8R2_YBbi",
+      "Equipment List": "acrylic book easel or similar stand",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?":
+        "acrylic book easel or similar stand",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 10:48:47",
+      "Email Address": "nnt200@nyu.edu",
+      "Full Name": "Ni Ni Than",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "nnt200",
+      "Project title":
+        "Journey to Wellbeing: Seeing Beyond the Mind's Eye through Story in a Virtual Therapeutic Space",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Digital Experience",
+      'If you selected "Other", please write your description below:':
+        "Screen-based Interactive experience",
+      "Short project description (one sentence - 500 characters)":
+        "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://ninithan.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "screen-based interactive experience, therapeutic space, mental imagery and emotion states, strengthening therapeutic alliance",
+      Twitter: "https://twitter.com/nthan1010",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/ninilarth/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/ninithan",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        'Size of a surface to place 25" Display',
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1VoX8lqlOQ4inAzHSlwN7XIQ-xLxB2dHl",
+      "Equipment List":
+        'PC (NOT a Mac) computer (desktop), 20"-25" Monitor set up: Game capable PC, 25" monitor and a surface to place it on',
+      "What equipment can you provide?": "keyboard, mouse",
+      "What equipment do you need to borrow?":
+        'Game capable PC, 25" monitor, Extension cord, AV connector...',
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "not yet.",
+    },
+    {
+      Timestamp: "4/30/2023 23:45:27",
+      "Email Address": "njk326@nyu.edu",
+      "Full Name": "Nicholas Kim",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "njk326",
+      "Project title": "Banjiha",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Banjiha is an upcoming VR experience loosely based on the 2022 floods in Seoul. The user steps into the shoes of someone living in a semi-basement apartment, or banjiha, during a once-in-a-decade flood. With water and lighting simulations powered by Unreal Engine 5, Banjiha is intended to be an immersive experience that explores themes of climate change and class vulnerability.",
+      "Long Description of your work (4-6 sentences).":
+        "Inspired in part by the movie Parasite and the real-life events in Korea that followed, Banjiha aims to create an experience that informs and leaves an impact. It's a short, five-minute virtual reality experience aimed at 3D and virtual reality enthusiasts, using Unreal Engine 5 and the Oculus Quest 2. The showcase exhibit will include promotional materials, videos, and a short demo.",
+      "Link to your personal portfolio": "https://njk99.com/",
+      "Project link": "https://njk99.com/banjiha",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "3D, VFX, immersive experience, virtual reality",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A; laptop and headset",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "laptop, headset",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 10:43:11",
+      "Email Address": "orc222@nyu.edu",
+      "Full Name": "Ozioma Chukwukeme",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "orc222",
+      "Project title": "Capturing Humanity: Selfies in Context",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Website + Prints",
+      'If you selected "Other", please write your description below:':
+        "Website that creates physical prints (installation)",
+      "Short project description (one sentence - 500 characters)":
+        "This project aims to document the history of humanity through self-portraits. By inviting passersby to take selfies and add them to a gallery and timeline of self-portraits throughout history, the project seeks to create a sense of connection and identity among people while demonstrating how humans have both changed and remained the same over time. The installation also aims to evoke a vintage, nostalgic feeling tied to the history of image capture. It creates a fun experience where visitors can take home a printout of their self-portrait, similar to a photo booth. Overall, the project places the tradition of self-portraits in a larger context of human history and identity.",
+      "Long Description of your work (4-6 sentences).":
+        "Capturing Humanity is an interactive website installation that showcases the history of humanity through self-portraits, also known as 'selfies'. The project invites passersby to take self-portraits and contribute to a gallery-timeline of self-portraits throughout history.\n\nThe installation also aims to evoke a vintage, nostalgic feeling that is tied to the history of image capture. This is achieved through the website's photo booth interface which looks like a vintage Macintosh, and the gallery interface which mimics a wall of polaroid images. With the click of a button, an Arduino, and a thermal receipt printer, you can print your selfie from the website like an actual photo booth and have a keepsake to go home with.\n\nOverall, the project places the tradition of self-portraits within a larger context of human history and identity.",
+      "Link to your personal portfolio": "https://ozioma.xyz",
+      "Project link": "https://github.com/oziomarc/IDM-Senior-Design-Project",
+      "Main Image":
+        "https://drive.google.com/open?id=13Xf44mGnKkOzRz_vSpnV_CAn4jrS9HcQ",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1QYE6VU8xGL7ZLGQGt-ZAhWF_UwUZLc78",
+      "Thematic Keywords":
+        "Physical computing, Arduino, Web design, photography, interaction design, web development",
+      Twitter: "https://twitter.com/ozidoesthings",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/0zioma",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1nRQWdZtLokFRV5qO-kTh1RmCHC_hbRHs",
+      "Equipment List": "MacBook (13inch and up), podium/stand/table",
+      "What equipment can you provide?":
+        "thermal printer, installation materials",
+      "What equipment do you need to borrow?": "MacBook laptop with webcam",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I just need one table to fit a laptop",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/19/2023 23:43:16",
+      "Email Address": "psc369@nyu.edu",
+      "Full Name": "Paloma St.Clair",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "psc369",
+      "Project title": "trailmaker",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This project will serve as a resource for first generation and low income students who have to bare the burden of navigating the education and corporate spaces for the first time. This website serves as a resource to spread information and demystify a lot of the uncertainty around applying to college, being in college, and setting yourself up for your first job. I envision this website as a guide that people can use throughout their undergrad years when they're feeling uncertain, confused, or need some guidance about what next steps to take when navigating college. I want this website to have a young and approachable feel, a lot of organizations websites are pretty boring and feel very unapproachable.",
+      "Long Description of your work (4-6 sentences).":
+        "This project will serve as a resource for first generation and low income students who have to bare the burden of navigating the education and corporate spaces for the first time. This website serves as a resource to spread information and demystify a lot of the uncertainty around applying to college, being in college, and setting yourself up for your first job. I envision this website as a guide that people can use throughout their undergrad years when they're feeling uncertain, confused, or need some guidance about what next steps to take when navigating college. I want this website to have a young and approachable feel, a lot of organizations websites are pretty boring and feel very unapproachable.",
+      "Link to your personal portfolio": "http://www.palomastclair.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1OwiqnNkhDvgLPXPrgd-bmSJzCNo9jhEv",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Website, Productivity, First Gen Low Income,",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/stpaloma23/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1dxGAnSQCKR5i5d-7qYJ3ejt4GODHw0Se",
+      "Equipment List": "laptop, charger, power strip",
+      "What equipment can you provide?": "laptop and charger",
+      "What equipment do you need to borrow?":
+        "powerstrip (or be near an outlet)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/4/2023 17:06:05",
+      "Email Address": "pb2451@nyu.edu",
+      "Full Name": "Pamela Buscema",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "pb2451",
+      "Project title": "Subliminal Florae of a Lunar Continuum",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Subliminal Florae of a Lunar Continuum is a screen based, “living” collage of a subject wearing biomorphic armour navigating a narrative dreamscape contained within a projection-mapped frame. This project is meant to empower women through an amplification of the female gaze and the synergy between humans and nature.",
+      "Long Description of your work (4-6 sentences).":
+        "Subliminal Florae of a Lunar Continuum seeks to explore and grapple with themes of the female gaze, feminine rage and loneliness, mysticism, and multidimensional spaces, ecosystems and beings. This work exists as a standalone piece; it is a “living” collage that interacts with the viewer via motion detection sensors. Depending on the viewer’s proximity to the screen, motion sensors will trigger different images, so as the viewer walks by it will appear as if the piece has completely shifted. Seemingly a static “painting” from a distance, up close Subliminal Florae is a vivid, otherworldly realm consisting of various animations stitched together to form an interconnected dreamscape. The lone subject wears biomorphic prosthetics designed by the artist, utilizing 3d printing and various biomaterials.  The frame encompassing the screen is made of cardboard and was drawn in illustrator, laser-cut, spray painted, and then projection-mapped in TouchDesigner.  Subliminal Florae aims to incorporate a nature-centric approach at every step of the creation process to promote sustainability and amplify the harmonious symbiosis of humans and nature.",
+      "Link to your personal portfolio":
+        "https://pbuscema99.wixsite.com/portfolio",
+      "Project link":
+        "https://pb24519.wixsite.com/ideationprototyping/my-project-5",
+      "Main Image":
+        "https://drive.google.com/open?id=15dsoU9ieZWWDdchwsaGtMO32bKIOUZvU",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1Iu3L4U4ABNStVqTylR0j4jKGd-gEZ2y9",
+      "Thematic Keywords":
+        "Sustainable design, female gaze, installation art, art direction, digital collage, projection mapping",
+      Twitter: "N/A",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/melladramatix/",
+      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "6' x 3' x 1'",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=10jvk7sayx8LuYnFNZw6YZuU0W89w6BZD",
+      "Equipment List":
+        "Projector, laptop, extension cords, dongle for usb-C mac input, motion sensor (kinect), speakers",
+      "What equipment can you provide?": "Laptop (mac), usb-C dongle",
+      "What equipment do you need to borrow?":
+        "Projector,speakers, motion sensor, extension cords, speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "very low light for projections, quiet for speakers",
+      "Additional notes for the Operations Manager":
+        'My installation appears as a "portal to another dimension", it\'s a piece of painted cardboard that will be hanging, ideally in an open space. Additionally the projector used should be ceiling-mounted',
+    },
+    {
+      Timestamp: "4/30/2023 19:51:52",
+      "Email Address": "qw918@nyu.edu",
+      "Full Name": "Qingyang Wu",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "qw918",
+      "Project title": "ConfiQuest",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "ConfiQuest is a VR solution to treat social anxiety disorder in a non-invasive and effective manner. The idea stems from the growing need for accessible and affordable mental health treatment, especially for those struggling with post-pandemic social anxiety disorder. The VR module simulates real-life social situations and guides the user through mindfulness exercises to help them overcome their fears.",
+      "Long Description of your work (4-6 sentences).":
+        "ConfiQuest is dedicated to utilize virtual reality technology to address social anxiety disorder through a non-invasive and efficacious approach. This endeavor is driven by the escalating demand for affordable and easily accessible mental healthcare, particularly after the COVID pandemic. The project is grounded in previous studies that demonstrate the effectiveness of VR therapy in mitigating anxiety. The intended beneficiaries of this undertaking are individuals struggling with social anxiety who are seeking alternative treatments. Developed using Unity platform, the module replicates real-world social scenarios (eg: job interview, presentation) while providing guidance to the user through mindfulness exercises to help conquer their anxieties.",
+      "Link to your personal portfolio": "https://karlwoo.com/",
+      "Project link": "https://karlwoo.com/confiquest",
+      "Main Image":
+        "https://drive.google.com/open?id=1Bx8wouuWcmmt01p1xtKDoNYMtPOO8r1O",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1MAPdHvnf1UEJ_J71uoZ7P1_UlihdQsPM",
+      "Thematic Keywords": "VRtherapy, social anxiety, mindfulness",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/_karlwoo_/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/802817123",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1AwFnyUAFM7MGQJG3An8raVJwrqWOeEzA",
+      "Equipment List": "a Laptop, and a VR headset",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "VR headset",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager":
+        "There's a bug when I want to change my main image and I could not delete it in the form. Also I cannot upload multiple image for the supplement images. I put all my images in this link: https://drive.google.com/drive/folders/1_HQbryhd46VkyX8hhLX4weVtuz3sjv1p?usp=share_link",
+    },
+    {
+      Timestamp: "4/6/2023 14:22:04",
+      "Email Address": "qb2011@nyu.edu",
+      "Full Name": "Qiyan Ba",
+      "Name of Advisor": "Mark Skwarek",
+      "Net ID": "qb2011",
+      "Project title": "Protagonist",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "The project's setting is a virtual museum showcasing art pieces related to corporate surveillance, open for interpretation. By immersing themselves in a virtual museum environment, players will deepen their understanding of corporate surveillance.",
+      "Long Description of your work (4-6 sentences).":
+        "This interactive VR experience uses an exaggerated depiction of corporate surveillance to prompt players into making conscious choices when handling their personal data.",
+      "Link to your personal portfolio": "https://qiyanba.webflow.io/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1bZ4AiM0hPzcM16j9oRdJhKDPxq3KC5cO",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/PUJSAompDiI",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Vdn1aUcQxcA0lVhav0JLc3xyhCr7oumf",
+      "Equipment List": "Oculus Quest 1 or Oculus Quest 2",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?":
+        "Oculus Quest 1 or Oculus Quest 2",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light & quiet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/2/2023 15:59:56",
+      "Email Address": "twl276@nyu.edu",
+      "Full Name": "Rachael Lu",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "twl276",
+      "Project title": "Sentiments Re-imagined by A.I.",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Video Installation Art",
+      'If you selected "Other", please write your description below:':
+        "3 Video display and some physical installation elements",
+      "Short project description (one sentence - 500 characters)":
+        "this thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "www.rachzl.com",
+      "Project link": "https://www.rachzl.com/grad-thesis",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "AI, Human-AI Collaboration, Unreal Engine, Stable Diffusion, Midjourney, AI film",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "video needs to be played on a monitor bigger than 27', or displayed on a wall at least 50' wide with projector",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "A Monitor or projector that allows big dispay, speaker or headsets,",
+      "What equipment can you provide?": "laptop, headsets",
+      "What equipment do you need to borrow?": "monitors or projector",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/7/2023 13:12:50",
+      "Email Address": "rj1375@nyu.edu",
+      "Full Name": "Rachel Berlow Josepho",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "rj1375",
+      "Project title": "MindFull Media",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "In today's world, media and branding play a powerful role in shaping our consumer behavior and cultural values. Through my Senior Project, I aim to examine the ways in which media, branding, and American consumer culture intersect and influence each other, with a particular focus on the psychological tactics used by companies to manipulate consumers. By analyzing different ads and campaigns, I plan to explore how companies use language, imagery, and other persuasive techniques to create a sense of desire or need for their products, even if they are not actually necessary or beneficial.",
+      "Long Description of your work (4-6 sentences).":
+        "My Senior Project is about analyzing media, branding, and American consumer culture to gain insights into how companies use persuasive techniques to manipulate consumers into buying their products. With these understandings, I plan to develop a brand campaign for a new beverage company that is both effective and ethical in its use of persuasive tactics.",
+      "Link to your personal portfolio": "https://www.racheljosepho.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/8/2023 2:24:45",
+      "Email Address": "lec466@nyu.edu",
+      "Full Name": "Ren Ciarrocchi",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "lec466",
+      "Project title": "Portals of Perception",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        'Welcome to Portals of Perception, an awe-inspiring virtual reality project that offers a unique journey into the nature of reality. Through a series of captivating and immersive experiences, users will explore different perceptions of reality that will challenge their beliefs and broaden their perspectives. This transformative experience aims to stimulate the mind and spark curiosity, encouraging users to question their own relationship with the world and its systems. With each experience open to interpretation, the project invites users to delve into the depths of their own existence, contemplate the meaning of life, and challenge their understanding of what is considered "real.',
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "renzrenderz.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1C7rAGulW-ZDZX6Db1RaL6c7zWQCd9Kdm",
+      "Thematic Keywords":
+        "virtual reality, reality , nature of reality, simulation theory, unreal engine",
+      Twitter: "https://twitter.com/renzrenderz",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/renzrenderz",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1DN67JMjZbv2PGM7qCHaCGPQaZFJQh2iy",
+      "Equipment List": "2 VR headsets, monitor/tv",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?":
+        "2 VR headsets, Chair, Small table, easel (if we have one). I have physical materials and documentation that I am going to display alongside my headset experience. Need small table to myself to do this :)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "some quietness",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 1:30:47",
+      "Email Address": "res556@nyu.edu",
+      "Full Name": "Rhiannon Elizabeth Super",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "res556",
+      "Project title": "Outlaws of Will",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Throughout my time at NYU, I’ve had the opportunity to further explore my love for video games. From coding to sprite making to sound design, I’ve created things I’d never thought I would, or even could. I knew the time I had to make this project was short, so I wanted to build a base for a game that I could add on to over time. This way, I could continue improving on my skills and doing what I enjoy. In order for me to be able to explore all the different aspects of game and minigame design at some point in the future, I needed this project to make room for them all. So, I designed a game that could later include everything. This game is Outlaws of Will.",
+      "Long Description of your work (4-6 sentences).":
+        "I decided to make this project in order to have a place where I could freely practice game design after graduation, without having to create a new file to try out each new mini-game type I wanted to learn. I was also really interested in the idea that every choice and interaction within a game has an impact. So, Outlaws of Will became a game where every decision a character makes has an effect on the player, the world around them, or the game itself. Different decisions can lead to alternate stories and mini-games to be played, which allows me to be able to incorporate anything I want into the game at any point. I hope to surprise those playing the game by showing them a fun narrative with twists and turns, and providing them with an arcade style buffet of mini-games to enjoy.",
+      "Link to your personal portfolio": "https://rhiannonsuper.com/",
+      "Project link": "https://itzbosco.itch.io/outlaws-of-will",
+      "Main Image":
+        "https://drive.google.com/open?id=1Tvj-dvNqC2xUQhYpa5cdWWG6K8AMkhCp",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Game Design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "A table to set up on (just need enough space for a laptop + mouse) with a plug for a computer charger",
+      "What equipment can you provide?": "laptop, mouse, mousepad",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 18:36:09",
+      "Email Address": "rr3954@nyu.edu",
+      "Full Name": "Rithika Repakula",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "rr3954",
+      "Project title": "Mindful Eating Speculative Design-Routate",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:':
+        "Can I get a Mac for showing my Demo video of my app ?",
+      "Short project description (one sentence - 500 characters)":
+        "How might we increase the quality of daily meals for young adults who live alone and are usually busy with work to build mindful eating habits through gamification?Creating new habits must not be only possible through having a calorie counter, or a strict routine fixed by a computer but can be done using a mindful and playful way at the user’s pace. Rotate is a user-friendly playful habit-building app that helps users reinvent a brand-new lifestyle by managing and making their daily eating habits, tracking performance, and keeping their journey fun and motivating. This app focuses on building eating habits and how the user would feel about their meal which would make their journey relaxing and not pressured.",
+      "Long Description of your work (4-6 sentences).":
+        "I moved away from my family last year to go to university and found myself to be struggling with eating healthy and I find it to be a colossal problem. I struggled to define a problem that I want to help with, a How Might We? How might we increase the quality of daily meals for young adults who live alone and are usually busy working? A playful way for young adults to nurture healthy eating habits.\n\nThe gamified mindful eating app design is playful eating habit-forming for busy young adults that make mindful eating more manageable and fun. Some virtual pet avatars guide the users to eat mindfully and whose life fully counts on the user,  the creator of their appearance, and the user’s healthy eating actions are the only source of their power. They are easy to find by taking on new challenges. Once the challenges are accepted, avatars become our companions to support us throughout our journey. The users help them grow by starting to eat mindfully through journaling and other such features.",
+      "Link to your personal portfolio": "http://www.rithikarepakula.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1HZVUr7ORgatj82KAVSFLW_FSdQ-Vwph9",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Health, Journaling, Habit building, Young adults",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/_A2dJi5RMq4",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1OY4OLdxlWSKnhrfW2DhxjBZ8RxMYa4mT",
+      "Equipment List": "2 Splitter Cable for headphones, 4 Sony headphones",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "IDM Destop Mac in space 325",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 1:51:12",
+      "Email Address": "raa569@nyu.edu",
+      "Full Name": "Roger Argueta",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "raa569",
+      "Project title": "The Hearts' Noise",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Physical Computing",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Wanting to create something that can uplift everyone and add something special to their lives was what brought me to this type of work. Viewers will hear and see both blue and bright sounds and visuals through their interaction with a physical-digital interface. My work fits into the larger context of contemporary art, as there are seemingly no constraints to what keys the user can play, but yet constraints are embedded in the work itself, such as being a programmed interface. A question posed by this work is: can my work bring about a world of creative freedom, despite the inherent constraints?",
+      "Long Description of your work (4-6 sentences).":
+        "I made this work to elicit the feelings of hope from whoever would like to draw from this source of emotion, especially emerging adults like myself. By the users' creative expression in playing a MIDI keyboard of 25 keys however they want, they will create their own experience with MIDI-generated sound and Perlin noise generation of visuals. The notes played are constrained to certain chords that range from soft melancholy to uplifting optimism. The visual, three-dimensional Perlin noise in space over time, also corresponds to the mood of the different sounds. This work seeks to focus the beautiful noise of every heart into a expression and experience of hope.",
+      "Link to your personal portfolio": "https://rogerargueta.com/",
+      "Project link": "https://rogerargueta.com/the-hearts-noise/",
+      "Main Image":
+        "https://drive.google.com/open?id=1ezDBcJ_vJvlQyJ0dFLMaRP9QD0JrYdnu",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Hope via interface, creative expression",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/rog_49er/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1uKWvh3w1qI6XjZR_5TtB2DDHcoy6o-tB",
+      "Equipment List": "",
+      "What equipment can you provide?": "Laptop, MIDI keyboard",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The work is audio intensive.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/5/2023 0:53:43",
+      "Email Address": "rd3005@nyu.edu",
+      "Full Name": "Ruiyang Dai",
+      "Name of Advisor": "Todd Bryant",
+      "Net ID": "rd3005",
+      "Project title": "The Butterfly Dream",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.behance.net/ruiyangdai",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/rayonmon/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "Projector&projector screen or a TV to display the video (the screen is ideally not less than 40 inches big)",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "Projector&projector screen/TV",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 11:07:53",
+      "Email Address": "sme418@nyu.edu",
+      "Full Name": "Sally Estevez",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "sme418",
+      "Project title": "Kirby's Corner",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Kirby's Corner is a Kirby lore wiki/website. The website can serve as a resource for those who like Kirby but don’t know about the series’ lore. I’ve been a Kirby fan for many years, and now I want to be able to share my knowledge of the series with other fellow Kirby fans. After interacting with my project, I want my target audience (Kirby enjoyers) to learn something new about the Kirby series. I’ll achieve this by focusing on specific Kirby games and characters and doing research on them. I’ll summarize the information in an informal way. I will also spend time determining the website’s layout and appearance. I want the website to be easy to navigate, and I want its styling to align with Kirby’s general aesthetic (bright colors, pinks).",
+      "Long Description of your work (4-6 sentences).":
+        "Kirby's Corner is a website that serves as a resource for those who like Kirby but don't know about the series' lore. I decided to focus on specific Kirby games and characters, summarizing information in an informal way. I've been a Kirby fan for many years, and now I want to be able to share my knowledge of the series with fellow Kirby fans. After interacting with my website, I hope Kirby enjoyers learn something new about the series.",
+      "Link to your personal portfolio":
+        "https://sallyestevez.github.io/portfolio/",
+      "Project link": "https://sallyestevez.github.io/kirbys-corner/index.html",
+      "Main Image":
+        "https://drive.google.com/open?id=1dxnZk8GeLDcRAeQ0ypGuubaHW3Mbcr-f",
+      "Supplementary Images": "",
+      "Thematic Keywords": "web design, video games, Kirby",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "laptop",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/29/2023 17:13:39",
+      "Email Address": "sal705@nyu.edu",
+      "Full Name": "Sammy Levin",
+      "Name of Advisor": "Nick Katsivelos",
+      "Net ID": "sal705",
+      "Project title": "News App Case Study (Working Title)",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "UX: Laptop and Phone demo",
+      'If you selected "Other", please write your description below:':
+        "UX: Laptop and Phone demo",
+      "Short project description (one sentence - 500 characters)":
+        "A reader’s understanding of news events is no better than the sources selected to inform them. In an era in which coverage and exposure is increasingly governed by social media mechanics and dominant editorial voices, a product is needed which creates balanced, informed perspectives of current events by leveraging the full spectrum of local to international reporting.",
+      "Long Description of your work (4-6 sentences).":
+        "What if readers played a bigger role in shaping the content that makes it into the mainstream? What happens when we introduce social media UX paradigms into the news space? What role should natural language processing and artificial intelligence play in the newsgathering and reading process?\n\nTroubadour aims to address these questions by exploring how the packaging, exchange, and presentation of information changes the way we understand the world. In this pursuit, considerations were made to preserve the independence of publications of all sizes, enable speakers of any language to compete on the same playing field, and to provide readers the agency to explore in multiple directions.",
+      "Link to your personal portfolio": "http://sammylevin.com",
+      "Project link": "http://sammylevin.com/news-app",
+      "Main Image":
+        "https://drive.google.com/open?id=1Tsm0XQPzl0ksKtM3meeZDJbow4cv6ndZ",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "news, news aggregation, ux, design, ui, user testing, prototyping",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1G9L0qrSr3vvbHEMjO40k_tp8jOrAd3nB",
+      "Equipment List": "Laptop, Phone",
+      "What equipment can you provide?": "Laptop, Phone",
+      "What equipment do you need to borrow?": "None",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "5/1/2023 0:31:05",
+      "Email Address": "sat454@nyu.edu",
+      "Full Name": "Sarah Tahir",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "sat454",
+      "Project title": "NOURA",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Video Game",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "NOURA is a narrative-driven video game that considers how we cope with and process pain. This piece aims to encourage children and adults to cultivate and draw on their inner resources to heal and manage trauma.",
+      "Long Description of your work (4-6 sentences).":
+        "NOURA is a narrative-driven video game that considers how children cope with and process pain. Users play as Noura, a five-year-old Pakistani girl living in the Middle East, as she navigates the hostility embedded in her internal and external environments. This game aims to encourage children and adults to cultivate and draw on their inner resources to heal and manage trauma. The narrative is driven by personal experience and guided by therapy modalities such as Cognitive Behavioral Therapy and Internal Family Systems therapy.",
+      "Link to your personal portfolio": "https://www.sarahtahir.com/",
+      "Project link": "https://sarahtahir.itch.io/noura",
+      "Main Image":
+        "https://drive.google.com/open?id=1R8li13nvmdU-_QmEP87gGYcz-1modt_M",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1G2YRIANAGnE-E8EWMvI2XnP0RUmFqPZ5",
+      "Thematic Keywords":
+        "diaspora, trauma, therapy, narrative, childhood, game design, unity, south asian, arab",
+      Twitter: "https://twitter.com/fuchsiadesigner",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/saraah.ajt/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/user115046857",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1GmcUDKzbBRhSZP9Hj2jE_OugTkDhonXY",
+      "Equipment List":
+        "laptop, TV / large screen, HDMI cord, headphones or speakers, controller",
+      "What equipment can you provide?": "laptop, controller",
+      "What equipment do you need to borrow?":
+        "hdmi, tv/large screen, headphones/speakers",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I would prefer to use speakers and play the sound out loud but if it gets in the way of other displays, I can use headphones. Let me know",
+      "Additional notes for the Operations Manager":
+        "wasn't able to add more than one photo to supplementary images, here is a link to another photo: https://drive.google.com/file/d/1epDEpuH81nhowKa4ZDu2pPtMeDpQZaeH/view?usp=share_link",
+    },
+    {
+      Timestamp: "4/20/2023 12:19:26",
+      "Email Address": "sh3293@nyu.edu",
+      "Full Name": "Shiqi (Susie) Huang",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "sh3293",
+      "Project title": "Webstaurant: Digital Menu Design Guideline",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "https://docs.google.com/document/d/1gZotiSae0nyUK6QgqW2Kf0urpaaU6C6B0pfOHpZAA7Q/edit?usp=sharing",
+      "Long Description of your work (4-6 sentences).":
+        "The objective of this project is to guide small restaurant owners in creating digital menus that are accessible and responsible for customers using mobile devices.",
+      "Link to your personal portfolio": "N/A",
+      "Project link":
+        "https://drive.google.com/drive/folders/1Lc4QEV6TxFT6zqGHSrCYQ9ny08T9OzHI",
+      "Main Image":
+        "https://drive.google.com/open?id=1eWpVSGWTYIaexbmxygoWXZuu_eB76vvf",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "NA",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "laptop",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "laptop",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "NA",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/28/2023 15:46:23",
+      "Email Address": "sl8159@nyu.edu",
+      "Full Name": "Sigrid Lohre",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "sl8159",
+      "Project title": "Web3 Wonders",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Board game, Website and UX research",
+      'If you selected "Other", please write your description below:':
+        "It is a physical board game with a website tied to it",
+      "Short project description (one sentence - 500 characters)":
+        "Sigrid is a UX designer with a passion for making intuitive, functional, and accessible design solutions. She is interested in the emergence of Web3 and how we can co-create a new iteration of the internet in a more equitable and inclusive manner. Web3 is currently in a largely conceptual stage. In order to increase digital literacy and mitigate barriers to Web3 entry, Sigrid’s thesis project is a user-centered design research that focuses on creating tangible design solutions to learn about abstract concepts. The solution is a board game experience that focuses on group learning about Web3 and Blockchain technology and fostering healthy debates and conversations.",
+      "Long Description of your work (4-6 sentences).":
+        "Change starts with conversations. Web3 Wonders is for anyone curious about Web3 and who’s looking to discuss technological change beyond the media’s focus on buzzwords and digital trends. It is built with women in order to encourage more gender representation in a space that is largely male-dominated and to break barriers that prevent women from entering these spaces. Web3 Wonders is a board game to encourage group learning, critical thinking, and meaningful conversations about the larger societal and political implications of this new evolution of the internet. While most Web3 education platforms focus on online learning, this experience is about using tangible elements and social interaction to understand complex topics. The game mechanisms encourage enjoyable gameplay, while social learning can increase memory and retention.",
+      "Link to your personal portfolio": "https://www.sigridlohre.com/",
+      "Project link": "Www.web3-wonders.com",
+      "Main Image":
+        "https://drive.google.com/open?id=1-1FTyc5JMupotUGSkrQsr6wIBdsE9525",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1IV71xRKoeLCQ9Et_mT2PnazqaJqYMc0j",
+      "Thematic Keywords":
+        "User-Centered Design, Web3, Web Design, UX Design, Game Design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Y2w7DAEePfSYHMUMtp8WtR811_ciy2_Y",
+      "Equipment List": "Table to showcase the board game prototype",
+      "What equipment can you provide?": "Laptop and prototype",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/21/2023 18:47:34",
+      "Email Address": "sx2047@nyu.edu",
+      "Full Name": "Sophie Xu",
+      "Name of Advisor": "Nick Katsivelos",
+      "Net ID": "sx2047",
+      "Project title": "Redesigning Dental Checkups",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: In-Person Presentation",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://xsophiexu.notion.site/Sophie-Xu-6442c60df17540d49ea7c535adff1f6b",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/11/2023 0:01:03",
+      "Email Address": "my2514@nyu.edu",
+      "Full Name": "Sophie Ye",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "my2514",
+      "Project title": "S.kin Earth (Still undetermined )",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://www.notion.so/sophieye/ca7c62edae594379ad5820e05385ed5a?pvs=4",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/7/2023 14:17:45",
+      "Email Address": "ss14736@nyu.edu",
+      "Full Name": "Spandita Sarmah",
+      "Name of Advisor": "Amy Hurst",
+      "Net ID": "ss14736",
+      "Project title": "Accessible Art",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: In-Person Presentation",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Visual art is not accessible to people with visual impairments and people with intellectual disabilities since the whole concept of the experience relies on someone’s vision and understanding, which varies from person to person.  This human centered research is an attempt to make art accessible for anyone with a vision impairment or an intellectual disability through Accessible Visual Descriptions. The outcome of this research may be a set of questions, a guideline, a handbook, a framework, or a ruleset that would serve as a system to assist artists in creating accessible visual descriptions of their art",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "www.spanditasarmah.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "A desk situated near a wall",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/28/2023 10:47:24",
+      "Email Address": "smk8882@nyu.edu",
+      "Full Name": "Stefanie Koseff",
+      "Name of Advisor": "Amy Hurst",
+      "Net ID": "smk8882",
+      "Project title": "Tactile Interpretations of Historical Textiles",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: In-Person Presentation",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Digitally embroidered tactile graphics on paper can be a low-cost, easily reproducible way for Art Museums and Historical Sites to create accessible interpretations of historical embroidered textiles that relay objective information as well as aesthetic information about the original artifacts. This project presents guidelines for fabrication as well as examples of embroidered tactile graphic interpretations of historical textiles from the collection of the Intrepid Museum.",
+      "Long Description of your work (4-6 sentences).":
+        "Problem:\nEmbroidered textiles in Art Museums and Historical Sites are not accessible to Blind/Low-vision visitors or anyone who is a tactile learner.  \nObstacle:\nMultimodal exhibitions are beneficial to all communities, yet they can be expensive, difficult to maintain, and rarely show the tactile aesthetic of the original artifact.\nSolution:\nA low-cost, easily reproducible method for creating tactile graphics on paper using digital embroidery that integrates the original material into the interpretations.\nMethod:\nUsing participatory design methodology, we developed a pattern and line lexicon for creating embroidered tactile graphics. We interpreted historical naval patches from the Intrepid Air and Space Museum’s textile collection.",
+      "Link to your personal portfolio": "https://stefaniekoseff.com",
+      "Project link":
+        "https://wp.nyu.edu/stefaniekoseff/tactile-interpretations-of-historical-textiles/",
+      "Main Image":
+        "https://drive.google.com/open?id=17yacMgHjoLiAg2jbl-IJGhY8SLPuu6MK",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1pWjI8-bar7INuTFZvErsipnLTB6bY2D5",
+      "Thematic Keywords":
+        "accessibility, tactile graphics, tactile learners, accessible interpretation, textile art, digital embroidery",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        'a 30" x 60" table (or thereabouts) would be great to display the books',
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "Thank you!",
+    },
+    {
+      Timestamp: "4/30/2023 17:40:41",
+      "Email Address": "slc697@nyu.edu",
+      "Full Name": "Sui Li Chan",
+      "Name of Advisor": "DeAngela Duff",
+      "Net ID": "slc697",
+      "Project title": "Cuppa Culture",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: Digital Display",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Cuppa Culture is a conceptualized coffee shop that provides unique flex-adapt spaces for customers regardless of their purpose of visit. Whether it’s to be productive, have a chat, or to catch up with friends, customers will be able to find a space here that supports their activity. Spaces are available to be reserved through navigating in Cuppa Culture’s app. My project mainly focuses on the RSVP feature and designs are supported by iterations of user research and testing.",
+      "Long Description of your work (4-6 sentences).":
+        "Coffee shops. Something I love for its ambience, concept, interior, and of course, the coffee. One of the things I’d like to achieve further down the road is to open a coffee shop of my own, specifically for those who share the same love for it and for those that prefers such a space for productivity. The coffee shop I’m envisioning has various spaces customers can choose from – pods, booths, cubbies, regular, lounge, event spaces, and meeting rooms. My senior capstone is the start of my passion project, in which the very first step is to design a mobile application for my potential coffee shop. I want to create a space that makes people feel energized, supported, and ready to tackle anything they have planned for the day.",
+      "Link to your personal portfolio": "https://www.suilichan.com/",
+      "Project link": "https://www.suilichan.com/uxworks/cuppa-culture",
+      "Main Image":
+        "https://drive.google.com/open?id=1eYJ503UyCbkpQyrhGRgdJj_H-gzWmBq8",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "UX, Interfaces, Research and Design, conceptualized ideas",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/sui.studiozz/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 4:19:08",
+      "Email Address": "gk2345@nyu.edu",
+      "Full Name": "Sylvia Ke",
+      "Name of Advisor": "Kazi Rahman",
+      "Net ID": "gk2345",
+      "Project title": "Tian Ji - Cosmic Computing Unit",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Tian Ji: Cosmic Computing Unit is an interactive installation/performance in the form of a tech-assisted divination ritual, inspired by the divination ritual in I Ching and the traditional Chinese folklore. The project aims to explore the possibility of a futuristic belief system that emerges from modern technology yet is rooted in folk wisdom. In I Ching, the fortune telling ritual is based on random inputs and binary math calculation, mirroring that of a modern computer and generative AI models. I wish the draw a connection between AI and ancient divination practice, asking whether our blind trust in algorithms is a belief system and the its implications, while exploring the possibility of using technology for a decolonized future.",
+      "Long Description of your work (4-6 sentences).":
+        "Tian Ji: Fate Computing Unit is an interactive installation/performance in the form of a tech-assisted divination ritual, inspired by the divination process of I Ching and the traditional folklore Classic of Mountains and Seas. The project aims to explore the possibility of a futuristic belief system that emerges from modern technology yet is rooted in folk wisdom.\nThe project is inspired by the following observation: In Mandarin, fortune telling is translated as 算命. However, there is something lost in translation, suggested by individual characters: 算 means calculation or computing, while 命 means life or fate. Together, they mean “calculating fate” instead of fortune telling. This is mirrored by the one of most prestigious and ancient texts in ancient China, I Ching. In I Ching, the fortune-telling ritual is conducted through a random process like coin tossing, followed by a series of mathematical calculations, hence why fortune-telling is spelled as “calculating fate”. The mathematical calculation is done in binary logic, mirroring that of a modern computer. More interestingly, the process of deriving output from a random input mirrors how generative AI models like DALLE and GPT compute. Therefore, I wish the draw a connection between AI and ancient divination practice, asking whether our blind trust in algorithms can be seen as a belief system and the implications of such claims. At the same time, I intent to explore the possibility of using technology to promote representation of non-Eurocentric cultures for a decolonized future.",
+      "Link to your personal portfolio": "https://www.are.na/sylvia-ke",
+      "Project link":
+        "https://www.notion.so/sylvia-ke/Senior-Project-Process-Blog-99a3aaf5ba544dc29ad6117ee9aad305?pvs=4",
+      "Main Image":
+        "https://drive.google.com/open?id=1kFJeFhEdtw-ltn4_wowMS739nJ4fDtfJ",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1Jf5epWj-SiYGbHGepA63xD9FMHD3izJV",
+      "Thematic Keywords":
+        "Spirituality, Live Audio-Visual, Immersive Experience, Interaction Design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/tranceghoul/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/hwC75SJaKPQ",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1JIJLhfMp-7Xi69tvgluHCAQWzRtaHhCK",
+      "Equipment List": "projector, duo-channel speakers",
+      "What equipment can you provide?": "Hdmi Cable, audio cable",
+      "What equipment do you need to borrow?": "monitor display",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "need dark environment",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/20/2023 9:31:03",
+      "Email Address": "ts4377@nyu.edu",
+      "Full Name": "Tanvi Sharma",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "ts4377",
+      "Project title": "Comrade",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://tanvi.network",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "https://twitter.com/chronictanvi",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/chronictanvi/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Screen",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "I’d like a table, and a projector / screen OR 2 Macs if possible!",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?":
+        "Can I use one of the projectors? Or 2 of the Macs?",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A.",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 21:26:36",
+      "Email Address": "tz1168@nyu.edu",
+      "Full Name": 'Tao "Jenny" Zheng',
+      "Name of Advisor": "Benedetta Piantella",
+      "Net ID": "tz1168",
+      "Project title": "Familiarise.x",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Familiarise.x is an educational resource website for Chinese parents to learn and plan age-appropriate sex education activities at home. The website can provide Chinese households with knowledge so that children can develop safe and positive views about their sexual health throughout different development stages. This project is significant because it could be an efficient way to take culture and individual values into account and at the same time provide detailed guidelines for parents to overcome hesitation.Viewers will see a demo of how parents would use the website to find resources and effective ways to bring up topics like body parts, healthy relationships, consent, gender, puberty, etc.",
+      "Long Description of your work (4-6 sentences).": "tba",
+      "Link to your personal portfolio": "https://jennyzwithinzebra.com/",
+      "Project link": "tba",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "ux design, ux research, online education, graphic design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "laptops",
+      "What equipment do you need to borrow?":
+        "if possible, I would like to borrow one of the iMacs on the third floor and a pair of headsets",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "I need somewhere near a outlet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/22/2023 15:59:24",
+      "Email Address": "tlm9376@nyu.edu",
+      "Full Name": "Theresa Merchant",
+      "Name of Advisor": "Theresa Merchant",
+      "Net ID": "tlm9376",
+      "Project title": "Groundbreaking",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "A (non-VR) metaverse space--Desktop App Based",
+      'If you selected "Other", please write your description below:':
+        'A (Desktop App-Based) metaverse space. Equipment needed: 1 Desktop comupter w monitor attached, 1 TV to act as second monitor, 4 sets of "earmuff-style" headphones.',
+      "Short project description (one sentence - 500 characters)":
+        "Innovation is crucial, from any organization’s success to the survival and advancement of human civilization. However, for innovation to be groundbreaking, it must be unpredictable and the source of inspiration not obvious. As opposed to a more incremental model of innovation, this thesis focuses on drawing unexpected connections between unrelated ideas for  “recombinant” or “intersectional” innovation. It catalyzes groundbreaking ideation though metaverse-based remote collaboration and a workshop involving exercises helping the innovators understand the roots of the problem, exercise abstract ideation, and a database to help the innovators explore applicable solutions that may be hidden within other contexts.  After all, the problem has likely already been solved. All we must help innovators do is find it.",
+      "Long Description of your work (4-6 sentences).":
+        "will be provided later",
+      "Link to your personal portfolio": "https://www.theresamerchant.com/",
+      "Project link": "will be provided later",
+      "Main Image":
+        "https://drive.google.com/open?id=1t2heCjrj5KGV38mr84JTA5P6X3B0eiRc",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Metaverse, remote collaboration, innovation, interaction design, workshop, 3D modeling, infographics, participatory research and design, cross-industry innovation, recombinant innovation, intersectional innovation, lowering associative barriers",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1bSD39z8UyP7SmDWQP3i9a98uvMeRYrC4",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 9:21:37",
+      "Email Address": "ty2254@nyu.edu",
+      "Full Name": "Tianyue Yi",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "ty2254",
+      "Project title": "Interactive Recipe Series",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "AR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This is an interactive recipe tutorial that teaches people who are away from home to learn how to cook their home food. With AR technology, users can get involved, following along the recipe synchronously and even listening to the narration recorded from their families.",
+      "Long Description of your work (4-6 sentences).":
+        "I’d like to document my mom’s cooking in a creative and interactive way using emerging media. It’d be cool if people who are living on their own and figuring out how to cook their family recipes could feel empathetic. The media I’ve chosen for this work is animation and augmented Reality (AR). AR stood out to me because it can eliminate the limitations of distance, time and bring what you want to see to real life. It would be a new level of world building and a way for people to interact.",
+      "Link to your personal portfolio":
+        "https://tianyue-yi.github.io/portfolio/p_home.html",
+      "Project link":
+        "https://tianyue-yi.github.io/process/project_process.html",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Interaction design, Animation, AR, Hololens 2",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtu.be/7kMp4w4uxTU",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1UvqviQ5qeGWjtddO3sL05WmWhVvZnUHu",
+      "Equipment List": "PC and Hololens 2",
+      "What equipment can you provide?": "PC, speaker",
+      "What equipment do you need to borrow?": "Hololens 2",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/7/2023 19:46:12",
+      "Email Address": "tew287@nyu.edu",
+      "Full Name": "Ty Wenrick",
+      "Name of Advisor": "Jenelle Woodrup",
+      "Net ID": "tew287",
+      "Project title": "The AI Precipice: Ethical and Applied Exploration",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "website and collection of research and writing",
+      'If you selected "Other", please write your description below:':
+        "I will have built some applied examples using LLMs, have a website with a more functional tool and my process site containing my research, writing and documentation.",
+      "Short project description (one sentence - 500 characters)":
+        "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://github.com/tywenrick3",
+      "Project link":
+        "https://wp.nyu.edu/tandonschoolofengineering-tywenrickseniorproject/",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Ethical AI, AI TOOLS, SAFE AGI DEVELOPMENT, increasing human capabilities, natural language, software, cognition, LLM,",
+      Twitter: "https://twitter.com/ty3_3_3",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "N/A",
+      "What equipment can you provide?": "Laptop . . .",
+      "What equipment do you need to borrow?": "N/A?",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 4:03:01",
+      "Email Address": "ube202@nyu.edu",
+      "Full Name": "Uchechukwu Blessing Echeme Emole",
+      "Name of Advisor": "Amy Hurst",
+      "Net ID": "ube202",
+      "Project title":
+        "More Than Blues: Reimagining Care for Black Women Experiencing Postpartum Depression through a Culturally-Informed Social Support Application",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "In-person presentation & research posters",
+      'If you selected "Other", please write your description below:':
+        "In-person presentation & research posters",
+      "Short project description (one sentence - 500 characters)":
+        "“More Than Blues” examines the unique experiences of Black women with Postpartum Depression. Building on my journalism coverage of Black maternal mortality, I centred the voices of Black women in maternal health discourse to uncover how a culturally-informed technology-based intervention can administer social support, facilitate authentic connections through shared experiences, and provide access to mental health resources. Black women have long been scarred by the medical community, “More than Blues” provided a human-centred solution removed from the letdowns of the healthcare system and socio-cultural stigma. With thoughtfulness, imagination, and strategy at the core of my work, I am able to uplift marginalised voices and tackle complexity.",
+      "Long Description of your work (4-6 sentences).":
+        "“More Than Blues” is a human-centred research project aimed at understanding the unique presentation of Postpartum Depression (PPD) in Black women to offer design recommendations for a peer-to-peer social support app. Due to social, cultural, and medical stigma, and misogynoir, Black women do not have a clear path to quality maternal health care and instead take to social media to combat isolation, find answers, and cultivate connections. My research uncovered the need for a culturally competent, non-judgemental community where Black women can openly share their experiences, obtain accessible mental health resources and support each other in a safe and protected environment. Black women are at the centre of my research since they are disproportionately referred to counselling and make up only 2% of participants in technology-based interventions for postpartum depression. My process relies on user research to build a supportive app inspired by the wants and words of Black women. Interviews [with Black women and maternal mental health professionals], competitive and explorational analysis, and participatory design methods lay a guided framework for project goals, user needs, and critical design features for the app. Women of colour are missing from scientific research; I’m exploring how a technology-based intervention can be positioned to serve and aid the community.",
+      "Link to your personal portfolio": "https://www.blessingemole.com",
+      "Project link":
+        "https://www.blessingemole.com/morethanblues-thesisresearch",
+      "Main Image":
+        "https://drive.google.com/open?id=1LwAW8dwgyPYLE6lcKT84vABkdSBXl552",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1L66x7zyxA1t19Wv6ceB7IkHoZB2n6uDt",
+      "Thematic Keywords":
+        "Postpartum depression, social support, mental health, depression, human-centred design, human-centred research, culture, connection, user experience research, design recommendations, misogynoir, Strong Black woman schema, health inequity, maternal health desserts, technology-based intervention, stigma",
+      Twitter: "N/A",
+      Linkedin: "",
+      Instagram: "N/A",
+      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Main Lobby [5 wooden boards]",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Ma-Gu4nVzwlI1V49BlOlAGYPsZOuxrmD",
+      "Equipment List":
+        "In-person Research presentation: Tv/screen and laptop to use to project while I present my research. Posters: podium/stand for intro poster to my posters",
+      "What equipment can you provide?":
+        "Can provide tools to paste my poster, will print using the iDM Print Lab",
+      "What equipment do you need to borrow?":
+        "Will need to borrow projector/tv/laptop for presentation and stand in front of posters to intro my work",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "N/A for now",
+    },
+    {
+      Timestamp: "3/1/2023 14:48:26",
+      "Email Address": "vsk8871@nyu.edu",
+      "Full Name": "Vasudev Kuram",
+      "Name of Advisor": "Mark Skwarek",
+      "Net ID": "vsk8871",
+      "Project title": "Langone Hospital Lobby Pop-up",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Research: In-Person Presentation",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "I am creating a speculative service design of an NYU Langone lobby of the future, exploring ways that the space can be a contributing component of a patient’s overall hospital experience, to make the space more tailored to patient needs, rather than just a liminal space. The space will feature services fostering patient restfulness, addressing unmet logistical needs, providing tech support, and aiding in navigation.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.vasukuram.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/vasusvibes/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Wall space: 5x4 ft. Table: 5x2 ft",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "I need a wall to hang a poster and desk to display a 4x2 ft diorama + my laptop",
+      "What equipment can you provide?": "My own laptop, poster + pins",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 9:59:35",
+      "Email Address": "vg1234@nyu.edu",
+      "Full Name": "Vicky Gao",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "vg1234",
+      "Project title": "Journal Bakery",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Digital Planner",
+      'If you selected "Other", please write your description below:':
+        "Digital Planner",
+      "Short project description (one sentence - 500 characters)":
+        "Journal Bakery is the home of digital planners to help you organize your life and live with intention. Influenced by productivity books and the feedback of current undergraduate students, Journal Bakery’s digital planners are curated for students looking to form better habits and overcome procrastination. Since the planner can be edited in any note-taking app, students can customize their planner to their liking. Similar to a warm cup of coffee, using this planner can improve your productivity.",
+      "Long Description of your work (4-6 sentences).":
+        "Journal Bakery is the home of digital planners to help you organize your life and live with intention. It all started when the founder of Journal Bakery started bullet journaling and noticed that it was too time-consuming. This planner is focused on functionality first and aesthetics second. Influenced by productivity books and the feedback of current college students, Journal Bakery’s digital planners are curated for college students looking to form better habits and overcome procrastination. Since the planner can be edited in any note-taking app, students can customize their planner to their liking. Similar to a warm cup of coffee, using this planner can improve your productivity.",
+      "Link to your personal portfolio":
+        "https://vickydesignedit.editorx.io/projects",
+      "Project link": "https://vickygaodesigns.carrd.co/",
+      "Main Image":
+        "https://drive.google.com/open?id=17bdixt-2jbi2Kji-J6Tg3ESm7FG1lE6B",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Graphic Design, Productivity, Organization, Time Management, College Students",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/vickygaodesigns/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://youtube.com/@vickygaodesigns",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "n/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1f_5waqAxtPAw7xRa0Y_WTM9vo3jMfrrc",
+      "Equipment List": "A screen to project a tutorial video",
+      "What equipment can you provide?": "Laptop, tablet, and chargers",
+      "What equipment do you need to borrow?": "A larger screen, if possible",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "n/a",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 11:13:50",
+      "Email Address": "vs1961@nyu.edu",
+      "Full Name": "Victor Sanz",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "Vs1961",
+      "Project title": "Not sure",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Not sure yet",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "I dont currently have one",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "Na",
+      Linkedin: "",
+      Instagram: "Na",
+      "Link to any video content (Vimeo / YouTube)": "Na",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Na",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Na",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/3/2023 10:33:15",
+      "Email Address": "vb1392@nyu.edu",
+      "Full Name": "Vidur Bahl",
+      "Name of Advisor": "Kazi Ashikur Rahman",
+      "Net ID": "vb1392",
+      "Project title": "In and Out",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Photobook with accompanying presentation objects",
+      'If you selected "Other", please write your description below:':
+        "I will be presenting a phonebook with a monitor as well as a small table mirror for my senior project.",
+      "Short project description (one sentence - 500 characters)":
+        "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.vidurbahl.work",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Photography, Reflection, Immersive",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "Table, Monitor",
+      "What equipment can you provide?": "Photobook, Mirror",
+      "What equipment do you need to borrow?": "Monitor",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/7/2023 14:33:57",
+      "Email Address": "wh2294@nyu.edu",
+      "Full Name": "Wen Ju Huang",
+      "Name of Advisor": "Mark Skwarek",
+      "Net ID": "wh2294",
+      "Project title": "Heartfulness VR",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Mindfulness practices often require an anchor (e.g. breath, music, body extremities) where people can focus their attention. Yet, the heart is rarely chosen as an anchor point by meditators because people cannot sense their hearts without external tools. This project works to explore how sensing the heart can help one stay focused on the present-moment experience, thus reaching the state of mindfulness. Heartfulness is a virtual reality (VR) experience that aims to teach people the concept of mindfulness and help them connect their awareness to the heart to achieve the state of mindfulness.",
+      "Long Description of your work (4-6 sentences).":
+        "Mindfulness practices often require an anchor (e.g. breath, music, body extremities) where people can focus their attention. Yet, the heart is rarely chosen as an anchor point by meditators because people cannot sense their hearts without external tools. Given that the original Buddhist mindfulness puts great emphasis on the heart, I wanted to investigate if it could be used as a mindfulness anchor with the help of technology. In the study, I assessed whether sensing the sound of heartbeats audio-visually in an immersive virtual reality (VR) environment could promote mindfulness. This project works to explore how sensing the heart can help one stay focused on the present-moment experience, thus reaching the state of mindfulness. My target audience is anyone interested in the concept of mindfulness and who wants to experiment with new mindfulness practices.",
+      "Link to your personal portfolio": "https://wenju.squarespace.com",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1R3eCOnfoOu_iXn2PrwqkaEiSZ1s8yRES",
+      "Supplementary Images": "",
+      "Thematic Keywords": "VR, Mindfulness",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1CRTrsKVCS1m04osOlTeZYnoRRNsGgdYj",
+      "Equipment List": "n/a",
+      "What equipment can you provide?": "Meta Quest 2",
+      "What equipment do you need to borrow?": "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "need a quiet space",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 10:37:23",
+      "Email Address": "xs1115@nyu.edu",
+      "Full Name": "Xinran Shen",
+      "Name of Advisor": "Carla Gannis, Amy Hurst",
+      "Net ID": "xs1115",
+      "Project title":
+        "Tidal Odyssey: Live-coding Music Improvisation with Blind and Visually Impaired Teens",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Music Performance, Participatory Design, Accessibillity",
+      'If you selected "Other", please write your description below:':
+        "This is a co-designed music performance with 5 blind and visually impaired high school students using the live coding environment Tidal Cycles. In this composition, we will explore how BVI communities perceive sounds in their world.",
+      "Short project description (one sentence - 500 characters)":
+        "As a user experience design enthusiast, I found it very meaningful to embed participatory design approaches and design thinking methods into a wider and more inclusive audience. Being able to work with blind and visually impaired high school students under the advisement of the Ability Project allows me to put those ideas into practice, combining my other interests in music and creative coding. Through this project that requires me to be not only the teaching assistant but more importantly a supporter, listener, and co-creator, I hope to learn more about methods of self-expression in blind and visually impaired communities, as well as share their creative voices with more people.",
+      "Long Description of your work (4-6 sentences).":
+        "Inspired by the Algorave movement, Tidal Odyssey is a live-coding electronic music project presented by 5 blind and visually impaired(BVI) high school students from the Laptop Ensemble class of the FMDG Community Music School. The project culminates with an improvised performance featuring 2 pieces co-created by members of FiLOrk and Ability Project, using the live-coding environment Tidal Cycles.\n\nThe first piece - Cryptographic Meditation\nThe second piece - What Instruments Taught Me \n\nAs a user experience design enthusiast, I found it very meaningful to embed participatory design approaches and design thinking methods into a wider and more inclusive audience. Being able to closely work with blind and visually impaired high school students under the advisement of the Ability Project allows me to put those ideas into practice, combining my interests in music, accessibility and inclusive design. Through this project that requires me to be not only the teaching assistant but more importantly a supporter, listener, and co-creator, I hope to learn more about methods of self-expression in blind and visually impaired communities, as well as share their creative voices with more people.",
+      "Link to your personal portfolio": "https://xinrandesigns.webflow.io/",
+      "Project link":
+        "https://www.figma.com/proto/C0uXdPsWS096FXX0PiXW15/Senior_Project_presentation?node-id=4-2&starting-point-node-id=4%3A2",
+      "Main Image":
+        "https://drive.google.com/open?id=1v-jwr3ggyA-Kem1J_MeYZrzsE240_tte",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1S7naYAFwl6zHCnhynBxJww74m_iCy4KM",
+      "Thematic Keywords":
+        "music, inclusive design, participatory design, creative self-expression, coding",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://vimeo.com/820373003?share=copy",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=15ycFD_edrf1tidB7ZafbVnlI2yML76kX",
+      "Equipment List":
+        "For May 10: A monitor. If not, it would help to have a headphone.",
+      "What equipment can you provide?":
+        "my laptop for playing the video! and the zine prototypes to show the audiences.",
+      "What equipment do you need to borrow?":
+        "a table, a chair, a monitor or a headphone",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Audio intensive, absolute quiet, relative low light.",
+      "Additional notes for the Operations Manager": "Thank you very much!",
+    },
+    {
+      Timestamp: "3/10/2023 18:47:12",
+      "Email Address": "yl9523@nyu.edu",
+      "Full Name": "Yanlin Li",
+      "Name of Advisor": "De Angela Duff",
+      "Net ID": "yl9523",
+      "Project title": "Reader’s Pocket",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Slide Deck",
+      'If you selected "Other", please write your description below:':
+        "Slide Deck",
+      "Short project description (one sentence - 500 characters)":
+        "https://docs.google.com/document/d/1Y3Qf7xVH0klG0pbisvMysfDXZkuOY6KySvBQCpvuS5E/edit?usp=sharing",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://yanlinli.online",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1JR8av6sxuYzYxPfATr_HPSH6XvrjnnzQ",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Online education, digital reaidng",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "16 inch laptop",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "A table for placing a laptop",
+      "What equipment can you provide?": "laptop/tablet",
+      "What equipment do you need to borrow?": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Some space on wall for a printed poster",
+      "Additional notes for the Operations Manager": "N/A",
+    },
+    {
+      Timestamp: "3/6/2023 21:15:17",
+      "Email Address": "yh4311@nyu.edu",
+      "Full Name": "Yen Yi Huang",
+      "Name of Advisor": "Luke",
+      "Net ID": "yh4311",
+      "Project title": "To be decided",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.yenyihuang.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "13*13 ft",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "Projector*1(if we have LED wall would be better lol)/ laptop*1/Speaker*1/Kinect*1",
+      "What equipment can you provide?": "Kinect*1/ laptop*1",
+      "What equipment do you need to borrow?": "Speaker*1/Projector*1",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Low light/ quiet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/21/2023 11:41:44",
+      "Email Address": "yc5594@nyu.edu",
+      "Full Name": "YenAn Chen",
+      "Name of Advisor": "Ahmed Ansari",
+      "Net ID": "yc5594",
+      "Project title": "The Taiwanese Diet Anatomy",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "A zine",
+      'If you selected "Other", please write your description below:': "A zine",
+      "Short project description (one sentence - 500 characters)":
+        "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.aliceyachen.com",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "no bigger than 12*12 inches",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/28/2023 11:57:10",
+      "Email Address": "yx2603@nyu.edu",
+      "Full Name": "YEZI XU",
+      "Name of Advisor": "Reginé Gilbert",
+      "Net ID": "yx2603",
+      "Project title": "Trapped",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        'Trapped" is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "yezixu29.com",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1YNNNH1VpgwZkrhPV8CEPjSJ8B00YociF",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "yezi_xyz",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "projector microphone etc",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Low light",
+      "Additional notes for the Operations Manager":
+        "I am sorry that we cannot provide precise data at the moment. However, what we can confirm is that it is a small art installation that requires the use of a projector. We are unsure if we can provide more information at a later time.",
+    },
+    {
+      Timestamp: "4/6/2023 14:33:03",
+      "Email Address": "yw3483@nyu.edu",
+      "Full Name": "Yimin Wang",
+      "Name of Advisor": "Eric Maiello",
+      "Net ID": "yw3483",
+      "Project title": "Annual Fantasy",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Inspired by a documentary called 'Fire of Love' describing the daring French volcanologist couple roamed the planet, chasing eruptions and documenting their discoveries. Ultimately, they lost their lives in a 1991 volcanic explosion, leaving a legacy that forever enriched our knowledge of the natural world. I am so in loved with volcanoes nature of destroying everything to create something new and I wanna express this to my audience. I'm creating a digitalized interactive experience simulates the eruption of volcano. The experience consists of moving images, videos, sound and a physical installation of a 3D printed volcano. Visual will be presented through projection. The volcano is covered by a glass cube.",
+      "Long Description of your work (4-6 sentences).":
+        "A digitalized interactive experience simulates the eruption of volcano. The experience consists of moving images, videos, sound and a physical installation of a 3D printed volcano. Visual will be presented through projection. The volcano is covered by a glass cube.",
+      "Link to your personal portfolio": "https://yiminwang.info",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1UH_Ce0WCwoupS1aeIs6K48ovtID6pEeh",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1_53KaxlFB1Fm2TfLmYq7C828mYWe-J07",
+      "Thematic Keywords": "installation, photographic, pixel art, volano",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/meltingpotdotcom/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "3, 3, 3",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1gpkXl0diyTQTiBCvgEBGe3sZ03-jGHdQ",
+      "Equipment List": "Projector, headsets, laptop, frosted plexi glass",
+      "What equipment can you provide?": "laptop, frosted plexi glass",
+      "What equipment do you need to borrow?":
+        "Projector (Since I need to project from the top, I need something to fix the projector on the ceiling)",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Dark environment, absolute quiet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/1/2023 5:05:06",
+      "Email Address": "yl8674@nyu.edu",
+      "Full Name": "Yixun Li",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "yl8674",
+      "Project title": "Antiquated Future",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "VR",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.liyixun.design/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/yixun__li/",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "laptop, VR headset with controllers, desk",
+      "What equipment can you provide?": "laptop, VR headset with controllers",
+      "What equipment do you need to borrow?": "desk",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "2/27/2023 17:37:34",
+      "Email Address": "yj1454@nyu.edu",
+      "Full Name": "Yonghun Jung",
+      "Name of Advisor": "Todd J. Bryant",
+      "Net ID": "yj1454",
+      "Project title": "Trace",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "360 Immersive Room",
+      'If you selected "Other", please write your description below:':
+        "If possible, I would like to have a space with three walls, and I would like to do a project on that wall.",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.foreveryonghun.com/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List":
+        "Projectors that support a high quality images and iMac",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?":
+        "Projectors that support a high quality images and iMac",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Dark Room and absolute quiet",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "3/18/2023 15:53:47",
+      "Email Address": "yr2139@nyu.edu",
+      "Full Name": "Yulan Ren",
+      "Name of Advisor": "Regine Gilbert",
+      "Net ID": "yr2139",
+      "Project title": "Bus Mobility NYC",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Website",
+      'If you selected "Other", please write your description below:':
+        "Website",
+      "Short project description (one sentence - 500 characters)":
+        "My project, Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "https://www.yulan-design.com/",
+      "Project link": "https://www.yulan-design.com/mobility-nyc",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "Digital Work",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=15glAfvjf8ORv39vtbxYRRZAXIP9Im3GP",
+      "Equipment List": "Laptop",
+      "What equipment can you provide?": "Laptop",
+      "What equipment do you need to borrow?": "Not applicable",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "No",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/10/2023 13:56:42",
+      "Email Address": "yc5439@nyu.edu",
+      "Full Name": "Yutzu Chen",
+      "Name of Advisor": "Scott",
+      "Net ID": "yc5439",
+      "Project title": "Fake",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Film/ Featurette",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        '<Tool of the war> is a three-minute animated futuristic film about AI and its negative impact in disseminating disinformation. The goal is to to speculate on the "worst-case scenario" in the future world if people don’t take AI-generated fake news seriously and not take active actions to combat it.',
+      "Long Description of your work (4-6 sentences).":
+        "<Tool of the war>, A three-minute animated futuristic film about AI and its negative impact in disseminating fake news and disinformation",
+      "Link to your personal portfolio": "https://www.yutzuchen-eva.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=1xZJCoqpAt-613sVDFIC90jyjCLrs4Dd2",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "AI, Stable Diffusion, fake news, disinformation, speculative film",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "https://www.instagram.com/eva_yutzu/",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://drive.google.com/file/d/1Jui5G5mBcJKJ9313QEsqqkNrO9P61nju/view?usp=share_link",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1Ep6QfIdf0cgsOYiQ9D_GC-Pjm6Me7W8h",
+      "Equipment List": "Film screen",
+      "What equipment can you provide?": "laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "low light and less noisy space is better to show the film",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "5/1/2023 0:12:13",
+      "Email Address": "zs2414@nyu.edu",
+      "Full Name": "Ziyi Shi",
+      "Name of Advisor": "Elizabeth Henaff",
+      "Net ID": "zs2414",
+      "Project title": "The Last Nature",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "The Last Nature,\" employs an Arduino module to mechanically oscillate the plastic bottles, generating the rhythmic sound of the ocean's tides through the collision of plastic beads. Through its artistic medium, the installation serves as a poignant reminder of the devastating impact of human industrialization on the environment. It highlights the significance of sound and its ability to evoke empathy and responsibility towards our planet and all the species that call it home.",
+      "Long Description of your work (4-6 sentences).":
+        "In a future where the exploitation of nature has reached an extreme level, the earth is overflowing with the products of industrialization, and the sounds of nature have become a distant memory. Humans can only reminisce about the natural world through artificial means. The catastrophic damage that humans have inflicted upon nature has ultimately resulted in the permanent loss of its beauty and vitality. It's a silent spring, where the absence of nature's sounds serves as a stark reminder of its departure. To recollect the once beautiful sounds of nature, people resort to using discarded plastic bottles to imitate the ocean. The installation, titled \"The Last Nature,\" employs an Arduino module to mechanically oscillate the plastic bottles, generating the rhythmic sound of the ocean's tides through the collision of plastic beads. Through its artistic medium, the installation serves as a poignant reminder of the devastating impact of human industrialization on the environment. It highlights the significance of sound and its ability to evoke empathy and responsibility towards our planet and all the species that call it home.",
+      "Link to your personal portfolio": "https://www.ziyishi32.com/",
+      "Project link": "https://www.ziyishi32.com/copy-of-portable-ocean",
+      "Main Image":
+        "https://drive.google.com/open?id=1YGcT21L5eA9VvGtYfnMs4azrQvxd3Ry2",
+      "Supplementary Images":
+        "https://drive.google.com/open?id=1VjwMAeHtPxLTGJsZI7QlL2V922P5z56D",
+      "Thematic Keywords":
+        "Art installation, Environmental protection, Critical design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/watch?v=svGuNi2jilg",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "100 * 20 * 10 inches (a hanging installation)",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=1NBIFhj71wPwaj3a26svsiVOLW0pO5sTa",
+      "Equipment List":
+        "Mac Monitor, Desk, Ladder, Power source, Laptop, Installation materials, Tripod, Spot lights",
+      "What equipment can you provide?": "Laptop, Installation materials",
+      "What equipment do you need to borrow?":
+        "Mac Monitor, Desk, Ladder, Power source, Tripod, Spot lights",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "It's an installation hanging from the celling, so I need the ladder to install and also some steel lines to hold the installation(I can provide the steel lines). And I also need the power source because my installation needs be powered by Arduino boards.",
+      "Additional notes for the Operations Manager":
+        "Is there any spots light from the ceiling grid?",
+    },
+    {
+      Timestamp: "4/7/2023 16:10:23",
+      "Email Address": "zm805@nyu.edu",
+      "Full Name": "Zuhao Mei",
+      "Name of Advisor": "Carla Gannis",
+      "Net ID": "zm805",
+      "Project title": "Interactive Book: Censorship&Cyberbullying",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)":
+        "This project is a physical interactive book that reveals the unknown topics of the Chinese Internet: censorship and cyberbullying.  this book is for college students who are interested in learning about internet censorship and cyberbullying while interacting physically and digitally with the book. Through reading the text content and interacting both physically and digitally with the book in those ways which are adopted by the Chinese internet users to get around internet censorship, the audiences will be able to answer the questions such as: what content could be censored on Weibo? How do Chinese social media platforms implement censorship rules? How do Chinese internet users get around internet censorship on social media platforms? What types of cyberbullying methods are being used?",
+      "Long Description of your work (4-6 sentences).":
+        "This book project is for college students who are interested in learning about internet censorship and cyberbullying while interacting physically and digitally with the book. Through reading the text content and interacting both physically and digitally with the book in those ways which are adopted by the Chinese internet users to get around internet censorship, the audiences will be able to answer the questions such as: what content could be censored on Weibo? How do Chinese social media platforms implement censorship rules? How do Chinese internet users get around internet censorship on social media platforms? What types of cyberbullying methods are being used on the Chinese Internet?",
+      "Link to your personal portfolio": "https://www.zuhaomei.com/",
+      "Project link": "",
+      "Main Image":
+        "https://drive.google.com/open?id=18G7_UJM54KoZhbgL6PMn63C3zNyKzxzT",
+      "Supplementary Images": "",
+      "Thematic Keywords": "Interactive, censorship, cyberbullying, internet",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        '8.5"(width) x 11"(height) x 0.4" (depth)',
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": 'A desk that I could place a 8.5"x 11" book on',
+      "What equipment can you provide?": "Book, laptop",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "The installation should have a spotlight installed directly above the art installation",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/11/2023 16:28:29",
+      "Email Address": "ks5378@nyu.edu",
+      "Full Name": "Max Sun",
+      "Name of Advisor": "Kazi",
+      "Net ID": "ks5378",
+      "Project title": "Shush",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Installation Art",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio":
+        "https://wp.nyu.edu/tandonschoolofengineering-spspringmaxsun/",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "Low light and audio intensive",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp: "4/30/2023 21:24:54",
+      "Email Address": "nah366@nyu.edu",
+      "Full Name": "Nadia Heikal",
+      "Name of Advisor": "Alex Nathanson",
+      "Net ID": "nah366",
+      "Project title": "Archetype Study",
+      "What year are you?": "Senior (Senior Project)",
+      "What kind of form is the work (website, game, vr, etc)": "Magazine",
+      'If you selected "Other", please write your description below:':
+        "Magazine",
+      "Short project description (one sentence - 500 characters)":
+        "A visual guide through some of the most prominent female archetypes in New York City. Viewers will be taken through a narrated guide of the city’s typecasts that has been constructed with the use of photography, photoshop, and Chat GPT.",
+      "Long Description of your work (4-6 sentences).":
+        "My journey to this project took many twists and turns along the way with the original idea being a high school yearbook themed fashion magazine. The idea morphed along the way taking shape into a series of short narratives that pertain to each character. My aim was to create a story for each persona that reflected their interests, personality traits, and character defects. In the same breath, I wanted to produce visually appealing images that captivate the hearts and minds of my audience.",
+      "Link to your personal portfolio":
+        "https://pdfhost.io/v/YDfWVMxRe_Nadia_Heikals_Portfolio",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "Chat GPT, Photoshop, Self-Portraits, Cultural norms, Storytelling, socio-economic, cultural dynamics, magazine, graphic design",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/A",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "Print out magazines.",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "N/A",
+      "Additional notes for the Operations Manager":
+        "Could I have a table to display the magazines",
+    },
+    {
+      Timestamp: "5/1/2023 7:05:33",
+      "Email Address": "ob2103@nyu.edu",
+      "Full Name": "Sola Babatunde",
+      "Name of Advisor": "Regine",
+      "Net ID": "ob2103",
+      "Project title": "Educational & Peace Officers",
+      "What year are you?": "Final Year Grad (Thesis Project)",
+      "What kind of form is the work (website, game, vr, etc)":
+        "Story based app",
+      'If you selected "Other", please write your description below:':
+        "Story based mobile app and a RFID Tag",
+      "Short project description (one sentence - 500 characters)":
+        "A mobile application that is designed to train student workers on an alternative method of calling university police officers during emergency situations.",
+      "Long Description of your work (4-6 sentences).":
+        "Every year countless BIPOC university students are arrested and go through extensive legal processes thanks to university police officers regardless of if they are innocent or guilty for what they were arrested for. The cause of this problem is rooted in how university staff are trained to call university police departments in the event of any emergency while university police departments are trained to detain and prevent escalation of all situations. This project is a training simulation to not only help students and teachers know the best time to call the police, but also give them a way to contact not only campus police but several other university entities that can help diffuse a situation. \n\nThis idea comes from the concept that sometimes the bias of the employee and/or university police may influence the process of arresting a student. By using RFID technology, we can contact several university entities in a much faster way then the typical method of call the police.",
+      "Link to your personal portfolio": "www.solababatunde.com",
+      "Project link":
+        "www.solababatunde.com/featured-works/education-peace-officers",
+      "Main Image":
+        "https://drive.google.com/open?id=1Nxm1qc1OrP2-SFDHBO6vY8-TUNG_Tnca",
+      "Supplementary Images": "",
+      "Thematic Keywords":
+        "RFID, Mobile App, UX Design, UI Design, Learning Tool, INteraction design, stories",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "www.instagram.com/@Ablackdesignerofficial",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "N/a",
+      "Profile photo.\nRatio 1:1 (square)":
+        "https://drive.google.com/open?id=19J-bK1RTJEmTLgBCLqY-YDU7It1Dced-",
+      "Equipment List":
+        "A tv that is VERTICLY oriented instead of horizontal as well as a HDMI cable with a USBC Connection",
+      "What equipment can you provide?": "Laptop, phone, RFID tags",
+      "What equipment do you need to borrow?":
+        "An extension cable would be nice",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "None besides I need power to power a TV or my laptop",
+      "Additional notes for the Operations Manager": "Nope",
+    },
+    {
+      Timestamp: "",
+      "Email Address": "",
+      "Full Name": "",
+      "Name of Advisor": "",
+      "Net ID": "",
+      "Project title": "",
+      "What year are you?": "",
+      "What kind of form is the work (website, game, vr, etc)": "",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
+    },
+    {
+      Timestamp:
+        "Key:\nYellow- Website/App\nPurple- VR/AR/Game\nGreen- Panel/ Film\nBlue- Installation\nRed- In-person Presentation- Zine Books\nOrange- Mixed/Unknown",
+      "Email Address": "",
+      "Full Name": "",
+      "Name of Advisor": "",
+      "Net ID": "",
+      "Project title": "",
+      "What year are you?": "",
+      "What kind of form is the work (website, game, vr, etc)": "",
+      'If you selected "Other", please write your description below:': "",
+      "Short project description (one sentence - 500 characters)": "",
+      "Long Description of your work (4-6 sentences).": "",
+      "Link to your personal portfolio": "",
+      "Project link": "",
+      "Main Image": "",
+      "Supplementary Images": "",
+      "Thematic Keywords": "",
+      Twitter: "",
+      Linkedin: "",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
+      "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
+        "",
+      "Profile photo.\nRatio 1:1 (square)": "",
+      "Equipment List": "",
+      "What equipment can you provide?": "",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
   ],
 };
