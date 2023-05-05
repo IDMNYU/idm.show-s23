@@ -62,8 +62,8 @@ line-height: 140%;
 }
 
 a {
-  color: var(--foregroundColor);
-  /* color: var(--gradientColorB); */
+    color: #A15DB8;
+    /* color: var(--gradientColorB); */
 }
 
 p {
@@ -212,33 +212,32 @@ nav>p:first-child {
 
 
 .projectPreview {
-  color: aliceblue;
-  }
+    /* color: aliceblue; */
+}
   
   .projectPreviewLink {
     flex-basis: 30%;
     padding: 20px;
-    background-color: rgb(26, 23, 23);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(27, 27, 30);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     /* margin-bottom: 20px; */
 }
+ 
 
-
-.projectPreviewLink:hover {
-
-  background-color: rgb(134, 17, 17);
-
-  /* margin-bottom: 20px; */
-}
   
-  @media (max-width: 768px) {
+  /* margin-bottom: 20px; */
+
+  
+  @media (max-width: 300px) {
     .projectPreviewLink  {
       flex-basis: 75%;
     }
   }
   
-  @media (max-width: 480px) {
+  @media (max-width: 400px) {
     .projectPreviewLink {
       flex-basis: 100%;
     }
@@ -270,14 +269,14 @@ nav>p:first-child {
 
 
 .projectPreviewLink:hover {
-  background-color: unset;
-  /* text-decoration: underline; */
-  color: var(--foregroundColor);
-  /* color: var(--gradientColorA); */
+    background-color: rgb(218, 181, 255);
+    /* text-decoration: underline; */
+    color: var(--foregroundColor);
+    /* color: var(--gradientColorA); */
 }
 
 .projectPreviewLink:hover p:nth-child(1) {
-  text-decoration: underline;
+  text-decoration: none;
   /* color: #ff0072; */
 }
 
@@ -476,11 +475,11 @@ display: block;
 
 @media only screen and (max-width: 700px) {
   #mainContainer {
-    display: grid;
+    /* display: grid;
     width: 98vw;
     padding: 0 5vw 0 5vw;
-    /* border: 1px solid gold; */
-    grid-template-columns: repeat(1, 1fr);
+ border: 1px solid gold; 
+    grid-template-columns: repeat(1, 1fr); */
     grid-template-rows: min-content auto min-content;
     grid-column-gap: 32px;
     grid-row-gap: 16px;
@@ -490,7 +489,7 @@ display: block;
       "main"
       "footer";
     height: 100%;
-  }
+  } 
 
   nav {
     /* display: none; */
@@ -733,7 +732,7 @@ h1 {
 }
 
  .event:hover .event-title {
-  text-decoration: underline
+  text-decoration: none
 }
 
 .event-title {
