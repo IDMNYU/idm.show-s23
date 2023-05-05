@@ -33,7 +33,7 @@ let pThesisValue = "Final Year Grad (Thesis Project)";
 /* ----- MAIN JS ----- */
 
 let paramCategory =
-  "home"; /* Page type – available values are "home", "thesis", "senior", "item" */
+  "home"; /* Page type – available values are "home", "Thesis", "Senior", "item" */
 let paramProjectID; /* Project ID */
 let mainDisplayElem; /* "Main" content section element of any page */
 
@@ -111,12 +111,12 @@ function initPage(event) {
 
   /* Behaviors for different page types */
   if (paramCategory === "home") {
-  } else if (paramCategory === "thesis") {
+  } else if (paramCategory === "Thesis") {
     welcomeTextElem.remove();
-    produceDirectoryOfCategory("thesis");
-  } else if (paramCategory === "senior") {
+    produceDirectoryOfCategory("Thesis");
+  } else if (paramCategory === "Senior") {
     welcomeTextElem.remove();
-    produceDirectoryOfCategory("senior");
+    produceDirectoryOfCategory("Senior");
   } else if (paramCategory === "firstgrad") {
     welcomeTextElem.remove();
     produceDirectoryOfCategory("firstgrad");
@@ -166,10 +166,10 @@ function produceDirectoryOfCategory(requestedCategory) {
   mainDisplayElem.appendChild(browsingHeader);
 
   var translatedCategory = "";
-  if (requestedCategory == "thesis") {
+  if (requestedCategory == "Thesis") {
     translatedCategory = pThesisValue;
   }
-  if (requestedCategory == "senior") {
+  if (requestedCategory == "Senior") {
     translatedCategory = pSeniorValue;
   }
   if (requestedCategory == "firstgrad") {
@@ -185,9 +185,9 @@ function produceDirectoryOfCategory(requestedCategory) {
   for (var i = 0; i < projectCollection["projects"].length; i++) {
     console.log(
       "pYearKey = " +
-        projectCollection["projects"][i][pYearKey] +
-        " --- translatedCategory = " +
-        translatedCategory
+      projectCollection["projects"][i][pYearKey] +
+      " --- translatedCategory = " +
+      translatedCategory
     );
     if (projectCollection["projects"][i][pYearKey] === translatedCategory) {
       let newProjectLinkElement = produceProjectDirectoryLink(
@@ -438,7 +438,7 @@ function produceItemContent(projectJSON) {
         projectJSON[pIDKey] +
         "/" +
         parsedAdditionalMediaFiles[
-          i
+        i
         ]; /* OUTPUT: `/projectmedia/95/my_photo.jpg` */
       newMediaLink.target = "_blank";
       /* Create thumbnail and add inside of link */
