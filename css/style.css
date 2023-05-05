@@ -2,47 +2,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,700&display=swap');
 
 @font-face {
-  src: url('Beatrice-Regular.woff');
-  font-family: 'Beatrice-Regular';
-  font-weight: 140;
+  src: url('PPGoshaSans-Regular.woff');
+  font-family: 'GoshaRegular';
 }
 
 @font-face {
-  src: url('BeatriceDisplay-BoldIt.woff');
-  font-family: 'BeatriceDisplay-BoldIt';
-  font-weight: 140;
+  src: url('PPGoshaSans-Bold.woff');
+  font-family: 'GoshaBold';
 }
 
 @font-face {
-  src: url('Beatrice-Regular.woff');
-  font-family: 'Beatrice-Regular';
-  font-weight: 120;
+  src: url('PPPangramSansRounded-Medium.woff2');
+  font-family: 'SansRegular';
 }
 
-@font-face {
-  src: url('Beatrice-RegularItalic.woff');
-  font-family: 'Beatrice-RegularIt';
-  font-weight: 400;
-}
+
 
 
 :root {
   /* --gradientColorA: rgba(235, 196, 214, 1);
   --gradientColorB: rgba(255, 244, 191, 1); */
-  --gradientColorA: #F6921E;
+  --gradientColorA: #F4E2FF;
   --gradientColorB: #f6e7c1;
   --foregroundColor: #313;
   /* --foregroundColor: #3c4f96; */
   /* --hoverColor: #57068c; */
   --hoverColor: var(--foregroundColor);
-  --headerFont: 'BeatriceDisplay-BoldIt';
+  --headerFont: 'GoshaBold';
 
   --headerWeight: 100;
  /* --header3Weight: 140; */
   /* --h3Transform; */
   /* --bodyFont: 'Overpass Mono', monospace; */
-  --bodyFont: 'Beatrice-Regular';
-  --bodyItFont: 'Beatrice-RegularIt';
+  --bodyFont: 'SansRegular';
+  --bodyItFont: 'GoshaRegular';
   --h2Size: 2.5em;
   --h3Size: 1.25em;
   --radiusLv1: 0;
@@ -62,9 +55,9 @@ html {
   padding: 0;
   margin: 0;
   font-family: var(--bodyFont);
-  font-size: smaller;
+  font-size: 1em;
   font-weight: 300;
-  min-height: 100%;
+line-height: 140%;
   color: var(--foregroundColor);
 }
 
@@ -127,7 +120,7 @@ h1{
 h2 {
   font-family: var(--bodyFont);
   font-size: medium;
-  font-weight: 60;
+
 
 }
 
@@ -225,10 +218,18 @@ nav>p:first-child {
   .projectPreviewLink {
     flex-basis: 30%;
     padding: 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(26, 23, 23);
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     /* margin-bottom: 20px; */
+}
+
+
+.projectPreviewLink:hover {
+
+  background-color: rgb(134, 17, 17);
+
+  /* margin-bottom: 20px; */
 }
   
   @media (max-width: 768px) {
@@ -314,6 +315,7 @@ nav>p:first-child {
 }
 
 .projectPreview .shortDescription {
+  font-size: smallerBhak ;
   /* font-style: italic; */
 }
 
@@ -442,7 +444,7 @@ canvas {
 footer {
   display: block;
   grid-area: footer;
-  margin-bottom: 32px;
+  margin: 32px;
   text-align: center;
 }
 
@@ -655,8 +657,7 @@ h1 {
 
 .festival {
   margin-bottom: 10px;
-  display: flex;
-
+  /* display: flex; */
   overflow: hidden;
   padding: 10px;
   gap: 8px
@@ -671,13 +672,13 @@ h1 {
 
 .festival a {
   color: #000;
-  font-family: aktiv-grotesk-extended,"Helvetica Neue","Arial",sans-serif;
+  font-family: GoshaRegular,"Helvetica Neue","Arial",sans-serif;
   display: flex;
-  flex-direction: column;
-  font-size: 22px;
-  font-style: italic;
+  flex-direction: row;
+  font-size: 1.5em;
+  font-style: re;
   gap: 8px;
-  justify-content: center
+  /* justify-content: center */
 }
 
 @media (max-width: 1100px) {
@@ -736,7 +737,7 @@ h1 {
 }
 
 .event-title {
-  font-family: aktiv-grotesk-extended,"Helvetica Neue","Arial",sans-serif;
+  font-family: GoshaBold,"Helvetica Neue","Arial",sans-serif;
   font-size: 14px;
   margin-bottom: 4px
 }
