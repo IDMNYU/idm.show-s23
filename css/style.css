@@ -273,7 +273,7 @@ nav>p:first-child {
 .projectPreviewLink:hover {
   background-color: unset;
   /* text-decoration: underline; */
-  color: var(--foregroundColor);
+
   /* color: var(--gradientColorA); */
 }
 
