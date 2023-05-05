@@ -313,7 +313,7 @@ let projectCollection = {
         "https://drive.google.com/drive/u/1/folders/1Z30G_44XhuMQIEDofRVx0I3kUunY7do5",
       "Project link":
         "Everything will be updated in the google drive folder up. Right now I have nothing to show",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Comedy, Artificial intelligence, AI, Live performance, Entertainment productions,",
@@ -1658,7 +1658,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "evafeng.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "physical computing, AI, collective minds, fabrication, music, performance,",
@@ -2726,7 +2726,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://liamtsang.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -2973,7 +2973,7 @@ let projectCollection = {
         "We made this as a collaborative research project for people with low vision or blindness. This is to be able to understand and give people and improved experience when watching movies or tv shows.",
       "Link to your personal portfolio": "https://www.mbhandare.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "low vision, media, movies, semantics, optiacal flow, object recognition, p5.js, machine learning, python, coding",
@@ -4342,7 +4342,7 @@ let projectCollection = {
         "https://tianyue-yi.github.io/portfolio/p_home.html",
       "Project link":
         "https://tianyue-yi.github.io/process/project_process.html",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "Interaction design, Animation, AR, Hololens 2",
       Twitter: "",
@@ -4736,7 +4736,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.aliceyachen.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
