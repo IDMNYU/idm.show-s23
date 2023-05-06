@@ -475,6 +475,7 @@ footer {
   display: block;
   grid-area: footer;
   margin: 5em;
+  padding: 3em;
   text-align: center;
 }
 
