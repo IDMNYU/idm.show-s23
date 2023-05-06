@@ -185,9 +185,9 @@ function produceDirectoryOfCategory(requestedCategory) {
   for (var i = 0; i < projectCollection["projects"].length; i++) {
     console.log(
       "pYearKey = " +
-      projectCollection["projects"][i][pYearKey] +
-      " --- translatedCategory = " +
-      translatedCategory
+        projectCollection["projects"][i][pYearKey] +
+        " --- translatedCategory = " +
+        translatedCategory
     );
     if (projectCollection["projects"][i][pYearKey] === translatedCategory) {
       let newProjectLinkElement = produceProjectDirectoryLink(
@@ -301,10 +301,10 @@ function produceProjectDirectoryLink(projectJSON) {
 
   let projectInfoContainer = document.createElement("div");
 
-  let studentNameElement = document.createElement("p");
+  let studentNameElement = document.createElement("h4");
   studentNameElement.textContent = projectJSON[sNameKey];
-  let projectTitleElement = document.createElement("p");
-  projectTitleElement.textContent = '"' + projectJSON[pTitleKey] + '"';
+  let projectTitleElement = document.createElement("h5");
+  projectTitleElement.textContent = projectJSON[pTitleKey];
   let projectShortDescElement = document.createElement("p");
   projectShortDescElement.classList.add("shortDescription");
   projectShortDescElement.textContent = projectJSON[pShortDescKey];
@@ -438,7 +438,7 @@ function produceItemContent(projectJSON) {
         projectJSON[pIDKey] +
         "/" +
         parsedAdditionalMediaFiles[
-        i
+          i
         ]; /* OUTPUT: `/projectmedia/95/my_photo.jpg` */
       newMediaLink.target = "_blank";
       /* Create thumbnail and add inside of link */

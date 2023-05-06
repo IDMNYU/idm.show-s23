@@ -12,9 +12,21 @@
 }
 
 @font-face {
+  src: url('PPGoshaSans-Thin.woff');
+  font-family: 'GoshaLight';
+}
+
+
+@font-face {
   src: url('PPPangramSansRounded-Medium.woff2');
   font-family: 'SansRegular';
 }
+
+@font-face {
+  src: url('PPPangramSansRounded-Bold.woff2');
+  font-family: 'SansBold';
+}
+
 
 
 
@@ -31,7 +43,7 @@
   --headerFont: 'GoshaBold';
 
   --headerWeight: 100;
-  /* --header3Weight: 140; */
+ /* --header3Weight: 140; */
   /* --h3Transform; */
   /* --bodyFont: 'Overpass Mono', monospace; */
   --bodyFont: 'SansRegular';
@@ -47,7 +59,7 @@
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body,
@@ -57,7 +69,7 @@ html {
   font-family: var(--bodyFont);
   font-size: 1em;
   font-weight: 300;
-  line-height: 140%;
+line-height: 140%;
   color: var(--foregroundColor);
 }
 
@@ -109,12 +121,12 @@ header {
   /* Fix for header graphic– temporary */
 }
 
-h1 {
+h1{
   font-family: var(--headerFont);
 }
 
-
-/* font-size: 2em; */
+  
+  /* font-size: 2em; */
 
 
 h2 {
@@ -125,10 +137,28 @@ h2 {
 }
 
 h3 {
-  font-family: var(--bodyItFont);
+   font-family: var(--bodyItFont);
   font-size: large;
   font-weight: var(--header3Weight)
 }
+
+
+
+h4 {
+  font-family: GoshaRegular;
+ font-size: var(--h3Size);
+ font-weight: var(--header3Weight)
+}
+
+
+
+h5 {
+  font-family: GoshaLight;
+ font-size: var(--h3Size);
+ font-weight: var(--header3Weight)
+}
+
+
 
 #headerTitle {
   /* background: linear-gradient(149deg, rgba(2,0,36,1) 0%, rgba(221,30,207,1) 22%, rgba(172,241,255,1) 51%, rgba(82,176,212,1) 62%, rgba(122,186,230,1) 74%, rgba(223,61,233,1) 100%); */
@@ -242,12 +272,11 @@ nav>p:first-child {
       flex-basis: 100%;
     }
   }
-}
-
-#mainDisplay {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+  
+  #mainDisplay {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 
@@ -315,7 +344,7 @@ nav>p:first-child {
 }
 
 .projectPreview .shortDescription {
-  font-size: smallerBhak;
+  font-size: smaller;
   /* font-style: italic; */
 }
 
@@ -402,7 +431,6 @@ nav>p:first-child {
   /* border: 3px solid var(--gradientColorA);
   padding: -3px;
   margin-bottom: -3px; */
-  color: #000000;
 }
 
 .additionalMediaCollection img {
@@ -460,16 +488,16 @@ footer {
 
 }
 
-.past-shows_years {
+.past-shows_years{
   padding: 0 1em;
-  display: block;
+display: block;
   margin-bottom: 3rem;
 }
 
-.year-img {
-  display: block;
-  /* max-width: 100%; */
-  height: auto;
+.year-img{
+display: block;
+    /* max-width: 100%; */
+    height: auto;
 }
 
 
@@ -563,9 +591,9 @@ footer {
 }
 
 @media (max-width: 850px) {
-  .intro {
-    flex-direction: column;
-    margin-bottom: 40px
+.intro {
+      flex-direction:column;
+      margin-bottom: 40px
   }
 }
 
@@ -575,16 +603,16 @@ footer {
 }
 
 @media (max-width: 1080px) {
-  .intro-left {
-    padding-right: 80px
+ .intro-left {
+      padding-right:80px
   }
 }
 
 @media (max-width: 850px) {
-  .intro-left {
-    padding-right: 0;
-    width: 100%;
-    margin-bottom: 40px
+.intro-left {
+      padding-right:0;
+      width: 100%;
+      margin-bottom: 40px
   }
 }
 
@@ -595,7 +623,7 @@ footer {
   gap: 10px
 }
 
-h1 {
+ h1 {
   font-size: 32px;
   margin: 0 0 7em;
   line-height: 1.1em;
@@ -603,21 +631,21 @@ h1 {
 }
 
 @media (max-width: 1080px) {
-  h1 {
-    font-size: 26px;
-    max-width: none
+ h1 {
+      font-size:26px;
+      max-width: none
   }
 }
 
 @media (max-width: 850px) {
-  h1 {
-    font-size: 32px
+ h1 {
+      font-size:32px
   }
 }
 
 @media (max-width: 550px) {
-  h1 {
-    font-size: 3em;
+h1 {
+      font-size:3em;
   }
 }
 
@@ -628,22 +656,20 @@ h1 {
 }
 
 @media (max-width: 850px) {
-  .intro-right {
-    padding-left: 0;
-    width: 100%;
-    margin-bottom: 0
+.intro-right {
+      padding-left:0;
+      width: 100%;
+      margin-bottom: 0
   }
 }
-
 .schedule {
   color: #000
 }
-
 .schedule h2 {
   margin: 0
 }
 
-.schedule-headline {
+ .schedule-headline {
   display: flex;
   justify-content: space-between;
   gap: 20px;
@@ -652,7 +678,7 @@ h1 {
 
 .calendar {
   background-color: #fff;
-  box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.1);
   border-radius: 10px;
   width: 100%;
   margin: 20px 0
@@ -667,15 +693,15 @@ h1 {
 }
 
 @media (max-width: 650px) {
-  .festival {
-    gap: 5px;
-    padding: 5px
+.festival {
+      gap:5px;
+      padding: 5px
   }
 }
 
 .festival a {
   color: #000;
-  font-family: GoshaRegular, "Helvetica Neue", "Arial", sans-serif;
+  font-family: GoshaRegular,"Helvetica Neue","Arial",sans-serif;
   display: flex;
   flex-direction: row;
   font-size: 1.5em;
@@ -685,9 +711,9 @@ h1 {
 }
 
 @media (max-width: 1100px) {
-  .festival a {
-    font-size: 16px;
-    gap: 5px
+.festival a {
+      font-size:16px;
+      gap: 5px
   }
 }
 
@@ -698,22 +724,21 @@ h1 {
 }
 
 @media (max-width: 1100px) {
-  .festival a span:nth-child(2) {
-    font-size: 10px
+.festival a span:nth-child(2) {
+      font-size:10px
   }
 }
 
 .festival a span:last-child {
-  font-family: "Inconsolata", monospace;
+  font-family: "Inconsolata",monospace;
   font-size: 16px
 }
 
 @media (max-width: 1100px) {
-  .festival a span:last-child {
-    font-size: 14px
+.festival a span:last-child {
+      font-size:14px
   }
 }
-
 .festival video {
   width: 100px;
   height: 100px
@@ -741,7 +766,7 @@ h1 {
 }
 
 .event-title {
-  font-family: GoshaBold, "Helvetica Neue", "Arial", sans-serif;
+  font-family: GoshaBold,"Helvetica Neue","Arial",sans-serif;
   font-size: 14px;
   margin-bottom: 4px
 }
