@@ -2049,7 +2049,7 @@ let projectCollection = {
         "Film/ Featurette",
       'If you selected "Other", please write your description below:': "N/A",
       "Short project description (one sentence - 500 characters)":
-        "A man suffering through Dissociative Identity Disorder becomes trapped in his own dream, forcing him to confront his insecurities and long-term traumas alongside the people he despises the most, other versions of himself. / This film will be my first time creating a long-form narrative. Although I’ve worked on a few skits and other shorts over time, I have always desired to create an engaging and meaningful story over the course of a longer time-frame. In the showcase, my project will feature the first sequence of the film, along with a trailer to promote viewing the full short film.",
+        "A man suffering through Dissociative Identity Disorder becomes trapped in his own dream, forcing him to confront his insecurities and long-term traumas alongside the people he despises the most, other versions of himself.\n\nFor the showcase, my project will consist of a 6 minute trailer made up of the first few sequences of the film. This will introduce the film's plot and themes, while encouraging audiences to look out for the full release later this year.",
       "Long Description of your work (4-6 sentences).":
         "In the showcase, my project will feature the first few minutes of my short-film, along with a trailer to promote viewing the full film when it's completed. My primary goal with this project is to successfully create an engaging piece that can make audiences laugh and become invested in the story I want to tell. Through video creation in the past, I have found success in making short-form videos, but I have always had a desire to create something grander. I've wanted to build off of the concept for this video for a while, and feel like this story will be the perfect way to demonstrate the skills I have gained through my studies at NYU.",
       "Link to your personal portfolio": "https://www.jasonrios.net/",
@@ -2063,7 +2063,7 @@ let projectCollection = {
       Linkedin: "",
       Instagram: "jasonri0s/",
       "Link to any video content (Vimeo / YouTube)":
-        "https://www.jasonrios.net/videos/v/identity-intervention",
+        "https://www.youtube.com/@noxsaj",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
       "Profile photo.\nRatio 1:1 (square)": "",
@@ -2555,7 +2555,7 @@ let projectCollection = {
         "Research: Digital Display",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "MIRO is a critical design project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
+        "MIRO is a critical design project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love. My inspiration came as I read The Art of Loving on the train ride to visit my partner on Valentine's Day weekend (very fitting). Psychologist Erich Fromm describes love as an art form, like painting and sculpting- a craft that demands mastery and understanding. The timing was perfect- reading about the art of love at a time when artificial intelligence (AI) is being trained to shortcut the labor and heart that goes into manmade art. And so I conceptualized MIRO, a hyper-futuristic, anthropomorphized matchmaking AI system that eliminates confusing emotions in its generative process and connects two people together from the data it extracts from them.",
       "Long Description of your work (4-6 sentences).":
         "MIRO is a project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
       "Link to your personal portfolio": "https://kweon.me/visual",
@@ -4915,7 +4915,7 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)":
         "My project, Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
       "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "https://www.yulan-design.com/",
+      "Link to your personal portfolio": "https://yulanren.webflow.io/",
       "Project link": "https://www.yulan-design.com/mobility-nyc",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
