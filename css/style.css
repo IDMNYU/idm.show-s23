@@ -647,7 +647,11 @@ display: block;
 
 @media (max-width: 550px) {
 h1 {
-      font-size:3em;
+      font-size:.5em;
+  }
+
+  #headerTitle {
+    font-size:1em;
   }
 }
 

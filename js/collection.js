@@ -703,8 +703,7 @@ let projectCollection = {
       "Link to your personal portfolio": "http://www.athenahosek.com/",
       "Project link": "http://www.athenahosek.com/projects/magic-melodyland",
       "Main Image": "main.jpg",
-      "Supplementary Images":
-        "https://drive.google.com/open?id=1IVKt26xcuSEY82Qgt0-MFs-N5dTypv9g, https://drive.google.com/open?id=1VZQC8pa48sUJRAnmGqsFoq5pGIoXg6Yu, https://drive.google.com/open?id=12BZxei8UmIuBlOnaqwkypWJ4t9v3E7vq, https://drive.google.com/open?id=15co9KK9BYy4zvkjFKjjWUezw_pCiIhB4, https://drive.google.com/open?id=1ZTEz1Qp1kBSkcKu-qnPrQ6zcVeMEV7iq",
+      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
       "Thematic Keywords":
         "virtual reality, extended reality, music, education, composition, game",
       Twitter: "",
@@ -2478,8 +2477,9 @@ let projectCollection = {
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "https://docs.google.com/document/d/1heuf3KVr4qjm0ry02cWRardTiQkxOHngQ-DqjYFO-VU/edit?usp=sharing",
-      "Long Description of your work (4-6 sentences).": "N/A",
+        "Lamka’s Closet is an existing clothing store in Lamka, India. They currently sell in-person and on their Instagram page.",
+      "Long Description of your work (4-6 sentences).":
+        "Lamka’s Closet is an existing clothing store in Lamka, India. They currently sell in-person and on their Instagram page. If you take a look at their Instagram, you will see that their target audience are young women who have peaked interest in fashion trends. Fun fact: this store was founded and is run by my childhood friend! \n\nWhen I was brainstorming ideas for my senior project, I thought it would be the perfect opportunity to design an online store for Lamka’s Closet. Not only would it legitimize the store, increase sales by reaching a larger audience across India, but it would also be an excellent opportunity for me to work on a tangible project. By establishing a website and a larger online presence, the store would be able to become a trusted and recognizable brand that brings diverse fashion across India and possibly worldwide. \n\nAfter getting the stakeholder (my friend) on board with this idea, I quickly got to work. I conducted some research where I was able to gain insights about the existing store and current selling methods. This was when I found some pain points customers faced while shopping on Instagram which I knew I could solve with my design. Some of which dealt with product details such as color and size options for the items, and delayed order processing due to manual processing. The current store logo also does not reflect any brand values or establish any kind of brand identity. Given that the stakeholder’s goals were to increase sales, increase brand awareness, improve customer retention, and establish stronger connections with customers, I decided to give the existing online presence and store a makeover. \n\nIn my design, I made sure to establish a clear and coherent brand identity. I decided to go with a minimalist design approach. For the overall appearance of the website, I kept it calm and classy. I also chose to go with gender neutral colors throughout the site and used variations of one typeface for the entire site.\n\nThe home page/landing page includes a hero section, showcases new arrivals and includes some recent Instagram posts with a link to the Instagram page as well. The shop section consists of the store inventory which have been separated into different categories. There is also a Lookbook which is where all the favorite items exist for future reference. Next to the Lookbook is the Log In section where users can either sign up or log in to their accounts. Finally, there is a shopping bag which is where you can see the items you’ve added to the bag and you can checkout from there. \n\nPlease remember, this project is only a prototype of what the online store will look like. \n-Khin Khin",
       "Link to your personal portfolio": "N/A",
       "Project link":
         "https://www.figma.com/proto/5cBJHZmUymAMIwdC21wecI/Lamka's-Closet-Website?page-id=324%3A609&node-id=427-221&viewport=439%2C1117%2C0.03&scaling=min-zoom&starting-point-node-id=427%3A221&show-proto-sidebar=1",
@@ -2558,7 +2558,7 @@ let projectCollection = {
         "MIRO is a critical design project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
       "Long Description of your work (4-6 sentences).":
         "MIRO is a project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
-      "Link to your personal portfolio": "kweon.me/visual",
+      "Link to your personal portfolio": "https://kweon.me/visual",
       "Project link": "kweon.me/miro",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -2658,7 +2658,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)": "",
       "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "laraferreri.art?igshid=YmMyMTA2M2Y=",
+      "Link to your personal portfolio":
+        "lhttps://laraferreri.art?igshid=YmMyMTA2M2Y=",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -2864,8 +2865,9 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "Physical art using AI and projection mapping. my work is an installation. I need a dark room and min floor requirements 36'x36'.",
       "Short project description (one sentence - 500 characters)":
-        "https://docs.google.com/document/d/1L9r1uy1nxoqGjMoYwVaCPECrSpm9fgHsFzskrRdzNk8/edit?usp=sharing",
-      "Long Description of your work (4-6 sentences).": "",
+        "when do humans become emotionally intelligent? Why are we born with different emotional deficiencies? How do some of the real world problems influence/desensitize our ability to recognize emotions and the impact of ubiquitous computing has imposed on humanity, and what it means to be emotionally intelligent in the age of AI and how emotionally intelligent is AI?",
+      "Long Description of your work (4-6 sentences).":
+        "Matt questions when do humans become emotionally intelligent? Why are we born with different emotional deficiencies? How do some of the real world problems influence/desensitize our ability to recognize emotions and the impact of ubiquitous computing has imposed on humanity, and what it means to be emotionally intelligent in the age of AI and how emotionally intelligent is AI? Matt’s work encompasses building an AI model made of human portraits, training the model to understand emotions, and plugging the data into a game engine so participants can interact with Matt’s particle sculpture in real-time. The goal of this project is to allow spectators to see how AI perceives an individual.\n\tMatt believes by enabling artificial intelligence in a way to continue to help us understand our emotions, we can all begin to live a more fulfilling life. Artificial intelligence is transformative, has limitless capabilities, and can positively affect society for the greater go",
       "Link to your personal portfolio": "mkane.design",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -3267,7 +3269,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://natalyabrill.com",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg,3.jpg",
+      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
       "Thematic Keywords":
         "flooding, data viz, open data, resilience, participatory research and design, RISO, physical, visual, data context",
       Twitter: "",
@@ -3560,7 +3562,7 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)":
         "this thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
       "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "www.rachzl.com",
+      "Link to your personal portfolio": "https://www.rachzl.com",
       "Project link": "https://www.rachzl.com/grad-thesis",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -3627,9 +3629,10 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         'Welcome to Portals of Perception, an awe-inspiring virtual reality project that offers a unique journey into the nature of reality. Through a series of captivating and immersive experiences, users will explore different perceptions of reality that will challenge their beliefs and broaden their perspectives. This transformative experience aims to stimulate the mind and spark curiosity, encouraging users to question their own relationship with the world and its systems. With each experience open to interpretation, the project invites users to delve into the depths of their own existence, contemplate the meaning of life, and challenge their understanding of what is considered "real.',
-      "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "renzrenderz.com",
-      "Project link": "renzrenderz.com/pop",
+      "Long Description of your work (4-6 sentences).":
+        "Hospital lobby spaces are the first impression and point of communication between visitors and providers. Patients rely on design cues and human interactions to make lasting judgements on the quality of care they will receive. At a time when Americans are increasingly dissatisfied with their health systems, it is evident that the design, functionality, and human elements of these onboarding spaces require our attention. This design research case study, in collaboration with NYU Langone Health (NYULH), employs systems thinking and service design methodologies to identify the essential components of a successful patient experience, and establish actionable ways that the soon-to-be-renovated Tisch Hospital lobby can actively contribute to a patient-centric system of care at Langone. Stakeholder interviews reveal that patients are anxious and in need of human care and places to pause in the lobby, that providers are over-worked yet go outside of their job descriptions to help, and that lobby staff are under-utilized and under-resourced. The Patient Visitor Help Zone is a concierge providing human help in the lobby space that proactively prepares patients for their visit, relieves healthcare workers upstairs of non-medical tasks, and optimizes existing staff downstairs to better help patients.",
+      "Link to your personal portfolio": "https://renzrenderz.com",
+      "Project link": "https://renzrenderz.com/pop",
       "Main Image": "main.jpg",
       "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
       "Thematic Keywords":
@@ -3840,7 +3843,7 @@ let projectCollection = {
         "A reader’s understanding of news events is no better than the sources selected to inform them. In an era in which coverage and exposure is increasingly governed by social media mechanics and dominant editorial voices, a product is needed which creates balanced, informed perspectives of current events by leveraging the full spectrum of local to international reporting.",
       "Long Description of your work (4-6 sentences).":
         "What if readers played a bigger role in shaping the content that makes it into the mainstream? What happens when we introduce social media UX paradigms into the news space? What role should natural language processing and artificial intelligence play in the newsgathering and reading process?\n\nTroubadour aims to address these questions by exploring how the packaging, exchange, and presentation of information changes the way we understand the world. In this pursuit, considerations were made to preserve the independence of publications of all sizes, enable speakers of any language to compete on the same playing field, and to provide readers the agency to explore in multiple directions.",
-      "Link to your personal portfolio": "http://sammylevin.com",
+      "Link to your personal portfolio": "https://sammylevin.com",
       "Project link": "http://sammylevin.com/news-app",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -3912,9 +3915,9 @@ let projectCollection = {
         "Research: Digital Display",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "https://docs.google.com/document/d/1gZotiSae0nyUK6QgqW2Kf0urpaaU6C6B0pfOHpZAA7Q/edit?usp=sharing",
-      "Long Description of your work (4-6 sentences).":
         "The objective of this project is to guide small restaurant owners in creating digital menus that are accessible and responsible for customers using mobile devices.",
+      "Long Description of your work (4-6 sentences).":
+        "This project aims to empower small restaurant owners by providing a comprehensive guideline for creating accessible and responsive digital menus for mobile devices. Targeting restaurant owners with a basic understanding of design principles, the guideline offers step-by-step instructions to help them efficiently develop digital menus without the need for advanced coding skills. By conducting research, including exploratory analysis, qualitative research, literature review, and user surveys, the project seeks to address end-users' preferences and pain points, as well as explore industry best practices. The guideline incorporates user-centered design principles throughout the entire process, from defining objectives and conducting research, to design, user testing, and continuous monitoring. Ultimately, this project holds significant importance, as it offers small restaurant owners a valuable resource to enhance their customers' dining experience by making digital menus more accessible and user-friendly.",
       "Link to your personal portfolio": "N/A",
       "Project link":
         "https://drive.google.com/drive/folders/1Lc4QEV6TxFT6zqGHSrCYQ9ny08T9OzHI",
@@ -4095,7 +4098,7 @@ let projectCollection = {
         "Visual art is not accessible to people with visual impairments and people with intellectual disabilities since the whole concept of the experience relies on someone’s vision and understanding, which varies from person to person.  This human centered research is an attempt to make art accessible for anyone with a vision impairment or an intellectual disability through Accessible Visual Descriptions. The outcome of this research may be a set of questions, a guideline, a handbook, a framework, or a ruleset that would serve as a system to assist artists in creating accessible visual descriptions of their art",
       "Long Description of your work (4-6 sentences).":
         "Art is a form of expression. The journey of experiencing visual art in art showcases and galleries is unique to everyone because people may have different interpretations of the same piece of art and may feel different emotions. But it is observed that visual art is not accessible to everyone, especially to People with Vision Impairments and People with Intellectual Disabilities because of the complex nature of art and the lack of proper descriptions describing the content of a piece of art. The goal of this participatory project is to propose a framework using which art show organizers can collaborate with artists with intellectual disabilities to create Visual Descriptions for art shows. This would enable the artists to be directly involved in making art shows more accessible and as a result help people with disabilities have more meaningful art experiences.",
-      "Link to your personal portfolio": "www.spanditasarmah.com",
+      "Link to your personal portfolio": "https://www.spanditasarmah.com",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -4233,15 +4236,17 @@ let projectCollection = {
       "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
-      "Short project description (one sentence - 500 characters)": "",
-      "Long Description of your work (4-6 sentences).": "",
+      "Short project description (one sentence - 500 characters)":
+        "Comrade aims to explore alternative ways of facilitating conversation on digital platforms, taking into consideration the fluidity of information exchange and the impact of interpretation on dialogue.",
+      "Long Description of your work (4-6 sentences).":
+        "Comrade aims to explore alternative ways of facilitating conversation on digital platforms, taking into consideration the fluidity of information exchange and the impact of interpretation on dialogue. In digital conversations, the visual interface serves as an additional medium that can affect communication. The project questions whether the current landscape of digital platforms limits our imagination of what the internet can be and proposes a different approach to interfaces that reconfigures social dynamics and facilitates more progressive protocols. Through play and interaction, Comrade seeks to offer new insights on how digital communication can be improved to better reflect the complexities of human conversation.",
       "Link to your personal portfolio": "https://tanvi.network",
-      "Project link": "",
+      "Project link": "https://thesis.tanvi.network",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "chronictanvi",
-      Linkedin: "",
+      Linkedin: "chronictanvi",
       Instagram: "chronictanvi/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
@@ -4267,8 +4272,9 @@ let projectCollection = {
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
+        "Familiarise.x is an educational resource website for Chinese parents to learn and plan age-appropriate sex education activities at home.",
+      "Long Description of your work (4-6 sentences).":
         "Familiarise.x is an educational resource website for Chinese parents to learn and plan age-appropriate sex education activities at home. The website can provide Chinese households with knowledge so that children can develop safe and positive views about their sexual health throughout different development stages. This project is significant because it could be an efficient way to take culture and individual values into account and at the same time provide detailed guidelines for parents to overcome hesitation.Viewers will see a demo of how parents would use the website to find resources and effective ways to bring up topics like body parts, healthy relationships, consent, gender, puberty, etc.",
-      "Long Description of your work (4-6 sentences).": "tba",
       "Link to your personal portfolio": "https://jennyzwithinzebra.com/",
       "Project link": "tba",
       "Main Image": "main.jpg",
@@ -4303,9 +4309,9 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         'A (Desktop App-Based) metaverse space. Equipment needed: 1 Desktop comupter w monitor attached, 1 TV to act as second monitor, 4 sets of "earmuff-style" headphones.',
       "Short project description (one sentence - 500 characters)":
-        "Innovation is crucial, from any organization’s success to the survival and advancement of human civilization. However, for innovation to be groundbreaking, it must be unpredictable and the source of inspiration not obvious. As opposed to a more incremental model of innovation, this thesis focuses on drawing unexpected connections between unrelated ideas for  “recombinant” or “intersectional” innovation. It catalyzes groundbreaking ideation though metaverse-based remote collaboration and a workshop involving exercises helping the innovators understand the roots of the problem, exercise abstract ideation, and a database to help the innovators explore applicable solutions that may be hidden within other contexts.  After all, the problem has likely already been solved. All we must help innovators do is find it.",
+        "Innovation is crucial, from any organization’s success to the survival and advancement of human civilization. However, for innovation to be groundbreaking, it must be unpredictable and the source of inspiration not obvious. As opposed to a more incremental model of innovation, this thesis focuses on drawing unexpected connections between unrelated ideas for  “recombinant” or “intersectional” innovation.",
       "Long Description of your work (4-6 sentences).":
-        "will be provided later",
+        "Innovation is crucial, from any organization’s success to the survival and advancement of human civilization. However, for innovation to be groundbreaking, it must be unpredictable and the source of inspiration not obvious. As opposed to a more incremental model of innovation, this thesis focuses on drawing unexpected connections between unrelated ideas for  “recombinant” or “intersectional” innovation. It catalyzes groundbreaking ideation though metaverse-based remote collaboration and a workshop involving exercises helping the innovators understand the roots of the problem, exercise abstract ideation, and a database to help the innovators explore applicable solutions that may be hidden within other contexts.  After all, the problem has likely already been solved. All we must help innovators do is find it.",
       "Link to your personal portfolio": "https://www.theresamerchant.com/",
       "Project link": "will be provided later",
       "Main Image": "main.jpg",
@@ -4454,12 +4460,12 @@ let projectCollection = {
         "Research: In-Person Presentation",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "I am creating a speculative service design of an NYU Langone lobby of the future, exploring ways that the space can be a contributing component of a patient’s overall hospital experience, to make the space more tailored to patient needs, rather than just a liminal space. The space will feature services fostering patient restfulness, addressing unmet logistical needs, providing tech support, and aiding in navigation.",
+        "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.vasukuram.com",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "",
+      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
       "Thematic Keywords": "",
       Twitter: "",
       Linkedin: "",
@@ -4670,8 +4676,9 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "Slide Deck",
       "Short project description (one sentence - 500 characters)":
-        "https://docs.google.com/document/d/1Y3Qf7xVH0klG0pbisvMysfDXZkuOY6KySvBQCpvuS5E/edit?usp=sharing",
-      "Long Description of your work (4-6 sentences).": "",
+        "The Reader's Pocket slide deck is a comprehensive resource designed to support online reading tutors working with middle-school students.",
+      "Long Description of your work (4-6 sentences).":
+        "The Reader's Pocket slide deck is a comprehensive resource designed to support online reading tutors working with middle-school students. \nIn light of the widespread use of mobile devices, the concept of reading has undergone a paradigm shift, with information now presented in a non-linear manner that requires individuals to possess a range of digital literacy skills. The value of digital literacy is widely recognized by educational institutions and departments in the U.S., as it is essential for navigating the digital world. It includes reading, writing, technical knowledge, and critical thinking competencies.\n\nHowever, research has indicated that middle-school students often need to be equipped to manage their online reading activities. Specifically, screen reading presents unique cognitive challenges, reducing comprehension of informative content. These challenges stem from three key factors: the physiological effects of digital screens on our brains, information fragmentation, and readers' fragmented activity. While the first two factors are challenging to address, the third can be remedied.\n\nAs online digital literacy courses often fail to address the potential challenges of reading on screens and provide tips for reducing the risk of harmful effects from online reading activities, Reader's Pocket aims to fill this gap by providing a customizable slide deck for online reading tutors to use in their online reading sessions. This resource is a valuable guide for introducing middle-school students to digital reading challenges and provides practical strategies to complete online reading assignments successfully. Ultimately, Reader's Pocket aims to equip students with the necessary skills to thrive in the digital world.",
       "Link to your personal portfolio": "https://yanlinli.online",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4770,7 +4777,7 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)":
         'Trapped" is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
       "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "yezixu29.com",
+      "Link to your personal portfolio": "https://yezixu29.com",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
