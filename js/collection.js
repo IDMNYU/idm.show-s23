@@ -15,7 +15,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.aakrutilunia.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -51,7 +51,7 @@ let projectCollection = {
       "Link to your personal portfolio": "www.ainuradil.com",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-ainur/2023/03/11/childrens-book/",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "children's book, Kazakhs, Identity, Culture, folklore, myths, children's content",
@@ -386,7 +386,7 @@ let projectCollection = {
         "As a Game Designer, I've always liked to experiment with unusual game mechanics, and challenging the medium I create games in. For the thesis, I looked to VR and decided to create a game that did not have any visuals. Could VR still be immersive, when all players will see is darkness? Neela is for gamers who want to experience a unique game in VR.",
       "Link to your personal portfolio": "https://www.accessednull.com/",
       "Project link": "TBD",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "virtual-reality, spatial audio, narrative game",
       Twitter: "",
@@ -489,7 +489,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://www.annavandehey.com",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-annavseniorproj/",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -562,7 +562,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://chen-ao.com/nutrition",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "User Experience design, nutrition",
       Twitter: "",
@@ -595,7 +595,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.arthipuri.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -856,7 +856,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://bridgetdaugherty.myportfolio.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "educational technology, psychology, online education, interaction design, mental health",
@@ -881,7 +881,7 @@ let projectCollection = {
       "Full Name": "Caroline Cheung",
       "Name of Advisor": "Jenelle Woodrup",
       "Net ID": "cmc1292",
-      "Project title": "UX Project (Name TBD)",
+      "Project title": "Youterus!",
       "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
@@ -962,7 +962,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://chebcheb.co/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "NFT, Online Community, UI design, UX Design, Online Education, in-person or virtual event planning, graphic design, app design, interaction design",
@@ -1137,13 +1137,13 @@ let projectCollection = {
       "Full Name": "Connor Hester",
       "Name of Advisor": "Carla Gannis",
       "Net ID": "cph319",
-      "Project title": "Chiaroscuro",
+      "Project title": "impermanent",
       "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "Film/ Featurette",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "I'm an artist, an animator, and a writer, but my one true love is motion design. I believe in the power of motion graphics to engage an audience and take them on an emotional journey. I articulate my artistic vision using a vast array of tools, including the Adobe suite, 3D design programs, numerous coding languages, and physical computing. In my work, I gravitate toward queer, macabre, and satirical themes, and I draw inspiration from the surrealist and dadaist art movements. My work tends to retrospectively address personal emotional experiences and articulate them in more broadly applicable, surrealist contexts.",
+        "I view this project as a culmination of who I am as a creative and human being up to this point in my life. I retrospectively revisited poignant moments in my life and articulated these vignettes through varied and evolving mediums.",
       "Long Description of your work (4-6 sentences).":
         "I view this project as a culmination of who I am as a creative and human being up to this point in my life. I retrospectively revisited poignant moments in my life and articulated these vignettes through varied and evolving mediums. The evolving complexity of the medium reflects the increased complexity of the life moments it represents, creating a reflexive dynamic between form and content. These vignettes are presented with minimal narration, music, and human components and incorporate elements of surrealism, insinuating that these stories occur in a memory space. The project is entitled “impermanent”, which is representative of the fleeting nature of these life moments and is also a word I take solace in and have embraced as a philosophy.",
       "Link to your personal portfolio": "https://connorhester.webflow.io",
@@ -1222,7 +1222,7 @@ let projectCollection = {
         "Edward Hopper, one of the most influential New York painters in American history, methodically explored the theme of the private vs. public throughout his works. Most notably through his depiction of windows throughout his work, Hopper was inspired and drawn to the vulnerability of private moments that are guarded by windows from the chaos and metropolis on the other side. His persistent use of windows as a symbol to highlight the ironic fragility and strength that enable the separation of the private and public inspired me to explore this theme further and apply it in a more contemporary context. With an inherent passion for glamorous aesthetics and narrative storylines from inspirations like Alex Prager and Nadia Lee Cohen, my work utilizes vibrantly muted color palettes inspired by the aesthetics of Francis Bacon. Furthermore, my work evokes a sense of supernatural reality which hints to works of Gregory Crewdson. These inspirations aggregate to form my own style of what I call portraying glamourized dystopia.\n\tFor this project, my aim is to create a photograph book with images that explore the theme of the private vs. public. With an emphasis on fashion aesthetics, the book will aggregate 15-20 shoots under this theme. The book will highlight portraits, products, fashion, and culture.",
       "Link to your personal portfolio": "instagram.com/cyentific",
       "Project link": "n/aa",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "Glamour, Profundity, and Juxtaposition",
       Twitter: "",
@@ -1442,7 +1442,7 @@ let projectCollection = {
         "I made these reflexive short documentaries to manifest some of the internal battles I have into an art project that can guide me through the self-perpetuating questions that both immigrants, Middle Eastern diaspora and almost every 20-something- year-olds faces in a transitional period in their life.",
       "Link to your personal portfolio": "www.eftalyababa.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -1696,7 +1696,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://www.linkedin.com/in/frankmieles/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Sociology, Multiculturalism, Video Production, Film making",
@@ -1731,7 +1731,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://himabijulal.net/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -1791,23 +1791,24 @@ let projectCollection = {
       "Full Name": "Hugo Wu",
       "Name of Advisor": "Todd Bryant",
       "Net ID": "zw3030",
-      "Project title": "Desert Rose Project",
+      "Project title": "Spirit Dive",
       "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "Film/ Featurette",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "Incorporating 3D motion digital art and media archeology, my thesis project is a visual film that depicts how desert roses changed in the history from changing geographic, technological and agricultural conditions, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D art on the theme of future nature and botanical art.",
-      "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "https://www.behance.net/hugowuuuu",
+        "Spirit Dive is a visual film that depicts how desert roses changed in the history from changing geographic, technological and agricultural conditions, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D art on the theme of future nature and botanical art.",
+      "Long Description of your work (4-6 sentences).":
+        "Incorporating 3D motion digital art and virtual production, the thesis project is a visual film about finding the desert rose god and the faded identity of the artist, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D works on the theme of future nature art. The desert rose holds a significant place in the artist's heart, as childhood experiences and memories inspired the exploration of this exotic flower in the project. Having grown up with a father who cultivated a little garden of desert roses, the artist found that the plant's appearance varied based on the cultural preferences of different regions. The experience of seeing the desert roses in their natural habitat on the Socotra Islands deeply impacted the filmmaker, evoking memories of wildness and imagination from childhood that had faded with age. This inspired the artist to create a visual film of him finding the desert roses in his imagination and multiple dreams.",
+      "Link to your personal portfolio": "www.hugowu.xyz",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Art Direction; 3D Motion Graphics, CGI, Visual Film",
       Twitter: "",
       Linkedin: "",
-      Instagram: "hugowuuuu/",
+      Instagram: "https://www.instagram.com/hugowuuuu/",
       "Link to any video content (Vimeo / YouTube)":
         "https://www.behance.net/hugowuuuu",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
@@ -1902,8 +1903,9 @@ let projectCollection = {
         "Installation Art",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "https://docs.google.com/document/d/1XU7jcegn3GU40W5C_aQBcbtctCGOClQB3te_n1DyyP0/edit?usp=sharing",
-      "Long Description of your work (4-6 sentences).": "",
+        "“Congrats, You’re Pregnant!” explores the role of the internet and social media in influencing women into making decisions about their bodies when it comes to having children.",
+      "Long Description of your work (4-6 sentences).":
+        "The overturning of Roe v. Wade in 2022 started new conversations around the world about the future of reproductive rights of American women. Many of these conversations happen online over social media, forums, video essays, etc., attracting viewers that are questioning the morality of abortions and need further guidance and support to make a decision.\n\n“Congrats, You’re Pregnant!” explores the role of the internet and social media in influencing women into making decisions about their bodies when it comes to having children. The installation aims to expose the use of online advertisement to spread anti-abortion ideologies disguised as help and support for women, many of which appear at the top of Google, Bing, and Yahoo searches. It also sheds light on social media algorithms designed to push viewers into radical rabbit holes and extremist online groups, feeding many with extreme hatred towards opposing views and often causing psychological damage.\n\nArtist Jackie Sabillón Pinto designed “Congrats, You’re Pregnant!” as an interactive installation, where the viewer is invited to choose an item provided by the artist and place it on a table. The table reacts to the object placed on it, showing a film of found content online. To get this found content, Sabillón Pinto created a fake online persona looking for information about abortion, clicking on top results on Google and recommendations made by Youtube and TikTok. The film ends with accounts of real women talking about their experiences online and in real life when talking about abortion and the trauma they’ve experienced.\n\nSabillón Pinto hopes for the viewer to feel a little more empathetic towards women seeking help online by having them experience the difficulties of finding unbiased information on the internet.",
       "Link to your personal portfolio": "https://www.jackiensabillon.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -1942,14 +1944,14 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)":
         "Phiz is an open-source tool that gives you the power to do facial motion capture right in your browser, using the webcam on any mobile device or computer. You can then send the blendshape data, either locally or remotely, to another browser or popular game engines; you even have the option to broadcast the blendshape data through OSC protocol using Phiz's cross-platform app.",
       "Long Description of your work (4-6 sentences).":
-        "- Facial Motion Capture... in Your Browser\n\nPhiz's motion capture system was built using Mocap4face and Google mediapipe's machine learning model. No iPhone LiDAR or RGBD camera needed! The underlying ML code is not fixed and will be updated whenever there is a better model.\n\n- Streaming Data: Unreal and Unity Support\n\nPhiz includes custom plugins that fire up WebSocket servers within Unreal Engine and Unity, which are used to receive live data from your browser. The plugins also include convenient presets that you can easily use with popular 3D avatars, such as Metahumans and ReadyPlayerMe characters.\n\n- Streaming Data: Browser to Browser & Browser to OSC App\n\nPhiz uses WebRTC (the protocol used in video calling) to send data from one browser to another or from a browser to the app. However, no image or video is sent at all. WebRTC also allows for peer-to-peer secure connection and low latency.\n\n- ARKit Support\n\nPhiz uses the same blendshapes as ARKit. Check out the Blendshapes page for more information about the blendshape names and orders.",
+        "- Facial Motion Capture... in Your Browser\n\nPhiz's motion capture system was built using Mocap4face and Google mediapipe's machine learning model. No iPhone LiDAR or RGBD camera needed! The underlying ML code is not fixed and will be updated whenever there is a better model. \\n\n\n- Streaming Data: Unreal and Unity Support \\n\n\nPhiz includes custom plugins that fire up WebSocket servers within Unreal Engine and Unity, which are used to receive live data from your browser. The plugins also include convenient presets that you can easily use with popular 3D avatars, such as Metahumans and ReadyPlayerMe characters. \\n\n\n- Streaming Data: Browser to Browser & Browser to OSC App \\n\n\nPhiz uses WebRTC (the protocol used in video calling) to send data from one browser to another or from a browser to the app. However, no image or video is sent at all. WebRTC also allows for peer-to-peer secure connection and low latency. \\n\n\n- ARKit Support \\n\n\nPhiz uses the same blendshapes as ARKit. Check out the Blendshapes page for more information about the blendshape names and orders.",
       "Link to your personal portfolio": "https://jameslee.ninja/",
       "Project link": "https://phizmocap.dev",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "unity, unreal, mocap, virtual production, webrtc, websocket, avatar, metahuman, face-tracking",
-      Twitter: "no",
+      Twitter: "",
       Linkedin: "",
       Instagram: "spooky_corgi_art/",
       "Link to any video content (Vimeo / YouTube)":
@@ -1984,7 +1986,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://readymag.com/u1391225122/jw-portfolio/?fbclid=PAAaYZaHNZM1gnIJDHyj6EIXMvGmQ2LgZxSQA5kxYpCnUKYohfnqWcbvGetZM",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -2013,9 +2015,9 @@ let projectCollection = {
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "tech after tech showcases the innovative ideas and projects that emerge from the cross-pollination of the fields of tech, art + design, it exists in 2 parts: conversations — in-depth chats with a diverse range of thought leaders, creators, and designers who are pushing the boundaries of what’s possible in their respective industries. And explorations: Valuable information, resources, & references helping users to navigate the rapidly changing world of emerging tech, art, & design. Each podcast guest will have their own episode section on the platform, where their work(s), favourite quotes, books, photos, and/or references for further discourse, will be displayed visually.",
+        "tech after tech explores the impact of digital spaces on our ability to remember and preserve cultural memory, focusing explicitly on racial bias in AI systems, while proposing what this act of preservation and reflection – at a deeply personal level – could look like in the future. The project is an online space that exists at the crossroads of racial bias and artificial intelligence. It works to investigate the impact of existing biases on the shared cultural memory of people of color and proposes solutions for building fairer AI systems. Through research and analysis, it contributes towards ongoing efforts of creating more inclusive and ethical technology for all. The space exists in two parts: (1) Explorations – valuable information, resources, and references helping people to navigate the rapidly accelerating world of AI through lenses of Critical Race Theory and Intersectionality, and (2) The Framework – a five-part framework combining research, empathy, and speculative design to mitigate racial bias and create more equitable AI systems moving forward.",
       "Long Description of your work (4-6 sentences).":
-        "tech after tech showcases the innovative ideas and projects that emerge from the cross-pollination of the fields of tech, art + design, it exists in 2 parts: conversations — in-depth chats with a diverse range of thought leaders, creators, and designers who are pushing the boundaries of what’s possible in their respective industries. And explorations: Valuable information, resources, & references helping users to navigate the rapidly changing world of emerging tech, art, & design. Each podcast guest will have their own episode section on the platform, where their work(s), favourite quotes, books, photos, and/or references for further discourse, will be displayed visually.",
+        "tech after tech explores the impact of digital spaces on our ability to remember and preserve cultural memory, focusing explicitly on racial bias in AI systems, while proposing what this act of preservation and reflection – at a deeply personal level – could look like in the future. The project is an online space that exists at the crossroads of racial bias and artificial intelligence. It works to investigate the impact of existing biases on the shared cultural memory of people of color and proposes solutions for building fairer AI systems. Through research and analysis, it contributes towards ongoing efforts of creating more inclusive and ethical technology for all. The space exists in two parts: (1) Explorations – valuable information, resources, and references helping people to navigate the rapidly accelerating world of AI through lenses of Critical Race Theory and Intersectionality, and (2) The Framework – a five-part framework combining research, empathy, and speculative design to mitigate racial bias and create more equitable AI systems moving forward.",
       "Link to your personal portfolio": "janelleroz.com",
       "Project link": "techafter.tech",
       "Main Image": "main.jpg",
@@ -2089,7 +2091,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.jdenkim.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -2124,7 +2126,7 @@ let projectCollection = {
         "My project is a documentary photography series and a supplementary video exploring the relationship between human activity and the natural environment in New York City. Inspired by my own observations and research on the topic, I aim to draw attention to the impact of human waste and garbage on the city's flora and fauna, as well as the interdependence between nature and architecture. Through the use of portraiture and landscape photography, I highlight the diversity and beauty of New York City's ecosystems, while also bringing attention to the overlooked weeds and grass that persist despite human impact. The installation, which includes four parts of photography and one video, aims to provide an immersive experience for viewers, inviting them to contemplate their own relationship with the natural world. This project is for anyone who is interested in the intersection of art, nature, and photography, and seeks to encourage reflection and action towards a more sustainable future.",
       "Link to your personal portfolio": "https://www.jingxiaoportfolio.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Nature, Environment, Urban Ecology, Human Waste, Photography, Documentary, Art Installation, Video, Immersive Experience",
@@ -2485,10 +2487,10 @@ let projectCollection = {
       "Supplementary Images": "1.jpg",
       "Thematic Keywords":
         "Web Design, UX/UI Design, Brand Design, Brand Identity",
-      Twitter: "N/A",
+      Twitter: "",
       Linkedin: "",
       Instagram: "khinsquared.designs/",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
       "Profile photo.\nRatio 1:1 (square)":
@@ -2590,7 +2592,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.kristinehyang.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "participatory research and design, graphic design, community owned design & infrastructure",
@@ -2758,7 +2760,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "n/a",
       "Project link": "none yet",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -2796,10 +2798,10 @@ let projectCollection = {
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "Systems Design, Project Management",
-      Twitter: "NA",
+      Twitter: "",
       Linkedin: "",
       Instagram: "m.art.om/?hl=en",
-      "Link to any video content (Vimeo / YouTube)": "NA",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "NA",
       "Profile photo.\nRatio 1:1 (square)":
@@ -2937,7 +2939,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://wp.nyu.edu/tandonschoolofengineering-spspringmaxsun/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -3004,9 +3006,9 @@ let projectCollection = {
         "Installation Art",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        'Ghosts" is an interactive art installation on AAPI misrepresentation and erasure in Western media.',
+        "Ghosts' is an interactive art installation on AAPI misrepresentation and erasure in Western media.",
       "Long Description of your work (4-6 sentences).":
-        'Ghosts" is an interactive art installation on AAPI misrepresentation and erasure in Western media. Participants sit in a dark room and view 50 racist clips in a 21 minute montage projected over my family photos. The deliberate marriage of video and physical elements depicts the pervasive yet intimate touch of AAPI racism.',
+        "Ghosts' is an interactive art installation on AAPI misrepresentation and erasure in Western media. Participants sit in a dark room and view 50 racist clips in a 21 minute montage projected over my family photos. The deliberate marriage of video and physical elements depicts the pervasive yet intimate touch of AAPI racism.",
       "Link to your personal portfolio": "https://www.michelleyong.design/work",
       "Project link": "https://www.michelleyong.design/thesis",
       "Main Image": "main.jpg",
@@ -3016,7 +3018,7 @@ let projectCollection = {
       Linkedin: "",
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)":
-        "Full Montage: https://www.youtube.com/watch?v=CvN87-qppiY",
+        "https://www.youtube.com/watch?v=CvN87-qppiY",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "tbd",
       "Profile photo.\nRatio 1:1 (square)":
@@ -3084,7 +3086,7 @@ let projectCollection = {
         'This project for Chinese American seniors to have more organic food from sustainable sources in their daily lives. Our project has four parts: home gardening, workshops about organic and sustainable produce, building a local community for sharing home-grown vegetables and fruits, and a shopping buddy program. By teaching seniors about gardening, giving workshops on organic and sustainable produce, making a strong community, and helping them shop with a buddy, we want to make the lives of Chinese American seniors healthier and more eco-friendly. "Growing Together" aims to connect people and make the community care more about sustainable living.',
       "Link to your personal portfolio": "https://www.mingjingdesign.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Sustainability, grocery shopping, Chinese American, Elderly, Systemic Design",
@@ -3156,7 +3158,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://pdfhost.io/v/YDfWVMxRe_Nadia_Heikals_Portfolio",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Chat GPT, Photoshop, Self-Portraits, Cultural norms, Storytelling, socio-economic, cultural dynamics, magazine, graphic design",
@@ -3302,7 +3304,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://ninithan.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "screen-based interactive experience, therapeutic space, mental imagery and emotion states, strengthening therapeutic alliance",
@@ -3340,7 +3342,7 @@ let projectCollection = {
         "Inspired in part by the movie Parasite and the real-life events in Korea that followed, Banjiha aims to create an experience that informs and leaves an impact. It's a short, five-minute virtual reality experience aimed at 3D and virtual reality enthusiasts, using Unreal Engine 5 and the Oculus Quest 2. The showcase exhibit will include promotional materials, videos, and a short demo.",
       "Link to your personal portfolio": "https://njk99.com/",
       "Project link": "https://njk99.com/banjiha",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "3D, VFX, immersive experience, virtual reality",
       Twitter: "",
@@ -3453,10 +3455,10 @@ let projectCollection = {
       "Supplementary Images": "1.jpg",
       "Thematic Keywords":
         "Sustainable design, female gaze, installation art, art direction, digital collage, projection mapping",
-      Twitter: "N/A",
+      Twitter: "",
       Linkedin: "",
       Instagram: "melladramatix/",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "6' x 3' x 1'",
       "Profile photo.\nRatio 1:1 (square)":
@@ -3560,7 +3562,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "www.rachzl.com",
       "Project link": "https://www.rachzl.com/grad-thesis",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "AI, Human-AI Collaboration, Unreal Engine, Stable Diffusion, Midjourney, AI film",
@@ -3596,7 +3598,7 @@ let projectCollection = {
         "My Senior Project is about analyzing media, branding, and American consumer culture to gain insights into how companies use persuasive techniques to manipulate consumers into buying their products. With these understandings, I plan to develop a brand campaign for a new beverage company that is both effective and ethical in its use of persuasive tactics.",
       "Link to your personal portfolio": "https://www.racheljosepho.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -3627,9 +3629,9 @@ let projectCollection = {
         'Welcome to Portals of Perception, an awe-inspiring virtual reality project that offers a unique journey into the nature of reality. Through a series of captivating and immersive experiences, users will explore different perceptions of reality that will challenge their beliefs and broaden their perspectives. This transformative experience aims to stimulate the mind and spark curiosity, encouraging users to question their own relationship with the world and its systems. With each experience open to interpretation, the project invites users to delve into the depths of their own existence, contemplate the meaning of life, and challenge their understanding of what is considered "real.',
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "renzrenderz.com",
-      "Project link": "",
-      "Main Image": "",
-      "Supplementary Images": "1.jpg",
+      "Project link": "renzrenderz.com/pop",
+      "Main Image": "main.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg",
       "Thematic Keywords":
         "virtual reality, reality , nature of reality, simulation theory, unreal engine",
       Twitter: "renzrenderz",
@@ -3883,7 +3885,7 @@ let projectCollection = {
       Linkedin: "",
       Instagram: "saraah.ajt/",
       "Link to any video content (Vimeo / YouTube)":
-        "https://vimeo.com/user115046857",
+        "https://sarahtahir.itch.io/noura",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/A",
       "Profile photo.\nRatio 1:1 (square)":
@@ -3995,7 +3997,7 @@ let projectCollection = {
         "RFID, Mobile App, UX Design, UI Design, Learning Tool, INteraction design, stories",
       Twitter: "",
       Linkedin: "",
-      Instagram: "www.@Ablackdesignerofficial",
+      Instagram: "Ablackdesignerofficial",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "N/a",
@@ -4061,7 +4063,7 @@ let projectCollection = {
       "Link to your personal portfolio":
         "https://www.notion.so/sophieye/ca7c62edae594379ad5820e05385ed5a?pvs=4",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -4091,10 +4093,11 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Visual art is not accessible to people with visual impairments and people with intellectual disabilities since the whole concept of the experience relies on someone’s vision and understanding, which varies from person to person.  This human centered research is an attempt to make art accessible for anyone with a vision impairment or an intellectual disability through Accessible Visual Descriptions. The outcome of this research may be a set of questions, a guideline, a handbook, a framework, or a ruleset that would serve as a system to assist artists in creating accessible visual descriptions of their art",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).":
+        "Art is a form of expression. The journey of experiencing visual art in art showcases and galleries is unique to everyone because people may have different interpretations of the same piece of art and may feel different emotions. But it is observed that visual art is not accessible to everyone, especially to People with Vision Impairments and People with Intellectual Disabilities because of the complex nature of art and the lack of proper descriptions describing the content of a piece of art. The goal of this participatory project is to propose a framework using which art show organizers can collaborate with artists with intellectual disabilities to create Visual Descriptions for art shows. This would enable the artists to be directly involved in making art shows more accessible and as a result help people with disabilities have more meaningful art experiences.",
       "Link to your personal portfolio": "www.spanditasarmah.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -4234,7 +4237,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://tanvi.network",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "chronictanvi",
@@ -4268,7 +4271,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "tba",
       "Link to your personal portfolio": "https://jennyzwithinzebra.com/",
       "Project link": "tba",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "ux design, ux research, online education, graphic design",
@@ -4379,7 +4382,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://github.com/tywenrick3",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-tywenrickseniorproject/",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "Ethical AI, AI TOOLS, SAFE AGI DEVELOPMENT, increasing human capabilities, natural language, software, cognition, LLM,",
@@ -4421,10 +4424,10 @@ let projectCollection = {
       "Supplementary Images": "1.jpg",
       "Thematic Keywords":
         "Postpartum depression, social support, mental health, depression, human-centred design, human-centred research, culture, connection, user experience research, design recommendations, misogynoir, Strong Black woman schema, health inequity, maternal health desserts, technology-based intervention, stigma",
-      Twitter: "N/A",
+      Twitter: "",
       Linkedin: "",
-      Instagram: "N/A",
-      "Link to any video content (Vimeo / YouTube)": "N/A",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "Main Lobby [5 wooden boards]",
       "Profile photo.\nRatio 1:1 (square)":
@@ -4455,7 +4458,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.vasukuram.com",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -4527,13 +4530,13 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "I dont currently have one",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
-      Twitter: "Na",
+      Twitter: "",
       Linkedin: "",
-      Instagram: "Na",
-      "Link to any video content (Vimeo / YouTube)": "Na",
+      Instagram: "",
+      "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "Na",
       "Profile photo.\nRatio 1:1 (square)": "",
@@ -4561,7 +4564,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.vidurbahl.work",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "Photography, Reflection, Immersive",
       Twitter: "",
@@ -4703,7 +4706,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.yenyihuang.com/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -4838,7 +4841,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.liyixun.design/",
       "Project link": "",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",
@@ -4907,7 +4910,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "https://www.yulan-design.com/",
       "Project link": "https://www.yulan-design.com/mobility-nyc",
-      "Main Image": "",
+      "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
       Twitter: "",

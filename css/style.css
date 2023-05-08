@@ -259,7 +259,7 @@ nav>p:first-child {
 
 
 
-  @media (max-width: 300px) {
+  @media (min-width: 640px ) and (max-width: 1024px) {
     .projectPreviewLink  {
       flex-basis: 75%;
     }
@@ -267,7 +267,7 @@ nav>p:first-child {
 
   }
   
-  @media (max-width: 400px) {
+  @media (max-width: 640px) {
     .projectPreviewLink {
       flex-basis: 100%;
 
@@ -474,7 +474,7 @@ canvas {
 footer {
   display: block;
   grid-area: footer;
-  margin: 5em;
+  margin-block: 5em;
   padding: 3em;
   text-align: center;
 }
