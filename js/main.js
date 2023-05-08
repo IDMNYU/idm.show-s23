@@ -483,7 +483,7 @@ function produceItemContent(projectJSON) {
     hasExternalLinks = true;
     let instagramLink = document.createElement("a");
     instagramLink.href =
-      "https://www.instagram.com/" + projectJSON[sInstagramKey] + "/";
+      "https://www.instagram.com/" + projectJSON[sInstagramKey];
     instagramLink.target = "_blank";
     instagramLink.textContent = "Instagram";
     externalLinkCollection.appendChild(instagramLink);
