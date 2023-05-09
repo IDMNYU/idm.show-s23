@@ -48,7 +48,7 @@ let projectCollection = {
         'Step into the magical world of Kazakh culture with "The Steppe Tales" by Ainur Kalimoldayeva. This beautifully written speculative fiction book is a captivating coming-of-age tale that takes readers on a journey through the vast steppes of Kazakhstan. Through the eyes of a young boy and an old man, readers will be enchanted by the rich history and traditions of the Kazakh people.  As the main characters traverse through the Kazakh landscape, they encounter various evil creatures and allies, introducing young readers to Kazakh heroes and heroines, their nomadic lifestyle, values, and folklore. The book addresses social and cultural issues in an entertaining and informative way, fostering cultural understanding and appreciation.',
       "Long Description of your work (4-6 sentences).":
         'Step into the magical world of Kazakh culture with "The Steppe Tales" by Ainur Kalimoldayeva. This beautifully written speculative fiction book is a captivating coming-of-age tale that takes readers on a journey through the vast steppes of Kazakhstan. Through the eyes of a young boy and an old man, readers will be enchanted by the rich history and traditions of the Kazakh people.\n\nAs the main characters traverse through the Kazakh landscape, they encounter various evil creatures and allies, introducing young readers to Kazakh heroes and heroines, their nomadic lifestyle, values, and folklore. The book addresses social and cultural issues in an entertaining and informative way, fostering cultural understanding and appreciation.\n\n"The Steppe Tales" is not only a children\'s book, but also a powerful exploration of social and cultural issues. The book seamlessly weaves together elements of myths and speculative fiction, creating a unique and captivating world that will engage readers of all ages. With vivid descriptions and engaging stories, this book is a must-read for anyone who loves great storytelling and wants to explore the beauty of Kazakh culture and traditional Kazakh art forms.',
-      "Link to your personal portfolio": "www.ainuradil.com",
+      "Link to your personal portfolio": "http://www.ainuradil.com",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-ainur/2023/03/11/childrens-book/",
       "Main Image": "main.jpg",
@@ -84,7 +84,7 @@ let projectCollection = {
         "I'm investigating the syntax of storytelling and VR filmmaking by developing a trailer for a VR film script that I hope to turn into a short-length movie in the future. The trailer is a 3-minute sequence of 360-degree immersive experiences with a compelling story, dynamic visuals, and audioscape. It follows the narrative of an astronaut stranded on a dangerous exoplanet who, with only 7 percent oxygen, must find a way to return home. My work is part of a larger movement of filmmakers who are exploring how to tell stories in 360 VR. It is an exciting new approach to filmmaking that allows viewers to literally be immersed in a story while exploring the complexities of the characters. By using this new medium, I hope to give viewers a more intimate and immersive experience with storytelling.",
       "Long Description of your work (4-6 sentences).":
         "While VR appears to be the ideal medium for gaming, filmmakers are beginning to investigate it as a new medium for telling stories. However, the grammar of VR storytelling needs to be developed because the traditional grammar of filmmaking is not entirely applicable to VR. I'll be writing the script, creating the storyboards, and producing a story-reel for the virtual reality short. After that, I'll begin making 3D assets like character models using Blender, outsource 3D models for environments, and finally combine all the assets in Unreal Engine. For character movements and sound, I'll be using motion capture and spatial audio.\n\nStory Inspiration - \nI’ve made innumerable leaps of faith in my life. Be it missing my flight at the last-minute to propose to my wife or quitting engineering to further pursue filmmaking.The most outlandish leap of faith occurred while staying in a treehouse. It was one of those wild forest trips for a week, along with some friends. The only way up or down was a wooden ladder. Warning! Never go over-boozing when sitting on a tree; otherwise, your crazy friend will kick the ladder to the ground. Initially, we all took it lightly, but slowly, it dawned upon us that we had no way to get back to the ground. Thinking “this is not how we die”, we put our heads together, and fairy-tales came to our rescue. Remember rapunzel? We made a rope of clothes and shoelaces to descend. Taking a deep breath, we jumped. Miraculously, the laces held! We were alive and intact. This experience showed me that you can overcome even the most challenging situations by being persistent and determined. I felt compelled to convey this message through my next short film.",
-      "Link to your personal portfolio": "www.ajinkyahukerikar.com",
+      "Link to your personal portfolio": "http://www.ajinkyahukerikar.com",
       "Project link":
         "https://ajinkyahukerikar.com/?portfolio-item=lucky-armstrong",
       "Main Image": "main.jpg",
@@ -235,7 +235,7 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)":
         "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
       "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "alexisdenisew.com",
+      "Link to your personal portfolio": "http://alexisdenisew.com",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "1.jpg",
@@ -346,7 +346,7 @@ let projectCollection = {
         "Something’s Coming is an interactive virtual reality art game, built for the Oculus Quest 2. It is meant to be a satirical commentary on toxic workplace culture, and explores the absurdity of having to go to work during “unprecedented times”. The player, is placed into a virtual 3D office environment, and has to complete simple office tasks and talk to NPCs, as a large timer ticks down in the background, counting down to a mysterious ending.",
       "Long Description of your work (4-6 sentences).":
         "I was inspired to create this project after having to apply for a new job, and realized what an absolute nightmare that is. There is sort of a dark and existentialist humor in realizing the fact that we still have to work while the world is ending outside, and will continue to have to do so until we are physically unable to. I built the project in Unity, and hope to convey some kind of message that we should all try our best to care about injustices in the world that do not affect us directly, because one day they will.",
-      "Link to your personal portfolio": "anastasiadgreen.com/",
+      "Link to your personal portfolio": "http://anastasiadgreen.com/",
       "Project link": "https://www.anastasiadgreen.com/somethingscoming",
       "Main Image": "main.jpg",
       "Supplementary Images": "1.jpg",
@@ -385,7 +385,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "As a Game Designer, I've always liked to experiment with unusual game mechanics, and challenging the medium I create games in. For the thesis, I looked to VR and decided to create a game that did not have any visuals. Could VR still be immersive, when all players will see is darkness? Neela is for gamers who want to experience a unique game in VR.",
       "Link to your personal portfolio": "https://www.accessednull.com/",
-      "Project link": "TBD",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "virtual-reality, spatial audio, narrative game",
@@ -664,7 +664,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Introducing the cities of Henna... an original fantasy world that exists between this one (Earth) and the next. See You In Henna is a series of travel posters that invites its audience to take a step into the make-believe and visit a world unknown. As the series takes you from one end of the world to the other, you'll learn of the major locations within Henna's diverse landscape as well as the unique creatures that inhabit them. Through visual storytelling and worldbuilding, I offer a small window into a larger, written story, and an original concept that is dear to my heart.",
       "Link to your personal portfolio": "https://ashlibyfield.my.canva.site/",
-      "Project link": "n/a",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
@@ -1220,7 +1220,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Edward Hopper, one of the most influential New York painters in American history, methodically explored the theme of the private vs. public throughout his works. Most notably through his depiction of windows throughout his work, Hopper was inspired and drawn to the vulnerability of private moments that are guarded by windows from the chaos and metropolis on the other side. His persistent use of windows as a symbol to highlight the ironic fragility and strength that enable the separation of the private and public inspired me to explore this theme further and apply it in a more contemporary context. With an inherent passion for glamorous aesthetics and narrative storylines from inspirations like Alex Prager and Nadia Lee Cohen, my work utilizes vibrantly muted color palettes inspired by the aesthetics of Francis Bacon. Furthermore, my work evokes a sense of supernatural reality which hints to works of Gregory Crewdson. These inspirations aggregate to form my own style of what I call portraying glamourized dystopia.\n\tFor this project, my aim is to create a photograph book with images that explore the theme of the private vs. public. With an emphasis on fashion aesthetics, the book will aggregate 15-20 shoots under this theme. The book will highlight portraits, products, fashion, and culture.",
       "Link to your personal portfolio": "instagram.com/cyentific",
-      "Project link": "n/aa",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "Glamour, Profundity, and Juxtaposition",
@@ -1401,7 +1401,7 @@ let projectCollection = {
         "Installation Art",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        "Will ideally need one of the rooms on level 2. I have a large mural painted on fabric and a projection mapping light/sound show that goes on top of it. The larger context is  about the content creation vs art and whether or not we've lost the balance.",
+        "I have a large mural painted on fabric and a projection mapping light/sound show that goes on top of it. The larger context is  about the content creation vs art and whether or not we've lost the balance.",
       "Long Description of your work (4-6 sentences).": "-",
       "Link to your personal portfolio": "https://www.edenmili.art",
       "Project link": "https://www.edenmili.art",
@@ -1439,7 +1439,7 @@ let projectCollection = {
         "This series of tapes are my way of using experimental short documentaries to work through inner battles and problems that arose in my time at NYU. I hope by at least posing the questions I have in my head I can relieve me and the relating audience of the burdens of them.",
       "Long Description of your work (4-6 sentences).":
         "I made these reflexive short documentaries to manifest some of the internal battles I have into an art project that can guide me through the self-perpetuating questions that both immigrants, Middle Eastern diaspora and almost every 20-something- year-olds faces in a transitional period in their life.",
-      "Link to your personal portfolio": "www.eftalyababa.com",
+      "Link to your personal portfolio": "http://www.eftalyababa.com",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -1799,7 +1799,7 @@ let projectCollection = {
         "Spirit Dive is a visual film that depicts how desert roses changed in the history from changing geographic, technological and agricultural conditions, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D art on the theme of future nature and botanical art.",
       "Long Description of your work (4-6 sentences).":
         "Incorporating 3D motion digital art and virtual production, the thesis project is a visual film about finding the desert rose god and the faded identity of the artist, combines art-based explorations in organic, raw aesthetics with foreign graphic forms through a futuristic design lens, and provides a reference for the industry of 3D works on the theme of future nature art. The desert rose holds a significant place in the artist's heart, as childhood experiences and memories inspired the exploration of this exotic flower in the project. Having grown up with a father who cultivated a little garden of desert roses, the artist found that the plant's appearance varied based on the cultural preferences of different regions. The experience of seeing the desert roses in their natural habitat on the Socotra Islands deeply impacted the filmmaker, evoking memories of wildness and imagination from childhood that had faded with age. This inspired the artist to create a visual film of him finding the desert roses in his imagination and multiple dreams.",
-      "Link to your personal portfolio": "www.hugowu.xyz",
+      "Link to your personal portfolio": "http://www.hugowu.xyz",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -3955,7 +3955,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Change starts with conversations. Web3 Wonders is for anyone curious about Web3 and who’s looking to discuss technological change beyond the media’s focus on buzzwords and digital trends. It is built with women in order to encourage more gender representation in a space that is largely male-dominated and to break barriers that prevent women from entering these spaces. Web3 Wonders is a board game to encourage group learning, critical thinking, and meaningful conversations about the larger societal and political implications of this new evolution of the internet. While most Web3 education platforms focus on online learning, this experience is about using tangible elements and social interaction to understand complex topics. The game mechanisms encourage enjoyable gameplay, while social learning can increase memory and retention.",
       "Link to your personal portfolio": "https://www.sigridlohre.com/",
-      "Project link": "Www.web3-wonders.com",
+      "Project link": "http://www.web3-wonders.com",
       "Main Image": "main.jpg",
       "Supplementary Images": "1.jpg",
       "Thematic Keywords":
@@ -3991,9 +3991,9 @@ let projectCollection = {
         "A mobile application that is designed to train student workers on an alternative method of calling university police officers during emergency situations.",
       "Long Description of your work (4-6 sentences).":
         "Every year countless BIPOC university students are arrested and go through extensive legal processes thanks to university police officers regardless of if they are innocent or guilty for what they were arrested for. The cause of this problem is rooted in how university staff are trained to call university police departments in the event of any emergency while university police departments are trained to detain and prevent escalation of all situations. This project is a training simulation to not only help students and teachers know the best time to call the police, but also give them a way to contact not only campus police but several other university entities that can help diffuse a situation. \n\nThis idea comes from the concept that sometimes the bias of the employee and/or university police may influence the process of arresting a student. By using RFID technology, we can contact several university entities in a much faster way then the typical method of call the police.",
-      "Link to your personal portfolio": "www.solababatunde.com",
+      "Link to your personal portfolio": "http://www.solababatunde.com",
       "Project link":
-        "www.solababatunde.com/featured-works/education-peace-officers",
+        "http://www.solababatunde.com/featured-works/education-peace-officers",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
@@ -4276,7 +4276,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Familiarise.x is an educational resource website for Chinese parents to learn and plan age-appropriate sex education activities at home. The website can provide Chinese households with knowledge so that children can develop safe and positive views about their sexual health throughout different development stages. This project is significant because it could be an efficient way to take culture and individual values into account and at the same time provide detailed guidelines for parents to overcome hesitation.Viewers will see a demo of how parents would use the website to find resources and effective ways to bring up topics like body parts, healthy relationships, consent, gender, puberty, etc.",
       "Link to your personal portfolio": "https://jennyzwithinzebra.com/",
-      "Project link": "tba",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
@@ -4313,7 +4313,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "Innovation is crucial, from any organization’s success to the survival and advancement of human civilization. However, for innovation to be groundbreaking, it must be unpredictable and the source of inspiration not obvious. As opposed to a more incremental model of innovation, this thesis focuses on drawing unexpected connections between unrelated ideas for  “recombinant” or “intersectional” innovation. It catalyzes groundbreaking ideation though metaverse-based remote collaboration and a workshop involving exercises helping the innovators understand the roots of the problem, exercise abstract ideation, and a database to help the innovators explore applicable solutions that may be hidden within other contexts.  After all, the problem has likely already been solved. All we must help innovators do is find it.",
       "Link to your personal portfolio": "https://www.theresamerchant.com/",
-      "Project link": "will be provided later",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
