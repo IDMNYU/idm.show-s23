@@ -12,7 +12,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
-      "Long Description of your work (4-6 sentences).": "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
+      "Long Description of your work (4-6 sentences).":
+        "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
       "Link to your personal portfolio": "https://www.aakrutilunia.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -234,7 +235,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
-      "Long Description of your work (4-6 sentences).": "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
+      "Long Description of your work (4-6 sentences).":
+        "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
       "Link to your personal portfolio": "http://alexisdenisew.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -559,7 +561,8 @@ let projectCollection = {
         "User experience design, App",
       "Short project description (one sentence - 500 characters)":
         "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
-      "Long Description of your work (4-6 sentences).": "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
+      "Long Description of your work (4-6 sentences).":
+        "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
       "Link to your personal portfolio": "https://chen-ao.com/nutrition",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -626,7 +629,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
-      "Long Description of your work (4-6 sentences).": "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
+      "Long Description of your work (4-6 sentences).":
+        "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
       "Link to your personal portfolio": "https://arwaalsaati.com/",
       "Project link": "https://arwaalsaati.com/Thesis-Project",
       "Main Image": "main.jpg",
@@ -705,7 +709,7 @@ let projectCollection = {
       "Link to your personal portfolio": "http://www.athenahosek.com/",
       "Project link": "http://www.athenahosek.com/projects/magic-melodyland",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg",
+      "Supplementary Images": "",
       "Thematic Keywords":
         "virtual reality, extended reality, music, education, composition, game",
       Twitter: "",
@@ -960,7 +964,8 @@ let projectCollection = {
         "application",
       "Short project description (one sentence - 500 characters)":
         "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
-      "Long Description of your work (4-6 sentences).": "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
+      "Long Description of your work (4-6 sentences).":
+        "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
       "Link to your personal portfolio": "https://chebcheb.co/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -1547,7 +1552,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
-      "Long Description of your work (4-6 sentences).": "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
+      "Long Description of your work (4-6 sentences).":
+        "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
       "Link to your personal portfolio":
         "https://enochjo0623.wixsite.com/my-site-2",
       "Project link":
@@ -1731,7 +1737,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
-      "Long Description of your work (4-6 sentences).": "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
+      "Long Description of your work (4-6 sentences).":
+        "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
       "Link to your personal portfolio": "https://himabijulal.net/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -1985,7 +1992,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
-      "Long Description of your work (4-6 sentences).": "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
+      "Long Description of your work (4-6 sentences).":
+        "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
       "Link to your personal portfolio":
         "https://readymag.com/u1391225122/jw-portfolio/?fbclid=PAAaYZaHNZM1gnIJDHyj6EIXMvGmQ2LgZxSQA5kxYpCnUKYohfnqWcbvGetZM",
       "Project link": "",
@@ -2091,7 +2099,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
-      "Long Description of your work (4-6 sentences).": "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
+      "Long Description of your work (4-6 sentences).":
+        "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
       "Link to your personal portfolio": "https://www.jdenkim.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2273,7 +2282,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
-      "Long Description of your work (4-6 sentences).": "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
+      "Long Description of your work (4-6 sentences).":
+        "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
       "Link to your personal portfolio": "https://juliak.im",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2412,7 +2422,8 @@ let projectCollection = {
         "Audio Podcast",
       "Short project description (one sentence - 500 characters)":
         "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
-      "Long Description of your work (4-6 sentences).": "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
+      "Long Description of your work (4-6 sentences).":
+        "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
       "Link to your personal portfolio":
         "https://www.linkedin.com/in/katrina-morgan",
       "Project link": "",
@@ -2701,7 +2712,8 @@ let projectCollection = {
         "both a website & a quilt but really just need a table to display  the quilt and  I can use my website for the website",
       "Short project description (one sentence - 500 characters)":
         "The makerspace apprenticeship program and quilt artifact were born out of a desire to create a more inclusive and equitable space for young women in engineering. By documenting and sharing the process of implementing the makerspace apprenticeship program, I hope to inspire other educators and makers to implement similar programs in their communities. The apprenticeship program and quilt project showcase the power of peer-to-peer learning, community building, and creative problem-solving. Overall, my work seeks to challenge stereotypes and break down barriers, emphasizing the importance of inclusive education in STEM fields.",
-      "Long Description of your work (4-6 sentences).": "The makerspace apprenticeship program and quilt artifact were born out of a desire to create a more inclusive and equitable space for young women in engineering. By documenting and sharing the process of implementing the makerspace apprenticeship program, I hope to inspire other educators and makers to implement similar programs in their communities. The apprenticeship program and quilt project showcase the power of peer-to-peer learning, community building, and creative problem-solving. Overall, my work seeks to challenge stereotypes and break down barriers, emphasizing the importance of inclusive education in STEM fields.",
+      "Long Description of your work (4-6 sentences).":
+        "The makerspace apprenticeship program and quilt artifact were born out of a desire to create a more inclusive and equitable space for young women in engineering. By documenting and sharing the process of implementing the makerspace apprenticeship program, I hope to inspire other educators and makers to implement similar programs in their communities. The apprenticeship program and quilt project showcase the power of peer-to-peer learning, community building, and creative problem-solving. Overall, my work seeks to challenge stereotypes and break down barriers, emphasizing the importance of inclusive education in STEM fields.",
       "Link to your personal portfolio": "",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2734,7 +2746,8 @@ let projectCollection = {
         "Will need a small desk space for a couple of objects (coins)",
       "Short project description (one sentence - 500 characters)":
         "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
-      "Long Description of your work (4-6 sentences).": "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
+      "Long Description of your work (4-6 sentences).":
+        "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
       "Link to your personal portfolio": "https://liamtsang.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2766,7 +2779,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
       "Short project description (one sentence - 500 characters)": "",
-      "Long Description of your work (4-6 sentences).": "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
+      "Long Description of your work (4-6 sentences).":
+        "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
       "Link to your personal portfolio": "",
       "Project link": "none yet",
       "Main Image": "main.jpg",
@@ -3238,7 +3252,8 @@ let projectCollection = {
         "The project will be a laser Engraved Wood Cutting Boards in the size of 12'x12'",
       "Short project description (one sentence - 500 characters)":
         "This thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
-      "Long Description of your work (4-6 sentences).": "This thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
+      "Long Description of your work (4-6 sentences).":
+        "This thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
       "Link to your personal portfolio": "https://www.knchan.me/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -3279,7 +3294,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://natalyabrill.com",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
       "Thematic Keywords":
         "flooding, data viz, open data, resilience, participatory research and design, RISO, physical, visual, data context",
       Twitter: "",
@@ -3313,7 +3328,8 @@ let projectCollection = {
         "Screen-based Interactive experience",
       "Short project description (one sentence - 500 characters)":
         "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
-      "Long Description of your work (4-6 sentences).": "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
+      "Long Description of your work (4-6 sentences).":
+        "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
       "Link to your personal portfolio": "https://ninithan.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -3571,7 +3587,8 @@ let projectCollection = {
         "3 Video display and some physical installation elements",
       "Short project description (one sentence - 500 characters)":
         "This thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
-      "Long Description of your work (4-6 sentences).": "This thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
+      "Long Description of your work (4-6 sentences).":
+        "This thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
       "Link to your personal portfolio": "https://www.rachzl.com",
       "Project link": "https://www.rachzl.com/grad-thesis",
       "Main Image": "main.jpg",
@@ -3786,7 +3803,7 @@ let projectCollection = {
       "Link to your personal portfolio": "https://www.behance.net/ruiyangdai",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
       "Thematic Keywords": "",
       Twitter: "",
       Linkedin: "",
@@ -4072,7 +4089,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
-      "Long Description of your work (4-6 sentences).": "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
+      "Long Description of your work (4-6 sentences).":
+        "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
       "Link to your personal portfolio":
         "https://www.notion.so/sophieye/ca7c62edae594379ad5820e05385ed5a?pvs=4",
       "Project link": "",
@@ -4394,7 +4412,8 @@ let projectCollection = {
         "I will have built some applied examples using LLMs, have a website with a more functional tool and my process site containing my research, writing and documentation.",
       "Short project description (one sentence - 500 characters)":
         "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
-      "Long Description of your work (4-6 sentences).": "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
+      "Long Description of your work (4-6 sentences).":
+        "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
       "Link to your personal portfolio": "https://github.com/tywenrick3",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-tywenrickseniorproject/",
@@ -4471,11 +4490,12 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
-      "Long Description of your work (4-6 sentences).": "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
+      "Long Description of your work (4-6 sentences).":
+        "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
       "Link to your personal portfolio": "https://www.vasukuram.com",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg,3.jpg,4.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg, 3.jpg, 4.jpg",
       "Thematic Keywords": "",
       Twitter: "",
       Linkedin: "",
@@ -4579,7 +4599,8 @@ let projectCollection = {
         "I will be presenting a phonebook with a monitor as well as a small table mirror for my senior project.",
       "Short project description (one sentence - 500 characters)":
         "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
-      "Long Description of your work (4-6 sentences).": "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
+      "Long Description of your work (4-6 sentences).":
+        "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
       "Link to your personal portfolio": "https://www.vidurbahl.work",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4757,7 +4778,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "A zine",
       "Short project description (one sentence - 500 characters)":
         "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
-      "Long Description of your work (4-6 sentences).": "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
+      "Long Description of your work (4-6 sentences).":
+        "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
       "Link to your personal portfolio": "https://www.aliceyachen.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4789,8 +4811,9 @@ let projectCollection = {
         "Installation Art",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        'Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
-      "Long Description of your work (4-6 sentences).": 'Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
+        "Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)",
+      "Long Description of your work (4-6 sentences).":
+        "Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)",
       "Link to your personal portfolio": "https://yezixu29.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4859,7 +4882,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
-      "Long Description of your work (4-6 sentences).": "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
+      "Long Description of your work (4-6 sentences).":
+        "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
       "Link to your personal portfolio": "https://www.liyixun.design/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4893,11 +4917,12 @@ let projectCollection = {
         "If possible, I would like to have a space with three walls, and I would like to do a project on that wall.",
       "Short project description (one sentence - 500 characters)":
         "The research aimed to explore unique aesthetics through the use of human motion as indeterministic elements within a complex system, the world. According to the distinguished researchers, they all highlighted the importance of human motion of interacting with others as humans constructed social systems while being together, and I wanted to visually depict the transition created by the system that are formed through human interaction in a virtual world. The work, “Trace”, conveyed a message to the audience about the origins of our world, rooted in human interaction, and the intricate social systems that have emerged as a result.",
-      "Long Description of your work (4-6 sentences).": "The research aimed to explore unique aesthetics through the use of human motion as indeterministic elements within a complex system, the world. According to the distinguished researchers, they all highlighted the importance of human motion of interacting with others as humans constructed social systems while being together, and I wanted to visually depict the transition created by the system that are formed through human interaction in a virtual world. The work, “Trace”, conveyed a message to the audience about the origins of our world, rooted in human interaction, and the intricate social systems that have emerged as a result.",
+      "Long Description of your work (4-6 sentences).":
+        "The research aimed to explore unique aesthetics through the use of human motion as indeterministic elements within a complex system, the world. According to the distinguished researchers, they all highlighted the importance of human motion of interacting with others as humans constructed social systems while being together, and I wanted to visually depict the transition created by the system that are formed through human interaction in a virtual world. The work, “Trace”, conveyed a message to the audience about the origins of our world, rooted in human interaction, and the intricate social systems that have emerged as a result.",
       "Link to your personal portfolio": "https://www.foreveryonghun.com/",
       "Project link": "",
       "Main Image": "main.jpg",
-      "Supplementary Images": "1.jpg,2.jpg",
+      "Supplementary Images": "1.jpg, 2.jpg",
       "Thematic Keywords": "",
       Twitter: "",
       Linkedin: "",
@@ -4928,7 +4953,8 @@ let projectCollection = {
         "Website",
       "Short project description (one sentence - 500 characters)":
         "Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
-      "Long Description of your work (4-6 sentences).": "Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
+      "Long Description of your work (4-6 sentences).":
+        "Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
       "Link to your personal portfolio": "https://yulanren.webflow.io/",
       "Project link": "https://www.yulan-design.com/mobility-nyc",
       "Main Image": "main.jpg",
