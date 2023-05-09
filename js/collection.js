@@ -1649,31 +1649,33 @@ let projectCollection = {
         "",
       "Additional notes for the Operations Manager": "",
     },
-    /*
+
     {
       Timestamp: "2/27/2023 12:41:29",
       "Email Address": "cf2259@nyu.edu",
       "Full Name": "Eva Feng",
       "Name of Advisor": "Nick",
       "Net ID": "cf2259",
-      "Project title": "Undecided",
+      "Project title": "Lorem Ipsum",
       "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "performance & installation",
       'If you selected "Other", please write your description below:':
         "performance & installation",
-      "Short project description (one sentence - 500 characters)": "",
+      "Short project description (one sentence - 500 characters)":
+        "Lorum Ipsum is a multi-media installation and performance project that discuss how AI make us reflect on how we communicate and what is language. Generative AI such as Chatgpt is built based on large language models which use back propagation algorithms. It is a sophisticated betting machine that guess the most probable words as output based on the input. Since it always generate the most probable outcome, it flattens out unpredictability, which is the nature of creativity. In this project, the audience will pass around a ball with sensors, and the sensor data will be the input to a MAX patch for generating music. I will be dancing to the music with specific moves maps to the specific sound. So it is an analogy to how unpredictability and creativity is removed with the process of AI. ",
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio": "evafeng.com",
-      "Project link": "",
+      "Project link": "https://evafeng.com/senior-project",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
         "physical computing, AI, collective minds, fabrication, music, performance,",
       Twitter: "",
-      Linkedin: "",
+      Linkedin: "caiyi-feng/",
       Instagram: "caiyi_eva_feng/",
-      "Link to any video content (Vimeo / YouTube)": "",
+      "Link to any video content (Vimeo / YouTube)":
+        "https://www.youtube.com/channel/UC17TOdtakRzweWiXZ9WrjAQ",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
         "18* 15 feet",
       "Profile photo.\nRatio 1:1 (square)":
@@ -1686,7 +1688,7 @@ let projectCollection = {
         "low light, audio intensive",
       "Additional notes for the Operations Manager": "",
     },
-    */
+
     {
       Timestamp: "5/1/2023 1:25:35",
       "Email Address": "fqm202@nyu.edu",
@@ -2880,14 +2882,14 @@ let projectCollection = {
       "Name of Advisor": "Todd Bryant",
       "Net ID": "mk7288",
       "Project title":
-        "Still working on it, but for now Ubuntu: Understanding our Emotional Intelligence through AI",
+        "The New Res Publica: Emotional Intelligence and the Common Good",
       "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "Projection mapping a real-time particle sculpture, my work is an installation. I need a dark room and min floor requirements 36'x36'.",
       'If you selected "Other", please write your description below:':
         "Physical art using AI and projection mapping. my work is an installation. I need a dark room and min floor requirements 36'x36'.",
       "Short project description (one sentence - 500 characters)":
-        "when do humans become emotionally intelligent? Why are we born with different emotional deficiencies? How do some of the real world problems influence/desensitize our ability to recognize emotions and the impact of ubiquitous computing has imposed on humanity, and what it means to be emotionally intelligent in the age of AI and how emotionally intelligent is AI?",
+        "An extraordinary work of art is presented in the making, utilizing cutting-edge particle systems in Houdini and Unreal Engine to facilitate instantaneous projection mapping. The particle system will be further enhanced with an AI model that will analyze facial images acquired from diverse sources, including datasets, participants, and public and commercial websites. The sculpture intends to provoke an emotional response from the audience, leading to a more profound understanding of their internal states and what drives them. The immersive experience has been thoughtfully crafted to promote personal growth and self-awareness, empowering the viewers to move forward with a positive outlook.",
       "Long Description of your work (4-6 sentences).":
         "Matt questions when do humans become emotionally intelligent? Why are we born with different emotional deficiencies? How do some of the real world problems influence/desensitize our ability to recognize emotions and the impact of ubiquitous computing has imposed on humanity, and what it means to be emotionally intelligent in the age of AI and how emotionally intelligent is AI? Matt’s work encompasses building an AI model made of human portraits, training the model to understand emotions, and plugging the data into a game engine so participants can interact with Matt’s particle sculpture in real-time. The goal of this project is to allow spectators to see how AI perceives an individual.\n\tMatt believes by enabling artificial intelligence in a way to continue to help us understand our emotions, we can all begin to live a more fulfilling life. Artificial intelligence is transformative, has limitless capabilities, and can positively affect society for the greater go",
       "Link to your personal portfolio": "mkane.design",
@@ -4438,7 +4440,7 @@ let projectCollection = {
     {
       Timestamp: "5/1/2023 4:03:01",
       "Email Address": "ube202@nyu.edu",
-      "Full Name": "Uchechukwu Blessing Echeme Emole",
+      "Full Name": "Blessing   Emole",
       "Name of Advisor": "Amy Hurst",
       "Net ID": "ube202",
       "Project title":
