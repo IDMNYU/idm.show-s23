@@ -709,7 +709,7 @@ let projectCollection = {
       "Link to your personal portfolio": "http://www.athenahosek.com/",
       "Project link": "http://www.athenahosek.com/projects/magic-melodyland",
       "Main Image": "main.jpg",
-      "Supplementary Images": "",
+      "Supplementary Images": "1.jpg, 2.jpg",
       "Thematic Keywords":
         "virtual reality, extended reality, music, education, composition, game",
       Twitter: "",
