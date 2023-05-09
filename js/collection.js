@@ -2031,8 +2031,8 @@ let projectCollection = {
         "tech after tech explores the impact of digital spaces on our ability to remember and preserve cultural memory, focusing explicitly on racial bias in AI systems, while proposing what this act of preservation and reflection – at a deeply personal level – could look like in the future. The project is an online space that exists at the crossroads of racial bias and artificial intelligence. It works to investigate the impact of existing biases on the shared cultural memory of people of color and proposes solutions for building fairer AI systems. Through research and analysis, it contributes towards ongoing efforts of creating more inclusive and ethical technology for all. The space exists in two parts: (1) Explorations – valuable information, resources, and references helping people to navigate the rapidly accelerating world of AI through lenses of Critical Race Theory and Intersectionality, and (2) The Framework – a five-part framework combining research, empathy, and speculative design to mitigate racial bias and create more equitable AI systems moving forward.",
       "Long Description of your work (4-6 sentences).":
         "tech after tech explores the impact of digital spaces on our ability to remember and preserve cultural memory, focusing explicitly on racial bias in AI systems, while proposing what this act of preservation and reflection – at a deeply personal level – could look like in the future. The project is an online space that exists at the crossroads of racial bias and artificial intelligence. It works to investigate the impact of existing biases on the shared cultural memory of people of color and proposes solutions for building fairer AI systems. Through research and analysis, it contributes towards ongoing efforts of creating more inclusive and ethical technology for all. The space exists in two parts: (1) Explorations – valuable information, resources, and references helping people to navigate the rapidly accelerating world of AI through lenses of Critical Race Theory and Intersectionality, and (2) The Framework – a five-part framework combining research, empathy, and speculative design to mitigate racial bias and create more equitable AI systems moving forward.",
-      "Link to your personal portfolio": "janelleroz.com",
-      "Project link": "techafter.tech",
+      "Link to your personal portfolio": "http://janelleroz.com",
+      "Project link": "http://techafter.tech",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
@@ -2576,7 +2576,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "MIRO is a project that explores what love could look like in a society headed toward an AI dystopia. As AI-generated art eliminates the irreplaceable humanness of manmade art, MIRO is a commentary on AI learning to complete human tasks while excluding emotions in its process- especially in something so fundamentally organic like love.",
       "Link to your personal portfolio": "https://kweon.me/visual",
-      "Project link": "kweon.me/miro",
+      "Project link": "http://kweon.me/miro",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords":
@@ -2784,7 +2784,7 @@ let projectCollection = {
       "Long Description of your work (4-6 sentences).":
         "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
       "Link to your personal portfolio": "",
-      "Project link": "none yet",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
