@@ -4590,7 +4590,7 @@ let projectCollection = {
     {
       Timestamp: "4/7/2023 14:33:57",
       "Email Address": "wh2294@nyu.edu",
-      "Full Name": "wh2294@nyu.edu",
+      "Full Name": "Alice Huang",
       "Name of Advisor": "Mark Skwarek",
       "Net ID": "wh2294",
       "Project title": "Heartfulness VR",
