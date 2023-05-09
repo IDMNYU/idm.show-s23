@@ -3,8 +3,8 @@ let projectCollection = {
     {
       Timestamp: "4/28/2023 14:24:47",
       "Email Address": "asl8498@nyu.edu",
-      "Full Name": "Aakruti lunia",
-      "Name of Advisor": "Benedetta piantella",
+      "Full Name": "Aakruti Lunia",
+      "Name of Advisor": "Benedetta Piantella",
       "Net ID": "asl8498",
       "Project title": "Sustainable Web Design",
       "What year are you?": "Final Year Grad (Thesis Project)",
@@ -2645,6 +2645,7 @@ let projectCollection = {
         "would highly prefer absolute quiet (or a separate room), with sunlight (if sunlight is not possible, please let me know so I can consider lighting in my installation)",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "3/2/2023 11:39:05",
       "Email Address": "lbf287@nyu.edu",
@@ -2659,7 +2660,7 @@ let projectCollection = {
       "Short project description (one sentence - 500 characters)": "",
       "Long Description of your work (4-6 sentences).": "",
       "Link to your personal portfolio":
-        "lhttps://laraferreri.art?igshid=YmMyMTA2M2Y=",
+        "https://laraferreri.art?igshid=YmMyMTA2M2Y=",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -2678,6 +2679,7 @@ let projectCollection = {
         "N/a",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "2/27/2023 14:35:58",
       "Email Address": "lam9182@nyu.edu",
@@ -2925,6 +2927,7 @@ let projectCollection = {
         "N/A",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "4/11/2023 16:28:29",
       "Email Address": "ks5378@nyu.edu",
@@ -2958,6 +2961,7 @@ let projectCollection = {
         "Low light and audio intensive",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "2/22/2023 10:03:03",
       "Email Address": "msb7652@nyu.edu",
@@ -4521,6 +4525,7 @@ let projectCollection = {
         "n/a",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "2/27/2023 11:13:50",
       "Email Address": "vs1961@nyu.edu",
@@ -4553,6 +4558,7 @@ let projectCollection = {
         "Na",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "4/3/2023 10:33:15",
       "Email Address": "vb1392@nyu.edu",
