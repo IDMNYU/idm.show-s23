@@ -12,7 +12,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "My project intends to create an approachable guideline of techniques and tools designers, developers, and content creators can use to optimise the footprint of their digital creations. The efforts against the climate crisis can seem overwhelming as an individual. Curating responsible techniques to reduce our digital burden would boost individuals to get involved with least resistance. A guide that inspires us to move towards a humanity centered design approach and problem solve creatively with limited resources.",
       "Link to your personal portfolio": "https://www.aakrutilunia.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -23,13 +23,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "A screen to display my website",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -66,8 +66,8 @@ let projectCollection = {
         "wall, where I can put all my collages and a hight table where I can put some hard copies of my book.",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -97,15 +97,15 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://www.youtube.com/channel/UCM1_3r-WaH6R_IWTMO7n41A",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1Q75iCRoYFQ8L8Rkx4fVy3tVmijnwbzNj",
       "Equipment List": "Oculus Quest 2",
       "What equipment can you provide?":
         "Poster design and other supplemental printouts",
       "What equipment do you need to borrow?": "Oculus Quest 2",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -135,15 +135,15 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://vimeo.com/user195488077",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1kYPOoMUQx3bKfQrfpA4kfIRNiUDn8TEn",
       "Equipment List":
         "I would like to have a TV and a speaker set for audio.",
       "What equipment can you provide?": "I can bring a laptop",
       "What equipment do you need to borrow?": "I need a tv and a speaker set.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A the phone booth works perfectly.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        " the phone booth works perfectly.",
       "Additional notes for the Operations Manager": "no, thank you!",
     },
     {
@@ -178,8 +178,8 @@ let projectCollection = {
       "Equipment List": "table, wall",
       "What equipment can you provide?": "laptops, tape",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager":
         "For my display I'm thinking of having 8 - 10 poster boards that are about 1.5 by 3 feet hung up against a wall space.",
     },
@@ -217,7 +217,7 @@ let projectCollection = {
       "What equipment can you provide?": "1 of the projectors, laptop+adapters",
       "What equipment do you need to borrow?":
         "1 projector, and large speakers if possible",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The work would require lower light & is audio intensive",
       "Additional notes for the Operations Manager":
         "I could give a few one-off screenings of the work, in a space like the side ballroom, lecture hall, or conference room.\n\nI could not resubmit my images but here are my final images:\n(Main) https://drive.google.com/file/d/1vyydNwzMX-lRfrKmsJNTJvPKpPJM_rSd/view?usp=share_link \n(1) https://drive.google.com/file/d/1fpXR_Spn8frSeeq7ZJM3vSr0MykxB8X9/view?usp=share_link\n(2) https://drive.google.com/file/d/1eaE8Nnom23E3nIdi37GXxpX0gir2G4K6/view?usp=sharing",
@@ -234,7 +234,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "A limited collection of fantasy clothes inspired by my experience in undergrad studying engineering. I also see these clothes as a medium of art to inspire the next generation of women engineers. Women are underrepresented in the field and this collection is a way I hope to bring light to our experiences by mixing traditionally masculine and feminine practices and materials while using skills I learned during undergrad to create pieces that reflect my perspective.",
       "Link to your personal portfolio": "http://alexisdenisew.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -245,13 +245,13 @@ let projectCollection = {
       Instagram: "softwearbylex",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Monitor, laptop and installation materials.",
       "What equipment can you provide?": "Laptop and installation materials.",
       "What equipment do you need to borrow?": "Monitor",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -282,16 +282,16 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1A0Wgiv-HkJWVPb9qVdOH9sOZPfdJ1Oet",
       "Equipment List": "A laptop and charger",
       "What equipment can you provide?": "Laptop and charger",
       "What equipment do you need to borrow?":
         "Laptop and charger, if applicable, to make more people be able to look at the work.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "3/2/2023 17:50:12",
@@ -322,13 +322,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/A only the big tv probably",
+        " only the big tv probably",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "Projector, large television, microphone. Perhaps even the vertical system",
       "What equipment can you provide?": "my computer",
       "What equipment do you need to borrow?": "same as listed above",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "some lighting, I will be talking so I might disturb people around me since it will be a performance",
       "Additional notes for the Operations Manager": "nothing",
     },
@@ -364,9 +364,9 @@ let projectCollection = {
       "Equipment List": "Oculus Quest 2 Headset",
       "What equipment can you provide?": "Mac Laptop",
       "What equipment do you need to borrow?": "Oculus Quest 2 Headset",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I'm not sure if this counts, but I would need the Quest 2 a little bit before the showcase begins (about an hour at least) to load the .apk file onto it beforehand.",
-      "Additional notes for the Operations Manager": "N/A",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "4/28/2023 11:23:34",
@@ -399,7 +399,7 @@ let projectCollection = {
       "Equipment List": "VR headset, controllers, VR Mask,",
       "What equipment can you provide?": "VR Mask",
       "What equipment do you need to borrow?": "VR Headset & controllers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Quiet place as my VR project is entirely audio based. Also a dark area is preferred.",
       "Additional notes for the Operations Manager": "",
     },
@@ -428,15 +428,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1tzxR8-CEVLtuxZcS3epCCSLcWBBOPSyI",
       "Equipment List": "Laptops",
       "What equipment can you provide?": "Laptops, iPads",
-      "What equipment do you need to borrow?": "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "3/2/2023 23:36:27",
@@ -464,13 +464,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -497,12 +497,12 @@ let projectCollection = {
       Instagram: "@anna.vandehey",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "Laptop and Headset",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light and quieter area would be appreciated, but not necessary",
       "Additional notes for the Operations Manager": "",
     },
@@ -541,7 +541,7 @@ let projectCollection = {
       "What equipment can you provide?": "none of the above",
       "What equipment do you need to borrow?":
         "a tablet, a tablet holder, a sewing machine",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "No need",
       "Additional notes for the Operations Manager": "",
     },
@@ -559,7 +559,7 @@ let projectCollection = {
         "User experience design, App",
       "Short project description (one sentence - 500 characters)":
         "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "I chose this topic because during my undergraduate studies, my best friend suddenly developed deafness. It was heartbreaking to see her who loved singing suddenly lose hearing. Due to her habit of staying up late and being picky about food, her body lacked vitamin B. As her best friend, I watched her feel depressed and cry often in our dorm room. If she had known earlier what micronutrients she was lacking, she wouldn't have had to endure such torment. This experience, coupled with the backdrop of the pandemic, has given me a sense of mission to use technology and design to help people improve their health. As a result, I created the Melon Nutrition app to provide people with personalized nutrition plans, knowledge about healthy lifestyles and nutrition, and a convenient, time-saving, and cost-effective way to obtain nutrition consulting.",
       "Link to your personal portfolio": "https://chen-ao.com/nutrition",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -570,16 +570,17 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1QmsK_fZY83SJrNVZjALCPPh0A7xj0HTf",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "2/27/2023 14:20:36",
       "Email Address": "ap7371@nyu.edu",
@@ -608,10 +609,11 @@ let projectCollection = {
       "Equipment List": "Laptop, iPhone",
       "What equipment can you provide?": "Laptop, iPhone",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "no",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "3/22/2023 22:09:31",
       "Email Address": "aaa9864@nyu.edu",
@@ -624,7 +626,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "My research is around XR Interactive Music Videos. I want to explore how XR technology can be used to design an interactive music video interface that connects artists and their audience, create a  personalized experience for users and enhance the music video viewership.  Using the VR headset, the users will be immersed in a VR music video experience. There are some interactions that the user can perform as the experience unfolds. Users can also re-experience the same music video differently each time by changing certain parameters that can provide users with a personal experience.",
       "Link to your personal portfolio": "https://arwaalsaati.com/",
       "Project link": "https://arwaalsaati.com/Thesis-Project",
       "Main Image": "main.jpg",
@@ -645,7 +647,7 @@ let projectCollection = {
         "VR Headset Oculus Quest 2 with Link Cable, Two Snare Drums / E-Drum Kit, Audio Interface Motu",
       "What equipment do you need to borrow?":
         "TV monitor, Headphones, PC Running Unreal Engine 5, Space for Two Snare Drums / E-Drum Kit, HDMI cable, Sanitizing Wipes for VR Headset Use",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "it's audio intensive, requires some level of low volume",
       "Additional notes for the Operations Manager": "",
     },
@@ -674,15 +676,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=19RZXbQ7QiYLOE4RsMoFaOMFFFDdmZQ1Q",
       "Equipment List":
         "One screen (if it has a usb port that would be perfect) and headphone set",
-      "What equipment can you provide?": "n/a",
+      "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "Headset",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -721,7 +723,7 @@ let projectCollection = {
         "I can provide the laptop and the link cable, as well as the spare batteries for the VR controllers.",
       "What equipment do you need to borrow?":
         "I will need to borrow a Meta Quest 2 VR headset. I will also need to be provided with a desk/table and a chair (nothing fancy -- the ones we have already on the third floor would work great!).",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "This work is audio focused, so a more quiet space would be ideal.",
       "Additional notes for the Operations Manager":
         "I will need to be near an outlet so that I can plug in my laptop (which can also act as the source of power for the VR headset). \n\nI also wanted to mention that I chatted with another student working on a VR project, and while we can't assume how all of the other students creating VR works feel, we both thought it could be nice to have a room dedicated to VR projects!",
@@ -759,7 +761,7 @@ let projectCollection = {
         "Satin or cotton cloth to use as the background for where the photos are being hung up.",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         'I\'d like to have my installation presented in an area with low light with specific "spot lights" at the top of each row of photos to highlight intensity.',
       "Additional notes for the Operations Manager": "",
     },
@@ -795,7 +797,7 @@ let projectCollection = {
       "Equipment List": "iPads, headsets",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "iPads, headsets",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "NA",
       "Additional notes for the Operations Manager": "",
     },
@@ -825,15 +827,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1I7geV1xfv0R4_8D4EAHPzP3Q_RzqeP8n",
       "Equipment List":
         "Table, chairs, long extension chord, circuit, surge protector outlet, any type of monitor with hdmi to display video.",
       "What equipment can you provide?": "laptop, headset",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -864,14 +866,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1A2i-_KFLV-b9f2m8Xh8s4r4ZLS8_QPh3",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -899,13 +901,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -941,7 +943,7 @@ let projectCollection = {
       "What equipment can you provide?": "Computer- sticker",
       "What equipment do you need to borrow?":
         "Monitor, cable between Mac and monitor",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "NA",
       "Additional notes for the Operations Manager": "",
     },
@@ -958,7 +960,7 @@ let projectCollection = {
         "application",
       "Short project description (one sentence - 500 characters)":
         "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Influenced by my past work experiences in Web 3.0. It is for those who are new to NFT and wish to communicate and socialize with others in the community through diverse events. It fits into a education/networking platform.",
       "Link to your personal portfolio": "https://chebcheb.co/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -970,13 +972,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1006,14 +1008,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://vimeo.com/822144284?share=copy",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A (just a small table that can place one computer)",
+        " (just a small table that can place one computer)",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1BxPWH7bn1jF4vhX6MPa2LanHd5nF1R1m",
       "Equipment List": "One laptop or one PC",
       "What equipment can you provide?": "One laptop or one PC",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1049,7 +1051,7 @@ let projectCollection = {
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?":
         "A computer that can run Unreal, a large screen, table space.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "A low light area without much fluctuation in light levels.",
       "Additional notes for the Operations Manager": "",
     },
@@ -1087,8 +1089,8 @@ let projectCollection = {
       "What equipment can you provide?":
         "I will bring my own computer and VR headset",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager":
         "Derek Chan and I would like to be set up next to each other for emotional support :D",
     },
@@ -1126,8 +1128,8 @@ let projectCollection = {
       "Equipment List": "Displays",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1163,7 +1165,7 @@ let projectCollection = {
       "Equipment List": "Laptop, Speakers, Monitor (for playing video)",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "Monitor + Speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "If possible, I would like lower lighting",
       "Additional notes for the Operations Manager": "",
     },
@@ -1200,8 +1202,8 @@ let projectCollection = {
         "A monitor that has audio is preferred so that audience can view on a bigger screen. A mouse to click is also nice.",
       "What equipment can you provide?": "A laptop; a mouse",
       "What equipment do you need to borrow?": "A monitor that has audio",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1234,8 +1236,8 @@ let projectCollection = {
       "Equipment List": "- digital camera - strobes",
       "What equipment can you provide?": "-laptop - editing",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1263,7 +1265,7 @@ let projectCollection = {
       Instagram: "danni.qu/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "It's in VR, N/A",
+        "It's in VR, ",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1URW-rKliu704-sCZWQdMmXS4sN9TigVR",
       "Equipment List":
@@ -1271,8 +1273,8 @@ let projectCollection = {
       "What equipment can you provide?": "Macbook, decorations",
       "What equipment do you need to borrow?":
         "1 Meta Quest 2 VR headset, table, chair (for seated VR experience)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1305,7 +1307,7 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://www.youtube.com/channel/UCTlOJ0h6aZrYVpjRgEPxZtQ",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "I would like to have 2 external displays of some kind, whether it be 2 monitors or 1 monitor and 1 tv whatever works out will be fine",
@@ -1313,7 +1315,7 @@ let projectCollection = {
         "I can provide my own laptop that'll run my demo",
       "What equipment do you need to borrow?":
         "Monitors and TVs that's about it",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I just need a table",
       "Additional notes for the Operations Manager": "",
     },
@@ -1351,7 +1353,7 @@ let projectCollection = {
         "objects for the installations, N95s, picture frames, some headphones, a phone for app",
       "What equipment do you need to borrow?":
         "One camera for recording/documentation",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The work is audio intensive, headphones will be provided, ideally not too noisy. Good wi-fi in the area is essential.",
       "Additional notes for the Operations Manager":
         "I'd like my installation to be a space where masks can be provided/are encouraged to be worn, as it is meant to represent a community space.",
@@ -1380,13 +1382,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Laptop",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1420,7 +1422,7 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop, 18ft painting",
       "What equipment do you need to borrow?":
         "High lumen projector, mad mapper hire",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Low light and absolute/relative quiet",
       "Additional notes for the Operations Manager": "",
     },
@@ -1449,13 +1451,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "projector and screen",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1486,15 +1488,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1pNViDe0MRwplnw93pJXjLuQHAZ31TK20",
       "Equipment List": "Laptop, frames, table",
       "What equipment can you provide?": "Laptop, frames",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "4/6/2023 23:15:15",
@@ -1523,13 +1525,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1545,7 +1547,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "The project is a combination of motion graphics and dance to express my perspective of the Christian faith. As my journey with religion has been an integral part of my life, I wanted to show a transparent and artistic way to convey my experience. From the conception of this project to its completion, there was a lot of faith and trust in God involved in the process.",
       "Link to your personal portfolio":
         "https://enochjo0623.wixsite.com/my-site-2",
       "Project link":
@@ -1560,13 +1562,13 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://drive.google.com/file/d/180ZG0MG51gxeA0fGpkOgEDrRDOmQBiRU/view?usp=share_link",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1Ee81zzcvP0Ab2salhNPnKZrkBrhje9dx",
       "Equipment List": "Screen/speakers - either projection or physical",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "Screen and speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I would prefer the space to be relatively quiet for my piece in a darker space if possible",
       "Additional notes for the Operations Manager": "NA",
     },
@@ -1596,14 +1598,14 @@ let projectCollection = {
       Instagram: "eumkoe/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1s69eBwtfNEv719WdNkpD3IuG9ybdQbPu",
       "Equipment List": "",
       "What equipment can you provide?": "my short film on a harddrive",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1637,10 +1639,11 @@ let projectCollection = {
       "Equipment List": "Posters, card deck, laptop",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "desk and wall (if not any)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "2/27/2023 12:41:29",
       "Email Address": "cf2259@nyu.edu",
@@ -1673,10 +1676,11 @@ let projectCollection = {
       "What equipment can you provide?":
         "laptop, installation materials, speaker",
       "What equipment do you need to borrow?": "DMX",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light, audio intensive",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "5/1/2023 1:25:35",
       "Email Address": "fqm202@nyu.edu",
@@ -1710,8 +1714,8 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop, Cables, adapters.",
       "What equipment do you need to borrow?":
         "I would need a connection between the display and my laptop, or my video file can be displayed directly from the display itself.",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1727,7 +1731,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "My current vision is to construct a speculative musical composition based on the events starting from the year 1800 all the way through today and maybe ending at the year 2500. Research and Speculative design exercises are being conducted to determine the events I want to portray and depict through my audio narrative. The three emotions I am specifically trying to incite are Fear, Excitement and Utopia. I will be picking out events in the past that may trigger one of the three emotions listed earlier and am going try and manipulate these audio samples to create a soundscape that represents that time and the atmosphere back then.The project depends on how I can use immersive storytelling to bring forward these emotions and research on what events I can use to trigger these emotions.",
       "Link to your personal portfolio": "https://himabijulal.net/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -1738,14 +1742,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "Dark Room, Some kind of noise cancelling(ideally a sound proofed dark room), Speakers, Microphone, Laptop",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?":
         "Dark Room, Some kind of noise cancelling environment, Speakers, Microphone",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The installation will require darkness and no external sounds (or a way to drown out environmental sounds) as the project is purely audio and no visuals at all.)",
       "Additional notes for the Operations Manager": "None",
     },
@@ -1774,15 +1778,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1d2KtmEK1AbbzqPob_AgGROgBshtBFv9x",
       "Equipment List": "laptops, iPad",
       "What equipment can you provide?": "laptops, iPad",
-      "What equipment do you need to borrow?": "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "3/2/2023 19:33:32",
@@ -1811,14 +1815,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://www.behance.net/hugowuuuu",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "projector screen or a tv screen for video playing,",
       "What equipment can you provide?": "personal laptop, a disk",
       "What equipment do you need to borrow?":
         "projector screen or a tv screen for video playing",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1846,14 +1850,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1DG_QCL3prqAYaEBSebmhqjS9GlnbY8yK",
       "Equipment List": "Laptop, electric socket so I can plug my computer in",
       "What equipment can you provide?": "laptop, printed posters",
-      "What equipment do you need to borrow?": "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1881,13 +1885,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Two small tables",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -1925,7 +1929,7 @@ let projectCollection = {
         "laptop, arduino, webcam, paper, paper boxes",
       "What equipment do you need to borrow?":
         "projector, projector stand or mount, 24x48 table, smaller table or surface (can maybe provide myself), speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The work needs low light and a relative quiet space. I also need mounting for my projector",
       "Additional notes for the Operations Manager": "",
     },
@@ -1964,7 +1968,7 @@ let projectCollection = {
       "What equipment can you provide?": "an extra laptop, webcam, speakers",
       "What equipment do you need to borrow?":
         "pc with a good GPU and 2 monitors",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "a clear background for webcam to capture people's face easily",
       "Additional notes for the Operations Manager": "Thank you!",
     },
@@ -1981,7 +1985,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Euphemia is 3D animated adventure that takes place in the early years of our solar system. Based on the different mythological civilizations throughout the ages, this cosmological adventure dives into how the earth moon and stars came to be",
       "Link to your personal portfolio":
         "https://readymag.com/u1391225122/jw-portfolio/?fbclid=PAAaYZaHNZM1gnIJDHyj6EIXMvGmQ2LgZxSQA5kxYpCnUKYohfnqWcbvGetZM",
       "Project link": "",
@@ -1993,15 +1997,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Projector (Maybe)",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?":
         "Speaker (Maybe) , Projector (Maybe)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "3/16/2023 12:58:32",
@@ -2028,14 +2032,14 @@ let projectCollection = {
       Instagram: "janelleroz",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
-      "Equipment List": "n/a",
+      "Equipment List": "",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "laptop",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
-      "Additional notes for the Operations Manager": "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "2/27/2023 14:53:24",
@@ -2047,7 +2051,7 @@ let projectCollection = {
       "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "Film/ Featurette",
-      'If you selected "Other", please write your description below:': "N/A",
+      'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "A man suffering through Dissociative Identity Disorder becomes trapped in his own dream, forcing him to confront his insecurities and long-term traumas alongside the people he despises the most, other versions of himself.\n\nFor the showcase, my project will consist of a 6 minute trailer made up of the first few sequences of the film. This will introduce the film's plot and themes, while encouraging audiences to look out for the full release later this year.",
       "Long Description of your work (4-6 sentences).":
@@ -2065,15 +2069,15 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://www.youtube.com/@noxsaj",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "A screen to view the video and an audio system for sound. I don't think I need anything special.",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "2/27/2023 16:45:25",
@@ -2087,7 +2091,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "The \"Inclusive indoor navigation in augmented reality\" project aims to provide a seamless and accessible navigation experience for people with disabilities or mobility issues. The system will utilize augmented reality (AR) technology to guide users inside buildings by displaying directional information and landmarks on the user's device's screen. The navigation system will incorporate features such as voice commands, haptic feedback, and visual cues to make it easy for users to navigate indoors.",
       "Link to your personal portfolio": "https://www.jdenkim.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2098,14 +2102,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?":
         "qrcode from a flyer allow people to access my projects",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2134,7 +2138,7 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A not decided yet",
+        " not decided yet",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1v5g-UliTPWrrfxEMg8SvZGFy-EuIlKAg",
       "Equipment List":
@@ -2143,7 +2147,7 @@ let projectCollection = {
         "Printed photographs (in various sizes, depending on the display) Frames or mounts for the photographs Labels or captions for each photograph Artificial turf or grass carpet to create a small lawn area ,A computer or media player to play the video Audio equipment -  Headphones",
       "What equipment do you need to borrow?":
         "A video screen or projection system for the supplementary video ( if possible)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I need at least 2 walls ( it would be best if I could be assigned to the corner of the room because there will be 2 walls at least I think?), and one table for the exhibition",
       "Additional notes for the Operations Manager": "Thank you!",
     },
@@ -2182,8 +2186,8 @@ let projectCollection = {
         "Table, TV, laptop, switch, webcam, recording camera, tripod, power source",
       "What equipment can you provide?": "laptop, switch, webcam, camera",
       "What equipment do you need to borrow?": "Table, TV, tripod",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2210,13 +2214,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2246,13 +2250,13 @@ let projectCollection = {
       Instagram: "jordanchanhy/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1kKLYJCRXlpS_EdJfqPFLYUyOS7y9ida3",
       "Equipment List": "Table",
       "What equipment can you provide?": "Phone, Laptop",
       "What equipment do you need to borrow?": "Table",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Some flat surface, a foot of space for AR prototype to work",
       "Additional notes for the Operations Manager": "None",
     },
@@ -2269,7 +2273,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Weee is a relatively new company that offers delivery for Asian and Hispanic groceries. I want to make this project because I want to design interfaces that users enjoy. Delivery and grocery apps are very common to use right now so I think it is the perfect product to redesign and practice my skills. It is hard to fit so much into one app, because of this the UX of an app can get confusing. The target audience I am aiming for are current Weee users, Weee the company (for a job) and anyone who may not know about the app but are in need of it. By making the design more user-friendly, I can help improve the app and potentially grow their customer base. I will go through the standard UX design process of completing user research, user interviews, wireframing, and iterating.",
       "Link to your personal portfolio": "https://juliak.im",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2285,7 +2289,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "laptop, iPhone",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "no",
       "Additional notes for the Operations Manager": "",
     },
@@ -2315,14 +2319,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1j0dSf1xjtdT6tjiQbgvzLVtqY45tTiNz",
       "Equipment List": "",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "None",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2359,7 +2363,7 @@ let projectCollection = {
         "monitor, projector, hdmi cord, 2 headphones, splitter for headphones, black backdrop to block out light",
       "What equipment can you provide?": "my own laptop",
       "What equipment do you need to borrow?": "everything else",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light",
       "Additional notes for the Operations Manager": "",
     },
@@ -2386,13 +2390,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2408,7 +2412,7 @@ let projectCollection = {
         "Audio Podcast",
       "Short project description (one sentence - 500 characters)":
         "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Angle On is a podcast created to highlight and share stories surrounding black women working behind the scenes in film and tv. As a black woman pursuing a career in this industry as well, I wanted a way to platform our underrepresented voices. In Angle On, I have started by focusing in on NYU students and alumni.",
       "Link to your personal portfolio":
         "https://www.linkedin.com/in/katrina-morgan",
       "Project link": "",
@@ -2420,13 +2424,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Screen to display short film on, adaptor for computer",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2462,7 +2466,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "2 pairs of stereo speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "need dark&quiet space and this work is a projection mapping and will have sound.",
       "Additional notes for the Operations Manager": "",
     },
@@ -2480,7 +2484,7 @@ let projectCollection = {
         "Lamka’s Closet is an existing clothing store in Lamka, India. They currently sell in-person and on their Instagram page.",
       "Long Description of your work (4-6 sentences).":
         "Lamka’s Closet is an existing clothing store in Lamka, India. They currently sell in-person and on their Instagram page. If you take a look at their Instagram, you will see that their target audience are young women who have peaked interest in fashion trends. Fun fact: this store was founded and is run by my childhood friend! \n\nWhen I was brainstorming ideas for my senior project, I thought it would be the perfect opportunity to design an online store for Lamka’s Closet. Not only would it legitimize the store, increase sales by reaching a larger audience across India, but it would also be an excellent opportunity for me to work on a tangible project. By establishing a website and a larger online presence, the store would be able to become a trusted and recognizable brand that brings diverse fashion across India and possibly worldwide. \n\nAfter getting the stakeholder (my friend) on board with this idea, I quickly got to work. I conducted some research where I was able to gain insights about the existing store and current selling methods. This was when I found some pain points customers faced while shopping on Instagram which I knew I could solve with my design. Some of which dealt with product details such as color and size options for the items, and delayed order processing due to manual processing. The current store logo also does not reflect any brand values or establish any kind of brand identity. Given that the stakeholder’s goals were to increase sales, increase brand awareness, improve customer retention, and establish stronger connections with customers, I decided to give the existing online presence and store a makeover. \n\nIn my design, I made sure to establish a clear and coherent brand identity. I decided to go with a minimalist design approach. For the overall appearance of the website, I kept it calm and classy. I also chose to go with gender neutral colors throughout the site and used variations of one typeface for the entire site.\n\nThe home page/landing page includes a hero section, showcases new arrivals and includes some recent Instagram posts with a link to the Instagram page as well. The shop section consists of the store inventory which have been separated into different categories. There is also a Lookbook which is where all the favorite items exist for future reference. Next to the Lookbook is the Log In section where users can either sign up or log in to their accounts. Finally, there is a shopping bag which is where you can see the items you’ve added to the bag and you can checkout from there. \n\nPlease remember, this project is only a prototype of what the online store will look like. \n-Khin Khin",
-      "Link to your personal portfolio": "N/A",
+      "Link to your personal portfolio": "",
       "Project link":
         "https://www.figma.com/proto/5cBJHZmUymAMIwdC21wecI/Lamka's-Closet-Website?page-id=324%3A609&node-id=427-221&viewport=439%2C1117%2C0.03&scaling=min-zoom&starting-point-node-id=427%3A221&show-proto-sidebar=1",
       "Main Image": "main.jpg",
@@ -2492,14 +2496,14 @@ let projectCollection = {
       Instagram: "khinsquared.designs/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1fGQ9d0qHsra_xqosONSUEseErfKbQ7s6",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -2538,7 +2542,7 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?":
         "Projector, Blackout curtains, a chair, a large wall or large blank canvas, speakers, a table",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Low light, This project is going to be loud",
       "Additional notes for the Operations Manager":
         "This project is intended to be an immersive experience",
@@ -2574,10 +2578,11 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "Posters",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "BLACK BACKGROUND/WALL would be nice but not necessary",
       "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "3/22/2023 12:18:36",
       "Email Address": "hy2218@nyu.edu",
@@ -2606,10 +2611,11 @@ let projectCollection = {
       "Equipment List": "A table and a rack to display the zine",
       "What equipment can you provide?": "ipad",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "5/1/2023 10:36:38",
       "Email Address": "lm4523@nyu.edu",
@@ -2625,7 +2631,7 @@ let projectCollection = {
         "MIZAN explores the infusion of spiritual sustainability and takkafur (reflection) as seeds that may generate a more symbiotic future for the planet and its people.   This research has taken the form of a multi-sensory installation, composed of objects created to cultivate the experience of being present and reflecting on the present in order to walk into the future. As a result, reflection has been used as an invisible guiding principle and a physical design tool.  MIZAN invites viewers to use this installation as a space of contemplation and reflection to enable them to see beyond the known and the visible.",
       "Long Description of your work (4-6 sentences).":
         "A space for rest and contemplation; a garden for play and discussion.",
-      "Link to your personal portfolio": "N/A",
+      "Link to your personal portfolio": "",
       "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -2641,7 +2647,7 @@ let projectCollection = {
       "What equipment can you provide?": "projector (if compatible)",
       "What equipment do you need to borrow?":
         "installation materials (to hang light items from the ceiling)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "would highly prefer absolute quiet (or a separate room), with sunlight (if sunlight is not possible, please let me know so I can consider lighting in my installation)",
       "Additional notes for the Operations Manager": "",
     },
@@ -2652,7 +2658,7 @@ let projectCollection = {
       "Full Name": "Lara Ferreri",
       "Name of Advisor": "Eric Maiello",
       "Net ID": "Lbf287",
-      "Project title": "N/a (can we make a title name at a later date)",
+      "Project title": " (can we make a title name at a later date)",
       "What year are you?": "Senior (Senior Project)",
       "What kind of form is the work (website, game, vr, etc)":
         "Digital/ print Magazine",
@@ -2670,13 +2676,13 @@ let projectCollection = {
       Instagram: "laraferreri.mag?igshid=YmMyMTA2M2Y=",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     */
@@ -2695,9 +2701,9 @@ let projectCollection = {
         "both a website & a quilt but really just need a table to display  the quilt and  I can use my website for the website",
       "Short project description (one sentence - 500 characters)":
         "The makerspace apprenticeship program and quilt artifact were born out of a desire to create a more inclusive and equitable space for young women in engineering. By documenting and sharing the process of implementing the makerspace apprenticeship program, I hope to inspire other educators and makers to implement similar programs in their communities. The apprenticeship program and quilt project showcase the power of peer-to-peer learning, community building, and creative problem-solving. Overall, my work seeks to challenge stereotypes and break down barriers, emphasizing the importance of inclusive education in STEM fields.",
-      "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "n/a",
-      "Project link": "n/a",
+      "Long Description of your work (4-6 sentences).": "The makerspace apprenticeship program and quilt artifact were born out of a desire to create a more inclusive and equitable space for young women in engineering. By documenting and sharing the process of implementing the makerspace apprenticeship program, I hope to inspire other educators and makers to implement similar programs in their communities. The apprenticeship program and quilt project showcase the power of peer-to-peer learning, community building, and creative problem-solving. Overall, my work seeks to challenge stereotypes and break down barriers, emphasizing the importance of inclusive education in STEM fields.",
+      "Link to your personal portfolio": "",
+      "Project link": "",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
       "Thematic Keywords": "",
@@ -2711,7 +2717,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Ideally just a few tables joined together so I can lay it flat.",
       "Additional notes for the Operations Manager": "",
     },
@@ -2728,7 +2734,7 @@ let projectCollection = {
         "Will need a small desk space for a couple of objects (coins)",
       "Short project description (one sentence - 500 characters)":
         "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Museums are full of beautiful artifacts with rich history, but many of these artifacts go unappreciated as the viewer is not given context to it's story. This project will be a companion app for museums that allows the viewer to simply point their phone at an artifact (no QR code required) and it will open a website with beautiful motion graphics that will introduce them to the world it came from.",
       "Link to your personal portfolio": "https://liamtsang.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -2744,7 +2750,7 @@ let projectCollection = {
       "Equipment List": "A regular sized desk",
       "What equipment can you provide?": "Posters",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Nothing special, just a desk and adequate lighting",
       "Additional notes for the Operations Manager": "",
     },
@@ -2760,8 +2766,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
       "Short project description (one sentence - 500 characters)": "",
-      "Long Description of your work (4-6 sentences).": "",
-      "Link to your personal portfolio": "n/a",
+      "Long Description of your work (4-6 sentences).": "It would be an assembly of 3d planes hanging in the ceiling aside from that I would need a wall where I can post a banner, letters/images of CBP Officers, and message wall filled with envelopes.",
+      "Link to your personal portfolio": "",
       "Project link": "none yet",
       "Main Image": "main.jpg",
       "Supplementary Images": "",
@@ -2777,7 +2783,7 @@ let projectCollection = {
       "What equipment can you provide?":
         "3d planes, banners, tens of letters, tens of envelopes & cards, pens",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "quiet, low light",
       "Additional notes for the Operations Manager": "",
     },
@@ -2812,7 +2818,7 @@ let projectCollection = {
       "Equipment List": "smart board (If possible to book a room that has one)",
       "What equipment can you provide?": "laptop, projector",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light could provide better visibility, but not critical.",
       "Additional notes for the Operations Manager": "",
     },
@@ -2844,12 +2850,12 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://www.youtube.com/playlist?list=PLWKoD-J3B6rhO17jo0IHdDiE47HGU-wuD",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Large Screen, speakers",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The project is a film so low light is preferable. At some points in the film the piece has different audio coming from the left and right speakers. A room with surround sound and/or multiple speakers so that viewers can feel the full effect would be ideal.",
       "Additional notes for the Operations Manager": "",
     },
@@ -2887,7 +2893,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
@@ -2917,14 +2923,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "A computer with which to run the game (though I can bring my own––if one is provided, it must have OperaGX installed)",
       "What equipment can you provide?": "Laptop, headset",
       "What equipment do you need to borrow?": "None necessary",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     /*
@@ -2952,12 +2958,12 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Low light and audio intensive",
       "Additional notes for the Operations Manager": "",
     },
@@ -2996,7 +3002,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
@@ -3032,7 +3038,7 @@ let projectCollection = {
       "Equipment List": "projector and couch",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "room with lighting control ideal",
       "Additional notes for the Operations Manager": "",
     },
@@ -3071,7 +3077,7 @@ let projectCollection = {
       "What equipment can you provide?":
         "primary laptop, my old tech devices, acrylic stands to display each device",
       "What equipment do you need to borrow?": "dark lighting",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light, audio intensive",
       "Additional notes for the Operations Manager": "",
     },
@@ -3101,12 +3107,12 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "screen",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "screen",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "nothing",
       "Additional notes for the Operations Manager": "",
     },
@@ -3142,8 +3148,8 @@ let projectCollection = {
       "Equipment List": "table and chair and book holder",
       "What equipment can you provide?": "the book holder",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3173,13 +3179,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "Print out magazines.",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager":
         "Could I have a table to display the magazines",
     },
@@ -3208,14 +3214,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1_l6bsL1TSBx_2Ht22iLc9IKkgwjIbVU0",
       "Equipment List": "Monitor",
       "What equipment can you provide?": "Monitor",
       "What equipment do you need to borrow?": "Monitor : iMac",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3231,8 +3237,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "The project will be a laser Engraved Wood Cutting Boards in the size of 12'x12'",
       "Short project description (one sentence - 500 characters)":
-        "Nancy’s thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
-      "Long Description of your work (4-6 sentences).": "",
+        "This thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
+      "Long Description of your work (4-6 sentences).": "This thesis project focuses on the problem of Cross-generational Communication within Community Gardens. The project proposes a participatory art activity designed for a garden in Queens, New York, where garden members can paint a wooden board together and engage in a relaxed, open discussion following an activity guide. This approach fosters mutual learning and bridges the gap between different generations. Additionally, the design intervention addresses issues of sustainability and accessibility, which are core values of the garden.",
       "Link to your personal portfolio": "https://www.knchan.me/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -3250,7 +3256,7 @@ let projectCollection = {
       "Equipment List": "a table for display  (with light)",
       "What equipment can you provide?": "ipad/laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "plenty of light",
       "Additional notes for the Operations Manager": "",
     },
@@ -3288,8 +3294,8 @@ let projectCollection = {
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?":
         "acrylic book easel or similar stand",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3307,7 +3313,7 @@ let projectCollection = {
         "Screen-based Interactive experience",
       "Short project description (one sentence - 500 characters)":
         "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "There is a growing awareness in the importance of addressing mental health for personal and social well-being. Studies have shown the state of feeling really understood creates a foundation for psychological safety and learning positive emotion regulation. When we are unable to feel understood by those closest to us and coping strategies fail, therapy is an option. I have created a multimodal digital desktop experience. It is a customizable therapeutic space with narrative elements for mental health professionals working with image-based approaches to aid clients in expressing their emotions, sharing their lived experiences, and confronting uncomfortable mental imagery. Interactivity starts with visual and auditory elements to give the client a sense of agency which in future development would include more sense activations and immersion.",
       "Link to your personal portfolio": "https://ninithan.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -3328,8 +3334,8 @@ let projectCollection = {
       "What equipment can you provide?": "keyboard, mouse",
       "What equipment do you need to borrow?":
         'Game capable PC, 25" monitor, Extension cord, AV connector...',
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "not yet.",
     },
     {
@@ -3356,13 +3362,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A; laptop and headset",
+        "; laptop and headset",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "laptop, headset",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3392,14 +3398,14 @@ let projectCollection = {
       Instagram: "0zioma",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1nRQWdZtLokFRV5qO-kTh1RmCHC_hbRHs",
       "Equipment List": "MacBook (13inch and up), podium/stand/table",
       "What equipment can you provide?":
         "thermal printer, installation materials",
       "What equipment do you need to borrow?": "MacBook laptop with webcam",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I just need one table to fit a laptop",
       "Additional notes for the Operations Manager": "",
     },
@@ -3427,15 +3433,15 @@ let projectCollection = {
       Instagram: "stpaloma23/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1dxGAnSQCKR5i5d-7qYJ3ejt4GODHw0Se",
       "Equipment List": "laptop, charger, power strip",
       "What equipment can you provide?": "laptop and charger",
       "What equipment do you need to borrow?":
         "powerstrip (or be near an outlet)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3474,7 +3480,7 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop (mac), usb-C dongle",
       "What equipment do you need to borrow?":
         "Projector,speakers, motion sensor, extension cords, speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "very low light for projections, quiet for speakers",
       "Additional notes for the Operations Manager":
         'My installation appears as a "portal to another dimension", it\'s a piece of painted cardboard that will be hanging, ideally in an open space. Additionally the projector used should be ceiling-mounted',
@@ -3504,14 +3510,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://vimeo.com/802817123",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1AwFnyUAFM7MGQJG3An8raVJwrqWOeEzA",
       "Equipment List": "a Laptop, and a VR headset",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "VR headset",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager":
         "There's a bug when I want to change my main image and I could not delete it in the form. Also I cannot upload multiple image for the supplement images. I put all my images in this link: https://drive.google.com/drive/folders/1_HQbryhd46VkyX8hhLX4weVtuz3sjv1p?usp=share_link",
     },
@@ -3540,14 +3546,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://youtu.be/PUJSAompDiI",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1Vdn1aUcQxcA0lVhav0JLc3xyhCr7oumf",
       "Equipment List": "Oculus Quest 1 or Oculus Quest 2",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?":
         "Oculus Quest 1 or Oculus Quest 2",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light & quiet",
       "Additional notes for the Operations Manager": "",
     },
@@ -3564,8 +3570,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "3 Video display and some physical installation elements",
       "Short project description (one sentence - 500 characters)":
-        "this thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
-      "Long Description of your work (4-6 sentences).": "",
+        "This thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
+      "Long Description of your work (4-6 sentences).": "This thesis experiments with a 3D production pipeline utilizing AI generative tool Midjourney, Stable Diffusion, and ChatGPT, in purpose of exploring AI’s capability of conveying human sentiments via visualization and options for human-AI collaboration in CGI. The project is presented as a video installation, addressing and encouraging the dialogue about the benefits and potential drawbacks of AI-assisted artistry.",
       "Link to your personal portfolio": "https://www.rachzl.com",
       "Project link": "https://www.rachzl.com/grad-thesis",
       "Main Image": "main.jpg",
@@ -3583,7 +3589,7 @@ let projectCollection = {
         "A Monitor or projector that allows big dispay, speaker or headsets,",
       "What equipment can you provide?": "laptop, headsets",
       "What equipment do you need to borrow?": "monitors or projector",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light",
       "Additional notes for the Operations Manager": "",
     },
@@ -3612,13 +3618,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3646,14 +3652,14 @@ let projectCollection = {
       Instagram: "renzrenderz",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1DN67JMjZbv2PGM7qCHaCGPQaZFJQh2iy",
       "Equipment List": "2 VR headsets, monitor/tv",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?":
         "2 VR headsets, Chair, Small table, easel (if we have one). I have physical materials and documentation that I am going to display alongside my headset experience. Need small table to myself to do this :)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "some quietness",
       "Additional notes for the Operations Manager": "",
     },
@@ -3681,14 +3687,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "A table to set up on (just need enough space for a laptop + mouse) with a plug for a computer charger",
       "What equipment can you provide?": "laptop, mouse, mousepad",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3717,14 +3723,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://youtu.be/_A2dJi5RMq4",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1OY4OLdxlWSKnhrfW2DhxjBZ8RxMYa4mT",
       "Equipment List": "2 Splitter Cable for headphones, 4 Sony headphones",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "IDM Destop Mac in space 325",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3752,13 +3758,13 @@ let projectCollection = {
       Instagram: "rog_49er/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1uKWvh3w1qI6XjZR_5TtB2DDHcoy6o-tB",
       "Equipment List": "",
       "What equipment can you provide?": "Laptop, MIDI keyboard",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The work is audio intensive.",
       "Additional notes for the Operations Manager": "",
     },
@@ -3787,14 +3793,14 @@ let projectCollection = {
       Instagram: "rayonmon/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "Projector&projector screen or a TV to display the video (the screen is ideally not less than 40 inches big)",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "Projector&projector screen/TV",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3822,13 +3828,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "laptop",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -3858,15 +3864,15 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1G9L0qrSr3vvbHEMjO40k_tp8jOrAd3nB",
       "Equipment List": "Laptop, Phone",
       "What equipment can you provide?": "Laptop, Phone",
       "What equipment do you need to borrow?": "None",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": "",
     },
     {
       Timestamp: "5/1/2023 0:31:05",
@@ -3894,7 +3900,7 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://sarahtahir.itch.io/noura",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1GmcUDKzbBRhSZP9Hj2jE_OugTkDhonXY",
       "Equipment List":
@@ -3902,7 +3908,7 @@ let projectCollection = {
       "What equipment can you provide?": "laptop, controller",
       "What equipment do you need to borrow?":
         "hdmi, tv/large screen, headphones/speakers",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I would prefer to use speakers and play the sound out loud but if it gets in the way of other displays, I can use headphones. Let me know",
       "Additional notes for the Operations Manager":
         "wasn't able to add more than one photo to supplementary images, here is a link to another photo: https://drive.google.com/file/d/1epDEpuH81nhowKa4ZDu2pPtMeDpQZaeH/view?usp=share_link",
@@ -3922,7 +3928,7 @@ let projectCollection = {
         "The objective of this project is to guide small restaurant owners in creating digital menus that are accessible and responsible for customers using mobile devices.",
       "Long Description of your work (4-6 sentences).":
         "This project aims to empower small restaurant owners by providing a comprehensive guideline for creating accessible and responsive digital menus for mobile devices. Targeting restaurant owners with a basic understanding of design principles, the guideline offers step-by-step instructions to help them efficiently develop digital menus without the need for advanced coding skills. By conducting research, including exploratory analysis, qualitative research, literature review, and user surveys, the project seeks to address end-users' preferences and pain points, as well as explore industry best practices. The guideline incorporates user-centered design principles throughout the entire process, from defining objectives and conducting research, to design, user testing, and continuous monitoring. Ultimately, this project holds significant importance, as it offers small restaurant owners a valuable resource to enhance their customers' dining experience by making digital menus more accessible and user-friendly.",
-      "Link to your personal portfolio": "N/A",
+      "Link to your personal portfolio": "",
       "Project link":
         "https://drive.google.com/drive/folders/1Lc4QEV6TxFT6zqGHSrCYQ9ny08T9OzHI",
       "Main Image": "main.jpg",
@@ -3938,7 +3944,7 @@ let projectCollection = {
       "Equipment List": "laptop",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "laptop",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "NA",
       "Additional notes for the Operations Manager": "",
     },
@@ -3969,14 +3975,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1Y2w7DAEePfSYHMUMtp8WtR811_ciy2_Y",
       "Equipment List": "Table to showcase the board game prototype",
       "What equipment can you provide?": "Laptop and prototype",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4007,7 +4013,7 @@ let projectCollection = {
       Instagram: "Ablackdesignerofficial",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=19J-bK1RTJEmTLgBCLqY-YDU7It1Dced-",
       "Equipment List":
@@ -4015,7 +4021,7 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop, phone, RFID tags",
       "What equipment do you need to borrow?":
         "An extension cable would be nice",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "None besides I need power to power a TV or my laptop",
       "Additional notes for the Operations Manager": "Nope",
     },
@@ -4050,7 +4056,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
@@ -4060,13 +4066,13 @@ let projectCollection = {
       "Full Name": "Sophie Ye",
       "Name of Advisor": "Elizabeth Henaff",
       "Net ID": "my2514",
-      "Project title": "S.kin Earth (Still undetermined )",
+      "Project title": "S.kin Earth",
       "What year are you?": "Final Year Grad (Thesis Project)",
       "What kind of form is the work (website, game, vr, etc)": "Website",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "I am making a digital circuit that connects the skin microbiome with collective human behaviors. Through constructing such a system, I want to present the unseen yet essential interplay between microorganisms and their environment. By configuring the collective human behaviors to be the current social media system, I also wish to further investigate the existing cyborg condition in our media environment, which is essentially the amplification and extension of human mind and body. Such a circuit is a humble attempt to call attention to the intricacy and interconnectedness of the ecosystems we inhabit, organic and simulated.",
       "Link to your personal portfolio":
         "https://www.notion.so/sophieye/ca7c62edae594379ad5820e05385ed5a?pvs=4",
       "Project link": "",
@@ -4078,13 +4084,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4112,13 +4118,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "A desk situated near a wall",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4153,8 +4159,8 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "Thank you!",
     },
     {
@@ -4183,13 +4189,13 @@ let projectCollection = {
       Instagram: "sui.studiozz/",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4220,13 +4226,13 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://youtu.be/hwC75SJaKPQ",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1JIJLhfMp-7Xi69tvgluHCAQWzRtaHhCK",
       "Equipment List": "projector, duo-channel speakers",
       "What equipment can you provide?": "Hdmi Cable, audio cable",
       "What equipment do you need to borrow?": "monitor display",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "need dark environment",
       "Additional notes for the Operations Manager": "",
     },
@@ -4261,8 +4267,8 @@ let projectCollection = {
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?":
         "Can I use one of the projectors? Or 2 of the Macs?",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A.",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        ".",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4290,13 +4296,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "",
       "What equipment can you provide?": "laptops",
       "What equipment do you need to borrow?":
         "if possible, I would like to borrow one of the iMacs on the third floor and a pair of headsets",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "I need somewhere near a outlet",
       "Additional notes for the Operations Manager": "",
     },
@@ -4333,7 +4339,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
@@ -4364,14 +4370,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://youtu.be/7kMp4w4uxTU",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1UvqviQ5qeGWjtddO3sL05WmWhVvZnUHu",
       "Equipment List": "PC and Hololens 2",
       "What equipment can you provide?": "PC, speaker",
       "What equipment do you need to borrow?": "Hololens 2",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4388,7 +4394,7 @@ let projectCollection = {
         "I will have built some applied examples using LLMs, have a website with a more functional tool and my process site containing my research, writing and documentation.",
       "Short project description (one sentence - 500 characters)":
         "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "The world is changing at an unprecedented speed, and I was inspired by emerging Large Language Models, such as OpenAI's ChatGPT, to explore the potential of machine learning and neural networks. As a student, developer, and creative, I built practical applications that demonstrate how these technologies can enhance human cognition. While navigating ethical concerns in this new AI sector, I remain dedicated to highlighting the positive impact of LLMs while simultaneously reporting on biases and failures in the development process, and drafting ethical questions as I encountered morally complex conundrums throughout my research.",
       "Link to your personal portfolio": "https://github.com/tywenrick3",
       "Project link":
         "https://wp.nyu.edu/tandonschoolofengineering-tywenrickseniorproject/",
@@ -4401,13 +4407,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
-      "Equipment List": "N/A",
+      "Equipment List": "",
       "What equipment can you provide?": "Laptop . . .",
-      "What equipment do you need to borrow?": "N/A?",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "What equipment do you need to borrow?": "?",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4448,9 +4454,9 @@ let projectCollection = {
         "Can provide tools to paste my poster, will print using the iDM Print Lab",
       "What equipment do you need to borrow?":
         "Will need to borrow projector/tv/laptop for presentation and stand in front of posters to intro my work",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
-      "Additional notes for the Operations Manager": "N/A for now",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
+      "Additional notes for the Operations Manager": " for now",
     },
     {
       Timestamp: "3/1/2023 14:48:26",
@@ -4465,7 +4471,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "NYU Langone Health (NYULH) is the #1 hospital system in NY providing a high quality of care and human connection to patients in-visit. With plans to renovate the Tisch Hospital, there’s an opportunity to extend that exemplary care downstairs to the lobby, where patients are developing perceptions on the quality of care they will receive throughout the system. This design research project reveals the contributing factors to a positive patient experience, establishing concrete service offerings that transform the lobby into a health-building component of a system of care.",
       "Link to your personal portfolio": "https://www.vasukuram.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4482,8 +4488,8 @@ let projectCollection = {
         "I need a wall to hang a poster and desk to display a 4x2 ft diorama + my laptop",
       "What equipment can you provide?": "My own laptop, poster + pins",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4515,14 +4521,14 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://youtube.com/@vickygaodesigns",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "n/a",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1f_5waqAxtPAw7xRa0Y_WTM9vo3jMfrrc",
       "Equipment List": "A screen to project a tutorial video",
       "What equipment can you provide?": "Laptop, tablet, and chargers",
       "What equipment do you need to borrow?": "A larger screen, if possible",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "n/a",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     /*
@@ -4554,7 +4560,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Na",
       "Additional notes for the Operations Manager": "",
     },
@@ -4573,7 +4579,7 @@ let projectCollection = {
         "I will be presenting a phonebook with a monitor as well as a small table mirror for my senior project.",
       "Short project description (one sentence - 500 characters)":
         "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "In and Out is going to be an image series in the form of a photobook which alternates between images of artist looking outward to his surroundings, and images of the surroundings looking inwards at him.",
       "Link to your personal portfolio": "https://www.vidurbahl.work",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4584,13 +4590,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "Table, Monitor",
       "What equipment can you provide?": "Photobook, Mirror",
       "What equipment do you need to borrow?": "Monitor",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4617,13 +4623,13 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1CRTrsKVCS1m04osOlTeZYnoRRNsGgdYj",
-      "Equipment List": "n/a",
+      "Equipment List": "",
       "What equipment can you provide?": "Meta Quest 2",
-      "What equipment do you need to borrow?": "n/a",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "need a quiet space",
       "Additional notes for the Operations Manager": "",
     },
@@ -4657,7 +4663,7 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://vimeo.com/820373003?share=copy",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=15ycFD_edrf1tidB7ZafbVnlI2yML76kX",
       "Equipment List":
@@ -4666,7 +4672,7 @@ let projectCollection = {
         "my laptop for playing the video! and the zine prototypes to show the audiences.",
       "What equipment do you need to borrow?":
         "a table, a chair, a monitor or a headphone",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Audio intensive, absolute quiet, relative low light.",
       "Additional notes for the Operations Manager": "Thank you very much!",
     },
@@ -4699,11 +4705,12 @@ let projectCollection = {
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "A table for placing a laptop",
       "What equipment can you provide?": "laptop/tablet",
-      "What equipment do you need to borrow?": "N/A",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "What equipment do you need to borrow?": "",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Some space on wall for a printed poster",
-      "Additional notes for the Operations Manager": "N/A",
+      "Additional notes for the Operations Manager": "",
     },
+    /*
     {
       Timestamp: "3/6/2023 21:15:17",
       "Email Address": "yh4311@nyu.edu",
@@ -4733,10 +4740,11 @@ let projectCollection = {
         "Projector*1(if we have LED wall would be better lol)/ laptop*1/Speaker*1/Kinect*1",
       "What equipment can you provide?": "Kinect*1/ laptop*1",
       "What equipment do you need to borrow?": "Speaker*1/Projector*1",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Low light/ quiet",
       "Additional notes for the Operations Manager": "",
     },
+    */
     {
       Timestamp: "3/21/2023 11:41:44",
       "Email Address": "yc5594@nyu.edu",
@@ -4749,7 +4757,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "A zine",
       "Short project description (one sentence - 500 characters)":
         "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "For many years, people have believed that using food reflects one's identity and culture. Through my memories, I hope to deepen my own investigation into who I am and how I relate to history and culture. Through the tales contained in each of Taiwan's dishes, I conducted study on the country's complicated history. Then, I want to comprehend how people and food interact, as well as what food means to me and how it has impacted me.",
       "Link to your personal portfolio": "https://www.aliceyachen.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4765,8 +4773,8 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4781,8 +4789,8 @@ let projectCollection = {
         "Installation Art",
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
-        'Trapped" is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
-      "Long Description of your work (4-6 sentences).": "",
+        'Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
+      "Long Description of your work (4-6 sentences).": 'Trapped is an interactive installation highlighting the significance of identifying an ideal communication boundary between individuals in a state of anxiety.  (Participants are invited to engage with the projection and express/release their inner anxiety through the interaction process. However, the boundaries of communication are ultimately defined and chosen by the participants themselves.)',
       "Link to your personal portfolio": "https://yezixu29.com",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4793,12 +4801,12 @@ let projectCollection = {
       Instagram: "yezi_xyz",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "projector microphone etc",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Low light",
       "Additional notes for the Operations Manager":
         "I am sorry that we cannot provide precise data at the moment. However, what we can confirm is that it is a small art installation that requires the use of a projector. We are unsure if we can provide more information at a later time.",
@@ -4835,7 +4843,7 @@ let projectCollection = {
       "What equipment can you provide?": "laptop, frosted plexi glass",
       "What equipment do you need to borrow?":
         "Projector (Since I need to project from the top, I need something to fix the projector on the ceiling)",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Dark environment, absolute quiet",
       "Additional notes for the Operations Manager": "",
     },
@@ -4851,7 +4859,7 @@ let projectCollection = {
       'If you selected "Other", please write your description below:': "",
       "Short project description (one sentence - 500 characters)":
         "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "Antiquated Future is an immersive VR experience about climate. The experiencer will swim in the virtual ocean world as a fish. And interact with other marine life and garbage in it. While the experiencer interacts with the garbage, the experiencer can learn what kind of garbage will cause harm to the ocean and marine lives. The goal of this project is to let people to pay more attention and value to some of their everyday activities could have tremendous impacts on marine lives.",
       "Link to your personal portfolio": "https://www.liyixun.design/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4862,13 +4870,13 @@ let projectCollection = {
       Instagram: "yixun__li",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List": "laptop, VR headset with controllers, desk",
       "What equipment can you provide?": "laptop, VR headset with controllers",
       "What equipment do you need to borrow?": "desk",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
-        "N/A",
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
+        "",
       "Additional notes for the Operations Manager": "",
     },
     {
@@ -4885,7 +4893,7 @@ let projectCollection = {
         "If possible, I would like to have a space with three walls, and I would like to do a project on that wall.",
       "Short project description (one sentence - 500 characters)":
         "The research aimed to explore unique aesthetics through the use of human motion as indeterministic elements within a complex system, the world. According to the distinguished researchers, they all highlighted the importance of human motion of interacting with others as humans constructed social systems while being together, and I wanted to visually depict the transition created by the system that are formed through human interaction in a virtual world. The work, “Trace”, conveyed a message to the audience about the origins of our world, rooted in human interaction, and the intricate social systems that have emerged as a result.",
-      "Long Description of your work (4-6 sentences).": "",
+      "Long Description of your work (4-6 sentences).": "The research aimed to explore unique aesthetics through the use of human motion as indeterministic elements within a complex system, the world. According to the distinguished researchers, they all highlighted the importance of human motion of interacting with others as humans constructed social systems while being together, and I wanted to visually depict the transition created by the system that are formed through human interaction in a virtual world. The work, “Trace”, conveyed a message to the audience about the origins of our world, rooted in human interaction, and the intricate social systems that have emerged as a result.",
       "Link to your personal portfolio": "https://www.foreveryonghun.com/",
       "Project link": "",
       "Main Image": "main.jpg",
@@ -4896,14 +4904,14 @@ let projectCollection = {
       Instagram: "",
       "Link to any video content (Vimeo / YouTube)": "",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)": "",
       "Equipment List":
         "Projectors that support a high quality images and iMac",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?":
         "Projectors that support a high quality images and iMac",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "Dark Room and absolute quiet",
       "Additional notes for the Operations Manager": "",
     },
@@ -4919,8 +4927,8 @@ let projectCollection = {
       'If you selected "Other", please write your description below:':
         "Website",
       "Short project description (one sentence - 500 characters)":
-        "My project, Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
-      "Long Description of your work (4-6 sentences).": "",
+        "Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
+      "Long Description of your work (4-6 sentences).": "Mobility NYC, aims to raise awareness about the challenges faced by visually impaired travelers in New York City. The website will educate MTA designers about the needs of visually impaired individuals and the challenges they face with outdoor navigation and public transportation. Through interviews and research, I will create a comprehensive case study on the difficulties faced by this community, with the goal of creating more inclusive and accessible public transportation in New York City.",
       "Link to your personal portfolio": "https://yulanren.webflow.io/",
       "Project link": "https://www.yulan-design.com/mobility-nyc",
       "Main Image": "main.jpg",
@@ -4937,7 +4945,7 @@ let projectCollection = {
       "Equipment List": "Laptop",
       "What equipment can you provide?": "Laptop",
       "What equipment do you need to borrow?": "Not applicable",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "No",
       "Additional notes for the Operations Manager": "",
     },
@@ -4968,13 +4976,13 @@ let projectCollection = {
       "Link to any video content (Vimeo / YouTube)":
         "https://drive.google.com/file/d/1Jui5G5mBcJKJ9313QEsqqkNrO9P61nju/view?usp=share_link",
       "What are the dimensions of your work? Height, width, depth in feet / inches (sorry metric fans).":
-        "N/A",
+        "",
       "Profile photo.\nRatio 1:1 (square)":
         "https://drive.google.com/open?id=1Ep6QfIdf0cgsOYiQ9D_GC-Pjm6Me7W8h",
       "Equipment List": "Film screen",
       "What equipment can you provide?": "laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "low light and less noisy space is better to show the film",
       "Additional notes for the Operations Manager": "",
     },
@@ -5013,7 +5021,7 @@ let projectCollection = {
       "What equipment can you provide?": "Laptop, Installation materials",
       "What equipment do you need to borrow?":
         "Mac Monitor, Desk, Ladder, Power source, Tripod, Spot lights",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "It's an installation hanging from the celling, so I need the ladder to install and also some steel lines to hold the installation(I can provide the steel lines). And I also need the power source because my installation needs be powered by Arduino boards.",
       "Additional notes for the Operations Manager":
         "Is there any spots light from the ceiling grid?",
@@ -5048,7 +5056,7 @@ let projectCollection = {
       "Equipment List": 'A desk that I could place a 8.5"x 11" book on',
       "What equipment can you provide?": "Book, laptop",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "The installation should have a spotlight installed directly above the art installation",
       "Additional notes for the Operations Manager": "",
     },
@@ -5079,7 +5087,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
@@ -5111,7 +5119,7 @@ let projectCollection = {
       "Equipment List": "",
       "What equipment can you provide?": "",
       "What equipment do you need to borrow?": "",
-      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put N/A":
+      "Are there any special considerations for installing your work? Low light, the work is audio intensive, you need absolute quiet....If not applicable- please put ":
         "",
       "Additional notes for the Operations Manager": "",
     },
